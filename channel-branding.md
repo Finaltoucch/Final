@@ -15,13 +15,20 @@ upload if needed. Key text sits in the horizontal center strip so it survives th
 TV/desktop/mobile safe-area crop (1546×423 center zone).
 
 - **Variant A (4K):**
-  https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_133411_784ba71c-b63a-47b4-89f6-355678b44065.png
+  https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_172804_4284ea2c-0d7b-422f-a63e-04ab2876d8cd.png
 - **Variant B (4K):**
-  https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_133412_63ef09c2-1495-4c2b-b9a5-3a6ed81d201b.png
+  https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_172805_25877bc6-c97b-4874-9074-9ce7e0c7d57d.png
 
 Design: warm yellow→teal gradient, bold "STAY CURIOUS" headline with sub-line
-"Amazing facts • What-ifs • New video every week", floating flat icons referencing the
-scripts (Earth with pause button, lightbulb, penguin, water droplet, question marks).
+"Amazing facts • What-ifs", floating flat icons referencing the scripts (Earth with
+pause button, lightbulb, penguin, water droplet, question marks). The pointing
+character is the channel's consistent video character (generation
+`08640665-351b-437e-9d9e-efa639b71fb2`: rounded everyman, oval head, dot eyes, brown
+hair, blue t-shirt, beige shorts), passed as a reference image — reuse that same
+job ID as reference for all future channel art.
+
+Superseded first-pass banners (generic character, extra sub-line):
+`784ba71c-b63a-47b4-89f6-355678b44065`, `63ef09c2-1495-4c2b-b9a5-3a6ed81d201b`.
 
 ## Profile Picture (channel avatar)
 
