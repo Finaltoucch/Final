@@ -10,14 +10,18 @@ content). Branding line: **"STAY CURIOUS"** — pulled from the script outro
 ## YouTube Banner (channel header)
 
 Upload spec: YouTube recommends 2560×1440, minimum 2048×1152, max file 6 MB.
-Both variants below are upscaled to **4096×2294 (4K)** — downscale/crop to 2560×1440 on
-upload if needed. Key text sits in the horizontal center strip so it survives the
-TV/desktop/mobile safe-area crop (1546×423 center zone).
+Both variants below are **2752×1536** — above the minimum and safely under the 6 MB
+file limit (the earlier 4K exports exceeded it). YouTube's upload crop tool trims
+them to the banner canvas. Key text sits in the horizontal center strip so it
+survives the TV/desktop/mobile safe-area crop (1546×423 center zone).
 
-- **Variant A (4K):**
-  https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_172804_4284ea2c-0d7b-422f-a63e-04ab2876d8cd.png
-- **Variant B (4K):**
-  https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_172805_25877bc6-c97b-4874-9074-9ce7e0c7d57d.png
+- **Variant A (2752×1536):**
+  https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_173315_45c8e1b3-0f51-4ff0-8676-b003dc886f6c.png
+- **Variant B (2752×1536):**
+  https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_173316_17e04acf-7005-46bd-b9ff-58fb083f57d3.png
+
+Superseded 4K exports (over YouTube's 6 MB banner limit):
+`4284ea2c-0d7b-422f-a63e-04ab2876d8cd`, `25877bc6-c97b-4874-9074-9ce7e0c7d57d`.
 
 Design: warm yellow→teal gradient, bold "STAY CURIOUS" headline with sub-line
 "Amazing facts • What-ifs", floating flat icons referencing the scripts (Earth with
