@@ -36,12 +36,17 @@ Upload spec: YouTube needs 800×800 minimum, displayed as a 98×98 circle.
 Both variants are **1024×1024** — ready to upload as-is.
 
 - **Variant A:**
-  https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_133146_9ac9ee7d-cec2-46d2-8b23-43a8bffcb7b2.png
+  https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_173018_396718b9-fbf1-4646-b49c-b0201dbbe454.png
 - **Variant B:**
-  https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_133146_c95f8ba1-dc6d-415c-8fc5-85419dd8fb00.png
+  https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_173018_43c91ca8-063a-479d-8cca-3b30dfa82aea.png
 
-Design: glowing lightbulb mascot with curious cartoon eyes, question-mark filament, and
-orbit ring, on a sunny radial gradient — readable at tiny sizes and safe for circular crop.
+Design: close-up head-and-shoulders portrait of the channel's consistent video character
+(reference generation `08640665-351b-437e-9d9e-efa639b71fb2`) with an amazed-curious
+facial expression — wide eyes, raised eyebrows, delighted smile — on a sunny radial
+gradient with orbit ring and stars. Readable at tiny sizes, safe for circular crop.
+
+Superseded first-pass avatars (lightbulb mascot, not the character):
+`9ac9ee7d-cec2-46d2-8b23-43a8bffcb7b2`, `c95f8ba1-dc6d-415c-8fc5-85419dd8fb00`.
 
 ---
 
