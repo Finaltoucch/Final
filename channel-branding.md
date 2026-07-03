@@ -10,26 +10,26 @@ content). Branding line: **"STAY CURIOUS"** — pulled from the script outro
 ## YouTube Banner (channel header)
 
 Upload spec: YouTube's banner canvas is 2560×1440, max file 6 MB, but on DESKTOP only
-a thin center strip (~2560×423) is shown — anything outside that strip gets cut off.
-These banners are redesigned so the headline, sub-line, and character all sit inside
-one slim horizontal band in the exact vertical center; everything above/below is
-decorative and safe to crop.
+a thin center strip (~2560×423) is shown. These files keep the ORIGINAL banner design
+untouched and extend its background outward (AI outpainting), so the full original
+artwork sits inside the desktop-visible strip.
 
 **Upload-ready files (exact 2560×1440 JPEG, well under 6 MB) — use these:**
 
 - **Variant A:**
-  https://wsrv.nl/?url=d8j0ntlcm91z4.cloudfront.net%2Fuser_38yEef9WJwcxPX1OrTnJynSTZhY%2Fhf_20260703_174912_325182e1-653f-4f1f-81e7-86d633f18b2d.png&w=2560&h=1440&fit=cover&output=jpg&q=90
+  https://wsrv.nl/?url=d8j0ntlcm91z4.cloudfront.net%2Fuser_38yEef9WJwcxPX1OrTnJynSTZhY%2Fhf_20260703_175441_ecd3e41b-b2dc-46c3-894f-02a624c0b4cd.png&w=2560&h=1440&fit=cover&output=jpg&q=90
 - **Variant B:**
-  https://wsrv.nl/?url=d8j0ntlcm91z4.cloudfront.net%2Fuser_38yEef9WJwcxPX1OrTnJynSTZhY%2Fhf_20260703_174553_a0be00f2-8a6c-43a6-b910-f6fe8c47acf5.png&w=2560&h=1440&fit=cover&output=jpg&q=90
+  https://wsrv.nl/?url=d8j0ntlcm91z4.cloudfront.net%2Fuser_38yEef9WJwcxPX1OrTnJynSTZhY%2Fhf_20260703_175443_a1690e6b-65ed-4403-8078-3202538e341a.png&w=2560&h=1440&fit=cover&output=jpg&q=90
 
-Full-resolution PNG masters (3856×2160):
+Full-resolution PNG masters (2752×1536):
 
-- Variant A: https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_174912_325182e1-653f-4f1f-81e7-86d633f18b2d.png
-- Variant B: https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_174553_a0be00f2-8a6c-43a6-b910-f6fe8c47acf5.png
+- Variant A: https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_175441_ecd3e41b-b2dc-46c3-894f-02a624c0b4cd.png
+- Variant B: https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260703_175443_a1690e6b-65ed-4403-8078-3202538e341a.png
 
-Superseded exports: 4K PNGs (`4284ea2c`, `25877bc6` — over the 6 MB limit) and the
-first center-strip design (`45c8e1b3`, `17e04acf` — text block too tall for the
-desktop crop).
+Superseded exports: 4K PNGs (`4284ea2c`, `25877bc6` — over the 6 MB limit), first
+center-strip export (`45c8e1b3`, `17e04acf` — content too tall for the desktop crop),
+and the slim-band redesign (`325182e1`, `a0be00f2` — replaced at the user's request by
+the fitted original design).
 
 Design: warm yellow→teal gradient, bold "STAY CURIOUS" headline with sub-line
 "Amazing facts • What-ifs", floating flat icons referencing the scripts (Earth with
