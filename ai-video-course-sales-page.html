@@ -175,6 +175,25 @@
   .proof { background: var(--bg-sunk); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
   .tgrid { columns: 2; column-gap: 18px; }
   @media (max-width: 760px) { .tgrid { columns: 1; } }
+
+  /* real screenshot gallery */
+  .gallery { columns: 3; column-gap: 16px; }
+  @media (max-width: 900px) { .gallery { columns: 2; } }
+  @media (max-width: 560px) { .gallery { columns: 1; } }
+  .shot { break-inside: avoid; margin: 0 0 16px; border: 1px solid var(--line); border-radius: 14px;
+    overflow: hidden; background: var(--bg-elev); box-shadow: var(--shadow); }
+  .shot img { display: block; width: 100%; height: auto; }
+  .shot .ph { display: none; }
+  .shot.missing img { display: none; }
+  .shot.missing .ph {
+    display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;
+    min-height: 210px; padding: 26px 22px; text-align: center;
+    background: repeating-linear-gradient(135deg, var(--bg-elev), var(--bg-elev) 12px, var(--bg-sunk) 12px, var(--bg-sunk) 24px);
+  }
+  .shot .ph .ic { width: 42px; height: 42px; border-radius: 10px; background: color-mix(in srgb, var(--red) 14%, transparent);
+    color: var(--red); display: grid; place-items: center; font-size: 1.2rem; }
+  .shot .ph b { font-size: .95rem; }
+  .shot .ph small { font-size: .76rem; color: var(--ink-faint); }
   .tcard { break-inside: avoid; background: var(--bg-elev); border: 1px solid var(--line); border-radius: 16px; padding: 22px 22px 18px; margin-bottom: 18px; box-shadow: var(--shadow); }
   .tcard.hero-t { border-color: color-mix(in srgb, var(--red) 40%, var(--line)); }
   .tcard .badge { display: inline-flex; align-items: center; gap: 7px; font-size: .72rem; font-weight: 800; text-transform: uppercase; letter-spacing: .1em; color: var(--red); background: color-mix(in srgb, var(--red) 12%, transparent); padding: 5px 10px; border-radius: 999px; margin-bottom: 14px; }
@@ -316,42 +335,35 @@
       <h2>People are already getting paid with this course.</h2>
       <p>These are real messages from students landing orders and offers on Fiverr and Upwork.</p>
     </div>
-    <div class="tgrid reveal">
-      <div class="tcard hero-t">
-        <span class="badge">★ 2 orders in 24 hours</span>
-        <q>2 orders in less than 24 hours on Fiverr! 🚀 2 clients saw my AI ad video, loved what they saw, reached out with questions, and ended up placing orders. Big thanks to Finaltouch for creating the AI Video Course. The learning never stops.</q>
-        <div class="who"><span class="av">O</span><div><b>(Oma) devuae</b><span>@delveroin · via X</span></div></div>
-      </div>
-      <div class="tcard">
-        <div class="who top"><span class="av">OD</span><div><b>Ogbonnaya D.</b><span>Jul 21, 2026</span></div></div>
-        <div class="rowtop"><span class="stars-sm">★★★★★</span><span class="verified">✓ Verified purchase</span></div>
-        <q>Great course! The lessons are clear, practical, and easy to understand. I highly recommend it to anyone looking to get started or improve their knowledge. Thanks, Okoye!</q>
-      </div>
-      <div class="tcard">
-        <div class="who top"><span class="av">GO</span><div><b>Glory O.</b><span>Jun 2, 2026</span></div></div>
-        <div class="rowtop"><span class="stars-sm">★★★★★</span><span class="verified">✓ Verified purchase</span></div>
-        <q>A really solid course. The instructor broke down complex concepts into actionable, easy-to-understand steps. The practical exercises helped me apply what I learned immediately. I highly recommend this to anyone looking to level up their skills and start making money in dollars.</q>
-      </div>
-      <div class="tcard">
-        <span class="badge">Upwork offer</span>
-        <q>I landed my first offer sir 😄🙏 — building a store website with React &amp; Appwrite.</q>
-        <div class="who"><span class="av">K</span><div><b>Upwork student</b><span>First offer landed</span></div></div>
-      </div>
-      <div class="tcard">
-        <span class="badge">Repeat clients</span>
-        <q>The change in profile picture and hourly rate did the magic. I sent proposals to jobs with fewer than 5 proposals within minutes of upload — I was shocked how fast it happened. The best part: every one of these clients is willing to keep working with me.</q>
-        <div class="who"><span class="av">A</span><div><b>Upwork student</b><span>Profile + proposal wins</span></div></div>
-      </div>
-      <div class="tcard">
-        <span class="badge">First job</span>
-        <q>Congratulations on landing your first job! Thank you so much for the tutorial recommendations and lending a listening ear. I really, really appreciate it.</q>
-        <div class="who"><span class="av">F</span><div><b>Upwork student</b><span>First contract secured</span></div></div>
-      </div>
-      <div class="tcard">
-        <span class="badge">Another job secured</span>
-        <q>I secured another job last night — finished and delivered past midnight. I found the client's name before applying, used it in the proposal, and got sent an offer. It was to mock up a book cover for him. God bless you!</q>
-        <div class="who"><span class="av">M</span><div><b>Upwork student</b><span>Book-cover gig</span></div></div>
-      </div>
+    <div class="gallery reveal">
+      <figure class="shot">
+        <img src="images/reviews/review-1-verified-cards.png" alt="Five-star verified-purchase reviews from Ogbonnaya D. and Okonkwo T." loading="lazy">
+        <figcaption class="ph"><span class="ic">★</span><b>Verified reviews</b><small>Ogbonnaya D. &amp; Okonkwo T.</small></figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="images/reviews/review-2-glory.png" alt="Five-star verified-purchase review from Glory O." loading="lazy">
+        <figcaption class="ph"><span class="ic">★</span><b>Verified review</b><small>Glory O.</small></figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="images/reviews/review-3-fiverr-2-orders.png" alt="Tweet from @delveroin: 2 orders in less than 24 hours on Fiverr, with two Fiverr order emails." loading="lazy">
+        <figcaption class="ph"><span class="ic">🚀</span><b>2 orders in 24 hours on Fiverr</b><small>@delveroin</small></figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="images/reviews/review-4-upwork-book-cover.png" alt="Upwork job offer notification and student message about securing a book-cover job." loading="lazy">
+        <figcaption class="ph"><span class="ic">💬</span><b>Upwork job secured</b><small>Book-cover gig</small></figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="images/reviews/review-5-upwork-first-job.png" alt="Upwork 'Congratulations on landing your first job' screen and thank-you message." loading="lazy">
+        <figcaption class="ph"><span class="ic">🎉</span><b>First job landed</b><small>Upwork</small></figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="images/reviews/review-6-profile-magic.png" alt="Student message: the change in profile picture and hourly rate did the magic, clients willing to keep working." loading="lazy">
+        <figcaption class="ph"><span class="ic">📈</span><b>Profile change worked</b><small>Upwork proposals</small></figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="images/reviews/review-7-upwork-first-offer.png" alt="Upwork offer notification and student message: I landed my first offer sir." loading="lazy">
+        <figcaption class="ph"><span class="ic">✅</span><b>First offer landed</b><small>Upwork · React store build</small></figcaption>
+      </figure>
     </div>
   </div>
 </section>
@@ -418,6 +430,14 @@
 </footer>
 
 <script>
+  (function () {
+    // Show a labeled placeholder for any review screenshot that isn't present yet.
+    document.querySelectorAll('.shot img').forEach(function (img) {
+      function mark() { img.closest('.shot').classList.add('missing'); }
+      img.addEventListener('error', mark);
+      if (img.complete && img.naturalWidth === 0) mark();
+    });
+  })();
   (function () {
     var els = document.querySelectorAll('.reveal');
     if (!('IntersectionObserver' in window) || matchMedia('(prefers-reduced-motion: reduce)').matches) {
