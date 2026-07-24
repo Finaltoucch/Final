@@ -167,6 +167,27 @@
   .founder-card { margin: 0; background: var(--bg-elev); border: 1px solid var(--line); border-radius: 16px; padding: 10px; box-shadow: var(--shadow-lg); max-width: 400px; width: 100%; justify-self: center; }
   .founder-card img { display: block; width: 100%; height: auto; border-radius: 10px; }
 
+  /* intro video (click-to-play YouTube) */
+  .introvid { padding: 56px 0; }
+  .video-frame { max-width: 900px; margin: 0 auto; }
+  .video-embed { position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 18px;
+    overflow: hidden; background: #0d0b10; border: 1px solid var(--line); box-shadow: var(--shadow-lg); }
+  .video-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+  .video-play { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; cursor: pointer;
+    display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 16px;
+    background:
+      linear-gradient(color-mix(in srgb, #0d0b10 32%, transparent), color-mix(in srgb, #0d0b10 58%, transparent)),
+      url('https://i.ytimg.com/vi/J34tfzlBsy8/maxresdefault.jpg') center/cover no-repeat,
+      radial-gradient(60% 60% at 50% 42%, color-mix(in srgb, var(--red) 32%, #0d0b10), #0d0b10); }
+  .vp-btn { width: 84px; height: 84px; border-radius: 50%; background: var(--red); display: grid; place-items: center;
+    box-shadow: 0 14px 34px -8px color-mix(in srgb, var(--red) 70%, transparent); transition: transform .15s ease; }
+  .vp-btn::before { content: ""; margin-left: 7px; border-left: 26px solid #fff;
+    border-top: 16px solid transparent; border-bottom: 16px solid transparent; }
+  .video-play:hover .vp-btn { transform: scale(1.07); }
+  .video-play:focus-visible { outline: 3px solid var(--gold); outline-offset: -4px; }
+  .vp-text { color: #fff; font-weight: 750; font-size: 1.08rem; text-shadow: 0 2px 10px rgba(0,0,0,.6); }
+  @media (prefers-reduced-motion: reduce) { .video-play:hover .vp-btn { transform: none; } }
+
   /* ---- generic section ---- */
   section { padding: 58px 0; }
   .section-head { max-width: 52ch; margin-bottom: 34px; }
@@ -322,6 +343,27 @@
   </div>
 </section>
 
+<section class="introvid">
+  <div class="wrap">
+    <div class="section-head reveal" style="text-align:center;max-width:none;margin:0 auto 26px;">
+      <p class="eyebrow" style="text-align:center;">Watch this first</p>
+      <h2>See exactly what you get inside</h2>
+    </div>
+    <div class="video-frame reveal">
+      <div class="video-embed" data-yt="J34tfzlBsy8">
+        <button class="video-play" type="button" aria-label="Play the intro video">
+          <span class="vp-btn"></span>
+          <span class="vp-text">Watch the free training</span>
+        </button>
+        <noscript><a href="https://youtu.be/J34tfzlBsy8" style="color:#fff;">Watch the video on YouTube</a></noscript>
+      </div>
+    </div>
+    <div style="text-align:center;margin-top:26px;">
+      <a class="btn" href="https://nestuge.com/9gcbgz_nv">Enroll now for &#8358;30,000</a>
+    </div>
+  </div>
+</section>
+
 <section class="hookproof">
   <div class="wrap">
     <p class="hookproof-cap">Students are already getting paid. <span class="accent">Real screenshots 👇</span></p>
@@ -460,6 +502,22 @@
 </footer>
 
 <script>
+  (function () {
+    document.querySelectorAll('.video-embed').forEach(function (v) {
+      var btn = v.querySelector('.video-play');
+      if (!btn) return;
+      btn.addEventListener('click', function () {
+        var id = v.getAttribute('data-yt');
+        var f = document.createElement('iframe');
+        f.src = 'https://www.youtube.com/embed/' + id + '?autoplay=1&rel=0&modestbranding=1&playsinline=1';
+        f.title = 'Intro video';
+        f.setAttribute('allow', 'autoplay; encrypted-media; picture-in-picture; web-share');
+        f.setAttribute('allowfullscreen', '');
+        v.innerHTML = '';
+        v.appendChild(f);
+      });
+    });
+  })();
   (function () {
     // Show a labeled placeholder for any review screenshot that isn't present yet.
     document.querySelectorAll('.shot img').forEach(function (img) {
