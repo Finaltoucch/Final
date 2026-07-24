@@ -84,7 +84,67 @@ if it's not for you, get a refund" guarantee crushes hesitation at this price po
 
 ---
 
-## 3. Meta Ad Creatives (Top of Funnel) — copy/paste ready
+## 3. Social Proof Library — Real Student Wins (MUST BE DISPLAYED)
+
+These are real, screenshot-backed results from students. Proof like this is your #1
+conversion driver — **display the actual screenshots** (Fiverr order emails, Upwork offer
+notifications, the chat messages) so buyers see they're real, not just quotes. Add each
+image file to your sales page and to your ad/retargeting library.
+
+> **Placement priority:** put the strongest proof (T1) near the TOP of the sales page (right
+> under the price), and repeat a proof block just above every "Enroll" button. You currently
+> tell readers to "scroll down and see the reviews" — show them early instead of asking them to hunt.
+
+### ⭐ T1 — "2 orders in less than 24 hours on Fiverr" (STRONGEST — feature this)
+**Source:** X/Twitter — (Oma)devuae · @delveroin
+> "2 orders in less than 24 hours on Fiverr! 🚀
+> 2 clients saw my AI ad video, loved what they saw, reached out with questions, and ended up
+> placing orders. Big thanks to **@Finaltoucch** for creating the AI Video Course and
+> @The_Movas for teaching me how Fiverr works. The learning never stops. Get a mentor!!"
+- **Images:** the tweet + two Fiverr "You just received an order" emails (from *therenttracker* and *gordonccie*).
+- **Use as:** hero testimonial on sales page; social-proof ad; retargeting proof ad.
+
+### ⭐ T2 — "I secured another job last night" (Upwork book-cover gig)
+**Source:** student DM + Upwork job-offer notification (from Laurenz K.)
+> "I secured another job last night — finished and delivered past midnight… I found his name
+> before applying, used it in the proposal, and checked again to see I'd been sent an offer.
+> It was to mock up a book cover for him." — *"Thank you so much! God bless you 🙏"*
+- **Images:** Upwork "You got a job offer" notification + the chat.
+- **Use as:** proof that the client-acquisition method works; place mid-sales-page near the "find clients" bullets.
+
+### ⭐ T3 — "Congratulations on landing your first job!" (Upwork)
+**Source:** Upwork "first job" congratulations screen + student message
+> "Thank you much much for the tutorial recommendations and lending a listening ear. I really
+> really appreciate."
+- **Images:** Upwork "Congratulations on landing your first job!" screen.
+- **Use as:** beginner-focused proof — perfect for the "even if you're starting from scratch" section.
+
+### ⭐ T4 — "The change in profile picture and hourly rate did the magic"
+**Source:** student DM
+> "The change in profile picture and hourly rate did the magic. I also took your advice about
+> sending proposals to jobs with fewer than 5 proposals within minutes of upload — I usually
+> don't get views on my proposals, but I was shocked how fast this happened. The best part is,
+> every one of these clients is willing to keep working with me even after these projects.
+> I appreciate you bro."
+- **Use as:** proof the profile-optimization + proposal strategy works; place near the "Optimize your Upwork profile" bullet.
+
+### ⭐ T5 — "I landed my first offer sir" (Upwork — react.js store build)
+**Source:** Upwork offer notification + chat
+> "I landed my first offer sir 😄🙏" — *reply:* "Osheyy 😁 God is good bro. Big
+> Congratulations. More to come."
+- **Images:** Upwork "you received an offer" email.
+- **Use as:** quick-win proof; good as a carousel slide and in the "first job" cluster.
+
+**How to use across the funnel:**
+- **Sales page:** T1 up top → T2/T3 near the "find clients" section → T4/T5 near the final CTA.
+- **Ads:** turn T1 into a static "proof ad" (screenshot + short caption) for cold and retargeting.
+- **Retargeting:** lead with T1's Fiverr result — it names a concrete outcome (2 orders / 24 hrs).
+- **Video ads:** flash 2–3 of these screenshots during the "students are getting results" beat.
+- **Keep them truthful:** show the real screenshots; if you cite earnings, add "results not typical."
+
+---
+
+## 4. Meta Ad Creatives (Top of Funnel) — copy/paste ready
 
 Run **vertical video (9:16) first** — screen recordings of Higgsfield turning a prompt into
 a finished cinematic video are the single strongest scroll-stopper for this offer.
@@ -150,14 +210,31 @@ If you're a designer, freelancer, editor, or just want an online income skill �
 
 ### 🅳 Creative D — Static / carousel (cheap reach + retargeting)
 Carousel slides: (1) "Businesses are paying for AI videos." (2) The skill (Higgsfield demo).
-(3) The clients (Upwork/Contra/Apollo logos). (4) "5.0 ⭐ from students." (5) "Enroll — ₦30,000."
+(3) The clients (Upwork/Contra/Apollo logos). (4) T1 Fiverr result screenshot. (5) "Enroll — ₦30,000."
+
+### 🅴 Creative E — "Proof ad" (use the real T1 screenshot — strong for cold + retargeting)
+**Visual:** the actual T1 tweet + Fiverr "you received an order" screenshots (Section 3).
+**Primary text:**
+```
+"2 orders in less than 24 hours on Fiverr."
+
+That's a real message from one of my students. Clients saw the AI ad video he made, loved it, and placed orders.
+
+This is what happens when you don't just learn AI — you learn how to sell it.
+
+Inside my course you'll learn to create professional AI videos with Higgsfield AND land paying clients on Upwork, Contra & Fiverr.
+
+Your turn 👇
+```
+**Headline:** Real Students. Real Orders.
+**CTA:** Learn More
 
 > **Testing rule:** the **hook (first 3 seconds)** decides 80% of performance. Launch 3–4
 > hooks against your best body copy, kill losers weekly, keep winners.
 
 ---
 
-## 4. Hook Video Script (30s ad)
+## 5. Hook Video Script (30s ad)
 
 > **[0:00–0:03] HOOK** — screen recording of a Higgsfield prompt becoming a cinematic clip
 > "Businesses are paying people to make AI videos right now."
@@ -170,9 +247,10 @@ Carousel slides: (1) "Businesses are paying for AI videos." (2) The skill (Higgs
 > "In this course I show you how to create professional AI videos with Higgsfield Cinema and
 > Marketing Studio — then how to actually find clients on Upwork, Contra, Apollo and LinkedIn."
 
-> **[0:18–0:25] STAKES + PROOF**
+> **[0:18–0:25] STAKES + PROOF** *(flash real screenshots here — T1 Fiverr orders, T3/T5 Upwork offers)*
 > "Thousands of people will learn AI. The ones who know how to *sell* their skills are the
-> ones who get paid. Students are already getting results — it's rated 5 stars."
+> ones who get paid. My students are already landing gigs — one got 2 orders on Fiverr in
+> under 24 hours."
 
 > **[0:25–0:30] CTA**
 > "Tap below, get instant access for ₦30,000, and start building a skill businesses are
@@ -183,7 +261,7 @@ Higgsfield screen and a real freelance platform. Ends on the course thumbnail + 
 
 ---
 
-## 5. Sales Page — improvements for nestuge.com/9gcbgz_nv
+## 6. Sales Page — improvements for nestuge.com/9gcbgz_nv
 
 Your description copy is already strong (great problem framing + "which one will you be"
 close). Tighten it with these:
@@ -192,9 +270,10 @@ close). Tighten it with these:
   > *"Learn to Create Professional AI Videos — and Get Paid For It on Freelance Platforms"*
   Subhead: *"Even if you're starting from scratch. Master Higgsfield, then land clients on
   Upwork, Contra & LinkedIn."*
-- **Move proof higher.** You tell people to "scroll down and see the reviews" — put 1–2
-  testimonial screenshots *near the top* too, right under the price. Social proof early = more reads.
-- **Bullet the outcomes** (Section 2 list) in a scannable checklist block — you already have this, keep it prominent.
+- **Move proof higher.** You tell people to "scroll down and see the reviews" — put the T1
+  Fiverr result and 1–2 Upwork screenshots (Section 3) *right under the price*. Social proof
+  early = more reads and more buyers.
+- **Bullet the outcomes** (Section 2 "What's inside" list) in a scannable checklist block — you already have this, keep it prominent.
 - **Add a short FAQ:** "Do I need experience? Do I need to be on camera? Do the AI tools
   cost extra? How do I actually get clients? What if I've never freelanced?"
 - **Add/keep a guarantee line** near the buy button to remove risk.
@@ -205,7 +284,7 @@ close). Tighten it with these:
 
 ---
 
-## 6. Optional Lead Magnet (add when you scale)
+## 7. Optional Lead Magnet (add when you scale)
 
 If you later add a lead funnel to lower cost-per-sale:
 **"The 3 AI Video Tools Businesses Pay Freelancers to Use"** — free PDF/video that delivers a
@@ -214,7 +293,7 @@ Opt-in page collects name + email → deliver → soft-pitch the course on the t
 
 ---
 
-## 7. Email Nurture Sequence (5 emails — for the lead funnel)
+## 8. Email Nurture Sequence (5 emails — for the lead funnel)
 
 1. **Day 0 — Deliver:** *"Here's your AI video toolkit 🎬"* — deliver value, tell them the ONE
    tool to try first, tease tomorrow's lesson.
@@ -229,28 +308,31 @@ Opt-in page collects name + email → deliver → soft-pitch the course on the t
 
 ---
 
-## 8. Retargeting Ads
+## 9. Retargeting Ads
 
 | Audience | Angle | CTA |
 |----------|-------|-----|
-| Watched 25%+ of ad video, didn't visit page | Testimonial + "here's what's inside" | Learn more |
+| Watched 25%+ of ad video, didn't visit page | T1 Fiverr proof + "here's what's inside" | Learn more |
 | Sales-page visitors, didn't buy | Risk-reversal + "one gig pays for the course" | Enroll now |
-| Checkout abandoners | Urgency + reassurance + 5★ proof | Complete enrollment |
+| Checkout abandoners | Urgency + reassurance + student-win screenshots | Complete enrollment |
 
-**Retargeting primary text example:**
+**Retargeting primary text example (leads with real proof — T1):**
 ```
 Still thinking about it?
 
+One of my students just got 2 orders in less than 24 hours on Fiverr — after clients saw the AI ad video he made.
+
 Here's the math: one AI video gig can pay you more than this entire course costs.
 
-Students are already getting results — it's rated 5 stars.
+Students are already landing their first Upwork and Fiverr jobs. Rated 5 stars.
 
 Learn the skill, learn to sell it, and start getting paid. Enroll today 👇
 ```
+> Pair this copy with the actual T1 screenshot (the tweet + Fiverr order emails) as the ad image.
 
 ---
 
-## 9. Budget, Targeting & Metrics
+## 10. Budget, Targeting & Metrics
 
 **Targeting (cold):** Interests around Upwork, Fiverr, Freelancing, Graphic design, Video
 editing, Canva, CapCut, Side hustle, Make money online, AI tools. Add a Lookalike from your
@@ -263,7 +345,7 @@ results.
 
 **Campaign setup (Meta):**
 - Campaign 1 — TOF (objective: **Sales**, optimize for Purchase). 1–2 ad sets, 3–4 creatives.
-- Campaign 2 — Retargeting (objective: **Sales**). Audiences from Section 8.
+- Campaign 2 — Retargeting (objective: **Sales**). Audiences from Section 9.
 
 **Benchmarks (directional):**
 | Metric | Healthy zone | If off… |
@@ -279,7 +361,7 @@ budget ~20% on winners or duplicate into new audiences.
 
 ---
 
-## 10. Compliance Notes (avoid Meta ad rejections)
+## 11. Compliance Notes (avoid Meta ad rejections)
 - **No income guarantees.** Say "you can learn to," "students are getting results," never
   "you *will* make ₦X." Your current page copy is well-balanced — keep it that way in ads.
 - Avoid personal-attribute call-outs ("Are YOU broke and jobless?").
@@ -289,9 +371,10 @@ budget ~20% on winners or duplicate into new audiences.
 
 ---
 
-## 11. Launch Checklist
+## 12. Launch Checklist
 - [ ] Meta Pixel / Conversions API installed on the nestuge page (fire Purchase event)
-- [ ] Above-the-fold headline + early testimonials added to sales page
+- [ ] Testimonial screenshots (Section 3: T1–T5) uploaded to the sales page + ad library
+- [ ] Above-the-fold headline + early testimonials (T1 up top) added to sales page
 - [ ] Guarantee line added near the buy button
 - [ ] 3–4 vertical video creatives produced (Higgsfield screen recordings)
 - [ ] Custom audiences (video viewers, page visitors, abandoners) built
