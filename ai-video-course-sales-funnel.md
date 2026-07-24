@@ -1,335 +1,302 @@
-# Meta Ad Sales Funnel — AI Video Creation Course
+# Meta Ad Sales Funnel — *Learn AI Video Generation & How to Sell on Freelancing Platforms*
 
-**Goal:** Turn cold Facebook/Instagram traffic into course buyers profitably.
-**Model:** Value-first lead funnel (free lead magnet → nurture → sell) layered over a
-direct-response sales page, so you can run *both* a low-cost lead campaign and a
-direct-purchase campaign off the same assets.
+**Course:** Learn AI Video Generation and How to Sell on Freelancing Platforms
+**Creator:** Okoye Chukwuemeka
+**Price:** ₦30,000 · ~3h 47m of training · ⭐ 5.0 (3 reviews)
+**Page:** https://nestuge.com/9gcbgz_nv
 
-> **Customize before launch** (replace every `[[ ]]`):
-> `[[COURSE NAME]]`, `[[YOUR NAME]]`, `[[PRICE]]`, `[[REGULAR PRICE]]`,
-> `[[GUARANTEE DAYS]]` (default 30), `[[RESULT TIMEFRAME]]` (e.g. "7 days"),
-> `[[LEAD MAGNET NAME]]`, `[[MAIN OUTCOME]]` (e.g. "faceless AI videos that get views and sales").
+**The core angle:** This is NOT a "make faceless YouTube videos" course. It's a
+**learn-a-skill-and-get-paid-for-it** course. The promise is income through *freelance
+clients*, using AI video creation (Higgsfield Cinema Studio + Marketing Studio) as the
+skill and Upwork / Contra / Apollo / LinkedIn as the client engine.
+
+> **Big idea to sell (straight from the page):**
+> *"Thousands of people will learn AI. The ones who know how to sell their skills are the
+> ones who get paid."* — this is the emotional hook the whole funnel is built around.
 
 ---
 
-## 1. Funnel Architecture (the big picture)
+## 1. Funnel Architecture
 
 ```
-COLD META AD  ─►  LANDING PAGE        ─►  EMAIL NURTURE  ─►  SALES PAGE  ─►  CHECKOUT
-(hook video)      (free lead magnet)      (5 emails)          (offer)        (+order bump
-                                                                              +upsell)
-       │                                                                          │
-       └────────────►  RETARGETING ADS  ◄──────────────────────────────────────┘
-                       (video viewers, page visitors, cart abandoners)
+COLD META AD ─►  SALES PAGE (nestuge)  ─►  CHECKOUT (₦30,000)
+(hook video)         │                          ▲
+                     │                          │
+   OPTIONAL: ────────┴─► FREE GUIDE ─► EMAIL ────┘
+   lead magnet            (opt-in)    (5 emails)
+                     │
+                     └─► RETARGETING (video viewers, page visitors, abandoners)
 ```
 
-**Three temperatures of traffic — each gets its own message:**
+**Because your price is low-ticket (₦30,000 ≈ ~$20), lead with DIRECT-TO-SALES-PAGE
+traffic first.** Low prices convert fine on the first click, and you skip the cost/complexity
+of building an opt-in funnel. Add the free-guide lead funnel *later* to scale and lower
+cost-per-sale. Retargeting runs from day one either way.
 
-| Stage | Audience | Ad job | Primary CTA |
-|-------|----------|--------|-------------|
-| **TOF** – Top of funnel | Cold (interest + lookalike) | Stop the scroll, agitate a problem, offer free value | Get the free `[[LEAD MAGNET NAME]]` |
-| **MOF** – Middle | Video viewers (25%+), page visitors, email list | Build authority, show proof, handle "is this for me?" | Watch the training / see the offer |
-| **BOF** – Bottom | Sales-page visitors, add-to-cart, checkout abandoners | Remove risk, create urgency, close | Enroll now |
-
-**Why lead-first for a course:** cold audiences rarely buy a course on the first click.
-Capturing an email for pennies lets you sell repeatedly by email (near-zero cost) and
-retarget cheaply. If your price is under ~$50, you can also test **direct-to-sales-page**
-cold traffic; keep both running and let ROAS decide.
+| Stage | Audience | Ad job | CTA |
+|-------|----------|--------|-----|
+| **TOF** cold | Interest + lookalike (freelancers, designers, side-income seekers) | Stop scroll, sell the "skill → income" idea | Enroll / Learn more |
+| **MOF** warm | Video viewers 25%+, page visitors | Proof + "is this for me?" + tool demo | See what's inside |
+| **BOF** hot | Sales-page visitors, checkout abandoners | Remove risk, urgency, testimonials | Enroll now |
 
 ---
 
 ## 2. Positioning & Offer
 
-### Who it's for (avatar)
-- Creators / side-hustlers who want to make money on YouTube, TikTok, or Reels but
-  **don't want to show their face or learn hard editing software.**
-- Small business owners / marketers who need video content fast and cheap.
-- Beginners who've *heard* AI can make videos but are overwhelmed by the 50 tools.
+### Avatar (who to target)
+Designers, freelancers, video editors, content creators, students, and anyone wanting a
+**remote/online income skill**. Primary emotion: they see AI everywhere and fear being
+left behind — but they don't know how to *monetize* it.
 
-### The core problem you sell against
-"Everyone says AI video is the gold rush — but you're drowning in tools, tutorials, and
-tech, and you still haven't posted a single video that made money."
+### The problem you sell against
+> "Most people only learn how to *use* AI tools. They never learn how to turn those skills
+> into income." — the gap between knowing AI and getting paid for it.
 
 ### Value proposition (one sentence)
-> **`[[COURSE NAME]]` shows you the exact step-by-step system to create `[[MAIN OUTCOME]]`
-> in `[[RESULT TIMEFRAME]]` — no camera, no editing skills, and no expensive software.**
+> **Learn to create professional AI videos with Higgsfield — and land paying freelance
+> clients on Upwork, Contra & LinkedIn — even if you're starting from scratch.**
 
-### Offer stack (make the price feel like a steal)
-| Component | Positioned value |
-|-----------|------------------|
-| Core course: the full AI video creation system | $497 |
-| Bonus 1: My exact tool stack + prompt library (copy/paste) | $197 |
-| Bonus 2: 30 viral video templates / hooks | $147 |
-| Bonus 3: Monetization playbook (how to actually get paid) | $197 |
-| Bonus 4: Private community / Q&A | $97 |
-| **Total value** | **$1,135** |
-| **Today** | **`[[PRICE]]`** |
+### What's inside (from your page — use these as bullets everywhere)
+- ✅ Create high-quality AI video ads & commercial content
+- ✅ Use **Higgsfield Cinema Studio** to make cinematic AI videos
+- ✅ Design high-converting ad creatives with **Higgsfield Marketing Studio**
+- ✅ Find high-value clients using **Apollo + LinkedIn**
+- ✅ Sell your AI video services on **Contra**
+- ✅ Optimize your **Upwork** profile to attract job invites
+- ✅ Package & price your services so clients see your value
 
-**Risk reversal:** `[[GUARANTEE DAYS]]`-day "make your first video or your money back"
-guarantee. Take the whole thing, and if you don't create a video you're proud of, email
-for a full refund.
+### Offer framing (make ₦30,000 feel like a no-brainer)
+Frame the price against the *outcome*: one freelance AI-video gig can pay back the course
+many times over. Suggested on-page framing:
+> "One client project can earn you more than this entire course costs. Today: **₦30,000**,
+> one-time, lifetime access."
 
----
+Optional value stack (only if you actually deliver each — keep it honest):
+| Component | Value |
+|-----------|-------|
+| Full course (3h 47m, AI video + client acquisition) | ₦50,000 |
+| Higgsfield workflow / prompt walkthroughs | ₦20,000 |
+| Client-outreach templates (Apollo/LinkedIn/Upwork) | ₦20,000 |
+| **Today** | **₦30,000** |
 
-## 3. The Lead Magnet (fuel for the cheap lead campaign)
-
-Pick **one** (all high-converting for this niche):
-- **`[[LEAD MAGNET NAME]]`** — a free PDF/Notion: *"The 5 AI Tools I Use to Make Faceless
-  Videos in 10 Minutes (and the exact order I use them)."*
-- Free 20-minute training video (this doubles as your VSL).
-- A "1 viral video in the next 24 hours" free mini-challenge.
-
-The lead magnet must deliver a *quick win* and naturally reveal that doing it at scale /
-profitably is what the paid course teaches.
+**Risk reversal (recommended — add if you can honor it):** a "watch the first modules and
+if it's not for you, get a refund" guarantee crushes hesitation at this price point.
 
 ---
 
-## 4. Meta Ad Creatives (Top of Funnel)
+## 3. Meta Ad Creatives (Top of Funnel) — copy/paste ready
 
-Run **video-first** — short-form vertical (9:16) video is the cheapest way to buy attention
-in this niche and lets you retarget on view %.
+Run **vertical video (9:16) first** — screen recordings of Higgsfield turning a prompt into
+a finished cinematic video are the single strongest scroll-stopper for this offer.
 
-### Creative concept A — "Faceless proof" (recommended first test)
-**Format:** 15–30s screen-recording UGC. Show an AI tool turning a text prompt into a
-finished video in fast-forward.
+### 🅰️ Creative A — "Skill → Income" (recommended first test)
+**Visual:** Screen recording — type a prompt in Higgsfield Cinema Studio → cinematic AI
+video appears → cut to an Upwork/Contra "you've been paid" style moment.
 
-**Hook (first 3 seconds — say + on-screen text):**
-> "I made this entire video without a camera, without editing, in under 10 minutes."
+**Hook (first 3s, spoken + on-screen text):**
+> "Businesses are paying people to make AI videos right now — and most people have no idea."
 
-**Primary text (the caption):**
-```
-I used to think you needed fancy gear and years of editing skills to make videos that get views.
-
-Then I found out how creators are quietly using AI to pump out videos that rack up thousands of views — without ever showing their face.
-
-No camera. No expensive software. No editing headaches.
-
-I put the exact 5-tool system into a free guide → [[LEAD MAGNET NAME]].
-
-Grab it free below and make your first AI video today. 👇
-```
-**Headline:** Make Faceless AI Videos in 10 Minutes
-**Description:** Free step-by-step guide
-**CTA button:** Download
-
-### Creative concept B — "Problem/Agitate" (call-out angle)
-**Hook:** "Stop wasting money on 12 different AI video tools."
 **Primary text:**
 ```
-There are 50+ AI video tools out there and 90% of them are a waste of time and money.
+Every day, businesses pay creators to make AI video ads, product commercials, and marketing content.
 
-I tested them so you don't have to.
+The opportunity is massive.
 
-Here are the only tools you actually need to make videos that get views and sales — plus the exact workflow to tie them together.
+The problem? Most people only learn how to USE AI tools. They never learn how to turn those skills into income.
 
-It's all in my free guide. Grab it 👇
+That's exactly why I built this course.
+
+Inside, you'll learn how to create professional AI videos with Higgsfield — AND how to find clients and get paid on Upwork, Contra & LinkedIn.
+
+Thousands of people will learn AI. The ones who know how to sell their skills are the ones who get paid.
+
+Which one will you be? 👇
 ```
-**Headline:** The Only AI Video Tools You Need
+**Headline:** Learn AI Video — And Get Paid For It
+**Description:** Create AI videos + land freelance clients
+**CTA button:** Learn More
+
+### 🅱️ Creative B — "Left behind / urgency" angle
+**Hook:** "AI isn't taking your job. Someone who knows how to sell AI is."
+**Primary text:**
+```
+AI video is one of the fastest-growing skills in the world right now.
+
+But here's the truth: knowing the tools isn't enough.
+
+Thousands of people will learn AI. Only the ones who know how to package and SELL that skill will actually get paid.
+
+In this course you'll learn both — how to create professional AI videos with Higgsfield, and how to find high-value clients on Upwork, Contra, Apollo & LinkedIn.
+
+Don't just learn AI. Learn to get paid for it. 👇
+```
+**Headline:** Don't Just Learn AI — Get Paid For It
 **CTA:** Learn More
 
-### Creative concept C — "Result/Aspiration" (money angle — test carefully, keep claims honest)
-**Hook:** "This faceless channel is 100% AI. Here's how it's built."
+### 🅲 Creative C — "Show the result" (demo angle)
+**Hook:** "This cinematic video was made with AI in minutes — and clients pay for these."
 **Primary text:**
 ```
-Faceless AI video channels are exploding right now.
+No camera. No film crew. No expensive editing software.
 
-The best part? You don't need to be on camera, and you don't need editing skills.
+Just AI — and a system for turning it into paying client work.
 
-In my free training I break down the exact system I use to create these videos from scratch — step by step.
+I'll show you exactly how to create cinematic AI videos with Higgsfield Cinema Studio, design high-converting ad creatives, and sell those services to real businesses on freelance platforms.
 
-Watch it free 👇
+If you're a designer, freelancer, editor, or just want an online income skill — this is your roadmap. 👇
 ```
-**Headline:** Build a Faceless AI Video Channel
-**CTA:** Watch More
+**Headline:** Create AI Videos Clients Will Pay For
+**CTA:** Learn More
 
-### Creative concept D — Static/carousel backup (for cheap reach + retargeting)
-Carousel of: (1) the problem, (2) tool #1, (3) tool #2, (4) the result, (5) "Get the free guide."
+### 🅳 Creative D — Static / carousel (cheap reach + retargeting)
+Carousel slides: (1) "Businesses are paying for AI videos." (2) The skill (Higgsfield demo).
+(3) The clients (Upwork/Contra/Apollo logos). (4) "5.0 ⭐ from students." (5) "Enroll — ₦30,000."
 
-> **Testing rule:** launch 3–4 hooks against 1 body. The **hook (first 3s)** is 80% of
-> performance — iterate hooks weekly, keep winning bodies.
-
----
-
-## 5. Hook Video Script (30s ad / can extend to a VSL)
-
-> **[0:00–0:03] HOOK — screen recording of a prompt turning into video**
-> "I made this whole video with AI in under 10 minutes — no camera, no editing."
-
-> **[0:03–0:08] CALL OUT + PAIN**
-> "If you've been wanting to start posting videos but you hate being on camera or fighting
-> with editing software — watch this."
-
-> **[0:08–0:16] MECHANISM (show, don't tell)**
-> "I type an idea here… this tool writes the script… this one generates the visuals… and
-> this one adds the voice and captions. That's the whole system."
-
-> **[0:16–0:24] PROOF + STAKES**
-> "Creators are using this exact workflow to build faceless channels that actually get
-> views. And the tools are cheaper and easier than you think."
-
-> **[0:24–0:30] CTA**
-> "I put the full 5-tool system in a free guide — tap the button below, grab it, and make
-> your first AI video today."
-
-**On-screen text:** echo the hook words; keep captions burned-in (85% watch on mute).
-**Pacing:** new visual every 2–3 seconds. Show the *actual screen*, not stock footage.
+> **Testing rule:** the **hook (first 3 seconds)** decides 80% of performance. Launch 3–4
+> hooks against your best body copy, kill losers weekly, keep winners.
 
 ---
 
-## 6. Landing Page (Opt-in) Copy
+## 4. Hook Video Script (30s ad)
 
-**URL job:** collect email in exchange for the lead magnet. One CTA. No navigation, no
-distractions.
+> **[0:00–0:03] HOOK** — screen recording of a Higgsfield prompt becoming a cinematic clip
+> "Businesses are paying people to make AI videos right now."
 
-**Headline:**
-> Get My Free Guide: The 5 AI Tools That Make Faceless Videos in 10 Minutes
+> **[0:03–0:09] PROBLEM**
+> "The opportunity is massive. But most people only learn to *use* the tools — they never
+> learn how to turn that skill into income."
 
-**Subhead:**
-> No camera. No editing skills. No expensive software. Just copy the exact system I use.
+> **[0:09–0:18] MECHANISM (show the screen)**
+> "In this course I show you how to create professional AI videos with Higgsfield Cinema and
+> Marketing Studio — then how to actually find clients on Upwork, Contra, Apollo and LinkedIn."
 
-**3 bullet benefits:**
-- ✅ The only 5 tools you need (skip the 45 that waste your time and money)
-- ✅ The step-by-step order to use them for a finished video, fast
-- ✅ The prompt I use to get scripts that actually hook viewers
+> **[0:18–0:25] STAKES + PROOF**
+> "Thousands of people will learn AI. The ones who know how to *sell* their skills are the
+> ones who get paid. Students are already getting results — it's rated 5 stars."
 
-**Form:** First name + Email → button: **"Send Me the Free Guide"**
+> **[0:25–0:30] CTA**
+> "Tap below, get instant access for ₦30,000, and start building a skill businesses are
+> already paying for."
 
-**Trust line under button:** "No spam. Unsubscribe anytime."
-
-**Thank-you page:** deliver the magnet **and** immediately soft-pitch the course:
-> "Your guide is on its way to your inbox. While you're here — want the *complete* system,
-> including how to actually get paid for these videos? Watch this 👇" → embed VSL / link to
-> sales page. (This is your fastest path from lead to sale.)
-
----
-
-## 7. Email Nurture Sequence (5 emails)
-
-Send over 5 days. Goal: deliver value, build trust, drive to the sales page.
-
-**Email 1 — Deliver (Day 0):** Subject: *"Here's your AI video guide 🎬"*
-Deliver the magnet, tell them the ONE tool to try first today, tease that tomorrow you'll
-show the mistake that keeps beginners stuck.
-
-**Email 2 — Story/Belief shift (Day 1):** Subject: *"I wasted months before I figured this out"*
-Your origin story: overwhelmed by tools → found the simple system. Sell the *idea* that
-it's the **workflow**, not more tools, that wins. Soft link to the course.
-
-**Email 3 — Value + proof (Day 2):** Subject: *"The 10-minute video workflow (full breakdown)"*
-Teach a real mini-workflow. Show a result. CTA: "Want the full system + templates? Here."
-
-**Email 4 — Offer + objections (Day 3):** Subject: *"Everything you get inside `[[COURSE NAME]]`"*
-Lay out the offer stack, bonuses, guarantee. Handle top 3 objections (no time, not techy,
-will it work for me). Strong CTA to sales page.
-
-**Email 5 — Urgency/close (Day 4):** Subject: *"Closing tonight: `[[PRICE]]` (goes up after)"*
-Deadline or bonus-expiry. Recap the transformation. Final CTA. (Use a real, honest deadline
-— an expiring bonus or price bump.)
+**Production:** burned-in captions (mute autoplay), new visual every 2–3s, show the REAL
+Higgsfield screen and a real freelance platform. Ends on the course thumbnail + price.
 
 ---
 
-## 8. Sales Page Copy (the offer page)
+## 5. Sales Page — improvements for nestuge.com/9gcbgz_nv
 
-**Above the fold**
-- **Headline:** Create `[[MAIN OUTCOME]]` in `[[RESULT TIMEFRAME]]` — Without a Camera,
-  Editing Skills, or Expensive Software
-- **Subhead:** The step-by-step AI video system for total beginners.
-- **CTA button:** Enroll Now — `[[PRICE]]`
+Your description copy is already strong (great problem framing + "which one will you be"
+close). Tighten it with these:
 
-**Problem section:** name the frustration (too many tools, no results, overwhelm).
-**Mechanism section:** introduce your system as the "unlock" — a repeatable workflow.
-**What's inside:** module-by-module breakdown (bullet the outcome of each module, not just topics).
-**Offer stack + bonuses:** the value table from Section 2.
-**Proof:** testimonials, screenshots, before/after (add as you collect them).
-**Guarantee:** `[[GUARANTEE DAYS]]`-day money-back, stated boldly.
-**Pricing:** anchor `[[REGULAR PRICE]]` → today `[[PRICE]]`.
-**FAQ:** "Do I need experience? Do I need to be on camera? What tools do I pay extra for?
-How long does it take? What if it doesn't work for me?"
-**Final CTA + urgency.**
-
-### Order bump (at checkout)
-> ☑️ **Add the "Done-For-You Prompt Vault" for +$27** — 200 copy/paste prompts for scripts,
-> visuals, and hooks so you never stare at a blank screen.
-
-### Upsell (one-click, after purchase)
-> **"Faceless Channel Accelerator" — $97:** my 30-day posting calendar + monetization
-> tracker to go from first video to first payout.
+- **Add a headline above the fold** that leads with the outcome:
+  > *"Learn to Create Professional AI Videos — and Get Paid For It on Freelance Platforms"*
+  Subhead: *"Even if you're starting from scratch. Master Higgsfield, then land clients on
+  Upwork, Contra & LinkedIn."*
+- **Move proof higher.** You tell people to "scroll down and see the reviews" — put 1–2
+  testimonial screenshots *near the top* too, right under the price. Social proof early = more reads.
+- **Bullet the outcomes** (Section 2 list) in a scannable checklist block — you already have this, keep it prominent.
+- **Add a short FAQ:** "Do I need experience? Do I need to be on camera? Do the AI tools
+  cost extra? How do I actually get clients? What if I've never freelanced?"
+- **Add/keep a guarantee line** near the buy button to remove risk.
+- **Strengthen the final CTA** with the line you already use: *"Thousands will learn AI. The
+  ones who know how to sell get paid. Which one will you be?"* → button: **Enroll Now — ₦30,000**.
+- **Urgency:** an honest reason to act now (price goes up after X students, or a bonus that
+  expires) lifts conversion — only if real.
 
 ---
 
-## 9. Retargeting Ads (Middle & Bottom of Funnel)
+## 6. Optional Lead Magnet (add when you scale)
 
-Set up these Meta custom audiences and run a dedicated ad to each:
+If you later add a lead funnel to lower cost-per-sale:
+**"The 3 AI Video Tools Businesses Pay Freelancers to Use"** — free PDF/video that delivers a
+quick win (make one AI clip) and naturally leads to "…and here's how to get *paid* to do this."
+Opt-in page collects name + email → deliver → soft-pitch the course on the thank-you page.
 
-| Audience | Message angle | CTA |
-|----------|---------------|-----|
-| Watched 25%+ of ad video (last 14d), not on list | "Ready for the full system?" testimonial/proof ad | Watch the free training |
-| Landing page visitors, didn't opt in | Re-offer the lead magnet, add a benefit | Download |
-| Opted in, didn't buy | Objection-crusher + proof + guarantee | See the offer |
-| Sales page visitors, didn't buy | "Still thinking? Here's my guarantee." risk-reversal ad | Enroll now |
-| Add-to-cart / checkout abandoners | Urgency + order-bump reminder | Complete enrollment |
+---
 
-**Retargeting proof ad (primary text example):**
+## 7. Email Nurture Sequence (5 emails — for the lead funnel)
+
+1. **Day 0 — Deliver:** *"Here's your AI video toolkit 🎬"* — deliver value, tell them the ONE
+   tool to try first, tease tomorrow's lesson.
+2. **Day 1 — Belief shift:** *"Knowing AI isn't the skill. Selling it is."* — the core idea;
+   most people learn tools, few learn to get paid. Soft link to course.
+3. **Day 2 — Teach + proof:** *"How freelancers land AI video clients"* — mini-lesson on
+   Upwork/Contra positioning + a student result. CTA to course.
+4. **Day 3 — Offer + objections:** *"Everything inside the course (₦30,000)"* — full breakdown,
+   handle: no experience, never freelanced, tools cost extra. Strong CTA.
+5. **Day 4 — Close:** *"Which one will you be?"* — urgency (honest deadline/bonus), recap the
+   transformation, final CTA to the sales page.
+
+---
+
+## 8. Retargeting Ads
+
+| Audience | Angle | CTA |
+|----------|-------|-----|
+| Watched 25%+ of ad video, didn't visit page | Testimonial + "here's what's inside" | Learn more |
+| Sales-page visitors, didn't buy | Risk-reversal + "one gig pays for the course" | Enroll now |
+| Checkout abandoners | Urgency + reassurance + 5★ proof | Complete enrollment |
+
+**Retargeting primary text example:**
 ```
-Still on the fence about making AI videos?
+Still thinking about it?
 
-Here's what happens when you stop overthinking it: [short proof/testimonial].
+Here's the math: one AI video gig can pay you more than this entire course costs.
 
-You're covered by a [[GUARANTEE DAYS]]-day money-back guarantee — so the only risk is
-staying stuck.
+Students are already getting results — it's rated 5 stars.
 
-Enroll today 👇
+Learn the skill, learn to sell it, and start getting paid. Enroll today 👇
 ```
 
 ---
 
-## 10. Budget, Metrics & Testing Plan
+## 9. Budget, Targeting & Metrics
 
-**Starting budget:** $20–50/day on TOF lead campaign for 5–7 days before judging. Run
-retargeting at $5–10/day (small audiences).
+**Targeting (cold):** Interests around Upwork, Fiverr, Freelancing, Graphic design, Video
+editing, Canva, CapCut, Side hustle, Make money online, AI tools. Add a Lookalike from your
+page visitors / buyers once the pixel has data. Test **broad** too — Meta's algorithm is
+strong at finding buyers for a clear offer.
 
-**Campaign structure (Meta):**
-- Campaign 1 — TOF Leads (objective: **Leads** or **Sales** if pixel-warm). 1 ad set,
-  broad + 1–2 interest/lookalike sets, 3–4 creatives each.
-- Campaign 2 — Retargeting (objective: **Sales**). Audiences from Section 9.
-- Let ad sets exit the learning phase — **don't edit daily.** Judge after ~50 leads/results.
+**Budget:** start ₦8,000–15,000/day (~$5–10) on TOF for 5–7 days before judging; ₦4,000–6,000/day
+on retargeting. Don't edit ad sets daily — let them exit the learning phase, judge after ~50
+results.
 
-**Benchmarks to watch (directional, niche-dependent):**
-| Metric | Healthy zone | If it's off… |
-|--------|--------------|--------------|
+**Campaign setup (Meta):**
+- Campaign 1 — TOF (objective: **Sales**, optimize for Purchase). 1–2 ad sets, 3–4 creatives.
+- Campaign 2 — Retargeting (objective: **Sales**). Audiences from Section 8.
+
+**Benchmarks (directional):**
+| Metric | Healthy zone | If off… |
+|--------|--------------|---------|
 | Hook rate (3s views / impressions) | 25%+ | Fix the first 3 seconds |
-| CTR (link) | 1%+ | Fix hook/offer or creative |
-| Cost per lead | Test against your economics | Improve landing page or offer |
-| Landing page opt-in rate | 30–50% | Tighten headline/bullets |
-| Email → sales-page CTR | grows over the 5 emails | Rewrite subject lines / CTAs |
-| Sales page conversion | 1–5% cold, higher warm | Add proof, sharpen offer |
-| ROAS | ≥ your break-even | Cut losing creatives, scale winners |
+| Link CTR | 1%+ | Fix hook / offer / creative |
+| Cost per purchase | Below your margin on ₦30,000 | Improve creative or sales page |
+| Sales page → checkout | 3–8% | Add proof, sharpen headline, stronger guarantee |
+| ROAS | ≥ 1.5–2x to start, scale from there | Cut losers, duplicate winners |
 
-**Weekly rhythm:** kill the bottom creatives, duplicate winners, test 2–3 new hooks. Scale
-by raising budget ~20% on winners or duplicating into new audiences.
+**Weekly rhythm:** kill bottom creatives, duplicate winners, launch 2–3 new hooks, scale
+budget ~20% on winners or duplicate into new audiences.
 
 ---
 
-## 11. Compliance Notes (keep Meta happy)
-- **No income guarantees or "get rich" claims.** Say "creators are using," "you can learn to,"
-  not "you *will* make $X."
-- Avoid "you" statements that imply Meta knows a personal attribute ("Are YOU broke?").
-- No before/after that implies unrealistic results; keep testimonials truthful and, ideally,
-  with a disclaimer ("results not typical").
-- Have a real privacy policy on the landing page (required for lead forms).
-- Keep the lead magnet and course content aligned with what the ad promised.
+## 10. Compliance Notes (avoid Meta ad rejections)
+- **No income guarantees.** Say "you can learn to," "students are getting results," never
+  "you *will* make ₦X." Your current page copy is well-balanced — keep it that way in ads.
+- Avoid personal-attribute call-outs ("Are YOU broke and jobless?").
+- Keep testimonials truthful; if you show earnings, add "results not typical."
+- Ensure a privacy policy exists on any opt-in page you build.
+- Match ad promise to course content (you already do — good).
 
 ---
 
-## 12. Launch Checklist
-- [ ] Meta Pixel / Conversions API installed and firing (ViewContent, Lead, Purchase)
-- [ ] Lead magnet created and delivery email set up
-- [ ] Landing page live with privacy policy + working form
-- [ ] Sales page + checkout + order bump + upsell live and tested (do a $0/test purchase)
-- [ ] 5-email sequence loaded in your email tool
-- [ ] Custom audiences + retargeting ads built
-- [ ] 3–4 TOF creatives uploaded (video-first)
-- [ ] Budget set, campaigns in draft → review → publish
-- [ ] UTM tracking on all links
-- [ ] Guarantee + refund process ready
+## 11. Launch Checklist
+- [ ] Meta Pixel / Conversions API installed on the nestuge page (fire Purchase event)
+- [ ] Above-the-fold headline + early testimonials added to sales page
+- [ ] Guarantee line added near the buy button
+- [ ] 3–4 vertical video creatives produced (Higgsfield screen recordings)
+- [ ] Custom audiences (video viewers, page visitors, abandoners) built
+- [ ] TOF + retargeting campaigns built in draft
+- [ ] UTM tracking on ad links
+- [ ] Budgets set, review, publish
+- [ ] (Later) Lead magnet + opt-in + 5-email sequence for scaling
 ```
