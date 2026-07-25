@@ -297,6 +297,37 @@
   .reveal { opacity: 0; transform: translateY(18px); transition: opacity .6s ease, transform .6s ease; }
   .reveal.in { opacity: 1; transform: none; }
   @media (prefers-reduced-motion: reduce) { .reveal { opacity: 1; transform: none; transition: none; } }
+
+  /* ---- phone optimizations ---- */
+  body { overflow-x: clip; }
+  @media (max-width: 600px) {
+    .wrap { padding: 0 16px; }
+    .bar-in { height: 56px; gap: 10px; }
+    .bar .price-mini { display: none; }
+    .brand { font-size: .9rem; gap: 8px; }
+    .brand .dot { width: 26px; height: 26px; font-size: .85rem; }
+    .btn.sm { padding: 9px 15px; font-size: .86rem; }
+    h1 { font-size: clamp(1.78rem, 8.2vw, 2.5rem); }
+    h2 { font-size: clamp(1.5rem, 6.6vw, 2rem); }
+    .lede { font-size: 1.04rem; }
+    section { padding: 42px 0; }
+    .hero { padding: 38px 0 22px; }
+    .cta-cluster { width: 100%; }
+    .cta-cluster .btn { flex: 1 1 100%; justify-content: center; }
+    .founder { padding: 42px 0; }
+    .founder-earn { font-size: clamp(2.6rem, 15vw, 3.4rem); }
+    .founder-lines { font-size: 1.02rem; }
+    .callout { padding: 22px 18px; }
+    .callout p { font-size: 1.08rem; }
+    .stack { padding: 4px 18px; }
+    .stack .row { flex-wrap: wrap; gap: 4px 14px; }
+    .stack .row.total .v { font-size: 1.5rem; }
+    .guarantee { padding: 18px 18px; }
+    .final-card { padding: 40px 20px; }
+    .introvid { padding: 42px 0; }
+    .feat { padding: 18px 18px 18px 50px; }
+    .feat .ck { left: 16px; top: 18px; }
+  }
 </style>
 
 <div class="bar">
