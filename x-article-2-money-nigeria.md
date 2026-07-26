@@ -12,7 +12,7 @@ Here's the boring route: businesses around you already pay for video. They eithe
 
 ## The math that makes this work
 
-A finished 4-second animated shot with sound costs about 18 credits. A 30-second ad — seven or eight shots, stitched together — comes in under 150 credits. Assembly costs nothing.
+A finished 4 second animated shot with sound costs about 18 credits. A 30 second ad, seven or eight shots stitched together, comes in under 150 credits. Assembly costs nothing.
 
 Now set that against what a small business in Lagos, Abuja, Onitsha or Port Harcourt pays for a promo video. Even at the bottom of the market you're looking at tens of thousands of naira per deliverable.
 
@@ -22,11 +22,11 @@ I'm deliberately not quoting a fixed naira figure for the subscription or for yo
 
 ## Six things you can sell this week
 
-**1. Product ads for Instagram and WhatsApp vendors.** The biggest underserved market in the country. Thousands of people sell shoes, wigs, skincare, food and gadgets straight off a phone. They have product photos and nothing else. A 15-second animated spot is a genuine upgrade at a price they can actually pay.
+**1. Product ads for Instagram and WhatsApp vendors.** The biggest underserved market in the country. Thousands of people sell shoes, wigs, skincare, food and gadgets straight off a phone. They have product photos and nothing else. A 15 second animated spot is a genuine upgrade at a price they can actually pay.
 
 **2. Real estate teasers.** Agents live on WhatsApp status. Motion beats stills every single time.
 
-**3. Event and church promos.** Weddings, conferences, programs, concerts. Recurring, deadline-driven, and already budgeted for.
+**3. Event and church promos.** Weddings, conferences, programs, concerts. Recurring, deadline driven, and already budgeted for.
 
 **4. Music visuals for upcoming artists.** Afrobeats has an enormous tier of artists with a finished song and no video budget. Animated lyric visuals and short loops for Reels. Start with artists in your own city.
 
@@ -38,7 +38,7 @@ I'm deliberately not quoting a fixed naira figure for the subscription or for yo
 
 Don't announce yourself. Show the work.
 
-Pick three businesses you can name right now. Make each of them a free 15-second spot without asking permission. Send it with one line: *"Made this for you, no charge. If you want more, I charge X."*
+Pick three businesses you can name right now. Make each of them a free 15 second spot without asking permission. Send it with one line: *"Made this for you, no charge. If you want more, I charge X."*
 
 Two will ignore you. One will reply. That one is your business.
 
@@ -48,7 +48,7 @@ Then never work free again. Those samples were marketing spend, not a habit.
 
 Be honest with yourself about these before you count any money.
 
-**Paying for the tool.** This is the first real wall. These platforms bill in dollars, and naira cards frequently fail on international subscriptions. Most people solve it with a virtual dollar card from a fintech app. Sort this out *before* you build plans around the income — it's the step that quietly stops most beginners.
+**Paying for the tool.** This is the first real wall. These platforms bill in dollars, and naira cards frequently fail on international subscriptions. Most people solve it with a virtual dollar card from a fintech app. Sort this out *before* you build plans around the income. It's the step that quietly stops most beginners.
 
 **Power and data.** Rendering happens on their servers rather than your laptop, which helps enormously. But you still need connectivity to submit jobs, review clips and deliver files. Budget for it honestly.
 
@@ -58,7 +58,7 @@ Be honest with yourself about these before you count any money.
 
 ## Two rules that keep you in business
 
-**Tell clients the work is AI-generated.** Most won't care — they want good video at a price they can afford. The ones who find out later will care a great deal.
+**Tell clients the work is AI generated.** Most won't care. They want good video at a price they can afford. The ones who find out later will care a great deal.
 
 **Don't generate real people, real brands, or real logos without permission.** Don't clone a celebrity's face for someone's ad. That is the fastest way to turn a small business into a legal problem.
 
