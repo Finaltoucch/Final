@@ -1,0 +1,148 @@
+<meta charset="utf-8">
+<title>Exam-period health advisory — replica deck</title>
+<style>
+/*__FONTS__*/
+
+:root{
+  --cream:#FDF7EB;
+  --navy:#11294A;
+  --navy-head:#12294B;
+  --ink:#1A1A1A;
+  --dot-off:#C6BDAF;
+  --white:#F4F6F7;
+}
+*{box-sizing:border-box}
+body{margin:0;background:#4A4F55;font-family:Lato,sans-serif;-webkit-font-smoothing:antialiased}
+
+.deck{display:flex;flex-wrap:wrap;gap:26px;padding:26px;justify-content:center}
+
+/* Each card is authored at 1000 x 1000 design units = 1000 CSS px, then
+   scaled for preview. The exporter drops the scaling and raises the device
+   pixel ratio instead, so nothing is ever resampled. */
+.stage{width:var(--pw,340px);height:var(--pw,340px)}
+.card{
+  position:relative;width:1000px;height:1000px;overflow:hidden;
+  background:var(--cream);
+  transform:scale(var(--s,.34));transform-origin:0 0;
+}
+html.export .stage{width:1000px;height:1000px}
+html.export .card{transform:none}
+
+.card.navy{background:var(--navy)}
+
+.art{position:absolute;inset:0;width:1000px;height:1000px;display:block}
+
+.badge{
+  position:absolute;left:61px;top:73px;width:114px;height:114px;border-radius:50%;
+  background:var(--navy);color:#fff;
+  display:flex;align-items:center;justify-content:center;
+  font-weight:900;font-size:74px;line-height:1;padding-bottom:6px;
+}
+
+.head{
+  position:absolute;left:63px;margin:0;
+  color:var(--navy-head);font-weight:900;letter-spacing:-.005em;
+  white-space:pre-line;
+}
+.body{
+  position:absolute;left:63px;margin:0;
+  color:var(--ink);font-weight:400;
+}
+.body p{margin:0}
+.body p + p{margin-top:var(--para-gap,30px)}
+
+.dots{position:absolute;left:0;right:0;bottom:37px;display:flex;gap:17px;justify-content:center}
+.dots i{width:22px;height:22px;border-radius:50%;background:var(--dot-off)}
+.dots i.on{background:var(--navy)}
+
+/* --- sign-off card --------------------------------------------------- */
+.signoff{position:absolute;left:0;right:0;top:392px;text-align:center;color:var(--white)}
+.signoff .lead{font-size:44px;font-weight:400;line-height:1}
+.signoff .name{font-size:64px;font-weight:900;line-height:1.16;margin-top:36px;white-space:pre-line}
+.signoff .place{font-size:52px;font-weight:400;line-height:1;margin-top:22px}
+</style>
+
+<div class="deck" id="deck"></div>
+
+<script>
+/*__ART__*/
+/*__PANELS__*/
+
+const deck = document.getElementById('deck');
+
+for (const p of PANELS) {
+  const stage = document.createElement('div');
+  stage.className = 'stage';
+
+  const card = document.createElement('section');
+  card.className = 'card' + (p.ground === 'navy' ? ' navy' : '');
+  card.dataset.slug = p.slug;
+
+  const art = ART[p.n];
+  if (art) {
+    card.insertAdjacentHTML('beforeend',
+      `<svg class="art" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">${art()}</svg>`);
+  }
+
+  if (p.signoff) {
+    card.insertAdjacentHTML('beforeend', `
+      <div class="signoff">
+        <div class="lead">${p.signoff.lead}</div>
+        <div class="name">${p.signoff.name.join('\n')}</div>
+        <div class="place">${p.signoff.place}</div>
+      </div>`);
+  } else {
+    const badge = document.createElement('div');
+    badge.className = 'badge';
+    badge.textContent = p.n;
+    if (p.badge) {
+      badge.style.width = badge.style.height = p.badge + 'px';
+      badge.style.fontSize = Math.round(p.badge * 0.65) + 'px';
+    }
+    card.append(badge);
+
+    if (p.heading && p.heading.length) {
+      const h = document.createElement('h2');
+      h.className = 'head';
+      h.style.top = (p.headTop ?? 196) + 'px';
+      h.style.fontSize = p.headSize + 'px';
+      h.style.lineHeight = p.headLead;
+      h.textContent = p.heading.join('\n');
+      card.append(h);
+    }
+
+    if (p.body && p.body.length) {
+      const b = document.createElement('div');
+      b.className = 'body';
+      b.style.top = p.bodyTop + 'px';
+      b.style.width = p.measure + 'px';
+      b.style.fontSize = p.bodySize + 'px';
+      b.style.lineHeight = p.bodyLead;
+      if (p.paraGap) b.style.setProperty('--para-gap', p.paraGap + 'px');
+      b.innerHTML = p.body.map(t => `<p>${t}</p>`).join('');
+      card.append(b);
+    }
+
+    const dots = document.createElement('div');
+    dots.className = 'dots';
+    dots.innerHTML = Array.from({ length: 8 },
+      (_, i) => `<i class="${i + 1 === p.n ? 'on' : ''}"></i>`).join('');
+    card.append(dots);
+  }
+
+  stage.append(card);
+  deck.append(stage);
+}
+
+/* Preview scaling: fit the 1000px cards to whatever width the page has. */
+function fit() {
+  if (document.documentElement.classList.contains('export')) return;
+  const cols = Math.max(1, Math.min(3, Math.floor((innerWidth - 52) / 366)));
+  const w = Math.floor((innerWidth - 52 - (cols - 1) * 26) / cols);
+  document.documentElement.style.setProperty('--pw', w + 'px');
+  for (const c of document.querySelectorAll('.card')) c.style.setProperty('--s', w / 1000);
+  for (const s of document.querySelectorAll('.stage')) s.style.width = s.style.height = w + 'px';
+}
+addEventListener('resize', fit);
+fit();
+</script>

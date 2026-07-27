@@ -1,0 +1,10 @@
+{
+  "name": "exam-health-carousel",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Exam-period health advisory carousel — build and export tooling",
+  "devDependencies": {
+    "@fontsource/lato": "^5.0.0",
+    "playwright": "^1.62.0"
+  }
+}
