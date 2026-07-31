@@ -14,7 +14,7 @@ execute; only the generation calls remain.
 | Fallback element | `@aurelia` — `50a2a681-afea-4996-bb1d-da121ab2ea92` |
 | Video model | Seedance 2.0 (image-to-video, native audio-driven lipsync) |
 | Resolution | **720p** |
-| Aspect | 16:9 |
+| Aspect | **9:16 vertical** |
 
 ## Performance direction (applies to every shot)
 
@@ -51,7 +51,7 @@ warping around the jawline.
 Her face is full of passion: {FACE BEAT}, brows fully engaged, eyes alive and
 locked to lens, jaw moving fully on every vowel, visible breath and effort.
 Emerald and gold stadium palette, anthemic festival lighting, cinematic
-shallow depth of field, 720p, 16:9.
+shallow depth of field, 720p, 9:16 vertical.
 Negative: closed mouth while singing, blank or deadpan expression, stiff head,
 lipsync drift, warped jaw, extra fingers.
 ```
