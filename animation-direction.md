@@ -111,15 +111,64 @@ everywhere else.
 
 ---
 
+### E — Stick Figures 🏆 **RECOMMENDED**
+
+Bold black stick figures on a flat coloured ground. Circle head, straight limbs,
+no face. Expressive through posture and motion alone.
+
+**This is the one currently blowing up, and the data is real.** New channels
+reporting 3.5M views and 160K subscribers inside three months; one channel at
+20M views from 14 videos. Treat the "$4,000 per video" and "$11,000 a month"
+figures in those write-ups with the same skepticism we applied to the original
+thread — they come from tutorial blogs, which is the genre that inflates. **The
+view counts and growth curves are the credible part; the earnings claims are
+not.**
+
+**Why it beats every other option for our constraints:**
+
+1. **It has no fidelity to lose.** Every other style fights the uncanny valley.
+   A stick figure has no face to render wrong, no hands to mangle, no skin to
+   look plastic. The single biggest technical risk of AI video simply doesn't
+   apply. This is the cleanest possible answer to "the AI must be invisible."
+2. **It stops scrolls.** Bold black shapes on flat colour read at any size,
+   including a 168-pixel-wide phone thumbnail. Most business thumbnails are
+   cluttered photo composites that turn to mush at that size.
+3. **It's a pattern interrupt in this niche.** Nobody in high-RPM finance is
+   using it. It's currently concentrated in entertainment and story content.
+4. **Consistency is trivial.** "Black stick figure, circle head, no face, flat
+   background" is such a tight constraint that the model can barely deviate.
+   Fifty-two videos will match.
+5. **It's expressive.** Posture alone carries emotion. A slumped stick figure in
+   front of a rising red line needs no dialogue.
+6. **The documented workflow is our stack.** The tutorials describe image
+   generation into Kling image-to-video. We have both, inside Higgsfield.
+
+**Why it fits business explainers specifically:** stick figures are the *native*
+language of economic explanation. "Here's you. Here's the bank. Here's where your
+money goes." Every economics lecturer on earth already draws this on a
+whiteboard. We're not forcing a trend onto the niche — we're using the niche's
+oldest visual grammar, executed well.
+
+**Risk:** the style is trending, which means saturation is coming. Our protection
+is that we're taking it *into* a different niche than where it's saturating, and
+that our moat was always the writing.
+
+---
+
 ## Recommendation
 
-**Primary: A — Miniature Diorama.** Distinctive, technically the most reliable to
-generate consistently, keeps authority intact, and the scale metaphor *is* the
-channel's thesis.
+**Primary: E — Stick Figures.**
 
-**Wildcard worth testing: B — Claymation.** Higher ceiling, higher risk. It's the
-one that could make the channel genuinely unmistakable, and it's the only
-direction that turns the tooling's biggest weakness into an asset.
+The strategic play is arbitrage: **take the visual style that's proven to stop
+scrolls and put it in the niche that's proven to pay.** Stickman is exploding in
+entertainment, which pays $3–8 RPM. Business explainers pay $12–22. Nobody is
+combining them.
+
+**Backup: A — Miniature Diorama**, if the stick figure tests come back weak.
+
+**Rejected: B — Claymation.** Still the cleverest technical fit (its jitter
+problem is stop-motion's aesthetic), but stick figures beat it on thumbnail
+legibility, and legibility is what stops a stranger.
 
 **Combine with the Sime Media layout system**, which still holds regardless of
 which we pick: locked palette, quiet lowercase type, annotation lines, UI cards
@@ -129,18 +178,75 @@ our numbers have to be exactly right.
 
 ---
 
+## Test Results — 2026-08-02
+
+Generated two stick-figure test frames on Recraft V4.1 in `vector` mode, palette
+pinned to the receipt scheme (`#F2EBE0` ground, `#1A1A1A` + `#7B2233`).
+
+Job IDs: `780d2125-9aca-42c5-87c7-e48a69a3378a`,
+`4a5cfa82-af98-4441-bdfa-9063515b6d35`
+
+### The finding that changes the economics
+
+**Recraft `vector` mode returns actual SVG files, not raster images.**
+
+Output was `.svg` at 1344×756. That is a genuine vector asset, and it changes the
+production model completely:
+
+- **Infinitely scalable.** One asset serves a 4K master and a thumbnail with no
+  quality loss.
+- **Directly editable.** Open in any vector editor and recolour, reposition a
+  limb, or move an element. We are not stuck with what the model gave us.
+- **Animatable without generative video.** Vector shapes can be keyframed in
+  CapCut or After Effects with perfectly clean edges. A stick figure's arm can
+  be *actually rotated* rather than re-generated and hoped for.
+- **Perfect consistency.** The same figure asset is reused across all 52 videos.
+  Not "similar" — identical.
+
+This is the difference between animating a character and generating a new one
+every shot and praying it matches. It removes the single biggest failure mode of
+AI video work, and it means the style holds across a whole library.
+
+### Measured costs
+
+| Item | Credits |
+|---|---|
+| Recraft V4.1 vector image, 2K | **2.5** |
+| Kling 3.0 Turbo video, 5s @ 1080p | **10** |
+| Nano Banana image (budget raster) | 1 |
+
+Balance at time of test: **1,113 credits.**
+
+---
+
 ## Production Model
 
-Per 10-minute video:
+Per 10-minute video, three approaches costed against real numbers:
 
-- **12–20 generated hero shots**, 3–8 seconds each
-- Reused across the video via reframing, different crops, and speed changes
-- Text, numbers, UI cards, charts, captions: **all CapCut/Canva**, never generated
-- One locked style prompt suffix appended to every single generation, saved on
-  video one and never edited
+| Approach | Composition | Credits | Videos from 1,113 |
+|---|---|---|---|
+| All generated video | 15 Kling clips | 150 | ~7 |
+| Hybrid | 20 SVGs + 4 Kling clips | 90 | ~12 |
+| **Vector-led** ✅ | 25 SVGs, animated in CapCut + 1 Kling hero clip | **~72** | **~15** |
 
-That last point is the whole consistency mechanism. The style suffix is the
-channel's visual identity in one string.
+**Go vector-led.** It's the cheapest *and* the best-looking, because keyframed
+vector motion is cleaner than generated motion, not a compromise for it. Spend
+Kling credits only on the one hero moment per video that genuinely needs
+generated motion.
+
+Rules that hold regardless:
+
+- Text, numbers, UI cards, charts, captions: **all CapCut/Canva**, never
+  generated — the models still cannot render text reliably and our numbers must
+  be exact
+- One locked style prompt suffix appended to every generation, saved on video one
+  and never edited
+- Build a **reusable figure library** — standing, walking, slumped, pointing,
+  celebrating, falling. Generate once, reuse across all 52 videos. After roughly
+  video 5 the per-video generation cost approaches zero.
+
+That last point is the real unlock. This isn't 52 videos of generation cost. It's
+one asset library plus incremental additions.
 
 ---
 
