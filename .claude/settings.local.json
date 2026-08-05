@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__102bb326-23eb-45b4-97ac-425f10ba82bd__sandbox_exec",
+      "mcp__102bb326-23eb-45b4-97ac-425f10ba82bd__media_upload",
+      "mcp__102bb326-23eb-45b4-97ac-425f10ba82bd__media_confirm",
+      "mcp__102bb326-23eb-45b4-97ac-425f10ba82bd__media_import_url",
+      "mcp__102bb326-23eb-45b4-97ac-425f10ba82bd__balance",
+      "mcp__102bb326-23eb-45b4-97ac-425f10ba82bd__show_plans_and_credits",
+      "mcp__Higgsfield__sandbox_exec",
+      "mcp__Higgsfield__media_upload",
+      "mcp__Higgsfield__media_confirm",
+      "mcp__Higgsfield__balance"
+    ]
+  }
+}
