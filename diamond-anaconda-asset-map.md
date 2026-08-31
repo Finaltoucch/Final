@@ -106,16 +106,28 @@ twelve different places; ignore them and the descent stops reading as a descent.
 Depth 10 is the only room in the film that is beautiful, and the only one not lit
 by the team. That contrast is the whole point of the location.
 
-### Locations still needed — three, not five
+### Generated locations — the remaining four
 
-Consolidated down from five so you generate less: the boathouse and the dock are
-now one **BOATYARD** (day and night), and the dealer's office has been moved into
-**RYAN'S ROOM** — the buyer comes to him, which is also better, since Ryan never
-has to carry the stones out in public.
+Generated to match the supplied plates: photoreal, natural available light,
+restrained filmic grade, no people, no text.
 
-1. **Boatyard** — working dock, gear on concrete, day and night
-2. **Suburban doorway** — screen door, hot street, a kid's bicycle in the hallway
-3. **Ryan's room** — bare rented room, one table (buyer scene by day, final shot at night)
+| Location | job_id | Scenes |
+|---|---|---|
+| **Fishing settlement, dusk** — stilt houses over brown water, nets, oil-drum fire | `51ece402-29dd-4ec4-86ce-c4d6344563b3` | Armando tells the legend. "That is the smallest one." |
+| **Boatyard, day** — concrete apron, boat shed, crates and dry bags in rows | `997cf577-19fe-45e1-bde5-ae94970904ba` | The seven pack. Maya's loupe. |
+| **Boatyard, night** — sodium lamps, wet concrete, launch loaded under tarp | `9f76af82-f434-4a14-ad67-65aca77d1f40` | Maya and Ryan. "Say it back to me." |
+| **Suburban doorway** — screen door half open, child's bicycle in the hallway | `7c3edeac-699e-4508-9a45-ec0d9115bbbb` | Mateo's wife. "Where is my husband?" |
+| **Ryan's room** — bare rented room, one table, curtains drawn | `365d92ba-e6cf-4017-a4ae-e99157f8503f` | The buyer by day. The dark line at night. |
+
+Consolidated from five distinct locations to four: the boathouse and the dock are
+now one boatyard shot day and night, and the dealer's office moved into Ryan's
+room, so the buyer comes to him. Better staging anyway — Ryan never carries the
+stones out in public.
+
+**Resolution caveat:** these rendered at 1376×768 (1k) because the backend
+substituted `nano_banana_flash`. Your supplied plates are 2048×1152. Re-run at 2k
+before they are used as video references, or they will be the softest inputs in
+the film.
 
 ## 4. Already rendered
 
