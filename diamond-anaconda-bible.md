@@ -1,0 +1,114 @@
+# DIAMOND ANACONDA — Character & Creature Bible
+
+Single source of truth for identity and scale. If a prompt disagrees with this
+file, this file wins.
+
+---
+
+## THE HERO
+
+**RYAN COLE** — team lead. The only survivor. He is the man in the cold open and
+the man in the last shot.
+
+| | |
+|---|---|
+| **Reference (with weapon)** | `664a7145-c7f9-44c9-a2ba-0e97da8fa7ae` |
+| **Source upload it was built from** | `28eafc20-97e2-45ef-9478-6b3494765754` |
+| **Look** | Short natural hair, beard/stubble, **distinctive facial scar**, muscular build, gloves, boots |
+| **Weapon** | Modern assault rifle, sling, ready position |
+| **Why this is the hero** | It is the only asset in your entire workspace whose prompt names him: *"He is a veteran special-operations team member and **the eventual hero of the expedition**."* Nothing else carries that tag. |
+
+Ryan has **no `soul_cast` entry** — he exists only in the second casting pass. That
+is the single fact that decides the cast question below.
+
+---
+
+## THE COMBINATION — answered
+
+You have two overlapping cast sets. Use **Set B**, the second pass:
+
+**Set A** — six `soul_cast` characters that carry real names (Marcus Okoye, Maya
+Bennett, Daniel Mercer, Mateo Alvarez, Kofi Mensah, Liam O'Rourke), each with a
+weapon edit. **No Ryan.**
+
+**Set B** — eight weapon edits built on uploaded photographs. **Contains Ryan.**
+Covers every role. Generated later (17:20 vs 16:46 the same day), so it is your
+more recent decision.
+
+**Use Set B for all seven on-screen roles, and carry the Set A names across onto
+those faces.** That is "the combination": *Set B faces + Set A names.*
+
+Never mix a Set A image and a Set B image inside one shot — they are different
+photographic sources and will read as two different teams standing next to each other.
+
+---
+
+## THE SEVEN
+
+| # | Name | Role | Weapon | Set B ref (USE THIS) | Set A ref (name source) |
+|---|---|---|---|---|---|
+| 1 | **RYAN COLE** | Team lead. Survives. | Assault rifle | `664a7145-c7f9-44c9-a2ba-0e97da8fa7ae` | — none — |
+| 2 | **MARCUS OKOYE**, 58 | Ex-SAS commander. The old soldier. Dies covering Ryan in the deep chamber. | Assault rifle | `152eb482-8403-4df9-b2a7-2b08a148c638` (bald, grey goatee) | `03b8ee6d-65cc-49f3-bf7c-3e71a15032ed` |
+| 3 | **MAYA BENNETT**, 30s | Ex-MI6, medic. Conscience. Cracks the reveal. **The sacrifice.** | Assault rifle | `ec3a91da-da70-47f3-a5bf-c1fcc4acaa63` (woman, long dark hair) | `ba466663-e79e-43ec-ab0f-c3ff54e075f6` |
+| 4 | **DANIEL MERCER**, 40s | Marksman. The skeptic. Found dead with the hidden stone. | Scoped DMR | `fe62d845-c254-4f3f-8ce9-13a1c1af048e` | `4ec2781a-ae60-41ed-a791-961fe44ec8f1` |
+| 5 | **MATEO ALVAREZ**, 30s | Jungle specialist. Carries the charges. Family man. Taken first. | Assault rifle | `ca764ab7-2ffe-4603-be92-40612517c1bb` (curly hair, beard) | `4e3c8b35-d58e-4e9e-bbe5-90a3f3e47d9f` |
+| 6 | **KOFI MENSAH**, 40s | Tracker and support gunner. Holds the chokepoint. | **Belt-fed LMG** | `775128fd-a1b2-43e1-91ee-a6fa7938b03e` (bald, beard, large build) | `50687d3b-0de8-4353-a50b-5c8feb4be9ae` |
+| 7 | **LIAM O'ROURKE**, 26 | Comms and surveillance. Flies the drone. Taken in the canopy. | Compact carbine | `75702710-b898-4aa5-b8e7-d20afe36fe6f` | `7d8031ca-f141-4689-8a63-b64bcd56163e` |
+
+**Spare / unassigned:** `b99a4c74-17f7-4c87-8854-b81b787bb18c` (beard, field operative).
+Use for the 1974 expedition photographs, or drop it.
+
+**Non-team speaking parts with no reference yet:** ARMANDO (70s, the old man by the
+fire), the BUYER (60s), and MATEO'S WIFE. Three refs still to generate.
+
+---
+
+## THE CREATURE — locked
+
+**Saved Element:** `Diamond-Anaconda` — `223a47e0-bd4c-474c-8c15-1ebc2b2ed43c`
+**Master image:** `2b2a2920-35d4-4931-9dbe-7d0ee1678510`
+
+| Spec | Value — FIXED |
+|---|---|
+| Total length | **30 feet (9.14 m)** |
+| Max body diameter | **~30 cm** |
+| Implied weight | ~250 kg / a quarter of a ton |
+| Head scar | **Pale diagonal scar, LEFT side of head** |
+| Body | Healed scars on upper body |
+| Colour | Olive-green / dark emerald / charcoal; cream-green jaw and throat |
+| Never | Glowing eyes. Diamonds on the body. Any size change between scenes. |
+
+**All other snakes are different, smaller animals** — 8 to 10 feet, thick as a
+forearm — and must never read as her.
+
+### Scale ruler
+
+The film measures her against **the team's 18-foot boat**, twice, deliberately:
+
+- **Riverbank, night one.** A ridge of water draws level with the bow, keeps going,
+  and is still going when the far end clears the stern. Marcus: *"That boat is
+  eighteen feet."*
+- **The drone.** Liam measures her on his screen against the bank they tied up at
+  that morning: *"It's longer than the boat."*
+
+That is the entire reveal strategy. At 30 feet you cannot sell her with spectacle —
+you sell her by giving the audience something they already know the length of.
+
+### What changed in the script because of this
+
+The draft had her as a kaiju and that was wrong against your locked Element. Fixed
+throughout: no "twenty tons," no "size of a train," no "it never shows its end."
+The trough in the mud is now **a foot wide and four inches deep** — heavy, not huge.
+The canopy snake is **nine feet**. In the tunnel, **a quarter of a ton** passes
+Ryan at eighteen inches, and it takes a very long time.
+
+One deliberate story addition, because real anacondas do not lay eggs — they bear
+live young. Kofi says so out loud, and Maya answers:
+
+> **KOFI:** My uncle kept them. They carry them. They give birth to them alive, in
+> the water. Every one of them.
+> **MAYA:** I know.
+> **MAYA:** So whatever's down here with us — it isn't an anaconda.
+
+That turns the one piece of biology that could read as a mistake into the deepest
+question in the film.
