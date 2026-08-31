@@ -76,6 +76,50 @@ Ryan's Element uses the director-supplied three-panel turnaround, and nothing el
 Media id `5edc5c76-1a09-4067-9949-af1c38ba856b`. This is the only approved image of
 the hero. Do not generate replacements or variants of him.
 
+## VOICE CASTING
+
+Ten speaking parts, ten distinct voices, gender-matched. All Higgsfield presets —
+pass `voice_id` with `voice_type: "preset"`.
+
+| Character | Voice | voice_id | Why |
+|---|---|---|---|
+| **RYAN COLE** ♂ 50s | **Barrett** | `d603a8cd-3fe1-55e0-9245-617a2589131e` | Lead. Needs weight and tiredness, not heroism. He mostly gives orders and stops talking. |
+| **MARCUS OKOYE** ♂ 58 | **Arthur** | `30fc8796-ceb6-4a66-b3a7-4a145ef7f346` | The oldest. Dry, unhurried, says little. |
+| **KOFI MENSAH** ♂ 40s | **Knox** | `195e386a-cb61-5c1b-a53b-0e2f0669c408` | Biggest man, fewest words. Low and quiet. |
+| **DANIEL MERCER** ♂ 40s | **Dylan** | `b847bc29-f184-583a-8ad9-d1f1e16d1a60` | The sceptic — talks most, and fastest. Needs to sit clearly above the older three. |
+| **MATEO ALVAREZ** ♂ 30s | **Evan** | `f7a46aa0-183a-5327-b554-e71d8c0071bb` | Warm, open, talks about his kid. Dies first — the warmth has to land in one scene. |
+| **LIAM O'ROURKE** ♂ 26 | **Benji** | `e6f9b893-51b1-51d3-afe9-9e0482cb7ac1` | Must read audibly youngest. |
+| **ARMANDO** ♂ 75 | **Desmond** | `563f728c-e249-5a85-97ab-8461e8c09da6` | Weathered, patient, unbothered. Carries the legend. |
+| **THE BUYER** ♂ 60 | **Cillian** | `d8ba9f14-8a24-44db-932b-99e16c45bd32` | Cool, precise, professional. |
+| **MAYA BENNETT** ♀ 30s | **Maeve** | `64cf4f1a-61c8-5938-9aea-83d12b2e1d13` | Conscience of the film, and the sacrifice. Warm but hard-edged. |
+| **ELENA ALVAREZ** ♀ 30s | **Soraya** | `5c1d2f7f-cdb4-5b1d-bca9-156439e3275e` | One scene. Must not sound like Maya — different register entirely. |
+
+### The separation problem
+
+Ryan, Marcus and Kofi are three older men who share scenes constantly, often in the
+dark where the audience cannot see who is speaking. If those three blur, the film
+becomes incomprehensible in exactly the stretch that matters most. They are cast
+deliberately apart — Barrett with weight, Arthur older and drier, Knox lower and
+sparser — and Dylan sits above all three so Daniel cuts through. **Audition those
+four together before anything else.**
+
+### I have not heard these
+
+The audio CDN is blocked from my session, so these are cast on character fit, not
+on sound. Every voice has a `preview_url` from `list_voices` — audition them and
+swap freely. The assignments are a starting point, not a verdict.
+
+### Pipeline warning — this one matters
+
+Your Scene 4 render used `seedance_2_5` with `generate_audio: true`. That makes the
+**model invent a voice per shot**. Voices will then drift from cut to cut exactly
+the way faces drift without Elements — and there is no voice equivalent of an
+Element to stop it.
+
+To hold these ten voices you must generate dialogue **separately** as speech and lay
+it against the picture, rather than letting the video model speak. Decide this before
+the first shot, because it changes how every clip is generated.
+
 ## THE SEVEN
 
 | # | Name | Role | Weapon | Set B ref (USE THIS) | Set A ref (name source) |
