@@ -15,7 +15,7 @@ the man in the last shot.
 | **Reference** | Fixed three-panel turnaround (front / back / close-up) supplied by the director. Supersedes the broken `664a7145`. |
 | **Source upload it was built from** | `28eafc20-97e2-45ef-9478-6b3494765754` |
 | **Look** | Black, 50s. Short greying afro, grey-flecked beard, deep-lined face. **Scar across the bridge of the nose toward the left cheek.** Olive long-sleeve combat shirt, olive tactical trousers, knee pads, belt rig, fingerless gloves, thigh holster, worn boots. |
-| **Weapon** | Sidearm in a thigh holster on the identity plate. His rifle is specified per shot, not baked into the reference. |
+| **Weapon** | Sidearm in a thigh holster on the identity plate. **His rifle is NOT in the reference and MUST be added in every shot prompt** — modern assault rifle on a sling. In the tunnel scenes it is slung across his back, not in his hands. Omitting it sends the team leader into the cave unarmed. |
 | **Why this is the hero** | It is the only asset in your entire workspace whose prompt names him: *"He is a veteran special-operations team member and **the eventual hero of the expedition**."* Nothing else carries that tag. |
 
 Ryan now has a dedicated turnaround rather than a job ID pulled from the cast
@@ -208,21 +208,45 @@ question in the film.
 
 ## THE STONE — locked prop
 
-Size was drifting between fist, orange and plum. It is now one size everywhere.
+Size and shape were drifting between fist, orange and plum. Now one spec everywhere.
 
 | Stone | Size | Reference |
 |---|---|---|
-| **The eggs** — every diamond in the cave, in the packs, in Ryan's hand | **~6 cm, a hen's egg.** Sits in a palm with room around it. Never fist-sized. | in hand `da348527-98a2-4323-a2b3-8833c2776b24` · on wet rock `fb10acfa-0486-4f35-a771-5068ce256784` |
+| **The eggs** — every diamond in the cave, in the packs, in Ryan's hand | **~8 cm at its widest.** Fills most of a palm, fingers still visible around it. Never fist-sized. | in hand `0836207e-6716-4e1c-a898-6cecdfc544b1` · on wet rock `0326e392-aa2d-4c16-b60d-adb0cf41cb2c` |
 | **Armando's stone** | **~1 cm, a pea.** Visibly tiny on the crate. | `c8da5536-47d9-4269-8de7-5dec3fde2f3f` |
 
-**Form:** rough uncut octahedral crystal, rounded frosted greasy faces, faint internal
-fractures, warm adamantine lustre. Never a cut or faceted jewellery gemstone.
+**Shape — irregular, not crystalline.** Asymmetric, knobbly, unbalanced. Broken and
+chipped edges, one side sheared off blunt, shallow pits and gouges. It sits at an
+awkward angle because no face is flat. Never a symmetrical octahedron, never a cut or
+faceted jewellery gemstone. With the shine covered it would look like an ordinary
+broken rock.
 
-**Faint concentric layering is visible beneath the surface in all three.** That is the
-egg seeded early, so when Maya says *"It grew in rings, like a tree"* she is pointing
-at something the audience has already been looking at for eight minutes.
+**Finish — brilliant.** Patches of naturally glassy material throw hard white
+speculars and deep internal reflections, prismatic fire flashes blue and gold through
+the body, and caustic light spills onto whatever it is resting on, so the stone lights
+its surroundings. Frosted greasy matte areas between the glassy patches.
 
-**Why this size.** A rough diamond the size of a fist is a once-in-a-century object
-and reads as fantasy on screen. Six centimetres is still extraordinary — hundreds of
-carats — but the audience believes it. And the gap between Armando's pea and what is
-underground is what makes *"That is the smallest one"* land.
+The ugly shape fighting the brilliance is the effect. A neat crystal reads as a prop;
+a lumpy rock that throws light like that reads as something nobody carved.
+
+**Faint concentric layering sits deep beneath the surface in all of them.** That is the
+egg seeded in plain sight, so when Maya says *"It grew in rings, like a tree"* she is
+pointing at something the audience has been looking at since the opening scene.
+
+**Why this size.** A rough diamond the size of a fist is a once-in-a-century object and
+reads as fantasy. Eight centimetres is still extraordinary and still believed. And the
+gap between Armando's pea and what is underground is what makes *"That is the smallest
+one"* land.
+
+## RYAN'S RIFLE — standing rule
+
+The supplied turnaround carries **only a thigh sidearm**. The rifle is not in it, so it
+**must be written into every shot prompt** or he goes into the scene unarmed — which is
+what happened on the first render of Scene 1.
+
+He carries it **slung across his back, never in his hands.** Through the cold open, and
+again when the film returns to that tunnel at the end. He has carried that weapon
+through everything and it has never once been any use to him.
+
+This is deliberate, not a costume note. Marcus dies firing at her. Ryan survives by
+putting a stone down. The weapon being visibly useless is the argument the film makes.
