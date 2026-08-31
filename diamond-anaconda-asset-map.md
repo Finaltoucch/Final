@@ -83,14 +83,39 @@ Three things are in these frames already, so don't write or generate them twice:
   doesn't find an empty ruin and then get ambushed; they walk into a place that is
   visibly not theirs. Play it that way.
 
-### One location, four underground scenes
+### One reference, twelve underground scenes — the depth ladder
 
-Reference 3 has to carry the sink hole, the diamond cavern, the carving chamber,
-the sluice gate and the deep chamber. Separate them by **light and water level**,
-not by set: torch-only and dry high up, torch-only and ankle-deep in the middle,
-waist-deep and moving at the gate, and the deep chamber the one place with enough
-diamond-scatter to light itself. If every underground scene looks the same, the
-descent stops reading as a descent.
+Reference 3 carries the entire second half. The script now stamps every
+underground scene with a bracketed DEPTH note giving its water level, light
+source and roof height. Follow them literally and the same reference yields
+twelve different places; ignore them and the descent stops reading as a descent.
+
+| Depth | Scene | Water | Light |
+|---|---|---|---|
+| 2 | First cavern | Dry | Torch, not reaching the far wall |
+| 3 | Carving chamber | Dry | Torch close on stone, roof at head height |
+| 4 | Side passage | Damp | A seam, not a room |
+| 5 | Cavern camp | Flat standing pools | **Chemical lamp** — green-white, unmoving |
+| 6 | Passages / hatchlings | Ankle-deep, running | Swinging torch and muzzle flash |
+| 7 | Lower passage | Knee-deep and rising | Roof coming down to the water |
+| 8 | Sluice gate | Waist-deep, moving fast | Rotted timber. Loudest place in the film |
+| 9 | Climbing passage | Climbing clear of it | Running walls, flood dropping away below |
+| 10 | **Deep chamber** | Dry | **Lights itself.** Diamond-scatter. Kill the torches |
+| 11 | The tunnel (cold open, and its resolve) | Ankle-deep, still | One failing torch. Handprints |
+
+Depth 10 is the only room in the film that is beautiful, and the only one not lit
+by the team. That contrast is the whole point of the location.
+
+### Locations still needed — three, not five
+
+Consolidated down from five so you generate less: the boathouse and the dock are
+now one **BOATYARD** (day and night), and the dealer's office has been moved into
+**RYAN'S ROOM** — the buyer comes to him, which is also better, since Ryan never
+has to carry the stones out in public.
+
+1. **Boatyard** — working dock, gear on concrete, day and night
+2. **Suburban doorway** — screen door, hot street, a kid's bicycle in the hallway
+3. **Ryan's room** — bare rented room, one table (buyer scene by day, final shot at night)
 
 ## 4. Already rendered
 
