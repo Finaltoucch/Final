@@ -1,3 +1,17 @@
+> # ⛔ DO NOT USE — RETIRED ELEMENT
+>
+> **`e788b2c7-0476-443f-bfdb-dd8832f85644` — "Ryan-Cole" (unarmed)**
+>
+> This element is **retired**. Using it puts the team leader on screen **with no
+> rifle**, which is what happened on the first render of Scene 1.
+>
+> **The only approved hero element is:**
+> ## `066aa34a-37fa-411b-8dcf-d356fb5bf083` — Ryan-Cole-Armed
+>
+> Check the ID before every single shot. If it starts `e788b2c7`, stop.
+
+---
+
 # DIAMOND ANACONDA — Character & Creature Bible
 
 Single source of truth for identity and scale. If a prompt disagrees with this
