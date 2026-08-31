@@ -72,9 +72,9 @@ is older, slighter and grey-goateed with an assault rifle; Kofi is younger, much
 bigger, and the only man with a belt-fed machine gun. Weapon is the fastest way an
 audience tells them apart, so the weapon is written into both Elements.
 
-Ryan's Element uses the director-supplied three-panel turnaround as its master.
-Two single-panel extractions exist for per-shot use — `9812bede-8c14-4b8b-9998-3817cd567a5a`
-and `a982d618-0171-423b-961d-83ba83b1e72e` — pending selection.
+Ryan's Element uses the director-supplied three-panel turnaround, and nothing else.
+Media id `5edc5c76-1a09-4067-9949-af1c38ba856b`. This is the only approved image of
+the hero. Do not generate replacements or variants of him.
 
 ## THE SEVEN
 
