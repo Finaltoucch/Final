@@ -12,10 +12,11 @@ the man in the last shot.
 
 | | |
 |---|---|
-| **Reference** | Fixed three-panel turnaround (front / back / close-up) supplied by the director. Supersedes the broken `664a7145`. |
+| **Element** | **`066aa34a-37fa-411b-8dcf-d356fb5bf083`** — Ryan-Cole-Armed. Use this one. |
+| **Reference** | Armed three-panel turnaround (front / back / close-up) supplied by the director, media `61201a14-4c4a-49aa-bbce-78e6753b4ad8`. Supersedes both the broken `664a7145` and the unarmed element. |
 | **Source upload it was built from** | `28eafc20-97e2-45ef-9478-6b3494765754` |
 | **Look** | Black, 50s. Short greying afro, grey-flecked beard, deep-lined face. **Scar across the bridge of the nose toward the left cheek.** Olive long-sleeve combat shirt, olive tactical trousers, knee pads, belt rig, fingerless gloves, thigh holster, worn boots. |
-| **Weapon** | Sidearm in a thigh holster on the identity plate. **His rifle is NOT in the reference and MUST be added in every shot prompt** — modern assault rifle on a sling. In the tunnel scenes it is slung across his back, not in his hands. Omitting it sends the team leader into the cave unarmed. |
+| **Weapon** | **AR-pattern assault rifle with suppressor and optic on a shoulder sling** — now in the reference itself. Pistol in a thigh holster on the left leg. In the tunnel scenes the rifle is slung across his back, never in his hands. |
 | **Why this is the hero** | It is the only asset in your entire workspace whose prompt names him: *"He is a veteran special-operations team member and **the eventual hero of the expedition**."* Nothing else carries that tag. |
 
 Ryan now has a dedicated turnaround rather than a job ID pulled from the cast
@@ -54,7 +55,8 @@ the same protection the creature had. Reference the Element, not a loose job ID.
 
 | Character | Element ID |
 |---|---|
-| **RYAN COLE** — hero, 50s, greying afro, nose scar | `e788b2c7-0476-443f-bfdb-dd8832f85644` |
+| **RYAN COLE** — hero, 50s, greying afro, nose scar, **armed** | `066aa34a-37fa-411b-8dcf-d356fb5bf083` |
+| ~~Ryan-Cole (unarmed, retired)~~ | ~~`e788b2c7-0476-443f-bfdb-dd8832f85644`~~ — **do not use** |
 | **MARCUS OKOYE** — 58, bald, grey goatee, assault rifle | `2a32ebca-35a7-4e6c-8653-a318517d8482` |
 | **MAYA BENNETT** — 30s, medic, long dark hair | `f44248b6-531b-4889-946c-b4a8b166477a` |
 | **DANIEL MERCER** — 40s, the only scoped rifle | `422c12d2-5a8b-497c-a08b-97c6e54066e6` |
@@ -65,6 +67,7 @@ the same protection the creature had. Reference the Element, not a loose job ID.
 | **THE BUYER** — 60, gemstone dealer | `63965603-83e0-48df-a591-716d0f919c37` |
 | **ELENA ALVAREZ** — 30s, Mateo's wife | `53497a77-1208-4f26-aa53-3cfabbc7d686` |
 | **THE MOTHER** — 30 ft, left-side head scar | `223a47e0-bd4c-474c-8c15-1ebc2b2ed43c` |
+| **THE DIAMOND** (prop) — 8 cm, irregular, brilliant | `e0762233-1eaa-43ab-a8d6-5c99fa8e0a0b` |
 
 Two pairs are deliberately disambiguated inside their own descriptions, because
 they are the confusion risk: **Marcus and Kofi are both bald and bearded** — Marcus
@@ -240,9 +243,9 @@ one"* land.
 
 ## RYAN'S RIFLE — standing rule
 
-The supplied turnaround carries **only a thigh sidearm**. The rifle is not in it, so it
-**must be written into every shot prompt** or he goes into the scene unarmed — which is
-what happened on the first render of Scene 1.
+**Resolved.** The armed turnaround now carries the rifle, so the Element enforces it
+rather than each prompt having to remember. The unarmed element is retired — using it
+is what sent the team leader into the cave with no weapon on the first render of Scene 1.
 
 He carries it **slung across his back, never in his hands.** Through the cold open, and
 again when the film returns to that tunnel at the end. He has carried that weapon
