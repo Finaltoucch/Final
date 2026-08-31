@@ -12,14 +12,18 @@ the man in the last shot.
 
 | | |
 |---|---|
-| **Reference (with weapon)** | `664a7145-c7f9-44c9-a2ba-0e97da8fa7ae` |
+| **Reference** | Fixed three-panel turnaround (front / back / close-up) supplied by the director. Supersedes the broken `664a7145`. |
 | **Source upload it was built from** | `28eafc20-97e2-45ef-9478-6b3494765754` |
-| **Look** | Short natural hair, beard/stubble, **distinctive facial scar**, muscular build, gloves, boots |
-| **Weapon** | Modern assault rifle, sling, ready position |
+| **Look** | Black, 50s. Short greying afro, grey-flecked beard, deep-lined face. **Scar across the bridge of the nose toward the left cheek.** Olive long-sleeve combat shirt, olive tactical trousers, knee pads, belt rig, fingerless gloves, thigh holster, worn boots. |
+| **Weapon** | Sidearm in a thigh holster on the identity plate. His rifle is specified per shot, not baked into the reference. |
 | **Why this is the hero** | It is the only asset in your entire workspace whose prompt names him: *"He is a veteran special-operations team member and **the eventual hero of the expedition**."* Nothing else carries that tag. |
 
-Ryan has **no `soul_cast` entry** — he exists only in the second casting pass. That
-is the single fact that decides the cast question below.
+Ryan now has a dedicated turnaround rather than a job ID pulled from the cast
+passes. It is the strongest identity asset in the project — front, back and
+close-up on a neutral field is exactly what holds a face steady across shots.
+
+**Age note:** he reads 50s on the plate, so the script now says 50s. Marcus stays
+58 and stays bald with a grey goatee, which keeps the two of them clearly apart.
 
 ---
 
