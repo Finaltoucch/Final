@@ -58,31 +58,39 @@ mixing the two sets in one shot will produce two different-looking teams.
 
 ---
 
-## 3. Locations — 16 references
+## 3. Locations — the five locked references
 
-| Location | ID | Script scenes |
-|---|---|---|
-| **Ilha das Anacondas** | `134b61af-eaaf-41cd-81a8-e2b2dd933e25` | Aerial approach — the island reveal |
-| **Pulau Bakau** | `2c968dc4-4808-40e9-9629-593bf9cb489d` | Mangrove channel, the hanging skins |
-| **Igarapé do Totem** | `053df9fc-e065-4e6b-b2c6-361e1cfd8caf` | Narrow channel, engine dies |
-| **Curva da Ceiba** | `010588f9-e157-4324-b153-970a4b6ac059` | River bend |
-| **Ciénaga de San Roque** | `ef579cfe-1a76-41e7-82af-e4ecd1f42bac` | Swamp crossing |
-| **Reserva Mamirauá** | `f7d6ebaf-2f9f-4243-a337-cc4b9f5089dd` | Flooded forest, deep jungle push |
-| **Brejo das Sucuris** | `0dd96246-e847-4381-be9b-e54efba57986` | Abandoned settlement |
-| **Brejo de Marajó** | `bcecfd1b-b0bd-4322-9db8-6888c24ad85f` | Riverbank — **Mateo taken** |
-| **Pântano do Jacaré** | `a4e83a0d-988a-435d-bc77-d4ef0f2c7d20` | The 1974 camp |
-| **Blackwater Sink Cave** | `5e00e437-919f-4809-9678-1a1c0a0955c0` | The sinkhole, stone steps, the descent |
-| **Gruta da Anaconda** | `3283b83c-98ad-4c39-b1eb-dc5dfb272139` | First cavern — the diamond walls |
-| **Cueva del Comandante** | `51aa6b12-090a-42f9-9e67-6da28521a3bd` | The carving chamber |
-| **Gruta da Sucuri** | `58305fcf-bf4c-4172-acd6-32bbeda2e73f` | Side passage — **Daniel's body**; the chokepoint |
-| **Caverna da Cachoeira** | `6e544577-fba6-47ef-aad7-63579a020564` | The sluice gate — **Maya's sacrifice** |
-| **Blackwater Grotto** | `0d0d7d12-dd33-4ea3-b9ec-24cf7169efca` | Flooded lower passage, the cold-open tunnel |
-| **Pango la Almasi** | `dcfcf6ec-2066-432d-9761-94f165fdae08` | **THE DEEP CHAMBER** — the clutch, the finale |
+These are the only five. Uploaded as media inputs; pass the `media_id`, not a URL.
 
-`Pango la Almasi` is Swahili for *cave of the diamond* — that one is the money
-location, and it's the only room in the film that should ever look beautiful.
+| # | Location | media_id | Original | Scenes |
+|---|---|---|---|---|
+| 1 | **The Island** — aerial, mangrove channels cutting inland | `9dfc7dfb-b77a-4990-a0bd-70929d38d06d` | Pulau Bakau | The approach. The reveal of where they're going. |
+| 2 | **Totem Creek** — the covered launch, mist, carved totem on the bank | `87fa480b-2558-44ae-ae8d-389dca65ab73` | Igarapé do Totem | Arrival. Engine dies. The shed skins. **The boat here is the film's scale ruler — thirty feet.** |
+| 3 | **The Sink Cave** — diamonds seamed in the wall, torches, snakes in the foreground | `145d207e-6e45-43d9-9ac5-749429d3ed0a` | Blackwater Sink Cave | The descent, the diamond walls, the carvings, the deep chamber, the cold-open tunnel. All underground work. |
+| 4 | **The Camp** — tarps, rusted crates, overturned boat, snakes lying in the open | `141d6988-80c7-4882-a953-59a5ec4e6fe3` | Pântano do Jacaré | The abandoned settlement, the radio, and the 1974 camp. |
+| 5 | **Ceiba Bend** — dawn mist, buttress-rooted tree mid-channel, dark water | `7e64e65b-e7ee-491e-a099-9d0d24db6f07` | Curva da Ceiba | The riverbank where Mateo is taken, and **the flooded crossing**. |
 
----
+### What the references already give you
+
+Three things are in these frames already, so don't write or generate them twice:
+
+- **The totem** (2). A carved warning marker on the bank. The team motors past it
+  without comment on the way in. It costs nothing and it pays when they learn the
+  island has been marked by people for centuries.
+- **Diamonds already in the wall** (3). The cavern reveal doesn't need a separate
+  discovery beat — the lights land and they're simply there.
+- **Snakes in the open, in daylight** (4). The camp is already occupied. The team
+  doesn't find an empty ruin and then get ambushed; they walk into a place that is
+  visibly not theirs. Play it that way.
+
+### One location, four underground scenes
+
+Reference 3 has to carry the sink hole, the diamond cavern, the carving chamber,
+the sluice gate and the deep chamber. Separate them by **light and water level**,
+not by set: torch-only and dry high up, torch-only and ankle-deep in the middle,
+waist-deep and moving at the gate, and the deep chamber the one place with enough
+diamond-scatter to light itself. If every underground scene looks the same, the
+descent stops reading as a descent.
 
 ## 4. Already rendered
 
