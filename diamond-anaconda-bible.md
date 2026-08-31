@@ -109,16 +109,29 @@ The audio CDN is blocked from my session, so these are cast on character fit, no
 on sound. Every voice has a `preview_url` from `list_voices` — audition them and
 swap freely. The assignments are a starting point, not a verdict.
 
-### Pipeline warning — this one matters
+### Voices CAN be locked — two ways
 
-Your Scene 4 render used `seedance_2_5` with `generate_audio: true`. That makes the
-**model invent a voice per shot**. Voices will then drift from cut to cut exactly
-the way faces drift without Elements — and there is no voice equivalent of an
-Element to stop it.
+**Presets.** `generate_audio` accepts `voice_id` plus `voice_type: "preset"`. Same
+id, same voice, every line, deterministic. That is what the ten above are.
 
-To hold these ten voices you must generate dialogue **separately** as speech and lay
-it against the picture, rather than letting the video model speak. Decide this before
-the first shot, because it changes how every clip is generated.
+**Voice Elements.** `create_voice` clones a voice from recorded or uploaded audio
+and stores it as `voice_type: "element"` — the exact parallel of the character
+Elements. One already exists in this workspace: `Finaltouch-`,
+`f20af7a3-2416-4cb8-b394-688e71bcc43d`. Use this route to give Ryan a specific real
+voice rather than a preset.
+
+### The actual limitation
+
+`generate_video` has **no voice parameter**. So when `seedance_2_5` runs with
+`generate_audio: true` — as the existing Scene 4 render did — it improvises a voice
+for that shot and there is no handle on it. The constraint is not the voice system;
+it is that the video model will not accept a voice id.
+
+**Therefore the pipeline is:** generate picture with the video model, generate every
+line of dialogue separately through `generate_audio` with the locked voice ids, and
+lay them together. Voices then hold across all thirty scenes as firmly as the faces
+do. Decide this before the first shot, because it changes how every clip is
+generated — a clip made with the model speaking cannot be re-voiced later.
 
 ## THE SEVEN
 
