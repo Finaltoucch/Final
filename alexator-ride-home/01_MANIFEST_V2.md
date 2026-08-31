@@ -55,3 +55,39 @@ smoothing, beauty filter, airbrushing and plastic skin.
 | 11 keyframes × nano_banana_pro | 22.00 |
 | 11 video shots × kling3_0 pro silent | 88.50 |
 | **This pass** | **112.50** |
+
+## Delivered
+
+| File | Link |
+|---|---|
+| `01_FINAL_ALEXATOR_Rise_Again.mp4` | https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/bc283ad1-0780-473a-a596-53e84131350f.mp4 |
+| `02_USED_AI_SOURCES.zip` | https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/bf129763-0a41-4f3b-afcb-9201d8686f94.zip |
+
+### Master — measured
+
+H.264 High, yuv420p, **1080×1920**, **24 fps**, 1049 frames, **43.711 s**, 90.1 MB.
+AAC-LC 48 kHz stereo. −13.6 LUFS, LRA 2.6 LU, true peak −4.6 dBFS.
+No black or frozen frames. No watermark, no black bars, no on-screen text.
+
+### Cut accuracy
+
+| target | actual | error (frames) |
+|---|---|---|
+| 3.528 | 3.542 | +0.34 |
+| 7.056 | 7.042 | −0.33 |
+| 10.584 | 10.584 | +0.01 |
+| **14.111 — the drop** | 14.126 | **+0.35** |
+| 17.639 | 17.626 | −0.32 |
+| 21.167 | 21.168 | +0.02 |
+| **24.695 — the breath** | 24.710 | **+0.36** |
+| 28.223 | 28.210 | −0.31 |
+| 31.751 | 31.752 | +0.03 |
+| 37.043 | 37.044 | +0.04 |
+
+Worst case ±0.36 of a frame, no accumulated drift.
+
+### Still outstanding
+
+`03_ORIGIN_PROOF.pdf` needs regenerating for this concept (the existing one describes
+GRAVITY WELL). Its two blocked sections remain: commercial-use term URLs, and the
+per-service workspace / subscription / timeline screenshots.
