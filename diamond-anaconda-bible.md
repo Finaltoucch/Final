@@ -47,6 +47,35 @@ photographic sources and will read as two different teams standing next to each 
 
 ---
 
+## LOCKED ELEMENTS — the whole cast
+
+Every character is now a saved Higgsfield Element with an enforcing description,
+the same protection the creature had. Reference the Element, not a loose job ID.
+
+| Character | Element ID |
+|---|---|
+| **RYAN COLE** — hero, 50s, greying afro, nose scar | `e788b2c7-0476-443f-bfdb-dd8832f85644` |
+| **MARCUS OKOYE** — 58, bald, grey goatee, assault rifle | `2a32ebca-35a7-4e6c-8653-a318517d8482` |
+| **MAYA BENNETT** — 30s, medic, long dark hair | `f44248b6-531b-4889-946c-b4a8b166477a` |
+| **DANIEL MERCER** — 40s, the only scoped rifle | `422c12d2-5a8b-497c-a08b-97c6e54066e6` |
+| **MATEO ALVAREZ** — 30s, curly hair, beard, the charges | `36e42750-f538-4e2f-aec7-7ae9c9f7c960` |
+| **KOFI MENSAH** — 40s, bald, bearded, the only machine gun | `44880f6f-1994-40a3-b6b2-590c4fa18baa` |
+| **LIAM O'ROURKE** — 26, youngest, the drone | `195d7dd6-010f-4799-b56e-4c10421f4a73` |
+| **ARMANDO** — 75, the old man by the fire | `c471596e-2ca8-4662-b3bb-27a604605691` |
+| **THE BUYER** — 60, gemstone dealer | `63965603-83e0-48df-a591-716d0f919c37` |
+| **ELENA ALVAREZ** — 30s, Mateo's wife | `53497a77-1208-4f26-aa53-3cfabbc7d686` |
+| **THE MOTHER** — 30 ft, left-side head scar | `223a47e0-bd4c-474c-8c15-1ebc2b2ed43c` |
+
+Two pairs are deliberately disambiguated inside their own descriptions, because
+they are the confusion risk: **Marcus and Kofi are both bald and bearded** — Marcus
+is older, slighter and grey-goateed with an assault rifle; Kofi is younger, much
+bigger, and the only man with a belt-fed machine gun. Weapon is the fastest way an
+audience tells them apart, so the weapon is written into both Elements.
+
+Ryan's Element uses the director-supplied three-panel turnaround as its master.
+Two single-panel extractions exist for per-shot use — `9812bede-8c14-4b8b-9998-3817cd567a5a`
+and `a982d618-0171-423b-961d-83ba83b1e72e` — pending selection.
+
 ## THE SEVEN
 
 | # | Name | Role | Weapon | Set B ref (USE THIS) | Set A ref (name source) |
