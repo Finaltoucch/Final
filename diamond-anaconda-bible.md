@@ -202,3 +202,27 @@ live young. Kofi says so out loud, and Maya answers:
 
 That turns the one piece of biology that could read as a mistake into the deepest
 question in the film.
+
+
+---
+
+## THE STONE — locked prop
+
+Size was drifting between fist, orange and plum. It is now one size everywhere.
+
+| Stone | Size | Reference |
+|---|---|---|
+| **The eggs** — every diamond in the cave, in the packs, in Ryan's hand | **~6 cm, a hen's egg.** Sits in a palm with room around it. Never fist-sized. | in hand `da348527-98a2-4323-a2b3-8833c2776b24` · on wet rock `fb10acfa-0486-4f35-a771-5068ce256784` |
+| **Armando's stone** | **~1 cm, a pea.** Visibly tiny on the crate. | `c8da5536-47d9-4269-8de7-5dec3fde2f3f` |
+
+**Form:** rough uncut octahedral crystal, rounded frosted greasy faces, faint internal
+fractures, warm adamantine lustre. Never a cut or faceted jewellery gemstone.
+
+**Faint concentric layering is visible beneath the surface in all three.** That is the
+egg seeded early, so when Maya says *"It grew in rings, like a tree"* she is pointing
+at something the audience has already been looking at for eight minutes.
+
+**Why this size.** A rough diamond the size of a fist is a once-in-a-century object
+and reads as fantasy on screen. Six centimetres is still extraordinary — hundreds of
+carats — but the audience believes it. And the gap between Armando's pea and what is
+underground is what makes *"That is the smallest one"* land.
