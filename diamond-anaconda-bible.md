@@ -290,3 +290,69 @@ her eyes are visible — must pass `2b2a2920-35d4-4931-9dbe-7d0ee1678510` in `me
 and must state "thirty feet" and "thirty centimetres thick" in the prompt text.
 
 See SHOT-CHECKLIST.md for the pre-flight.
+
+---
+
+## SNAKE VISION — her POV
+
+### The biology it's built on
+
+Boids sense infrared through **labial pit organs**. Unlike an eye, a pit organ has
+**no lens** — heat blooms through a bare aperture onto a membrane. The resolution is
+genuinely terrible. She does not see a picture. She senses a smear of warmth with no
+edges and no detail.
+
+**So this is NOT Predator.** Predator's POV is crisp, high-resolution false colour with
+targeting graphics. Hers is the opposite, and it should be more disturbing for it:
+blurred, formless, no outlines, no readout, no interface. It looks like being seen by
+something that does not have eyes.
+
+### Locked look
+
+| | |
+|---|---|
+| Resolution | **Very low.** Heavy blur. No sharp edges anywhere. No fine detail. |
+| Warm bodies | Blooming **orange → white** at the core, falling off to red at the margins. Soft-edged masses, not silhouettes. Faces do not read. |
+| Cold rock, water, air | **Dead black.** Formless. The cave has no geometry in her view. |
+| Interface | **None.** No crosshairs, no text, no scan lines, no HUD. |
+| Movement | Slow, heavy, low to the ground. She does not dart. |
+| Sound | Her breathing only. No score. All the world's sound drops away. |
+
+### THE RULE THAT MAKES IT MEAN SOMETHING
+
+**The diamonds are cold. She cannot see them as objects — she sees the hole they make.**
+
+A man carrying eggs reads as a burning orange body with a **dead-black cold mass on
+his back**. That is how she picks her targets out of a group. It is also why she goes
+past men who are not carrying, and why Maya survives long enough to say so.
+
+In the cold open, when Ryan sets the stone down, her POV shows the cold mass **separate
+from the man, alone on the floor.** The shot explains why her eyes go to the stone
+instead of to him — before the audience has consciously worked it out.
+
+### Where it fires — and where it must not
+
+Use it **four times in the whole film.** It stops working the moment it is decoration.
+
+| Scene | Length | What it shows |
+|---|---|---|
+| **Cold open** | 2 × ~3 s | The cold mass on Ryan's back; then the same mass alone on the floor after he sets it down. |
+| **Flooded crossing** | ~3 s | Six burning shapes wading in file. Four have cold masses on their backs. She passes between them anyway — she is not hunting yet. |
+| **The chokepoint** | ~2 s | Kofi burning white-hot from the machine gun barrel, muzzle flash blowing the whole frame out. The only time her view is overwhelmed. |
+| **Deep chamber** | ~3 s | The clutch on the floor as a field of cold. Ryan's pack the same cold. **She cannot tell the difference** — which is exactly why she comes for him. |
+
+**Never** use it for a jump scare, never during dialogue, and never when she is merely
+present. It fires only when she has already decided to move, so the cut itself becomes
+the threat signal.
+
+### Prompt wording for generation
+
+> "Extreme low-resolution infrared thermal point-of-view, as seen through a snake's pit
+> organ — heavily blurred, no sharp edges, no fine detail, no outlines. Warm human bodies
+> bloom orange and white against dead black cold rock and water. No interface, no
+> crosshairs, no text, no scan lines, no HUD. Slow, heavy, low to the ground."
+
+Add for shots with eggs in frame:
+
+> "The stone the man carries is COLD — it appears as an absolute black void against his
+> burning body."

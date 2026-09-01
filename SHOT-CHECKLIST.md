@@ -21,6 +21,25 @@ Delete the retired one in the Higgsfield UI when you get a moment
 
 ---
 
+
+---
+
+# 🔴 SNAKE VISION SHOTS
+
+Four in the whole film: cold open (×2), flooded crossing, chokepoint, deep chamber.
+Never a jump scare, never over dialogue, never when she is merely present.
+
+**Look:** extreme LOW-resolution infrared, heavily blurred, no sharp edges, no detail,
+no outlines. Warm bodies bloom orange/white; cold rock and water are dead black.
+**No interface — no crosshairs, no text, no scan lines, no HUD.** This is a pit organ,
+not Predator.
+
+**The rule:** diamonds are COLD. A man carrying eggs = burning body with a **dead-black
+cold mass on his back**. That is how she selects targets.
+
+Full spec in the bible.
+
+
 # 🚨 CAST IN SHOT — HARD RULE
 
 **Never describe a character in prompt text. If they have an Element, pass it.**
