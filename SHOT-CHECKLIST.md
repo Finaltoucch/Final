@@ -35,8 +35,10 @@ body undulation so the horizon rocks · slow relentless forward drive that never
 jerks · water lapping the bottom of the lens · snout and tongue entering frame · ultra-wide
 with slight fisheye. Humans get closer without ever appearing to be chased.
 
-**Two variants:** NATURAL (torchlight, default) · INFRARED (same move, graded with
-`6b42ede5`, used sparingly where the cold-diamond rule matters).
+**The colour is ALWAYS infrared** — grade every snake cam shot with `6b42ede5`. There is
+no natural-light version. She never sees in ordinary light, so neither does the audience
+when riding her. **Needs BOTH:** the weave (or it's a still thermal picture) and the
+grade (or it isn't her).
 
 Four uses: cold open, flooded crossing, chokepoint, deep chamber. Full spec in the bible.
 

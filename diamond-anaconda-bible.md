@@ -315,15 +315,19 @@ which is the opposite of the point.
 | **What it does to the humans** | They get closer without ever appearing to be chased. She closes distance at a constant unhurried rate. That is what makes it unbearable. |
 | **Sound** | Her breathing. Water moving around a heavy body. No score. |
 
-### Two variants
+### The colour is ALWAYS the infrared grade
 
-**SNAKE CAM — NATURAL.** Normal darkness and torchlight, seen from her position.
-The default. Use for most of them.
+There is no natural-light variant. **Every snake cam shot is graded to her heat sense**,
+using reference `6b42ede5`: extreme low resolution, heavy blur, no sharp edges, no
+detail, no interface of any kind. Warm bodies bloom orange and white; cold rock, water
+and air are dead black.
 
-**SNAKE CAM — INFRARED.** The same move, graded to her heat sense using reference
-`6b42ede5`: extreme low resolution, heavy blur, no edges, no interface. Warm bodies
-bloom orange and white, cold rock is dead black. Use sparingly, and only where the
-cold-diamond rule matters.
+She never sees in ordinary light, so the audience never does either when riding her.
+The moment we cut to her, the world changes colour — and that cut is the threat signal.
+
+**Movement AND colour together.** The move is what was missing before; the grade was
+never in question. A shot with the grade but no weave is a still thermal picture. A
+shot with the weave but no grade is not her. It needs both.
 
 ### The rule that gives it meaning
 
@@ -334,12 +338,12 @@ following the man.
 
 ### Where it fires — four times
 
-| Scene | Variant | What the ride is |
-|---|---|---|
-| **Cold open** | Natural, then a 2 s infrared flash | Weaving up the flooded tunnel behind Ryan, gaining. Then one flash of heat sense: his burning shape, the black cold on his back. |
-| **Flooded crossing** | Natural | Gliding *between* six wading legs, close enough to touch them, and passing on. |
-| **The chokepoint** | Natural | Driving up a four-foot corridor into muzzle flash that blows the frame out. |
-| **Deep chamber** | Infrared | Crossing the clutch — a field of cold — toward Ryan, whose pack reads as the same cold. |
+| Scene | What the ride is |
+|---|---|
+| **Cold open** | Weaving up the flooded tunnel behind Ryan, gaining on him. He burns orange-white ahead; the black cold sits on his back. |
+| **Flooded crossing** | Gliding *between* six burning wading shapes, close enough to touch, and passing on. Four of them carry black cold. |
+| **The chokepoint** | Driving up a four-foot corridor toward Kofi, whose machine gun barrel burns white and blows the whole frame out. |
+| **Deep chamber** | Crossing the clutch — a field of cold — toward Ryan, whose pack reads as exactly the same cold. She cannot tell the difference. |
 
 Never a jump scare, never over dialogue, never when she is merely present.
 
@@ -350,5 +354,12 @@ Never a jump scare, never over dialogue, never when she is merely present.
 > continuously with each body undulation so the horizon rocks left and right, while
 > driving slowly and relentlessly forward. Water laps at the bottom of the lens. The
 > snout and flicking tongue enter the bottom of frame. Never stops, never jerks,
-> never hurries."
+> never hurries.
+>
+> The entire shot is rendered in the creature's infrared heat sense: extreme low
+> resolution, heavily blurred, no sharp edges, no fine detail, no outlines, and no
+> interface of any kind — no crosshairs, no text, no scan lines, no HUD. Warm human
+> bodies bloom orange and white. Cold rock, water and air are dead black and formless.
+> Anything a person carries that is cold appears as a hard black void punched into
+> their burning body."
 
