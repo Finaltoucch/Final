@@ -315,19 +315,32 @@ which is the opposite of the point.
 | **What it does to the humans** | They get closer without ever appearing to be chased. She closes distance at a constant unhurried rate. That is what makes it unbearable. |
 | **Sound** | Her breathing. Water moving around a heavy body. No score. |
 
-### The colour is ALWAYS the infrared grade
+### The colour is ALWAYS the infrared grade — OVER THE REAL SCENE
 
-There is no natural-light variant. **Every snake cam shot is graded to her heat sense**,
-using reference `6b42ede5`: extreme low resolution, heavy blur, no sharp edges, no
-detail, no interface of any kind. Warm bodies bloom orange and white; cold rock, water
-and air are dead black.
+Every snake cam shot is graded to her heat sense. But this is a **grade laid over the
+actual live-action scene**, not an abstract heat smear.
 
-She never sees in ordinary light, so the audience never does either when riding her.
-The moment we cut to her, the world changes colour — and that cut is the threat signal.
+**SHE SEES THE REAL PEOPLE IN THE REAL PLACE.**
 
-**Movement AND colour together.** The move is what was missing before; the grade was
-never in question. A shot with the grade but no weave is a still thermal picture. A
-shot with the weave but no grade is not her. It needs both.
+- **The characters are their actual selves.** Ryan is recognisably Ryan — his build,
+  his kit, the pack on his back, the rifle slung across it. When the team are on
+  screen you can tell who is who. **Pass their character references on every POV shot,
+  exactly as you would on a normal shot.**
+- **The location is the actual location.** The tunnel walls, the waterline, the rock,
+  the gear on the ground. Real geometry, real space, real depth.
+- The grade sits **on top** of all that: bodies read hot in white, orange and red;
+  stone, water and air read cold in deep blue-black. Slightly soft and low-contrast,
+  like heat rather than light — but the world is still legible.
+- **No interface.** No crosshairs, no text, no scan lines, no HUD.
+
+**What went wrong before:** the reference image was a colour and mood study, and it
+was read as the level of abstraction. That produced formless blobs in a black void.
+Wrong. She is not hallucinating shapes — she is looking at these specific people, in
+this specific tunnel, in her own colour.
+
+**Movement AND colour AND the real scene.** All three. The move makes it hers, the
+grade makes it her sense, and the real people make it matter — because the audience
+has to know it is *Ryan* she is closing on.
 
 ### The rule that gives it meaning
 
@@ -356,10 +369,12 @@ Never a jump scare, never over dialogue, never when she is merely present.
 > snout and flicking tongue enter the bottom of frame. Never stops, never jerks,
 > never hurries.
 >
-> The entire shot is rendered in the creature's infrared heat sense: extreme low
-> resolution, heavily blurred, no sharp edges, no fine detail, no outlines, and no
-> interface of any kind — no crosshairs, no text, no scan lines, no HUD. Warm human
-> bodies bloom orange and white. Cold rock, water and air are dead black and formless.
-> Anything a person carries that is cold appears as a hard black void punched into
-> their burning body."
+> The entire shot is graded to the creature's infrared heat sense, applied OVER the
+> real scene. The actual characters and the actual location remain fully visible and
+> recognisable — the same people from the reference images, the same tunnel, real
+> geometry and real depth. Their bodies read hot in white, orange and red; the stone,
+> water and air read cold in deep blue-black. Slightly soft and low in contrast, like
+> heat rather than light, but everything is still clearly legible. No interface, no
+> crosshairs, no text, no scan lines, no HUD. Anything cold that a person carries
+> reads as a dark void against the heat of their body."
 

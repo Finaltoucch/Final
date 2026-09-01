@@ -35,10 +35,15 @@ body undulation so the horizon rocks · slow relentless forward drive that never
 jerks · water lapping the bottom of the lens · snout and tongue entering frame · ultra-wide
 with slight fisheye. Humans get closer without ever appearing to be chased.
 
-**The colour is ALWAYS infrared** — grade every snake cam shot with `6b42ede5`. There is
-no natural-light version. She never sees in ordinary light, so neither does the audience
-when riding her. **Needs BOTH:** the weave (or it's a still thermal picture) and the
-grade (or it isn't her).
+**The colour is ALWAYS infrared — laid OVER THE REAL SCENE.** She is looking at the
+actual characters in the actual location. Ryan is recognisably Ryan; the tunnel is the
+real tunnel. **Pass every character reference on a POV shot exactly as on a normal
+shot.** Bodies read hot white/orange/red, stone and water cold blue-black, soft and
+low-contrast, no interface. NOT abstract blobs in a void — that was a misread of the
+colour study.
+
+**Needs all three:** the weave (or it's a still picture) · the grade (or it isn't her) ·
+the real people (or the audience doesn't know who she's closing on).
 
 Four uses: cold open, flooded crossing, chokepoint, deep chamber. Full spec in the bible.
 
