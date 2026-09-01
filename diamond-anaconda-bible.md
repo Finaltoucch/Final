@@ -297,10 +297,12 @@ See SHOT-CHECKLIST.md for the pre-flight.
 
 **This is a CAMERA MOVE, not a colour effect.** The idea is that a camera has been
 mounted on the animal, so the audience rides her: they feel her weight, her rhythm and
-her patience from the inside. The infrared reference image `6b42ede5` shows how she
-*perceives* — it is a grade that can be laid over some of these shots. It is not the
-shot itself. Getting that backwards produces a static thermal picture with no movement,
-which is the opposite of the point.
+her patience from the inside.
+
+**There is NO reference image for the thermal look.** The old study contained two
+figures and inserted a second person into a one-man scene, so it has been withdrawn.
+The grade is described in words in every prompt, and `medias` carries only the
+characters actually present in that scene.
 
 ### The movement — this is the whole thing
 

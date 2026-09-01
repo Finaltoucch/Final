@@ -105,7 +105,7 @@ The sequence that sells the film. Three clips.
 |---|---|---|---|
 | **4A** six wading waist-deep in file, weapons up, Kofi stops | 15 | 98 | `61201a14` + `775128fd` + `7e64e65b` |
 | **4B** camera lifts to straight-down aerial; she crosses their line four feet under | 20 | 130 | `2b2a2920` + `7e64e65b` |
-| **4C** POV: six burning shapes, four with cold masses on their backs | 10 | 65 | `6b42ede5` |
+| **4C** POV: six burning shapes, four with cold masses on their backs | 10 | 65 | the six character refs only — thermal described in words |
 
 **Total 293 credits.**
 
@@ -131,7 +131,7 @@ carries the POV device, and nothing else in the film matters if it doesn't land.
 1. Every character visible in the shot has their media id in `medias`. No one described in words.
 2. Creature in frame → **`2b2a2920`** in `medias` (the IMAGE, not the element), and the words "fifty feet" and "sixty centimetres" in the prompt.
 3. No banned word: enormous, huge, massive, giant, colossal, towering, titanic, monstrous.
-4. POV shot → **`6b42ede5`** in `medias` (the IMAGE, not the element).
+4. POV shot → **only the characters actually in the scene** in `medias`. NO look-study image. Thermal described in words. State the headcount explicitly.
 5. Hero id starts `066aa34a` / media `61201a14`. **Never `e788b2c7`.**
 6. Ryan's rifle slung across his back in every tunnel shot.
 7. Diamond is 8 cm and irregular.

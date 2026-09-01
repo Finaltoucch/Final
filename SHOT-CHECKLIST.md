@@ -41,7 +41,7 @@ Delete the retired one in the Higgsfield UI when you get a moment
 
 ---
 
-# ⛔ NEVER PASS `6b42ede5` AS A GENERATION REFERENCE
+# ⛔ THE TWO-FIGURE LOOK STUDY IS DELETED — NEVER USE IT
 
 **[REMOVED — two-figure look study, do not use]** is the POV **look study**. It contains **TWO
 FIGURES**, because it was made to show how she views two people.
@@ -75,8 +75,8 @@ Cold open POV = Ryan `61201a14` and nothing more.
 # 🔴 SNAKE CAM SHOTS
 
 **It is a CAMERA MOVE, not a colour effect.** A camera rigged to the animal, so the
-audience rides her. The infrared image `6b42ede5` is a GRADE for some of these shots,
-not the shot itself.
+audience rides her. The thermal look is DESCRIBED IN WORDS in the prompt. There is no
+reference image for it — the old study contained two figures and has been withdrawn.
 
 **The move — non-negotiable:** waterline height · continuous LEFT-RIGHT SWING with each
 body undulation so the horizon rocks · slow relentless forward drive that never stops or
