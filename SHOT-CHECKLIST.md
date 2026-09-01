@@ -18,6 +18,60 @@ Delete the retired one in the Higgsfield UI when you get a moment
 
 ---
 
+
+---
+
+# 🚨 CAST IN SHOT — HARD RULE
+
+**Never describe a character in prompt text. If they have an Element, pass it.**
+
+Writing "an older bald man with a grey goatee" instead of passing Marcus's reference
+produces a stranger who happens to be bald. **This happened on the Scene 3 render:**
+only Ryan and the location were passed, so six of the seven team members were invented
+by the model.
+
+### Ensemble scenes must be broken into coverage
+
+A seven-hander cannot be one clip. Reference fidelity degrades as you stack faces, so
+split the scene into shots of **one or two named characters each**, and pass their
+actual references in every one.
+
+**Scene 3 — the boatyard — should be shot as four clips, not one:**
+
+| Shot | Who | References to pass |
+|---|---|---|
+| A — wide establisher | No faces readable. Gear on concrete, boat, shed. | boatyard plate only |
+| B — Marcus & Daniel | Marcus cleans his rifle; Daniel counts the split | `152eb482` + `fe62d845` + plate |
+| C — Kofi & Maya | Kofi feeds the belt; Maya packs clotting agent | `775128fd` + `ec3a91da` + plate |
+| D — Ryan | "We go in, we find them, we get out." | `61201a14` + plate |
+
+Same scene, same lines, four clips. Every face is a locked face.
+
+### Reference media ids for prompts (NOT the element ids)
+
+| Character | media/job id for `medias` |
+|---|---|
+| Ryan (armed) | `61201a14-4c4a-49aa-bbce-78e6753b4ad8` |
+| Marcus Okoye | `152eb482-8403-4df9-b2a7-2b08a148c638` |
+| Maya Bennett | `ec3a91da-da70-47f3-a5bf-c1fcc4acaa63` |
+| Daniel Mercer | `fe62d845-c254-4f3f-8ce9-13a1c1af048e` |
+| Mateo Alvarez | `ca764ab7-2ffe-4603-be92-40612517c1bb` |
+| Kofi Mensah | `775128fd-a1b2-43e1-91ee-a6fa7938b03e` |
+| Liam O'Rourke | `75702710-b898-4aa5-b8e7-d20afe36fe6f` |
+| Armando | `e31ad326-ca34-4789-88be-6cf88571f53c` |
+| The Buyer | `a09bed23-6102-48fd-aec4-fffd87663be2` |
+| Elena Alvarez | `ac93b0c7-3408-4256-afe8-a5e32cdeb07d` |
+| **The Mother** | `2b2a2920-35d4-4931-9dbe-7d0ee1678510` |
+| The Diamond | `0836207e-6716-4e1c-a898-6cecdfc544b1` |
+
+### Pre-flight, every shot
+
+1. List every character visible in the shot.
+2. Every one of them has their media id in `medias`. No exceptions.
+3. If that means more than three faces — **split the shot**, do not describe anyone.
+4. Creature in frame → `2b2a2920` is in `medias` too.
+
+
 # 🚨 CREATURE SHOTS — HARD RULE
 
 **If the creature appears in a shot, even as two eyes in the dark, the prompt MUST
