@@ -41,7 +41,31 @@ Delete the retired one in the Higgsfield UI when you get a moment
 
 ---
 
-# ⛔ THE TWO-FIGURE LOOK STUDY IS DELETED — NEVER USE IT
+# 🔴 SNAKE CAM — LOCKED LOOK ELEMENT
+
+**`60de5c28-4ef2-4f54-8a60-6d06ec61ccfa` — Snake-Cam-View**
+
+Pass it for the **treatment only** — colour mapping and camera. It is NOT a frame to
+reproduce; the content changes every scene.
+
+**Colour maps to temperature.** Cold = the world (blue, indigo, violet, cold blue-green,
+to black). Hot = living bodies only (white-yellow core → orange → red edge). **An empty
+shot has almost no warm colour in it.** A pack of eggs reads COLDER than its carrier —
+a dark void in the middle of their burning silhouette.
+
+**Camera:** low at the waterline · ultra-wide, slight fisheye · horizon rolled ·
+swings side to side with each undulation while driving slowly forward · **nothing of
+the creature ever visible** · real location, real depth · no interface, ever.
+
+**People come from character references, never from the look element.** State the
+headcount explicitly in every POV prompt.
+
+Approved empty plates: `f460487a-023a-4632-ad43-ef344f371be4` · `e32ea560-9c40-4f1d-84ea-abdbae50c040`
+Approved with-figure example (documentation only, do NOT pass): `e2721c24-573f-4708-991c-ee5a29346841`
+
+---
+
+# ⛔ RETIRED — NEVER USE
 
 **[REMOVED — two-figure look study, do not use]** is the POV **look study**. It contains **TWO
 FIGURES**, because it was made to show how she views two people.
