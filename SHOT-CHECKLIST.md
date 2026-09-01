@@ -15,6 +15,45 @@ Delete the retired one in the Higgsfield UI when you get a moment
 
 ---
 
+
+---
+
+# 🚨 CREATURE SHOTS — HARD RULE
+
+**If the creature appears in a shot, even as two eyes in the dark, the prompt MUST
+pass her reference in `medias`:**
+
+```
+{"role": "image_references", "value": "2b2a2920-35d4-4931-9dbe-7d0ee1678510"}
+```
+
+Element: `223a47e0-bd4c-474c-8c15-1ebc2b2ed43c` · Master image: `2b2a2920-35d4-4931-9dbe-7d0ee1678510`
+
+**This was missed on the Scene 1 render.** Only Ryan and the diamond were passed.
+The creature had no reference and no size constraint, so the model invented her scale.
+A locked Element does nothing if the generation never references it.
+
+### Banned words in any creature prompt
+
+**enormous · huge · massive · giant · colossal · towering · fills the tunnel ·
+titanic · monstrous**
+
+Every one of these invites the model to scale her up. Scene 1 used "enormous" twice.
+
+### Required wording instead
+
+> "A thirty-foot green anaconda, body about thirty centimetres thick at its widest —
+> a real animal of believable size, roughly as long as the team's boat. Pale diagonal
+> scar on the LEFT side of the head. Never larger than thirty feet."
+
+### Creature shot pre-flight — all four, every time
+
+1. Creature reference `2b2a2920` is in `medias` ✅
+2. The words "thirty feet" and "thirty centimetres" appear in the prompt ✅
+3. No banned word anywhere in the prompt ✅
+4. A known-scale object in frame — the 30-foot boat, a man, the rock walls ✅
+
+
 ## Approved element IDs
 
 | Asset | ID |

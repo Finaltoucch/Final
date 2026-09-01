@@ -267,3 +267,23 @@ through everything and it has never once been any use to him.
 
 This is deliberate, not a costume note. Marcus dies firing at her. Ryan survives by
 putting a stone down. The weapon being visibly useless is the argument the film makes.
+
+
+---
+
+## CREATURE SCALE — WHAT WENT WRONG ON SCENE 1
+
+The Element fixes her at 30 feet. The Scene 1 render still produced an oversized
+creature. The cause was not the Element and not the model:
+
+**The generation never referenced her.** `medias` carried Ryan's turnaround and the
+diamond only. Her master image `2b2a2920` was not passed, so nothing tied the shot to
+the locked spec — and the prompt text said "two enormous reptilian eyes", which is the
+one word the scale rules forbid.
+
+**A locked Element constrains nothing unless the generation passes it.** That is the
+whole lesson. From here, every shot in which she appears — including shots where only
+her eyes are visible — must pass `2b2a2920-35d4-4931-9dbe-7d0ee1678510` in `medias`
+and must state "thirty feet" and "thirty centimetres thick" in the prompt text.
+
+See SHOT-CHECKLIST.md for the pre-flight.
