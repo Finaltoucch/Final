@@ -13,7 +13,7 @@ both earlier errors came from (a missing creature reference, and six missing fac
 > |---|---|---|
 > | Ryan armed | `066aa34a…` | **`61201a14-4c4a-49aa-bbce-78e6753b4ad8`** |
 > | The Mother 50ft | `88a74648…` | **`2b2a2920-35d4-4931-9dbe-7d0ee1678510`** |
-> | Snake-vision POV | `9490f7c0…` | **`6b42ede5-d282-4fb6-be6e-2d8231c8c8ee`** |
+> | Snake-vision POV | `9490f7c0…` | ****[REMOVED — two-figure look study, do not use]**** |
 > | The Diamond | `e0762233…` | **`0836207e-6716-4e1c-a898-6cecdfc544b1`** |
 
 **Model spec for every video shot:** `seedance_2_5` · `mode: omni_reference` ·
@@ -35,7 +35,6 @@ same in total, and each half has its own chance of landing.
 `medias`:
 ```
 {"role":"image_references","value":"61201a14-4c4a-49aa-bbce-78e6753b4ad8"}   Ryan, armed
-{"role":"image_references","value":"6b42ede5-d282-4fb6-be6e-2d8231c8c8ee"}   Snake-vision POV
 ```
 
 > Extreme photorealistic live-action cinema, 35mm, handheld, fine film grain. Underground, night. No dialogue, no speech.
