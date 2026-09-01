@@ -43,6 +43,21 @@ cold mass on his back**. That is how she selects targets.
 Full spec in the bible.
 
 
+# ⚠️ ELEMENT IDs DO NOT GO IN `medias`
+
+`medias` takes **image job ids / media ids only**. An Element id returns
+`404 Media input not found`. Elements are a library concept; the generation needs the
+underlying image.
+
+| Asset | Element id | **media id — use in `medias`** |
+|---|---|---|
+| Ryan armed | `066aa34a…` | **`61201a14-4c4a-49aa-bbce-78e6753b4ad8`** |
+| The Mother 50 ft | `88a74648…` | **`2b2a2920-35d4-4931-9dbe-7d0ee1678510`** |
+| Snake-vision POV | `9490f7c0…` | **`6b42ede5-d282-4fb6-be6e-2d8231c8c8ee`** |
+| The Diamond | `e0762233…` | **`0836207e-6716-4e1c-a898-6cecdfc544b1`** |
+
+---
+
 # 🚨 CAST IN SHOT — HARD RULE
 
 **Never describe a character in prompt text. If they have an Element, pass it.**

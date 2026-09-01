@@ -3,6 +3,19 @@
 Exact payloads. Paste and go — no improvising at generation time, which is where
 both earlier errors came from (a missing creature reference, and six missing faces).
 
+> ## ⚠️ ELEMENT IDs DO NOT GO IN `medias`
+>
+> `medias` takes **image job ids / media ids only**. Passing an Element id returns
+> `404 Media input not found` and the job is rejected. Elements are a library concept;
+> generations take the underlying image.
+>
+> | Asset | Element id (library) | **media id — USE THIS in `medias`** |
+> |---|---|---|
+> | Ryan armed | `066aa34a…` | **`61201a14-4c4a-49aa-bbce-78e6753b4ad8`** |
+> | The Mother 50ft | `88a74648…` | **`2b2a2920-35d4-4931-9dbe-7d0ee1678510`** |
+> | Snake-vision POV | `9490f7c0…` | **`6b42ede5-d282-4fb6-be6e-2d8231c8c8ee`** |
+> | The Diamond | `e0762233…` | **`0836207e-6716-4e1c-a898-6cecdfc544b1`** |
+
 **Model spec for every video shot:** `seedance_2_5` · `mode: omni_reference` ·
 `16:9` · `720p` · `generate_audio: true` · `declined_preset_id: "24bae836-2c4a-48e0-89b6-49fcc0b21612"`
 
@@ -22,7 +35,7 @@ same in total, and each half has its own chance of landing.
 `medias`:
 ```
 {"role":"image_references","value":"61201a14-4c4a-49aa-bbce-78e6753b4ad8"}   Ryan, armed
-{"role":"image_references","value":"9490f7c0-ca3c-4173-aafa-862cd32d82e0"}   Snake-vision POV
+{"role":"image_references","value":"6b42ede5-d282-4fb6-be6e-2d8231c8c8ee"}   Snake-vision POV
 ```
 
 > Extreme photorealistic live-action cinema, 35mm, handheld, fine film grain. Underground, night. No dialogue, no speech.
@@ -48,7 +61,7 @@ same in total, and each half has its own chance of landing.
 ```
 {"role":"image_references","value":"61201a14-4c4a-49aa-bbce-78e6753b4ad8"}   Ryan, armed
 {"role":"image_references","value":"0836207e-6716-4e1c-a898-6cecdfc544b1"}   The diamond, 8cm
-{"role":"image_references","value":"88a74648-e818-438f-ab04-5ba44a56cabf"}   The Mother, 50ft
+{"role":"image_references","value":"2b2a2920-35d4-4931-9dbe-7d0ee1678510"}   The Mother, 50ft
 ```
 
 > Extreme photorealistic live-action cinema, 35mm, handheld, fine film grain. Underground, night. Same tunnel, same man as before. No dialogue except one whispered line at the end.
@@ -92,8 +105,8 @@ The sequence that sells the film. Three clips.
 | Shot | Sec | Cost | `medias` |
 |---|---|---|---|
 | **4A** six wading waist-deep in file, weapons up, Kofi stops | 15 | 98 | `61201a14` + `775128fd` + `7e64e65b` |
-| **4B** camera lifts to straight-down aerial; she crosses their line four feet under | 20 | 130 | `88a74648` + `7e64e65b` |
-| **4C** POV: six burning shapes, four with cold masses on their backs | 10 | 65 | `9490f7c0` |
+| **4B** camera lifts to straight-down aerial; she crosses their line four feet under | 20 | 130 | `2b2a2920` + `7e64e65b` |
+| **4C** POV: six burning shapes, four with cold masses on their backs | 10 | 65 | `6b42ede5` |
 
 **Total 293 credits.**
 
@@ -117,9 +130,9 @@ carries the POV device, and nothing else in the film matters if it doesn't land.
 ## PRE-FLIGHT — RUN THIS EVERY TIME
 
 1. Every character visible in the shot has their media id in `medias`. No one described in words.
-2. Creature in frame → `88a74648` in `medias`, and the words "fifty feet" and "sixty centimetres" in the prompt.
+2. Creature in frame → **`2b2a2920`** in `medias` (the IMAGE, not the element), and the words "fifty feet" and "sixty centimetres" in the prompt.
 3. No banned word: enormous, huge, massive, giant, colossal, towering, titanic, monstrous.
-4. POV shot → `9490f7c0` in `medias`.
+4. POV shot → **`6b42ede5`** in `medias` (the IMAGE, not the element).
 5. Hero id starts `066aa34a` / media `61201a14`. **Never `e788b2c7`.**
 6. Ryan's rifle slung across his back in every tunnel shot.
 7. Diamond is 8 cm and irregular.
