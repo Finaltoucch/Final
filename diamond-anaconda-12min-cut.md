@@ -42,7 +42,7 @@ the cold-open resolve, and the final shot. Cut anything else first.
 
 | Time | Sec | Scene | Beat |
 |---|---|---|---|
-| 0:00 | 45 | Tunnel | Cold open. Handprints, the abandoned diamond, the eyes going to the stone. Title. |
+| 0:00 | 30 | Tunnel | **Cold open, two 15s clips.** 1A: the collapse, the handprints, POV — the cold mass on his back. 1B: the stone set down, POV — the cold mass alone on the floor, her eyes follow it. Title. |
 | 0:45 | 60 | Fishing settlement | Armando. The legend. *"Neither do rocks."* / **"That is the smallest one."** |
 | 1:45 | 45 | Boatyard | The seven, one action each. Maya's loupe: *"This did not come out of the ground."* |
 | 2:30 | 30 | Boatyard night | Maya and Ryan. **"Say it back to me."** |
