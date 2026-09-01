@@ -24,24 +24,21 @@ Delete the retired one in the Higgsfield UI when you get a moment
 
 ---
 
-# 🔴 SNAKE VISION SHOTS
+# 🔴 SNAKE CAM SHOTS
 
-**Element: `9490f7c0-ca3c-4173-aafa-862cd32d82e0`** · reference still `6b42ede5-d282-4fb6-be6e-2d8231c8c8ee`
-Pass it in `medias` on every POV shot.
+**It is a CAMERA MOVE, not a colour effect.** A camera rigged to the animal, so the
+audience rides her. The infrared image `6b42ede5` is a GRADE for some of these shots,
+not the shot itself.
 
-Four in the whole film: cold open (×2), flooded crossing, chokepoint, deep chamber.
-Never a jump scare, never over dialogue, never when she is merely present.
+**The move — non-negotiable:** waterline height · continuous LEFT-RIGHT SWING with each
+body undulation so the horizon rocks · slow relentless forward drive that never stops or
+jerks · water lapping the bottom of the lens · snout and tongue entering frame · ultra-wide
+with slight fisheye. Humans get closer without ever appearing to be chased.
 
-**Look:** extreme LOW-resolution infrared, heavily blurred, no sharp edges, no detail,
-no outlines. Warm bodies bloom orange/white; cold rock and water are dead black.
-**No interface — no crosshairs, no text, no scan lines, no HUD.** This is a pit organ,
-not Predator.
+**Two variants:** NATURAL (torchlight, default) · INFRARED (same move, graded with
+`6b42ede5`, used sparingly where the cold-diamond rule matters).
 
-**The rule:** diamonds are COLD. A man carrying eggs = burning body with a **dead-black
-cold mass on his back**. That is how she selects targets.
-
-Full spec in the bible.
-
+Four uses: cold open, flooded crossing, chokepoint, deep chamber. Full spec in the bible.
 
 # ⚠️ ELEMENT IDs DO NOT GO IN `medias`
 

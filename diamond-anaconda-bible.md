@@ -293,70 +293,62 @@ See SHOT-CHECKLIST.md for the pre-flight.
 
 ---
 
-## SNAKE VISION — her POV
+## SNAKE CAM — the camera rigged to her
 
-**LOCKED ELEMENT: `9490f7c0-ca3c-4173-aafa-862cd32d82e0` (Snake-Vision-POV)**
-Approved reference still: `6b42ede5-d282-4fb6-be6e-2d8231c8c8ee`
-Pass the element in `medias` on every POV shot so the look is identical each time.
+**This is a CAMERA MOVE, not a colour effect.** The idea is that a camera has been
+mounted on the animal, so the audience rides her: they feel her weight, her rhythm and
+her patience from the inside. The infrared reference image `6b42ede5` shows how she
+*perceives* — it is a grade that can be laid over some of these shots. It is not the
+shot itself. Getting that backwards produces a static thermal picture with no movement,
+which is the opposite of the point.
 
-### The biology it's built on
-
-Boids sense infrared through **labial pit organs**. Unlike an eye, a pit organ has
-**no lens** — heat blooms through a bare aperture onto a membrane. The resolution is
-genuinely terrible. She does not see a picture. She senses a smear of warmth with no
-edges and no detail.
-
-**So this is NOT Predator.** Predator's POV is crisp, high-resolution false colour with
-targeting graphics. Hers is the opposite, and it should be more disturbing for it:
-blurred, formless, no outlines, no readout, no interface. It looks like being seen by
-something that does not have eyes.
-
-### Locked look
+### The movement — this is the whole thing
 
 | | |
 |---|---|
-| Resolution | **Very low.** Heavy blur. No sharp edges anywhere. No fine detail. |
-| Warm bodies | Blooming **orange → white** at the core, falling off to red at the margins. Soft-edged masses, not silhouettes. Faces do not read. |
-| Cold rock, water, air | **Dead black.** Formless. The cave has no geometry in her view. |
-| Interface | **None.** No crosshairs, no text, no scan lines, no HUD. |
-| Movement | Slow, heavy, low to the ground. She does not dart. |
-| Sound | Her breathing only. No score. All the world's sound drops away. |
+| **Height** | Almost at the waterline. Eye level of something lying flat. Never a human eyeline. |
+| **The weave** | Continuous LATERAL SWING, left–right–left, one cycle per body undulation. The horizon rocks rhythmically the entire shot. This is the signature — without it, it is just a low camera. |
+| **Forward drive** | Slow, heavy, relentless. It never stops, never hesitates, never jerks. She is not excited. She is arriving. |
+| **Water** | The lens sits half in and half out. Water laps the bottom of frame and occasionally washes over it. Brief dips under and back up. |
+| **Body in frame** | The snout and flicking tongue enter the bottom of frame on the swing. Occasionally a length of her own coiling body passes through the foreground. |
+| **Lens** | Ultra-wide, slight fisheye barrel distortion, like an action camera strapped to an animal. |
+| **What it does to the humans** | They get closer without ever appearing to be chased. She closes distance at a constant unhurried rate. That is what makes it unbearable. |
+| **Sound** | Her breathing. Water moving around a heavy body. No score. |
 
-### THE RULE THAT MAKES IT MEAN SOMETHING
+### Two variants
 
-**The diamonds are cold. She cannot see them as objects — she sees the hole they make.**
+**SNAKE CAM — NATURAL.** Normal darkness and torchlight, seen from her position.
+The default. Use for most of them.
 
-A man carrying eggs reads as a burning orange body with a **dead-black cold mass on
-his back**. That is how she picks her targets out of a group. It is also why she goes
-past men who are not carrying, and why Maya survives long enough to say so.
+**SNAKE CAM — INFRARED.** The same move, graded to her heat sense using reference
+`6b42ede5`: extreme low resolution, heavy blur, no edges, no interface. Warm bodies
+bloom orange and white, cold rock is dead black. Use sparingly, and only where the
+cold-diamond rule matters.
 
-In the cold open, when Ryan sets the stone down, her POV shows the cold mass **separate
-from the man, alone on the floor.** The shot explains why her eyes go to the stone
-instead of to him — before the audience has consciously worked it out.
+### The rule that gives it meaning
 
-### Where it fires — and where it must not
+The diamonds are COLD. On an infrared snake-cam shot, a person carrying eggs reads as
+a burning body with a hard black void punched into it. That is how she selects targets,
+and why in the cold open her attention follows the cold to the floor rather than
+following the man.
 
-Use it **four times in the whole film.** It stops working the moment it is decoration.
+### Where it fires — four times
 
-| Scene | Length | What it shows |
+| Scene | Variant | What the ride is |
 |---|---|---|
-| **Cold open** | 2 × ~3 s | The cold mass on Ryan's back; then the same mass alone on the floor after he sets it down. |
-| **Flooded crossing** | ~3 s | Six burning shapes wading in file. Four have cold masses on their backs. She passes between them anyway — she is not hunting yet. |
-| **The chokepoint** | ~2 s | Kofi burning white-hot from the machine gun barrel, muzzle flash blowing the whole frame out. The only time her view is overwhelmed. |
-| **Deep chamber** | ~3 s | The clutch on the floor as a field of cold. Ryan's pack the same cold. **She cannot tell the difference** — which is exactly why she comes for him. |
+| **Cold open** | Natural, then a 2 s infrared flash | Weaving up the flooded tunnel behind Ryan, gaining. Then one flash of heat sense: his burning shape, the black cold on his back. |
+| **Flooded crossing** | Natural | Gliding *between* six wading legs, close enough to touch them, and passing on. |
+| **The chokepoint** | Natural | Driving up a four-foot corridor into muzzle flash that blows the frame out. |
+| **Deep chamber** | Infrared | Crossing the clutch — a field of cold — toward Ryan, whose pack reads as the same cold. |
 
-**Never** use it for a jump scare, never during dialogue, and never when she is merely
-present. It fires only when she has already decided to move, so the cut itself becomes
-the threat signal.
+Never a jump scare, never over dialogue, never when she is merely present.
 
-### Prompt wording for generation
+### Prompt wording
 
-> "Extreme low-resolution infrared thermal point-of-view, as seen through a snake's pit
-> organ — heavily blurred, no sharp edges, no fine detail, no outlines. Warm human bodies
-> bloom orange and white against dead black cold rock and water. No interface, no
-> crosshairs, no text, no scan lines, no HUD. Slow, heavy, low to the ground."
+> "Camera rigged to the head of a large snake, ultra-wide lens with slight fisheye
+> distortion, held just above the waterline. The camera SWINGS SIDE TO SIDE
+> continuously with each body undulation so the horizon rocks left and right, while
+> driving slowly and relentlessly forward. Water laps at the bottom of the lens. The
+> snout and flicking tongue enter the bottom of frame. Never stops, never jerks,
+> never hurries."
 
-Add for shots with eggs in frame:
-
-> "The stone the man carries is COLD — it appears as an absolute black void against his
-> burning body."
