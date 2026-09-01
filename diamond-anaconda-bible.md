@@ -295,6 +295,10 @@ See SHOT-CHECKLIST.md for the pre-flight.
 
 ## SNAKE VISION — her POV
 
+**LOCKED ELEMENT: `9490f7c0-ca3c-4173-aafa-862cd32d82e0` (Snake-Vision-POV)**
+Approved reference still: `6b42ede5-d282-4fb6-be6e-2d8231c8c8ee`
+Pass the element in `medias` on every POV shot so the look is identical each time.
+
 ### The biology it's built on
 
 Boids sense infrared through **labial pit organs**. Unlike an eye, a pit organ has

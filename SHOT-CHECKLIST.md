@@ -26,6 +26,9 @@ Delete the retired one in the Higgsfield UI when you get a moment
 
 # 🔴 SNAKE VISION SHOTS
 
+**Element: `9490f7c0-ca3c-4173-aafa-862cd32d82e0`** · reference still `6b42ede5-d282-4fb6-be6e-2d8231c8c8ee`
+Pass it in `medias` on every POV shot.
+
 Four in the whole film: cold open (×2), flooded crossing, chokepoint, deep chamber.
 Never a jump scare, never over dialogue, never when she is merely present.
 
@@ -146,6 +149,7 @@ Every one of these invites the model to scale her up. Scene 1 used "enormous" tw
 | **THE MOTHER** (50 ft, 60 cm) | `88a74648-e818-438f-ab04-5ba44a56cabf` |
 | ~~The Mother (30 ft, retired)~~ | ~~`223a47e0-bd4c-474c-8c15-1ebc2b2ed43c`~~ — **do not use** |
 | **THE DIAMOND** (8 cm) | `e0762233-1eaa-43ab-a8d6-5c99fa8e0a0b` |
+| **SNAKE VISION POV** | `9490f7c0-ca3c-4173-aafa-862cd32d82e0` |
 
 ## Locations
 
