@@ -24,6 +24,40 @@ Delete the retired one in the Higgsfield UI when you get a moment
 
 ---
 
+
+---
+
+# ⛔ NEVER PASS `6b42ede5` AS A GENERATION REFERENCE
+
+`6b42ede5-d282-4fb6-be6e-2d8231c8c8ee` is the POV **look study**. It contains **TWO
+FIGURES**, because it was made to show how she views two people.
+
+Passing it into a shot **puts those two figures into that shot.** It did exactly that
+on the cold open, which has only Ryan in it — a second man appeared in the tunnel.
+The prompt said "the same man" in the singular. **The reference overrode the words.
+References always beat prose.**
+
+It is a look guide for humans reading this document. It is NOT a generation input.
+
+## How to shoot a POV shot instead
+
+**`medias` contains ONLY the characters actually present in that scene.** Nothing else.
+Cold open POV = Ryan `61201a14` and nothing more.
+
+**Describe the thermal look in words:**
+
+> "The entire shot is graded as thermal infrared laid over the live action: his body and
+> limbs glow hot in white, orange and red; the stone, water and air read cold in deep
+> blue-black. Soft and low in contrast, like heat rather than light, but the scene stays
+> fully legible with real depth and real perspective. Anything cold he carries reads as a
+> dark void against his heat. No interface — no crosshairs, no text, no scan lines, no HUD."
+
+**And state the headcount explicitly:**
+
+> "EXACTLY ONE PERSON IS VISIBLE IN THIS SHOT. No second figure. No other people anywhere
+> in frame."
+
+
 # 🔴 SNAKE CAM SHOTS
 
 **It is a CAMERA MOVE, not a colour effect.** A camera rigged to the animal, so the
