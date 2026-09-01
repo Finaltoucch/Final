@@ -81,7 +81,9 @@ pass her reference in `medias`:**
 {"role": "image_references", "value": "2b2a2920-35d4-4931-9dbe-7d0ee1678510"}
 ```
 
-Element: `223a47e0-bd4c-474c-8c15-1ebc2b2ed43c` · Master image: `2b2a2920-35d4-4931-9dbe-7d0ee1678510`
+Element: **`88a74648-e818-438f-ab04-5ba44a56cabf`** (Diamond-Anaconda-50ft) · Master image: `2b2a2920-35d4-4931-9dbe-7d0ee1678510` · Approved scale still: `ffe555d4-91fd-4a70-b9ca-7e6a6224a578`
+
+❌ **RETIRED — do not use:** `223a47e0-bd4c-474c-8c15-1ebc2b2ed43c` (the old 30-foot element)
 
 **This was missed on the Scene 1 render.** Only Ryan and the diamond were passed.
 The creature had no reference and no size constraint, so the model invented her scale.
@@ -96,14 +98,14 @@ Every one of these invites the model to scale her up. Scene 1 used "enormous" tw
 
 ### Required wording instead
 
-> "A thirty-foot green anaconda, body about thirty centimetres thick at its widest —
-> a real animal of believable size, roughly as long as the team's boat. Pale diagonal
-> scar on the LEFT side of the head. Never larger than thirty feet."
+> "A fifty-foot green anaconda, body about sixty centimetres thick at its widest —
+> as thick through as a grown man's chest, half as long again as the team's thirty-foot
+> boat. Pale diagonal scar on the LEFT side of the head. Never larger than fifty feet."
 
 ### Creature shot pre-flight — all four, every time
 
 1. Creature reference `2b2a2920` is in `medias` ✅
-2. The words "thirty feet" and "thirty centimetres" appear in the prompt ✅
+2. The words "fifty feet" and "sixty centimetres" appear in the prompt ✅
 3. No banned word anywhere in the prompt ✅
 4. A known-scale object in frame — the 30-foot boat, a man, the rock walls ✅
 
@@ -122,7 +124,8 @@ Every one of these invites the model to scale her up. Scene 1 used "enormous" tw
 | ARMANDO | `c471596e-2ca8-4662-b3bb-27a604605691` |
 | THE BUYER | `63965603-83e0-48df-a591-716d0f919c37` |
 | ELENA ALVAREZ | `53497a77-1208-4f26-aa53-3cfabbc7d686` |
-| **THE MOTHER** (30 ft) | `223a47e0-bd4c-474c-8c15-1ebc2b2ed43c` |
+| **THE MOTHER** (50 ft, 60 cm) | `88a74648-e818-438f-ab04-5ba44a56cabf` |
+| ~~The Mother (30 ft, retired)~~ | ~~`223a47e0-bd4c-474c-8c15-1ebc2b2ed43c`~~ — **do not use** |
 | **THE DIAMOND** (8 cm) | `e0762233-1eaa-43ab-a8d6-5c99fa8e0a0b` |
 
 ## Locations
@@ -149,8 +152,8 @@ Every one of these invites the model to scale her up. Scene 1 used "enormous" tw
 
 1. **Hero ID is `066aa34a`**, not `e788b2c7`.
 2. **Ryan's rifle is slung across his back** in every tunnel scene — never in his hands.
-3. **The creature is 30 feet.** Never "enormous", never fills a tunnel. Scale her
-   against the 30-foot boat.
+3. **The creature is 50 feet, 60 cm thick.** Never "enormous", never fills a tunnel.
+   She is half as long again as the 30-foot boat.
 4. **The diamond is 8 cm and irregular.** Never fist-sized, never a neat crystal.
 5. **`generate_audio` OFF for any shot with dialogue** — otherwise the model invents a
    voice you cannot change, and the clip cannot be re-voiced later.

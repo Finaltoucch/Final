@@ -80,7 +80,8 @@ the same protection the creature had. Reference the Element, not a loose job ID.
 | **ARMANDO** — 75, the old man by the fire | `c471596e-2ca8-4662-b3bb-27a604605691` |
 | **THE BUYER** — 60, gemstone dealer | `63965603-83e0-48df-a591-716d0f919c37` |
 | **ELENA ALVAREZ** — 30s, Mateo's wife | `53497a77-1208-4f26-aa53-3cfabbc7d686` |
-| **THE MOTHER** — 30 ft, left-side head scar | `223a47e0-bd4c-474c-8c15-1ebc2b2ed43c` |
+| **THE MOTHER** — **50 ft, 60 cm thick**, left-side head scar | `88a74648-e818-438f-ab04-5ba44a56cabf` |
+| ~~The Mother (30 ft, retired)~~ | ~~`223a47e0-bd4c-474c-8c15-1ebc2b2ed43c`~~ — **do not use** |
 | **THE DIAMOND** (prop) — 8 cm, irregular, brilliant | `e0762233-1eaa-43ab-a8d6-5c99fa8e0a0b` |
 
 Two pairs are deliberately disambiguated inside their own descriptions, because
@@ -172,14 +173,16 @@ fire), the BUYER (60s), and MATEO'S WIFE. Three refs still to generate.
 
 ## THE CREATURE — locked
 
-**Saved Element:** `Diamond-Anaconda` — `223a47e0-bd4c-474c-8c15-1ebc2b2ed43c`
+**Saved Element:** `Diamond-Anaconda-50ft` — **`88a74648-e818-438f-ab04-5ba44a56cabf`**
+**Retired:** ~~`223a47e0-bd4c-474c-8c15-1ebc2b2ed43c`~~ (30 ft) — do not use
+**Approved scale still:** `ffe555d4-91fd-4a70-b9ca-7e6a6224a578`
 **Master image:** `2b2a2920-35d4-4931-9dbe-7d0ee1678510`
 
 | Spec | Value — FIXED |
 |---|---|
-| Total length | **30 feet (9.14 m)** |
-| Max body diameter | **~30 cm** |
-| Implied weight | ~250 kg / a quarter of a ton |
+| Total length | **50 feet (15.2 m)** |
+| Max body diameter | **60 cm** — a grown man's chest |
+| Implied weight | well over a ton |
 | Head scar | **Pale diagonal scar, LEFT side of head** |
 | Body | Healed scars on upper body |
 | Colour | Olive-green / dark emerald / charcoal; cream-green jaw and throat |
