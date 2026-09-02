@@ -60,6 +60,31 @@ the creature ever visible** · real location, real depth · no interface, ever.
 **People come from character references, never from the look element.** State the
 headcount explicitly in every POV prompt.
 
+### HOW TO SHOOT ANY SNAKE-VIEW SHOT — THE ONLY APPROVED METHOD
+
+**Never describe a POV composition in prose and hope. Build the frame, then move the camera on it.**
+
+1. **Generate the POV keyframe as a still image.** Text-only — pass NO heat plate as a
+   reference. Describe the character's exact pose, exactly as the preceding beat left
+   them, seen from whatever angle she is approaching, plus the heat colour rules.
+   ~2 credits. Approve it visually before going further.
+2. **Run the POV clip with that still as `start_image`.** The video is then forced to
+   begin on that frame, so the composition is locked by a picture, not by wording.
+   The prompt supplies ONLY the camera move: low at the waterline, weaving left-right,
+   driving slowly forward, never stopping.
+3. **Keep the normal-colour section as a separate clip.** Never bundle a normal
+   section and a POV section into one generation — the heat reference bleeds backwards
+   and the colour switch is unreliable. Cut them together in the edit.
+
+**Why this rule exists.** Passing the heat plate as an `image_references` input makes
+the model reproduce that plate's composition, and no amount of "colour sample only,
+do not copy its action" in the prompt overrides it. Proven twice on cold open 1A:
+the plate showed a man walking away up a tunnel, so both takes rendered Ryan walking
+away — with a **static camera** — when the scene had him collapsed on his knees at the
+wall. The second take said "DO NOT copy its composition, DO NOT copy its camera
+position, DO NOT copy what the man in it is doing" in capitals and did it anyway.
+Words lose to reference images. So supply the right image.
+
 ### THE POV IS THE SAME MOMENT, NOT A NEW SHOT
 
 **The heat plate is a COLOUR SAMPLE. It is never content to animate.**
