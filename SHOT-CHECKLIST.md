@@ -60,6 +60,48 @@ the creature ever visible** · real location, real depth · no interface, ever.
 **People come from character references, never from the look element.** State the
 headcount explicitly in every POV prompt.
 
+### WHAT ACTUALLY MOVES A CAMERA — LEARNED THE HARD WAY
+
+**Prohibitions render as stillness.** Prompts built from DOES NOT move / DOES NOT walk /
+NOTHING is visible / ZERO colour / NO interface produce a frozen actor AND a locked-off
+camera. Three takes died this way. Every time a shot went wrong the instinct was to add
+another ban, and every ban made the shot deader.
+
+Write the shot as **action**: what the camera does, what the body does. Keep restrictions
+to one short line at the end, in plain sentences, not a capitalised wall.
+
+- Dead: "THE MAN DOES NOT MOVE. HE DOES NOT STAND. HE DOES NOT WALK. HE DOES NOT TURN."
+- Alive: "His back and shoulders heave violently with every gasp. His ribs pump. His head
+  sags against the rock. One hand slips on the wet stone. He kneels facing the wall,
+  unaware of anything behind him."
+
+**Model choice for POV moves.** `seedance_2_5` will not move the camera off a supplied
+frame — it coerces `start_image` into `image_references` and reproduces the still. Use
+**`minimax_h3`**: genuine start-frame image-to-video, 2K, and cheaper (10 credits for 5s,
+30 for 15s, versus seedance's 6.5/second). Confirmed working: "the camera performs a slow,
+continuous zoom-in down a dark, jagged rocky cave tunnel."
+
+**Give the move room.** A creeping approach needs distance and time. Put the character
+FAR down the passage in the keyframe — a small hot ember in the depth of the shot, with
+the whole passage between — and run 15 seconds so she genuinely crosses it. A close start
+has nothing to close.
+
+**Keep identity in the keyframe.** A text-only keyframe loses the character: the 15s POV
+came back with a fair-skinned man in his twenties instead of Ryan. If the face matters at
+that distance, pass the character reference when generating the keyframe.
+
+### VERIFY EVERY CLIP BEFORE SHOWING IT
+
+The CDN is blocked from this environment, so generated media cannot be opened directly.
+It can still be checked:
+
+1. `media_import_url` the result URL back into Higgsfield — returns a `media_id`.
+2. `video_analysis_create` with that `video_input_id`, then poll `video_analysis_status`.
+
+It reports camera movement, what the subject is doing, colour and location, per scene.
+This is how the static camera, the walking-away framing, the concrete tunnel and the wrong
+actor were all caught. Never hand over a clip without running it.
+
 ### HOW TO SHOOT ANY SNAKE-VIEW SHOT — THE ONLY APPROVED METHOD
 
 **Never describe a POV composition in prose and hope. Build the frame, then move the camera on it.**
