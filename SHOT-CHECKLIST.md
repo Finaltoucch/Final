@@ -60,6 +60,30 @@ the creature ever visible** · real location, real depth · no interface, ever.
 **People come from character references, never from the look element.** State the
 headcount explicitly in every POV prompt.
 
+### THE POV IS THE SAME MOMENT, NOT A NEW SHOT
+
+**The heat plate is a COLOUR SAMPLE. It is never content to animate.**
+
+Whatever the man in the plate is doing is irrelevant. Say so explicitly in every POV
+prompt: take the colour treatment only, ignore its composition, its camera position
+and its action.
+
+**She sees people in the exact position they are already in, at that exact moment.**
+A POV shot is a cut to a different *lens on the same instant* — never a new action.
+So before writing a POV prompt, answer: where is the character standing/kneeling/lying
+right now, and which way are they facing? The POV must show them in that pose, from
+whatever angle she is approaching, unmoved.
+
+What went wrong on 1A: the plate showed a man walking away up a tunnel, so the POV
+rendered Ryan running away — when the scene had just put him **down on his knees at
+the wall with the handprints**. The plate's content overwrote the scene's staging.
+
+**Write both of these into every POV prompt:**
+1. "REFERENCE 2 is a COLOUR SAMPLE ONLY — do not copy its composition, camera or the
+   action of anyone in it."
+2. The character's exact pose and facing, carried over verbatim from the beat before,
+   plus "he/she has not moved" and what they do NOT do (run, stand, turn around).
+
 ### WHICH PLATE TO PASS — READ THIS BEFORE EVERY POV SHOT
 
 **Match the plate to the headcount of the shot. This is the rule that got broken.**
