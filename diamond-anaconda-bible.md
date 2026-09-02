@@ -73,8 +73,8 @@ the same protection the creature had. Reference the Element, not a loose job ID.
 | ~~Ryan-Cole (unarmed, retired)~~ | ~~`e788b2c7-0476-443f-bfdb-dd8832f85644`~~ — **do not use** |
 | **MARCUS OKOYE** — 58, bald, grey goatee, assault rifle | `2a32ebca-35a7-4e6c-8653-a318517d8482` |
 | **MAYA BENNETT** — 30s, medic, long dark hair | `f44248b6-531b-4889-946c-b4a8b166477a` |
-| **DANIEL MERCER** — 40s, the only scoped rifle | `422c12d2-5a8b-497c-a08b-97c6e54066e6` |
-| **MATEO ALVAREZ** — 30s, curly hair, beard, the charges | `36e42750-f538-4e2f-aec7-7ae9c9f7c960` |
+| **DANIEL MERCER** — reads younger than written; the only scoped rifle | `422c12d2-5a8b-497c-a08b-97c6e54066e6` |
+| **MATEO ALVAREZ** — fair-skinned, reddish-brown hair, light beard; the charges | `36e42750-f538-4e2f-aec7-7ae9c9f7c960` |
 | **KOFI MENSAH** — 40s, bald, bearded, the only machine gun | `44880f6f-1994-40a3-b6b2-590c4fa18baa` |
 | **LIAM O'ROURKE** — 26, youngest, the drone | `195d7dd6-010f-4799-b56e-4c10421f4a73` |
 | **ARMANDO** — 75, the old man by the fire | `c471596e-2ca8-4662-b3bb-27a604605691` |
@@ -83,6 +83,20 @@ the same protection the creature had. Reference the Element, not a loose job ID.
 | **THE MOTHER** — **50 ft, 60 cm thick**, left-side head scar | `88a74648-e818-438f-ab04-5ba44a56cabf` |
 | ~~The Mother (30 ft, retired)~~ | ~~`223a47e0-bd4c-474c-8c15-1ebc2b2ed43c`~~ — **do not use** |
 | **THE DIAMOND** (prop) — 8 cm, irregular, brilliant | `e0762233-1eaa-43ab-a8d6-5c99fa8e0a0b` |
+
+> **The Element image is the character, not this table.** These descriptions are written
+> from what the locked references actually render on screen, confirmed by analysis of the
+> boatyard footage. Where an earlier description here disagreed with a reference, the
+> description was wrong — it was written without sight of the image. Prompt wording cannot
+> change a locked face, so never try to correct a character by describing them differently;
+> regenerate the Element, or accept what it shows.
+>
+> Observed on screen: **Mateo** — fair skin, short reddish-brown hair, light beard, mid-30s.
+> **Liam** — light complexion, short dark brown hair, light beard; reads older than 26.
+> **Daniel** — late 20s, olive complexion, short dark hair, stubble. **Marcus** — bald,
+> grey goatee, scar near the left eye, late 50s. **Ryan** — dark skin, short greying beard,
+> muscular. **Maya** — olive complexion, long dark curly hair.
+
 
 Two pairs are deliberately disambiguated inside their own descriptions, because
 they are the confusion risk: **Marcus and Kofi are both bald and bearded** — Marcus
@@ -159,7 +173,7 @@ generated — a clip made with the model speaking cannot be re-voiced later.
 | 2 | **MARCUS OKOYE**, 58 | Ex-SAS commander. The old soldier. Dies covering Ryan in the deep chamber. | Assault rifle | `152eb482-8403-4df9-b2a7-2b08a148c638` (bald, grey goatee) | `03b8ee6d-65cc-49f3-bf7c-3e71a15032ed` |
 | 3 | **MAYA BENNETT**, 30s | Ex-MI6, medic. Conscience. Cracks the reveal. **The sacrifice.** | Assault rifle | `ec3a91da-da70-47f3-a5bf-c1fcc4acaa63` (woman, long dark hair) | `ba466663-e79e-43ec-ab0f-c3ff54e075f6` |
 | 4 | **DANIEL MERCER**, 40s | Marksman. The skeptic. Found dead with the hidden stone. | Scoped DMR | `fe62d845-c254-4f3f-8ce9-13a1c1af048e` | `4ec2781a-ae60-41ed-a791-961fe44ec8f1` |
-| 5 | **MATEO ALVAREZ**, 30s | Jungle specialist. Carries the charges. Family man. Taken first. | Assault rifle | `ca764ab7-2ffe-4603-be92-40612517c1bb` (curly hair, beard) | `4e3c8b35-d58e-4e9e-bbe5-90a3f3e47d9f` |
+| 5 | **MATEO ALVAREZ**, 30s | Jungle specialist. Carries the charges. Family man. Taken first. | Assault rifle | `ca764ab7-2ffe-4603-be92-40612517c1bb` (fair skin, reddish-brown hair, light beard) | `4e3c8b35-d58e-4e9e-bbe5-90a3f3e47d9f` |
 | 6 | **KOFI MENSAH**, 40s | Tracker and support gunner. Holds the chokepoint. | **Belt-fed LMG** | `775128fd-a1b2-43e1-91ee-a6fa7938b03e` (bald, beard, large build) | `50687d3b-0de8-4353-a50b-5c8feb4be9ae` |
 | 7 | **LIAM O'ROURKE**, 26 | Comms and surveillance. Flies the drone. Taken in the canopy. | Compact carbine | `75702710-b898-4aa5-b8e7-d20afe36fe6f` | `7d8031ca-f141-4689-8a63-b64bcd56163e` |
 

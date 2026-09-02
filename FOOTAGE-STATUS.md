@@ -28,14 +28,22 @@ seedance_2_5 · `cee1b944-92f4-458f-9db6-c462f9fe32da`
 
 ---
 
-## ⚠️ NEEDS RESHOOT
+## ✅ APPROVED — BOATYARD COVERAGE
 
-### Scene 3 — the team
+Scene 3's original 45-second wide shot (`3e815f0c`) is **retired** — it was generated
+before character references were passed and invented six faces. Replaced by coverage,
+one or two named characters per shot, each carrying their Element:
 
-`3e815f0c-7ded-4d50-aa2d-f0f2b8ac6447` — **six invented faces.** Shot before the
-character-reference rule existed: the team was described in prose instead of having
-their Elements passed. Must be reshot as coverage, one or two named characters per
-shot, each carrying their own media ID. Estimated 326 credits across four shots.
+| Shot | Who | Beat | Job ID |
+|---|---|---|---|
+| Boatyard day 1 | Mateo + Liam | *"My daughter has a house in her mouth."* | `99ca5be8-d1d6-41c5-8889-fd587e2ebb5d` |
+| Boatyard day 2 | Daniel + Marcus | *"That's not how sevenths work."* | `13e9cda5-2ae2-40ed-8803-dbb577c56786` |
+| Boatyard day 3 | Maya + Ryan + the stone | *"It grew in rings. Like a tree."* | `7624948d-5a9d-4329-a888-20cc35fb2cf7` |
+| Boatyard night | Maya + Ryan | *"Say it back to me."* | `0ecdb427-7f82-4711-9431-0ee5663e7af7` |
+
+All four verified by analysis: faces consistent with their locked Elements, every line of
+dialogue spoken verbatim, natural ambience. The night shot cuts itself into seven pieces
+of proper shot/reverse-shot coverage.
 
 ---
 
@@ -59,7 +67,8 @@ Unrelated — do not pull them into this film.
 
 Target is **12 minutes = 720 seconds**.
 
-Shot and approved so far: **60 seconds** (30s cold open + 30s Scene 2).
+Shot and approved so far: **120 seconds** — 30s cold open, 30s Scene 2 (fishing village),
+45s boatyard day coverage, 15s boatyard night.
 
 At the rates established today — 30 credits per 15s on minimax, 98 per 15s on
 seedance — the remaining balance decides how much of the film is reachable. Prefer
