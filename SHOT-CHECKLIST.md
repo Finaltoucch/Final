@@ -344,8 +344,35 @@ Same scene, same lines, four clips. Every face is a locked face.
 
 1. List every character visible in the shot.
 2. Every one of them has their media id in `medias`. No exceptions.
-3. If that means more than three faces — **split the shot**, do not describe anyone.
-4. Creature in frame → `2b2a2920` is in `medias` too.
+3. **Also name each one's identity-critical features in the prompt** — see below.
+4. If that means more than three faces — **split the shot** into coverage.
+5. Creature in frame → `2b2a2920` is in `medias` too.
+
+### 🚨 REFERENCE *AND* DESCRIPTION — BOTH, ALWAYS
+
+**Passing the reference alone does not hold a face.** Proven on the boatyard reshoot,
+where every character carried their media id and only the described ones came out right:
+
+| Character | Described in prompt | Result on screen |
+|---|---|---|
+| Ryan — "older Black man, greying afro, grey-flecked beard, scar across the nose" | yes | "dark skin, short beard, muscular build" ✅ |
+| Marcus — "the older man, bald with a grey goatee" | yes | "late 50s, bald head, gray goatee" ✅ |
+| Maya — "the woman with long dark hair" | partly | "olive skin, long dark curly hair" ~ |
+| Mateo — named only | **no** | "short reddish-blonde hair, light skin" ❌ |
+| Liam — named only | **no** | "early 40s" instead of 26 ❌ |
+| Daniel — named only | **no** | "late 20s, olive complexion" ❌ |
+
+**The earlier rule "a character with an Element is never described in words" was wrong
+and caused this.** The original six-invented-faces failure came from describing characters
+*instead of* passing their references — not from describing them. The correct rule:
+
+> Pass the reference **and** state the two or three features that identify them.
+> The reference anchors the likeness; the words tell the model which reference is which
+> person in a multi-character shot.
+
+One short identifying clause per character is enough — age, skin tone, hair, facial hair,
+one distinguishing mark. Do not write a full wardrobe paragraph; that is what crowds out
+the reference.
 
 
 # 🚨 CREATURE SHOTS — HARD RULE
