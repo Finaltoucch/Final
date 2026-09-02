@@ -66,7 +66,7 @@ headcount explicitly in every POV prompt.
 
 | The shot has… | Pass this plate | Job ID |
 |---|---|---|
-| **a person in it** | the WITH-FIGURE heat plate | *(pending approval — Option A `72546de2-2676-4c4d-8ec8-424e0bf5d825` / Option B `779c5490-a43a-4a20-8c3f-f4b28bb7b75e`)* |
+| **a person in it** | the WITH-FIGURE heat plate — **APPROVED** | `72546de2-2676-4c4d-8ec8-424e0bf5d825` |
 | **nobody in it** | an EMPTY heat plate | `f460487a-023a-4632-ad43-ef344f371be4` · `e32ea560-9c40-4f1d-84ea-abdbae50c040` |
 
 **WHY.** Both empty plates are cold blue tunnels with **nothing hot anywhere in them**.
