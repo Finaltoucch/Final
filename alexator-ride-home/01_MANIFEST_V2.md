@@ -62,6 +62,7 @@ smoothing, beauty filter, airbrushing and plastic skin.
 |---|---|
 | `01_FINAL_ALEXATOR_Rise_Again.mp4` | https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/bc283ad1-0780-473a-a596-53e84131350f.mp4 |
 | `02_USED_AI_SOURCES.zip` | https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/bf129763-0a41-4f3b-afcb-9201d8686f94.zip |
+| `03_ORIGIN_PROOF.pdf` | https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/26dc91f7-78c0-47eb-be45-b0e22cea0d63.pdf |
 
 ### Master — measured
 
@@ -86,8 +87,21 @@ No black or frozen frames. No watermark, no black bars, no on-screen text.
 
 Worst case ±0.36 of a frame, no accumulated drift.
 
-### Still outstanding
+### Origin proof
 
-`03_ORIGIN_PROOF.pdf` needs regenerating for this concept (the existing one describes
-GRAVITY WELL). Its two blocked sections remain: commercial-use term URLs, and the
-per-service workspace / subscription / timeline screenshots.
+`03_ORIGIN_PROOF.pdf` — 5 pages, rewritten for RIDE HOME. Covers the deliverable spec,
+the exact track title and music in/out timestamps, the measured tempo grid and the
+cut-accuracy table, both AI services with plan and generation dates, and the section 9
+compliance statement.
+
+Two sections are marked in red for the freelancer to complete, both blocked by the
+session's network egress policy or requiring account access:
+
+1. **Commercial-use term URLs** — four fields, for Higgsfield's terms, the creator-plan
+   commercial-use confirmation, and the Nano Banana Pro and Kling v3.0 model terms.
+2. **Screenshots** — a workspace screenshot per service, a subscription screenshot
+   (required here, since commercial rights depend on the plan), and an editing-timeline
+   screenshot.
+
+Section 8 of the brief also requires the freelancer confirmation posted in the Contra
+project chat; the wording is in section 9 of the PDF.
