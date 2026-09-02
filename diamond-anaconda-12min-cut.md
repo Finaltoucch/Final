@@ -42,7 +42,7 @@ the cold-open resolve, and the final shot. Cut anything else first.
 
 | Time | Sec | Scene | Beat |
 |---|---|---|---|
-| 0:00 | 30 | Tunnel | **Cold open, two 15s clips.** 1A: the collapse, the handprints, POV — the cold mass on his back. 1B: the stone set down, POV — the cold mass alone on the floor, her eyes follow it. Title. |
+| 0:00 | 30 | Tunnel | **Cold open, two 15s clips. SHOT & APPROVED.** 1A: heat POV, she crosses the whole flooded passage toward him as he kneels spent at the handprint wall. 1B: heat POV as she settles behind him, then the grade drops to normal torchlight from the same locked position — he turns into the lens, screams, hard black. Title. |
 | 0:45 | 60 | Fishing settlement | Armando. The legend. *"Neither do rocks."* / **"That is the smallest one."** |
 | 1:45 | 45 | Boatyard | The seven, one action each. Maya's loupe: *"This did not come out of the ground."* |
 | 2:30 | 30 | Boatyard night | Maya and Ryan. **"Say it back to me."** |
@@ -68,13 +68,15 @@ the cold-open resolve, and the final shot. Cut anything else first.
 | | |
 |---|---|
 | Runtime | 720 s |
-| Rate | 6.5 credits/second |
-| **Straight cost** | **4,680 credits** |
-| With realistic retakes (×1.6) | ~7,500 credits |
-| **You have** | **1,042** |
+| seedance_2_5 rate | 6.5 credits/second |
+| minimax_h3 rate | **2 credits/second** |
+| Straight cost, all seedance | 4,680 credits |
+| Straight cost, all minimax | 1,440 credits |
+| **Balance** | **816** |
 
-1,042 credits buys **160 seconds** — the flooded crossing plus the cold open, and
-nothing else.
+816 credits buys **125 seconds on seedance**, or **408 seconds on minimax** — over half
+the film. Shoot on minimax wherever a shot does not need spoken dialogue or a mid-clip
+grade change; seedance costs more than three times as much per second.
 
 ## The order to shoot in
 
