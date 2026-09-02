@@ -47,12 +47,39 @@ of proper shot/reverse-shot coverage.
 
 ---
 
-## ❓ UNVERIFIED
+## ⚠️ DUPLICATE — RESOLVED
 
-### Scene 4 — the dock
+The clip filed as "Scene 4 — the dock" (`8c8a8538-ab00-446b-8d19-e50d1a9407bd`) is **not a
+separate scene**. Analysis shows it IS the boatyard night scene: Maya and Ryan, coffee on
+the dock, the full *"This is my last one" / "You said that in Kandahar" / "Say it back to
+me" / "This is your last one. And I bring you home."*
 
-`8c8a8538-ab00-446b-8d19-e50d1a9407bd` — final equipment check, evening. Shot before
-today's fixes and never checked. Run it through the analyser before deciding.
+It runs **30 seconds**, the exact length the spine allots, with correct faces and the
+**original Kandahar lines** — the ones seedance's content filter forced out of the later
+version.
+
+**Keep `8c8a8538` (30s). Drop the 15s reshoot `0ecdb427`.** The reshoot was generated
+without first verifying what this clip contained, and duplicated a scene already in hand.
+Lesson: analyse existing footage before shooting anything that might overlap it.
+
+---
+
+## SCENE 5 — RIVER MOUTH (in progress)
+
+| Shot | Who | Beat | Job |
+|---|---|---|---|
+| Engine dies | Mateo + Marcus | *"It's not anything. It's just off." / "Where did everything go?"* | `e1aa8e04-f2e4-4480-9c67-f5f7ef32e4b8` |
+| The skins | canopy tilt, no cast | dozens of small skins, then the two enormous ones | `ffa6c9fa-6c2f-4f85-a220-6629590446a4` (minimax) |
+
+The first skins attempt (`ef6ecd8b`, seedance) is **retired**: dialogue and faces were
+right but the two enormous skins never rendered — every skin came out the same size, so
+the scale reveal, the entire point of the shot, was missing. It also added bird calls and
+a synth drone over a scene whose whole effect is total silence.
+
+Reshot on **minimax_h3** from a keyframe (`b38a6d19-3b67-4df8-95bd-a233c0c0c836`) with the
+two big skins composed into the frame against the small ones. MiniMax generates no audio,
+so the silence is literal — nothing to strip in the edit. The three lines (*"Ryan." / "I
+see them." / "We're not alone."*) need dubbing over it from the locked voice presets.
 
 ---
 
