@@ -367,9 +367,10 @@ Never a jump scare, never over dialogue, never when she is merely present.
 > "Camera rigged to the head of a large snake, ultra-wide lens with slight fisheye
 > distortion, held just above the waterline. The camera SWINGS SIDE TO SIDE
 > continuously with each body undulation so the horizon rocks left and right, while
-> driving slowly and relentlessly forward. Water laps at the bottom of the lens. The
-> snout and flicking tongue enter the bottom of frame. Never stops, never jerks,
-> never hurries.
+> driving slowly and relentlessly forward. Water laps at the bottom of the lens.
+> NOTHING OF THE CREATURE IS EVER VISIBLE — no snout, no tongue, no scales, no coils.
+> The camera IS her eyes and the audience looks out through her, so she is never in
+> her own shot. Never stops, never jerks, never hurries.
 >
 > The entire shot is graded to the creature's infrared heat sense, applied OVER the
 > real scene. The actual characters and the actual location remain fully visible and
