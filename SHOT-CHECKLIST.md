@@ -60,6 +60,33 @@ the creature ever visible** · real location, real depth · no interface, ever.
 **People come from character references, never from the look element.** State the
 headcount explicitly in every POV prompt.
 
+### MODEL CHOICE, AND SEEDANCE'S CONTENT FILTER
+
+| | seedance_2_5 | minimax_h3 |
+|---|---|---|
+| Camera move off a start frame | Fails — coerces `start_image` to `image_references`, goes static | Works |
+| Two colour grades in one clip | **Works** when both references share the same composition | Untested |
+| Generated audio (breath, scream, impacts) | Yes | Not a documented parameter |
+| Max duration | 30s | 15s |
+| Cost | 6.5/sec (98 for 15s) | 2/sec (30 for 15s) |
+
+Use **minimax_h3** for travelling POV moves off a keyframe. Use **seedance_2_5** for
+dialogue and for shots needing generated audio or a mid-clip grade change.
+
+**Two grades in one seedance clip works** if you pass the same shot twice, once graded
+each way, and say which governs which section. Confirmed on the cold open's second half:
+thermal for 0-5s, then "the camera remains static, transitioning to natural lighting",
+then the turn into the lens and the scream. It failed earlier only because the two
+references disagreed about composition.
+
+**Seedance's content filter is stricter than MiniMax's** and rejects with status `nsfw`
+(credits are refunded — verify on `balance`). A shot that passes on MiniMax can bounce on
+seedance purely on wording. Rejected: "blood down the left side of his face", "bloody
+handprints", "absolute terror", "SCREAMS, raw and full-throated". Passed: "cave mud",
+"dark handprints", "his expression changes completely", "a single shout of alarm".
+The rendered picture was unchanged — blood and red handprints still appear on screen.
+Describe the shot plainly; the filter reads the prompt, not the result.
+
 ### THE SNAKE-VIEW CUT — THE WORKING PATTERN
 
 **The camera IS the creature, and the audience is looking out through her.** That single
