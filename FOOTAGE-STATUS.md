@@ -85,10 +85,23 @@ right but the two enormous skins never rendered — every skin came out the same
 the scale reveal, the entire point of the shot, was missing. It also added bird calls and
 a synth drone over a scene whose whole effect is total silence.
 
-Reshot on **minimax_h3** from a keyframe (`b38a6d19-3b67-4df8-95bd-a233c0c0c836`) with the
-two big skins composed into the frame against the small ones. MiniMax generates no audio,
-so the silence is literal — nothing to strip in the edit. The three lines (*"Ryan." / "I
-see them." / "We're not alone."*) need dubbing over it from the locked voice presets.
+The minimax reshoot (`ffa6c9fa-6c2f-4f85-a220-6629590446a4`) **also failed the same way.**
+Analysis: "dozens of long, dried snake skins draped over the horizontal branches" — one
+uniform group, no large ones, across all three segments. The camera panned right instead
+of tilting up.
+
+**Both models fail this shot identically**, from prose and from a keyframe. The problem is
+the shot, not the tooling: asking one frame to hold dozens of small skins AND two giant
+ones makes the model average everything to a single size. It cannot render the comparison.
+
+**The fix when credits allow:** shoot the big skins as their OWN shot — one enormous skin
+filling the frame over a branch, a single small skin beside it for scale, nothing else in
+contention. Cut it after the wide of the dozens. Let the edit make the comparison.
+
+**Correction:** minimax_h3 DOES generate audio — this clip came back with wind and "a
+subtle, atmospheric musical drone". An earlier note here claimed it produced none and that
+the silence would therefore be literal. That was asserted without checking and is wrong.
+Both models score their output; the silence in this scene has to be made in the edit.
 
 ---
 

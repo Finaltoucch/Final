@@ -66,7 +66,7 @@ headcount explicitly in every POV prompt.
 |---|---|---|
 | Camera move off a start frame | Fails — coerces `start_image` to `image_references`, goes static | Works |
 | Two colour grades in one clip | **Works** when both references share the same composition | Untested |
-| Generated audio (breath, scream, impacts) | Yes | Not a documented parameter |
+| Generated audio | Yes, incl. dialogue | Yes — ambient and score, no dialogue |
 | Max duration | 30s | 15s |
 | Cost | 6.5/sec (98 for 15s) | 2/sec (30 for 15s) |
 
