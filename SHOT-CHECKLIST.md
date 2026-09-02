@@ -60,8 +60,29 @@ the creature ever visible** · real location, real depth · no interface, ever.
 **People come from character references, never from the look element.** State the
 headcount explicitly in every POV prompt.
 
-Approved empty plates: `f460487a-023a-4632-ad43-ef344f371be4` · `e32ea560-9c40-4f1d-84ea-abdbae50c040`
-Approved with-figure example (documentation only, do NOT pass): `e2721c24-573f-4708-991c-ee5a29346841`
+### WHICH PLATE TO PASS — READ THIS BEFORE EVERY POV SHOT
+
+**Match the plate to the headcount of the shot. This is the rule that got broken.**
+
+| The shot has… | Pass this plate | Job ID |
+|---|---|---|
+| **a person in it** | the WITH-FIGURE heat plate | *(pending approval — Option A `72546de2-2676-4c4d-8ec8-424e0bf5d825` / Option B `779c5490-a43a-4a20-8c3f-f4b28bb7b75e`)* |
+| **nobody in it** | an EMPTY heat plate | `f460487a-023a-4632-ad43-ef344f371be4` · `e32ea560-9c40-4f1d-84ea-abdbae50c040` |
+
+**WHY.** Both empty plates are cold blue tunnels with **nothing hot anywhere in them**.
+Passing an empty plate on a shot that has a man in it tells the model, in pictures,
+that nothing in this frame is warm — so it renders the man **cold**. That is exactly
+what happened on cold open 1A: the prompt said "blazing white and yellow" and the
+reference said "everything here is cold." **The reference won.**
+
+The earlier note that said the plates are "empty of people on purpose" was written to
+stop a *second* figure appearing. It over-corrected into the opposite failure. The
+correct rule is the table above: **the plate must show the same number of hot bodies
+the shot has** — and the identity of those bodies still comes from the character
+references, with the headcount stated explicitly in the prompt.
+
+Passing the with-figure plate **plus** Ryan's character reference **plus** "EXACTLY ONE
+PERSON APPEARS IN THIS VIDEO" in the prompt is the correct payload for a one-man POV.
 
 ---
 
