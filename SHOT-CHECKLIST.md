@@ -348,32 +348,35 @@ Same scene, same lines, four clips. Every face is a locked face.
 4. If that means more than three faces — **split the shot** into coverage.
 5. Creature in frame → `2b2a2920` is in `medias` too.
 
-### 🚨 REFERENCE *AND* DESCRIPTION — BOTH, ALWAYS
+### 🚨 THE REFERENCE IMAGE ALWAYS WINS
 
-**Passing the reference alone does not hold a face.** Proven on the boatyard reshoot,
-where every character carried their media id and only the described ones came out right:
+**A character renders as whatever their reference image actually shows. Prompt wording
+cannot override it.** Tested directly on the boatyard: the same shot was generated twice,
+the second time with explicit contradicting descriptions, and the faces came back
+identical both times.
 
-| Character | Described in prompt | Result on screen |
+| Character | Second take asked for | Rendered, both takes |
 |---|---|---|
-| Ryan — "older Black man, greying afro, grey-flecked beard, scar across the nose" | yes | "dark skin, short beard, muscular build" ✅ |
-| Marcus — "the older man, bald with a grey goatee" | yes | "late 50s, bald head, gray goatee" ✅ |
-| Maya — "the woman with long dark hair" | partly | "olive skin, long dark curly hair" ~ |
-| Mateo — named only | **no** | "short reddish-blonde hair, light skin" ❌ |
-| Liam — named only | **no** | "early 40s" instead of 26 ❌ |
-| Daniel — named only | **no** | "late 20s, olive complexion" ❌ |
+| Mateo | "warm mid-brown skin, thick dark curly hair, full dark beard" | fair skin, short reddish-brown hair, light beard |
+| Daniel | "in his FORTIES, a lined weathered adult face" | late 20s |
+| Marcus | "bald head, grey goatee" | bald head, grey goatee, scar near the left eye ✅ |
+| Ryan | "greying afro, grey-flecked beard, nose scar" | dark skin, short beard, muscular ✅ |
 
-**The earlier rule "a character with an Element is never described in words" was wrong
-and caused this.** The original six-invented-faces failure came from describing characters
-*instead of* passing their references — not from describing them. The correct rule:
+Marcus and Ryan match because their reference images match their bible entries. Mateo,
+Liam and Daniel do not — and getting the same face twice from two contradicting prompts
+is the model obeying the picture, not ignoring the instruction.
 
-> Pass the reference **and** state the two or three features that identify them.
-> The reference anchors the likeness; the words tell the model which reference is which
-> person in a multi-character shot.
+**So the bible is the wrong source of truth for a face. The reference image is.** Before
+writing a character into a shot, check what their reference actually shows; if the bible
+disagrees, the bible is what needs fixing — or the character Element needs regenerating.
 
-One short identifying clause per character is enough — age, skin tone, hair, facial hair,
-one distinguishing mark. Do not write a full wardrobe paragraph; that is what crowds out
-the reference.
+An earlier version of this note claimed "pass the reference AND describe the features"
+was the fix. That was inferred from three clips and is disproven: description changed
+nothing. Identity comes from the reference alone.
 
+Describing a character is still worth doing in a multi-character shot — it tells the
+model which reference belongs to which name and which person speaks which line — but it
+will not change how anyone looks.
 
 # 🚨 CREATURE SHOTS — HARD RULE
 
