@@ -68,8 +68,17 @@ Lesson: analyse existing footage before shooting anything that might overlap it.
 
 | Shot | Who | Beat | Job |
 |---|---|---|---|
-| Engine dies | Mateo + Marcus | *"It's not anything. It's just off." / "Where did everything go?"* | `e1aa8e04-f2e4-4480-9c67-f5f7ef32e4b8` |
+| Engine dies | Mateo + Marcus | *"It's not anything. It's just off." / "Where'd everything go?"* | `e1aa8e04-f2e4-4480-9c67-f5f7ef32e4b8` ✅ |
 | The skins | canopy tilt, no cast | dozens of small skins, then the two enormous ones | `ffa6c9fa-6c2f-4f85-a220-6629590446a4` (minimax) |
+
+**Engine-dies shot verified.** Six shots of coverage, all four lines verbatim, Marcus
+correct, and critically the silence lands — "the environment is eerily quiet, with only
+very low-volume ambient forest drones and the slight ripple of water against the boat."
+No birds, unlike the retired skins take.
+
+One flaw, minor and left in: *"Where'd everything go?"* is spoken by Mateo. It is Marcus's
+line in the script — the veteran noticing first. It plays over a rack focus so it does not
+read as wrong, but a future reshoot should put the line back on Marcus.
 
 The first skins attempt (`ef6ecd8b`, seedance) is **retired**: dialogue and faces were
 right but the two enormous skins never rendered — every skin came out the same size, so
