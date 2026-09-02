@@ -60,6 +60,31 @@ the creature ever visible** · real location, real depth · no interface, ever.
 **People come from character references, never from the look element.** State the
 headcount explicitly in every POV prompt.
 
+### THE SNAKE-VIEW CUT — THE WORKING PATTERN
+
+**The camera IS the creature, and the audience is looking out through her.** That single
+idea governs every snake-view sequence. A shot standing off to one side watching a shadow
+on the wall is a different shot entirely and breaks the effect.
+
+The cut runs in three pieces, each its own clip:
+
+1. **THE APPROACH — heat vision, camera travelling.** She starts far down the passage with
+   the whole length between her and him, and crosses all of it. Keyframe puts him small and
+   distant. 15s on minimax_h3, 30 credits.
+2. **THE ARRIVAL — heat vision, camera settling.** She closes the last step and comes to
+   rest right behind him.
+3. **THE SWITCH — normal colour, camera LOCKED.** The viewpoint does not move; only the
+   grade changes, from her heat sight to ordinary torchlight. Because the lens is still her
+   face, when he turns he looks straight down it and screams INTO CAMERA. Whatever he sees
+   is behind the lens and therefore never in frame. 10s on minimax_h3, 20 credits.
+
+Confirmed working on the cold open: "Static camera... same man jerks head toward camera,
+eyes wide, screaming in terror. Body recoils from wall."
+
+**Normal-colour shots must carry the character reference** (`61201a14` for Ryan). Identity
+is unreadable in heat vision and forgiving there, but in ordinary light a text-only keyframe
+produces the wrong actor.
+
 ### WHAT ACTUALLY MOVES A CAMERA — LEARNED THE HARD WAY
 
 **Prohibitions render as stillness.** Prompts built from DOES NOT move / DOES NOT walk /
