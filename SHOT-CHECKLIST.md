@@ -70,8 +70,8 @@ headcount explicitly in every POV prompt.
 | Max duration | 30s | 15s |
 | Cost | 6.5/sec (98 for 15s) | 2/sec (30 for 15s) |
 
-Use **minimax_h3** for travelling POV moves off a keyframe. Use **seedance_2_5** for
-dialogue and for shots needing generated audio or a mid-clip grade change.
+**SUPERSEDED — seedance_2_5 only. See the rule at the top of this file.**
+The comparison below is kept only as a record of what each model does, not as guidance.
 
 **Two grades in one seedance clip works** if you pass the same shot twice, once graded
 each way, and say which governs which section. Confirmed on the cold open's second half:
@@ -347,6 +347,21 @@ Same scene, same lines, four clips. Every face is a locked face.
 3. **Also name each one's identity-critical features in the prompt** — see below.
 4. If that means more than three faces — **split the shot** into coverage.
 5. Creature in frame → `2b2a2920` is in `medias` too.
+
+# 🚨🚨 SEEDANCE 2.5 ONLY — DO NOT USE MINIMAX
+
+**Every video generation on this film uses `seedance_2_5`. Do not use `minimax_h3` for
+anything.**
+
+Direct instruction from Finaltouch, repeated: *"use only seedance 2.5."*
+
+This overrides the earlier cost-based reasoning in this document that recommended minimax
+for camera moves. Cheaper per second does not matter if the footage does not match the
+rest of the film. Seedance is the film's look and its dialogue engine; a mixed-model cut
+is inconsistent, and consistency is the director's call, not an optimisation.
+
+Where seedance struggles with a camera move off a keyframe, the answer is to restage the
+shot for seedance — not to reach for another model.
 
 # 🚨🚨 ONLY LOCKED CHARACTERS APPEAR IN THIS FILM — NO EXCEPTIONS
 
