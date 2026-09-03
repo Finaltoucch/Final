@@ -348,6 +348,31 @@ Same scene, same lines, four clips. Every face is a locked face.
 4. If that means more than three faces — **split the shot** into coverage.
 5. Creature in frame → `2b2a2920` is in `medias` too.
 
+# ✅ STITCHING WORKS — USE THE HIGGSFIELD SANDBOX
+
+Clips CAN be joined into one file. This was twice reported as impossible; that was wrong.
+The CDN is blocked from the Claude environment and there is no local ffmpeg, but
+**`sandbox_exec` runs a Higgsfield cloud Linux box with ffmpeg that CAN reach the CDN.**
+
+The working procedure:
+
+1. `sandbox_exec` — curl every clip into `/home/user/cut/` from
+   `https://d8j0ntlcm91z4.cloudfront.net/user_<id>/<filename>.mp4`.
+2. **Normalise every clip first.** Do not concat the raw files — their timebases differ and
+   the concat demuxer stretches them. A first attempt produced 2239 seconds from 310 seconds
+   of source. Re-encode each to a common spec:
+   `ffmpeg -i in.mp4 -vf "fps=24,scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1" -c:v libx264 -preset veryfast -crf 21 -c:a aac -b:a 160k -ar 48000 -ac 2 -vsync cfr -video_track_timescale 24000 out.mp4`
+3. Concat the normalised files with **`-c copy`** — a stream copy cannot stretch anything.
+4. `media_upload` BEFORE the producing command to get a presigned URL, then
+   `curl -f -X PUT --upload-file` in the SAME command (the sandbox is discarded seconds
+   after a call ends), then `media_confirm`.
+5. Long encodes need `background:true` and polling `/home/user/.bg/<id>.log` and `.exit`.
+
+Result of the first full assembly: 18 shots, 306 seconds, 62 MB.
+
+**The sandbox also means audio dubs can be burned in** rather than handed over as separate
+WAVs — mix the replacement line over the clip's audio with ffmpeg before concatenating.
+
 # 🚨🚨 SHE IS INVISIBLE FROM THE SURFACE — HEIGHT IS THE REVEAL
 
 **In the flooded crossing she must NOT be visible to the team, and must NOT be visible to
