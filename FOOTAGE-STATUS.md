@@ -168,7 +168,7 @@ lip-synced dialogue needs the video redone. (`speech_rate` must be an integer, n
 | 2 | Maya + Daniel | The rifle in the shallows. *"Mateo!" / "Safety's on."* | `f47d6e3b-3f4e-4c69-98a2-3cff9426a8a4` | ✅ keep |
 | 3 | Ryan + Maya | *"There is no blood."* → the trough → *"MATEO!"* | `f94fec33-12b8-4d9f-847d-c129b460feb3` | ✅ keep + dub |
 | 4a | water only | the ridge longer than the boat | keyframe `ba3b3510-33c2-4b9d-86da-6bd7308cec4f` | frame awaiting approval |
-| 4b | Marcus + Ryan | *"That boat is thirty feet." / "Out of the water." / "Everybody move. Now."* | `11a17916-c542-49d7-bde7-99f523b83738` | rendering |
+| 4b | Marcus + Ryan | *"That boat is thirty feet." / "Out of the water." / "Everybody move. Now."* | `11a17916-c542-49d7-bde7-99f523b83738` | ✅ keep |
 
 **Retired:** `e1542f9d` (shot 3 take 1) — the actor read the stage directions aloud:
 "Canal about two feet wide and six inches deep pressed into unbroken mud." `67b29246`
@@ -190,3 +190,18 @@ treeline, a name shouted while the camera is wide on the water, a warning from b
 lens. Those become editable for a fifth of a credit. Reserve lips-in-frame for lines whose
 delivery you actually want to see performed.
 
+**Shot 4b verified.** Three lines, two speakers, no fusion — the guard plus an action beat
+between each line fixed it. Marcus renders correctly as a Black man with a grey goatee once
+his skin tone is stated explicitly; leaving it unstated produced a light-complexioned man.
+Ends with both men sprinting into the brush.
+
+Two things for a human ear and eye: line two still transcribes with a leading ellipsis, so
+it may still sound like a continuation of Marcus's line rather than Ryan's separate order.
+And the analyser reads "bloody facial scratches" on Marcus, which is probably his canonical
+facial scars under hard torchlight — but if they read as fresh wounds, the audience will
+think he has already been attacked.
+
+**Still open:** shot 4a, the ridge of water. Keyframe `ba3b3510-33c2-4b9d-86da-6bd7308cec4f`
+awaits approval that the swell out-measures the boat; then 30 credits on minimax to move it.
+This is the film's only concrete statement of the creature's size, so the frame is worth
+getting right before spending on motion.
