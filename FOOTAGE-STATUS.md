@@ -167,7 +167,7 @@ lip-synced dialogue needs the video redone. (`speech_rate` must be an integer, n
 | 1 | Liam alone | *"He was right here, he was talking, I turned around."* | `0914ab84-560a-45e9-b907-3d767f12de88` | ✅ keep |
 | 2 | Maya + Daniel | The rifle in the shallows. *"Mateo!" / "Safety's on."* | `f47d6e3b-3f4e-4c69-98a2-3cff9426a8a4` | ✅ keep |
 | 3 | Ryan + Maya | *"There is no blood."* → the trough → *"MATEO!"* | `f94fec33-12b8-4d9f-847d-c129b460feb3` | ✅ keep + dub |
-| 4a | water only | the ridge longer than the boat | keyframe `ba3b3510-33c2-4b9d-86da-6bd7308cec4f` | frame awaiting approval |
+| 4a | water only | the ridge longer than the boat | — | ❌ **CUT** — see below |
 | 4b | Marcus + Ryan | *"That boat is thirty feet." / "Out of the water." / "Everybody move. Now."* | `11a17916-c542-49d7-bde7-99f523b83738` | ✅ keep |
 
 **Retired:** `e1542f9d` (shot 3 take 1) — the actor read the stage directions aloud:
@@ -205,3 +205,25 @@ think he has already been attacked.
 awaits approval that the swell out-measures the boat; then 30 credits on minimax to move it.
 This is the film's only concrete statement of the creature's size, so the frame is worth
 getting right before spending on motion.
+
+### ❌ SHOT 4a IS CUT — A SHOT THE MODELS CANNOT RENDER
+
+Two attempts, 60 credits, two different failures at the same idea:
+
+1. `ed99f11e` — the swell rendered as **bioluminescent**: "a bright phosphorescent wake...
+   a glowing, ethereal entity". Caused by asking for a "bright specular highlight".
+2. `0ba1e5cb` — with the glow forbidden, the swell was replaced by **a motorboat with a
+   spotlight**, engine noise and all. No ridge of water at all.
+
+Given an unfamiliar phenomenon — a long raised bulge of dark water at night — the model
+substitutes something familiar. This is the same failure as the shed-skins scale reveal.
+
+**The beat is already covered and covered better.** Shot 4b has Marcus watching something
+off-screen, saying "That boat is thirty feet" with no expression, and Ryan ordering
+everyone out of the water. The audience never sees it. That is the film's own rule — the
+cold open works because she is never shown — so cutting 4a strengthens the scene rather
+than weakening it.
+
+**General lesson:** when two attempts fail in two different ways, the shot is wrong, not the
+prompt. Check whether existing coverage already carries the beat before spending a third time.
+
