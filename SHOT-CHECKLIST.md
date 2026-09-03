@@ -348,6 +348,32 @@ Same scene, same lines, four clips. Every face is a locked face.
 4. If that means more than three faces — **split the shot** into coverage.
 5. Creature in frame → `2b2a2920` is in `medias` too.
 
+# 🚨🚨 SHE IS INVISIBLE FROM THE SURFACE — HEIGHT IS THE REVEAL
+
+**In the flooded crossing she must NOT be visible to the team, and must NOT be visible to
+the audience, until the camera is high above.** The reveal is caused by the camera's
+height, not by her depth.
+
+The error to avoid: describing her as "submerged, reading as a long dark shape through the
+brown water". That makes her readable from every angle including the men's, which makes
+the team look blind and makes the drone lift reveal nothing.
+
+**Write it this way instead:**
+
+At water level, looking ACROSS the surface: the water is opaque, flat, brown and matte,
+throwing back the sky and the canopy. Nothing beneath it is readable at all. No shape, no
+shadow, no movement, no darker patch. The men see nothing because there is nothing to see
+from where they stand.
+
+Only from directly overhead, looking straight DOWN through the surface, does the reflection
+break up and the shape become visible — and only then. State explicitly that she becomes
+visible *as the camera gains height* and was not visible before it.
+
+**Not one of them ever sees her, at any point, before during or after.**
+
+Finaltouch: *"the snake will move beneath the water and can only be seen through a drone
+shot."*
+
 # 🚨🚨 SEEDANCE 2.5 ONLY — DO NOT USE MINIMAX
 
 **Every video generation on this film uses `seedance_2_5`. Do not use `minimax_h3` for
