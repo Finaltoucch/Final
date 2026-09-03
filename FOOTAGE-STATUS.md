@@ -122,3 +122,39 @@ Shot and approved so far: **120 seconds** — 30s cold open, 30s Scene 2 (fishin
 At the rates established today — 30 credits per 15s on minimax, 98 per 15s on
 seedance — the remaining balance decides how much of the film is reachable. Prefer
 minimax wherever a shot does not need dialogue audio or a mid-clip grade change.
+
+---
+
+## SCENE 6 — ABANDONED SETTLEMENT / THE RADIO
+
+| Shot | Who | Beat | Job | State |
+|---|---|---|---|---|
+| 1 | Maya + Ryan | *"Ryan." / "There is charge in it."* | `ee29ed67-ab23-405f-a181-be0aa8a6b2de` | reshoot in flight |
+| 2 | Daniel + Maya | *"...sitting in a swamp since Nixon." / "The needle's moving."* | `fcd9a315-8104-4f19-a66b-19dd35f0b6c6` | ✅ keep |
+| 3 | Maya + Liam | ***"don't go underground"*** / *"It's not a recording, Liam."* | `26685559-05b5-48e3-9b4e-bf842c722f97` | ✅ keep, with the audio fix below |
+
+Shot 1's first take (`cbc8dfba`) is retired: Maya's second line rendered as **"Hi, Odin"**
+instead of "There's charge in it". Retired because it is a lip-synced on-camera line and
+cannot be dubbed. The reshoot declares "exactly two spoken lines and nothing else" and
+spells out the contraction, which is where the garble occurred.
+
+Shot 2 note: the radio dial in the extreme close-up is stencilled **"GTDERD"** — the usual
+AI gibberish-text artifact. Readable, but small. Future prompts push lettering out of frame.
+
+### 🔊 THE CHEAP FIX: dub anything not lip-synced
+
+Shot 3's radio voice came back **male**. The script calls for a woman's, and it matters —
+a woman on a 1960s military channel is the thread to whoever tore the notebook pages out.
+
+Because it is a radio voice-over with no mouth on camera, it was fixed for **0.2 credits**
+instead of a 98-credit reshoot:
+
+`generate_audio` · model `seed_audio` · voice **Soraya** `5c1d2f7f-cdb4-5b1d-bca9-156439e3275e`
+→ `https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260903_185312_875ae466-b8c3-41d3-ab0a-0956b964e330.wav`
+
+Lay it over the male line with the static riding on top.
+
+**Apply this everywhere:** any line without a mouth on camera — radio, off-screen, through
+a wall, a voice from the dark — is a 0.2-credit audio generation, not a reshoot. Only
+lip-synced dialogue needs the video redone. (`speech_rate` must be an integer, not a float.)
+
