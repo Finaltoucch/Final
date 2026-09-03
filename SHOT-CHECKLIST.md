@@ -348,6 +348,34 @@ Same scene, same lines, four clips. Every face is a locked face.
 4. If that means more than three faces — **split the shot** into coverage.
 5. Creature in frame → `2b2a2920` is in `medias` too.
 
+# 🚨🚨 ONLY LOCKED CHARACTERS APPEAR IN THIS FILM — NO EXCEPTIONS
+
+**Every human being visible in any shot must come from a locked Higgsfield Element.
+Never generate a person from description alone, at any distance, for any reason.**
+
+This includes aerials, wides, silhouettes, background figures, crowds, and anyone too far
+away for a face to resolve. "They're only shapes at this distance" is not a reason — it is
+how invented people get into the film. If a person is in frame, their reference is in
+`medias`.
+
+Direct instruction from Finaltouch: *"the characters must be only the characters locked in
+higgsfield."*
+
+If a shot needs more people than references can practically carry, the shot gets restaged
+so fewer people are visible — never filled in with invented ones.
+
+**The team's media IDs, for shots with several of them:**
+
+| | |
+|---|---|
+| Ryan | `61201a14-4c4a-49aa-bbce-78e6753b4ad8` |
+| Marcus | `152eb482-8403-4df9-b2a7-2b08a148c638` |
+| Kofi | `775128fd-a1b2-43e1-91ee-a6fa7938b03e` |
+| Daniel | `fe62d845-c254-4f3f-8ce9-13a1c1af048e` |
+| Liam | `75702710-b898-4aa5-b8e7-d20afe36fe6f` |
+| Maya | `ec3a91da-da70-47f3-a5bf-c1fcc4acaa63` |
+| The Mother | `2b2a2920-35d4-4931-9dbe-7d0ee1678510` |
+
 ### 🚨 SPECIFY WARDROBE EVEN IN WIDE AND AERIAL SHOTS
 
 "Six small human figures" in an aerial keyframe produced six people in **white, black,
