@@ -348,6 +348,31 @@ Same scene, same lines, four clips. Every face is a locked face.
 4. If that means more than three faces — **split the shot** into coverage.
 5. Creature in frame → `2b2a2920` is in `medias` too.
 
+### 🚨 DECLARE THE LINE COUNT, OR THE PROMPT GETS SPOKEN
+
+**Every dialogue prompt must state exactly how many lines are spoken and that nothing else
+is.** Without it, two things go wrong, both proven on the riverbank scene:
+
+1. **Stage directions get read aloud.** The trough shot's description — "a trough about two
+   feet wide and six inches deep, pressed into unbroken mud" — came out of the actor's
+   mouth as dialogue.
+2. **Consecutive short lines by different characters merge into one.** Marcus's *"That boat
+   is thirty feet."* and Ryan's *"Out of the water."* fused into *"That boat is thirty feet
+   out of the water"* — which means nothing, and destroys the film's key scale beat.
+
+The guard that works, added verbatim near the top of the prompt:
+
+> THE SHOT CONTAINS EXACTLY TWO SPOKEN LINES AND NOTHING ELSE. Speak both slowly and
+> clearly, with a pause between them. Do not add any other words.
+
+Then give each line on its own, in quotes, attributed by name.
+
+**Also:** spell out contractions in spoken lines. "There's charge in it" rendered as
+"Hi, Odin"; "There is charge in it" rendered correctly.
+
+**And:** when two short lines belong to different speakers, separate them with an action
+beat or split them across two shots. Adjacent short lines fuse.
+
 ### 🚨 THE REFERENCE IMAGE ALWAYS WINS
 
 **A character renders as whatever their reference image actually shows. Prompt wording
