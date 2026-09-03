@@ -158,3 +158,35 @@ Lay it over the male line with the static riding on top.
 a wall, a voice from the dark — is a 0.2-credit audio generation, not a reshoot. Only
 lip-synced dialogue needs the video redone. (`speech_rate` must be an integer, not a float.)
 
+---
+
+## SCENE 7 — RIVERBANK, NIGHT / MATEO TAKEN
+
+| Shot | Who | Beat | Job | State |
+|---|---|---|---|---|
+| 1 | Liam alone | *"He was right here, he was talking, I turned around."* | `0914ab84-560a-45e9-b907-3d767f12de88` | ✅ keep |
+| 2 | Maya + Daniel | The rifle in the shallows. *"Mateo!" / "Safety's on."* | `f47d6e3b-3f4e-4c69-98a2-3cff9426a8a4` | ✅ keep |
+| 3 | Ryan + Maya | *"There is no blood."* → the trough → *"MATEO!"* | `f94fec33-12b8-4d9f-847d-c129b460feb3` | ✅ keep + dub |
+| 4a | water only | the ridge longer than the boat | keyframe `ba3b3510-33c2-4b9d-86da-6bd7308cec4f` | frame awaiting approval |
+| 4b | Marcus + Ryan | *"That boat is thirty feet." / "Out of the water." / "Everybody move. Now."* | `11a17916-c542-49d7-bde7-99f523b83738` | rendering |
+
+**Retired:** `e1542f9d` (shot 3 take 1) — the actor read the stage directions aloud:
+"Canal about two feet wide and six inches deep pressed into unbroken mud." `67b29246`
+(shot 4 take 1) — the two lines fused into "That boat is thirty feet out of the water",
+no ridge of water rendered at all, and Marcus came out light-complexioned.
+
+**Audio dubs for this scene:**
+- Shot 3's *"MATEO!"* rendered in a male voice; replaced with Maya's cast voice Maeve
+  `64cf4f1a-61c8-5938-9aea-83d12b2e1d13` →
+  `https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20260903_192212_0362c815-b55a-4d11-ba47-1ef78fbab251.wav`
+
+### STAGING PRINCIPLE WORTH USING DELIBERATELY
+
+Wrong-voice and wrong-line problems have now cost 0.2 credits twice and 98 credits twice.
+The difference is only whether the mouth is on camera.
+
+**So stage the emotionally critical shouts off-camera or at distance** — a cry from the
+treeline, a name shouted while the camera is wide on the water, a warning from behind the
+lens. Those become editable for a fifth of a credit. Reserve lips-in-frame for lines whose
+delivery you actually want to see performed.
+
