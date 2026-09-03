@@ -348,6 +348,25 @@ Same scene, same lines, four clips. Every face is a locked face.
 4. If that means more than three faces — **split the shot** into coverage.
 5. Creature in frame → `2b2a2920` is in `medias` too.
 
+### 🚨 NEVER WRITE "BRIGHT" OR "HIGHLIGHT" ABOUT THE CREATURE OR HER WATER
+
+Asking for "a bright specular highlight running along its crest where the torchlight
+catches it" produced a **glowing, phosphorescent, bioluminescent** swell — the analyser's
+words. She read as supernatural, which breaks the film's founding rule that she is a real
+animal.
+
+For any shot of her or of water she is moving through, state the negative explicitly:
+
+> The water is completely dark and does not glow. No bioluminescence, no phosphorescence,
+> no glowing, no light coming from the water or from anything in it.
+
+Then describe what IS visible in purely physical terms — a change in the shape of the
+surface, a crease of foam along each side, a dull reflection of the sky along the raised
+crest. A bulge in the water, nothing more.
+
+The same caution applies to her body: no glowing eyes, no sheen described as "bright", no
+light emitted from anything about her. Wet scales reflect; they do not shine.
+
 ### 🚨 DECLARE THE LINE COUNT, OR THE PROMPT GETS SPOKEN
 
 **Every dialogue prompt must state exactly how many lines are spoken and that nothing else
