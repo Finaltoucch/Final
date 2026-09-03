@@ -348,6 +348,23 @@ Same scene, same lines, four clips. Every face is a locked face.
 4. If that means more than three faces — **split the shot** into coverage.
 5. Creature in frame → `2b2a2920` is in `medias` too.
 
+### 🚨 SPECIFY WARDROBE EVEN IN WIDE AND AERIAL SHOTS
+
+"Six small human figures" in an aerial keyframe produced six people in **white, black,
+green and blue t-shirts** with no weapons — civilians, not the armed file established in
+every other shot of the film. At that height wardrobe still reads, and mismatched colour
+will stop a shot cutting against its neighbours.
+
+In any shot where characters are too small or distant to carry their Element references,
+state the wardrobe as a group:
+
+> Every one of them wears dark olive-green and muddy brown military field clothing, long
+> sleeves, tactical vests, packs. No bright colours anywhere: no white, no blue, no
+> light-coloured clothing, no t-shirts. Each holds a rifle lifted above their head.
+
+Then say what the figure reads as from that angle — head, raised arms, the dark line of a
+weapon, a pack, a V-shaped wake. Give the model the silhouette, not just a headcount.
+
 ### 🚨 NEVER WRITE "BRIGHT" OR "HIGHLIGHT" ABOUT THE CREATURE OR HER WATER
 
 Asking for "a bright specular highlight running along its crest where the torchlight
