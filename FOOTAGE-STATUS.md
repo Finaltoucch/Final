@@ -227,3 +227,61 @@ than weakening it.
 **General lesson:** when two attempts fail in two different ways, the shot is wrong, not the
 prompt. Check whether existing coverage already carries the beat before spending a third time.
 
+
+---
+
+# 📼 THE EVERYTHING-REEL — ALL 57 CLIPS, NOTHING WITHHELD
+
+**https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/2e826598-813f-4ed7-9237-ff6e8f3a76fb.mp4**
+
+**14 minutes 44 seconds.** Every clip generated for this film, in the order it was
+generated — keepers, retired takes, failed experiments, all of it. This exists because
+retirement decisions were being made silently on footage Finaltouch had never seen.
+He judges his own film. The reel is the evidence.
+
+The two earlier stitches remain valid as *cuts* — this one is an *archive*:
+- Story cut, with cold open, 336s — `d344692c-0620-49f3-b9a8-9e295dc15d4a.mp4`
+- Story cut, without cold open, 306s — `6d8e212d-50bc-4cc1-8e02-12b50deeca26.mp4`
+
+## Timecode index
+
+Timecodes confirmed by ffprobe against the normalised masters. Clip UUIDs match the
+job IDs recorded elsewhere in this file.
+
+| At | # | Len | What it is | Status |
+|---|---|---|---|---|
+| 0:00 | 01–02 | 5s ea | earliest tests | — |
+| 0:10 | 03–04 | 30s ea | early 30s attempts | superseded |
+| 1:10 | 05 | 30s | boatyard wide, six invented faces | ❌ retired |
+| 1:40 | 06 | 30s | **dock night — Maya + Ryan, the Kandahar lines** | ✅ **in the cut** |
+| 2:10 | 07 | 30s | **Scene 2 — fishing village, Armando + Ryan** | ✅ **in the cut** |
+| 2:40 | 08–19 | 5–15s | the cold open, twelve attempts — heat plates, animated-plate errors, static camera, frozen actor | superseded |
+| 5:16 | 20 | 15s | **cold open 0:00–0:15 — heat POV travelling toward him** | ✅ **in the cut** |
+| 5:31 | 21–23 | 10–15s | further cold-open attempts | superseded |
+| 6:06 | 24 | 15s | **cold open 0:15–0:30 — thermal → torchlight, the scream into lens** | ✅ **in the cut** |
+| 6:21 | 25–26 | 15s ea | boatyard coverage attempts | superseded |
+| 6:51 | 27 | 15s | **boatyard day — Maya + Ryan + the stone** | ✅ **in the cut** |
+| 7:06 | 28 | 15s | boatyard night reshoot | ❌ duplicate of 06 |
+| 7:21 | 29 | 15s | **boatyard day — Mateo + Liam** | ✅ **in the cut** |
+| 7:36 | 30 | 15s | **boatyard day — Daniel + Marcus** | ✅ **in the cut** |
+| 7:52 | 31 | 15s | **river mouth — the engine dies** | ✅ **in the cut** |
+| 8:07 | 32 | 15s | shed skins, seedance — no scale reveal | ❌ failed |
+| 8:22 | 33 | 15s | shed skins, minimax — same failure | ❌ failed |
+| 8:37 | 34 | 15s | radio shot 1 — "Hi, Odin" garble | ❌ retired |
+| 8:52 | 35 | 15s | **radio — Maya + Liam, "don't go underground"** | ✅ **in the cut** |
+| 9:07 | 36 | 15s | **radio — Daniel + Maya, "the needle's moving"** | ✅ **in the cut** |
+| 9:22 | 37 | 15s | **radio — Maya + Ryan, "there is charge in it"** | ✅ **in the cut** |
+| 9:37 | 38 | 15s | **riverbank — the rifle in the shallows** | ✅ **in the cut** |
+| 9:52 | 39 | 15s | **riverbank — Liam alone, "he was right here"** | ✅ **in the cut** |
+| 10:07 | 40 | 15s | riverbank shot 4 take 1 — lines fused | ❌ retired |
+| 10:22 | 41 | 15s | riverbank shot 3 take 1 — stage directions read aloud | ❌ retired |
+| 10:37 | 42 | 15s | **riverbank — "that boat is thirty feet" / "out of the water"** | ✅ **in the cut** |
+| 10:52 | 43 | 15s | **riverbank — "there is no blood" → the trough → MATEO!** | ✅ **in the cut** |
+| 11:07 | 44 | 15s | ridge of water — rendered bioluminescent | ❌ cut |
+| 11:22 | 45–50 | 15s ea | flooded crossing, first attempts — straight-line formation, wrong water level, invented civilians | superseded |
+| 12:53 | 51 | 15s | ridge of water take 2 — rendered as a motorboat | ❌ cut |
+| 13:08 | 52–56 | 15s ea | flooded crossing / drone reveal, further attempts — creature visible from the surface | superseded |
+| 14:23 | 57 | 20s | latest flooded-crossing / drone-reveal take | current best |
+
+**Read that column honestly:** 18 clips carry the film. 39 were spent finding out how.
+Roughly two thirds of the credits burned so far went on takes that did not survive.
