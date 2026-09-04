@@ -1,3 +1,53 @@
+# 🚨 DIALOGUE IS ADDED LAST — SHOOT FOR PICTURE
+
+Direct instruction from Finaltouch: *"you will later add dialogue to this film when
+everything is done."*
+
+The on-camera audio seedance generates is a **scratch track**, not the final soundtrack.
+It exists to give the actors something to mouth. The real dialogue is laid over the
+finished cut at the end.
+
+## What this changes, starting now
+
+**Never spend a 98-credit reshoot on an audio fault again.** Wrong voice, wrong gender,
+garbled contraction, two lines fused, stage directions read aloud — none of these are
+reshoot reasons any more. They are fixed in the dub. A take is only retired for what the
+**picture** does: wrong face, wrong wardrobe, wrong staging, wrong camera move, the
+creature visible when she should not be, an invented character.
+
+**Still get the beat count right in the prompt.** The dub has to land on moving lips. So
+the line-count guard stays — "THE SHOT CONTAINS EXACTLY TWO SPOKEN LINES AND NOTHING
+ELSE" — not because the words must be correct, but because the **rhythm** must be. Two
+lines of roughly the right length, with a pause between, dubs cleanly. Six lines of
+improvised mumbling does not.
+
+**Stage lines away from the lens wherever the scene allows.** A line delivered from
+behind, at distance, in a wide, off-screen, or with the head turned has no lip-sync to
+match at all — those dub perfectly. Reserve mouths-in-frame for the handful of lines
+whose performance the audience must actually watch. This was already the cheap-fix rule
+for off-camera voices; it is now the default staging rule for everything.
+
+**Judge every take on picture only.** When reviewing analysis output, read the visual
+description and ignore the transcript unless the mouth movement itself is wrong.
+
+## Takes that may come back into play
+
+Two clips were retired for audio alone. Their picture was correct:
+
+| Clip | Retired because | Picture verdict |
+|---|---|---|
+| `cbc8dfba` | Maya said *"Hi, Odin"* instead of *"There's charge in it"* | correct — Maya + Ryan, right faces, right settlement |
+| `e1542f9d` | actor read the stage directions aloud | correct — Ryan + Maya at the trough |
+
+Both are lip-synced on camera, so a dub has to fit the existing mouth shapes. That is a
+judgement for the edit, not for me. **They are no longer deleted — they stay available.**
+
+Three other retirements stand, because the picture failed too: `67b29246` (no ridge of
+water, Marcus rendered light-complexioned), `ef6ecd8b` (skins all one size, no scale
+reveal), `0ecdb427` (duplicates a scene already shot better).
+
+---
+
 > ## ⛔ DELETE IN THE HIGGSFIELD UI
 >
 > **Element `Snake-Vision-POV`** and its image — the infrared study containing **two
