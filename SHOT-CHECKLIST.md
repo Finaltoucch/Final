@@ -1,3 +1,40 @@
+# 🚨🚨 NEVER PASS MORE THAN THREE CHARACTER ELEMENTS IN ONE SHOT
+
+Seedance cannot hold six locked identities in a single frame. It drops one, or it doubles
+one, every time. Measured on 2026-09-06:
+
+| Shot | Elements | Result |
+|---|---|---|
+| Far bank, Liam taken | **6** | **the hero rendered twice**; Daniel vanished and his scoped rifle and his line were both given to Liam |
+| Flooded crossing, take 1 | **6** | Ryan's identity drifted off the reference |
+| Flooded crossing, take 2 | **6** | five people rendered, not six |
+| Flooded crossing, reference take | **6** | five people rendered, not six |
+| Marcus fires | **2** | both correct ✅ |
+| Deep chamber, the clutch | **2** | Ryan rendered as a white man ❌ |
+| Boatyard coverage (2026-09-02) | **2–3** | all four shots verified correct ✅ |
+
+**Three out of three shots with six elements had a headcount fault. None of the two- and
+three-element shots did.**
+
+## The rule
+
+**THE WHOLE TEAM IS NEVER IN ONE SHOT.** Build every group moment out of two- and
+three-person coverage, the way the boatyard scene was built. If the script says six people
+wade across a flooded forest, that is:
+- one shot of two of them talking,
+- one shot of a third watching his arc,
+- one wide from behind with **no character elements passed at all** — backs, silhouettes and
+  stated wardrobe only, so there are no faces to get wrong.
+
+A wide shot of the group is safe **only** when nobody's face is readable. Faces need
+references; references need to be few.
+
+This also fixes the recurring "invented civilians" problem from a different direction: at
+distance, pass no character elements and describe wardrobe, rather than passing six and
+hoping.
+
+---
+
 # 🚨🚨 IF A LOCKED ELEMENT EXISTS, PASS IT. NEVER DESCRIBE IT INSTEAD.
 
 Finaltouch locked the diamond as an Element for exactly one reason: so every stone in the
