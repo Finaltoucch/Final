@@ -1,3 +1,47 @@
+> # 🚨🚨 THE ELEMENT IDs BELOW WERE WRONG — READ THIS FIRST
+>
+> The character table in this file lists **media IDs**, not **Element IDs**. Passing them
+> to `generate_video` returns `404 Media input not found` and the job never starts.
+>
+> **Elements are not passed in `medias`. They are embedded in the prompt** as
+> `<<<element_id>>>`. The backend injects the image and rewrites it to `@element_name`.
+> Multiple placeholders per prompt is fine and is how a multi-character shot is built.
+>
+> ## THE REAL ELEMENT IDs — verified live
+>
+> | Character | Element ID |
+> |---|---|
+> | **Ryan-Cole-Armed** (the only approved hero) | `066aa34a-37fa-411b-8dcf-d356fb5bf083` |
+> | **Maya-Bennett** | `f44248b6-531b-4889-946c-b4a8b166477a` |
+> | **Marcus-Okoye** | `2a32ebca-35a7-4e6c-8653-a318517d8482` |
+> | **Daniel-Mercer** | `422c12d2-5a8b-497c-a08b-97c6e54066e6` |
+> | **Kofi-Mensah** | `44880f6f-1994-40a3-b6b2-590c4fa18baa` |
+> | **Liam-ORourke** | `195d7dd6-010f-4799-b56e-4c10421f4a73` |
+> | **Mateo-Alvarez** | `36e42750-f538-4e2f-aec7-7ae9c9f7c960` |
+> | **Armando** | `c471596e-2ca8-4662-b3bb-27a604605691` |
+> | **Elena-Alvarez** | `53497a77-1208-4f26-aa53-3cfabbc7d686` |
+> | **The-Buyer** | `63965603-83e0-48df-a591-716d0f919c37` |
+> | **Diamond-Anaconda-50ft** (master creature) | `88a74648-e818-438f-ab04-5ba44a56cabf` |
+> | **The-Diamond** (prop) | `e0762233-1eaa-43ab-a8d6-5c99fa8e0a0b` |
+> | **Snake-Cam-View** (heat POV treatment) | `60de5c28-4ef2-4f54-8a60-6d06ec61ccfa` |
+>
+> **RETIRED — never pass these:** `e788b2c7…` Ryan-Cole unarmed, `223a47e0…`
+> Diamond-Anaconda 30ft, `9490f7c0…` Snake-Vision-POV (contains two figures).
+>
+> ## 🚨 THE CREATURE ELEMENT BANS WORDS
+>
+> Her locked description forbids: **enormous, huge, massive, giant, colossal, towering,
+> titanic, monstrous, fills the tunnel.** Every one of them inflates her past the fifty-foot
+> canon. Write **"fifty feet long and sixty centimetres thick"** instead, every time.
+> A draft of the flooded-crossing prompt used "enormous" and was caught before it fired.
+>
+> ## Locations are different — they ARE media IDs
+>
+> The location table further down lists genuine media IDs and those go in `medias` with
+> role `image`. Characters go in the prompt. Do not mix the two up again.
+
+---
+
 > # ⛔ DO NOT USE — RETIRED ELEMENT
 >
 > **`e788b2c7-0476-443f-bfdb-dd8832f85644` — "Ryan-Cole" (unarmed)**
