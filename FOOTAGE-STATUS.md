@@ -1,3 +1,71 @@
+# 📋 COMPLETE STATE OF THE FILM — 2026-09-06
+
+Every scene in the 12-minute spine now has generated footage. This is the master list of
+which take is the keeper.
+
+## ✅ KEEPERS — verified by analysis
+
+| Scene | Job | Notes |
+|---|---|---|
+| Cold open 1A — heat POV approach | `3f1c7d96` | |
+| Cold open 1B — thermal to torchlight, the scream | `7f3c51eb` | |
+| Fishing settlement, first half — the legend | `cee1b944` | 30s |
+| Boatyard day — Maya, Ryan, the stone | `7624948d` | |
+| Boatyard day — Mateo and Liam | `99ca5be8` | |
+| Boatyard day — Daniel and Marcus | `13e9cda5` | |
+| Dock night — "Say it back to me" | `8c8a8538` | 30s, the original Kandahar lines |
+| River mouth — the engine dies | `e1aa8e04` | |
+| Totem Creek — the shed skins | `90f16c0c` | rebuilt as a tracking comparison |
+| Settlement — "there is charge in it" | `ee29ed67` | |
+| Settlement — "the needle is moving" | `fcd9a315` | |
+| Settlement — "do not go underground" | `26685559` | female radio dub available |
+| Riverbank — Liam alone | `0914ab84` | |
+| Riverbank — the rifle in the shallows | `f47d6e3b` | |
+| Riverbank — the trough, MATEO | `f94fec33` | Maya voice dub available |
+| Riverbank — "that boat is thirty feet" | `11a17916` | |
+| Crossing — going in / Kofi stops / only thing moving / waist deep | `4b8e1197` `a350c7ab` `4cf46f08` `e5eb0cd5` | water level only; the aerial reveal is CUT |
+| **Far bank — Liam is taken** | `56728e79` | ✅ duplicate-hero fault fixed |
+| **The cavern — the walls answer** | `b02802d7` | ✅ Ryan correct, walls reflect not glow |
+| **Side passage — no wound, the sock** | `9bd8ac53` | ✅ diamond reads "unrefined, jagged" — correct |
+| Cavern camp — "she lays them" | `cf39cfdc` | |
+| Cavern camp — "open your packs" | `e46d654a` | |
+| Passages — Kofi holds the corridor | `0f834533` | rewritten to Finaltouch's notes |
+| Sluice gate — Maya | `28850dca` | |
+| **Deep chamber — Marcus fires** | `c7d60778` | ✅ **the ORIGINAL, not the reshoot** |
+| The doorway — "where is my husband" | `a827558f` | |
+| The room — the line moves | `b11eb3f5` | |
+
+## ⚠️ KNOWN FAULTS LEFT IN
+
+**Deep chamber, the clutch `27357f03`** — she now rises from the far shadows rather than
+dropping from the ceiling, and Marcus renders correctly, but Ryan came out light-skinned.
+Covered by Marcus-fires, which carries her arrival, the eggs and the scar.
+
+**Fishing settlement, second half — MISSING.** Three attempts, three `nsfw` refusals, all
+refunded. Rewording does not clear it: the staging has to change materially. The first half
+is shot and good, so the scene exists at half length.
+
+## 🚫 THE RESHOOT THAT WAS DISCARDED
+
+`00bea837` (Marcus fires, take 2) is **worse than the original** and is not used: the walls
+glow again, Marcus renders lighter, and he never actually fires — he aims and the creature
+lunges. `c7d60778` stays.
+
+**The lesson worth keeping:** a verified-good take is an asset. Reshooting one to fix a
+minor fault can lose more than it gains, so bank the original and compare before replacing.
+
+## WHAT WAS FIXED PERMANENTLY TODAY
+
+1. **Ryan's element** — rebuilt from a generated 2528x1696 portrait as
+   `88211a40-556e-4f9f-bba4-70b992c2293a`. Correct in 3 of 4 shots since, versus far worse
+   before. Better, not perfect.
+2. **Six character elements in one shot** never works — capped at three.
+3. **Element IDs go in the prompt as `<<<id>>>`**, not in `medias`.
+4. **Reference media needs `mode: omni_reference`.**
+5. **The aerial reveal is cut** — four attempts, all failed on submersion and scale.
+6. **Suppress brilliance, specify shape and size** — and stage a diamond singly in a palm,
+   never as a pile.
+
 # DIAMOND ANACONDA — FOOTAGE STATUS
 
 What is actually shot, what is approved, and what still needs work.
