@@ -1,3 +1,63 @@
+# 🚨 SEEDANCE REFERENCE MEDIA NEEDS `mode: "omni_reference"`
+
+Passing `medias` without it returns **422: "mode 't2v' does not accept reference media"**.
+No credits are charged — the job never starts — but it costs a round trip. Set
+`mode: "omni_reference"` on every generation that carries reference images.
+The server then rewrites role `image` to `image_references` itself.
+
+**Elements are separate from reference media.** Elements go in the prompt as `<<<id>>>`;
+uploaded photographs go in `medias`. A shot can use both at once, and when it does, say
+in the prompt which one governs what — otherwise the photograph overrides the Element.
+
+Working example, the flooded crossing:
+> HOW TO USE THE TWO ATTACHED REFERENCE PHOTOGRAPHS: they govern ONE THING ONLY — how a
+> submerged snake looks through water seen from directly above… Do NOT copy the location,
+> the boats, the canoe, the people or the water colour from those photographs.
+>
+> HER IDENTITY AND HER SIZE COME FROM THE ELEMENT, NOT FROM THE PHOTOGRAPHS: `<<<88a74648…>>>`
+
+---
+
+# 🚨 NEVER WRITE A SCALE COMPARISON AGAINST ANYTHING BUT THE BOAT
+
+The crossing rendered her far too large because the prompt said *"half as long again as the
+whole group is wide"*. Six people spread across a crossing span much more than the
+thirty-foot boat, so that line inflated her past fifty feet.
+
+**The boat is the film's only scale ruler.** Either compare her to the thirty-foot boat, or
+give no comparison at all and state the dimensions alone. Never invent a new yardstick.
+
+---
+
+# 🚨 "UNDER THE WATER" MUST BE SPELLED OUT AS A SURFACE RULE
+
+Asking for a snake "swimming four feet under the water" produced a snake swimming **on** it,
+head above the surface, throwing wide ripples. The model renders the animal, not the water
+over it.
+
+State it as a rule about the SURFACE, not about her depth:
+> NO PART OF HER IS EVER ABOVE THE WATER. Her head stays underwater the entire time. She
+> makes no wake, no ripple, no splash and no disturbance whatsoever — the surface above her
+> stays perfectly flat and unbroken. She is seen only as a dark shape down through the
+> water, softened and blurred by the water above her.
+
+Finaltouch's phrase is the target: **"just like a whale moving under the water."**
+
+---
+
+# 🚨 SHE MUST NOT CIRCLE. SHE PASSES.
+
+First crossing take had her *"circling behind the stationary soldiers"* and the team stopping
+and bunching into a tight circle. Both are wrong and both change the story: circling makes
+her a predator stalking prey, when the whole point is that she is indifferent and simply
+going somewhere.
+
+Always state: she enters at one edge of frame, travels in a straight line, exits at the
+other. She never turns, curves, doubles back or circles. And: the team **walks forward
+continuously from the first frame to the last** — they never stop and never gather.
+
+---
+
 # 🚨 DIALOGUE IS ADDED LAST — SHOOT FOR PICTURE
 
 Direct instruction from Finaltouch: *"you will later add dialogue to this film when
