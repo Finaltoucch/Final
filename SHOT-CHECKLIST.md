@@ -1,3 +1,56 @@
+# 🚨🚨 IF A LOCKED ELEMENT EXISTS, PASS IT. NEVER DESCRIBE IT INSTEAD.
+
+Finaltouch locked the diamond as an Element for exactly one reason: so every stone in the
+film is **the same stone**. On 2026-09-06 it was passed in **one shot out of eight**. The
+other seven described it in prose — "an irregular lumpy stone about eight centimetres
+across" — which produces a different stone every time.
+
+**`<<<e0762233-1eaa-43ab-a8d6-5c99fa8e0a0b>>>` goes in the prompt of every shot containing
+a large diamond.** The packs, the cave walls, the sock, the clutch chamber, the three in
+the boat, the last one on the table.
+
+Writing a good description is not a substitute for the reference. It is the failure.
+The rule already existed in this file under **THE REFERENCE IMAGE ALWAYS WINS** and was
+ignored anyway, so it is restated here at the top.
+
+**The one legitimate exception, and state it in the prompt when used:** Armando's stone in
+the fishing settlement is deliberately ~1 cm, a pea on the wood. The Element is locked at
+8 cm. That shot describes the tiny stone in words on purpose.
+
+**Same rule for every other locked asset** — characters, the creature, the locations. If it
+is locked, pass it.
+
+---
+
+# 🚨🚨 THE AERIAL REVEAL IS CUT. SHE IS NEVER SEEN FROM ABOVE.
+
+Direct instruction from Finaltouch after the third failed approach:
+*"cut the aerial reveal the way that works."*
+
+**Four attempts across two models and two prompt strategies, including one with his own
+reference photographs attached. Every one failed on the same two points:**
+
+| Attempt | Water depth | Movement | Submersion | Size |
+|---|---|---|---|---|
+| minimax aerials (×5) | — | — | surface | — |
+| seedance take 1 | chest | circles the group | surface, wide ripples | dwarfs them |
+| seedance take 2 | knee | hard cut, no lift | surface | colossal |
+| seedance + reference photos | ✅ waist | ✅ straight pass | ❌ V-shaped ripples | ❌ "hundreds of feet long" |
+
+The references fixed depth, walking and the straight-line pass. They did **not** fix
+submersion or scale. "Snake" plus a top-down water shot pulls the model into the
+giant-anaconda-movie trope and nothing in prompt space outranks it.
+
+**This is the ridge-of-water lesson again:** when several attempts fail in the same place,
+the shot is wrong, not the prompt. And the film's own rule is that she works because she is
+never shown — the cold open proves it.
+
+**The crossing is carried by the existing water-level coverage instead**, which is already
+shot: GOING IN, KOFI STOPS, THE ONLY THING MOVING, WAIST DEEP, plus the water-level opening
+of the reference take. The audience never sees her. That is the film.
+
+---
+
 # 🚨 SEEDANCE REFERENCE MEDIA NEEDS `mode: "omni_reference"`
 
 Passing `medias` without it returns **422: "mode 't2v' does not accept reference media"**.
