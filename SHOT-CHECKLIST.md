@@ -1,3 +1,29 @@
+# 🚨 NEVER DESCRIBE A BODY PART AS "MISSING". SAY WHAT IS THERE.
+
+Every boat prompt carried the phrase **"one boot missing."** The script means he lost a boot
+wading out and is walking on one bare foot. The model resolved it literally and rendered
+**Ryan's leg cut off**. One earlier take read merely as "barefoot" — so the phrase was never
+stable, it just failed differently each time.
+
+**Write the positive form:** *"one bare foot, the other in a worn combat boot."*
+
+This is the same failure as the vanishing diamonds and the frozen actor: **absence-phrasing
+makes the model delete things.** A prompt describes what IS in frame. Anything phrased as
+lacking, missing, gone, without or removed is an instruction to subtract, and the model
+chooses what to subtract.
+
+Applies to every body part, every item of wardrobe and every piece of kit:
+- ❌ "one boot missing" → ✅ "one bare foot, the other in a worn boot"
+- ❌ "his rifle is gone" → ✅ "his empty sling hangs across his chest"
+- ❌ "no gloves" → ✅ "bare hands, scratched and dirty"
+
+**This phrase was still in the reshoot fired on 2026-09-06 to fix the boat's performance.**
+Fixing one fault while leaving a known-bad phrase in place wastes the whole clip. Before
+firing a reshoot, re-read the ENTIRE prompt for other known failure modes, not just the
+line being corrected.
+
+---
+
 # 🚨 CORRECTION: STATE SHAPE AND SIZE. SUPPRESS ONLY BRILLIANCE.
 
 The earlier rule in this file — "pass the Element, then say nothing about how it looks" —
