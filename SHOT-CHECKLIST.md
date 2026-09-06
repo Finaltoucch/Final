@@ -1,3 +1,45 @@
+# 🚨🚨 NEVER WRITE THE CREATURE'S SIZE IN PROSE. THE ELEMENT IS THE SIZE.
+
+Finaltouch, after the aerial reveal came back out of scale again:
+*"i already locked the image of the snake with the exact size on higgsfield, you ignore it
+then come here to spit rubbish."*
+
+He is right, and this is a rule already proven in this file and then broken anyway.
+
+**Every attempt at the aerial reveal passed `<<<88a74648…>>>` AND ALSO wrote her dimensions
+in prose** — "fifty feet long and sixty centimetres thick", "as long as eight of those
+figures laid end to end", "half as long again as the group is wide". Every one came back
+oversized.
+
+**This is the same doubling failure as the diamonds**, which was measured on 2026-09-06:
+
+| | How it was written | Result |
+|---|---|---|
+| Side passage | Element alone, no description | ✅ correct |
+| The boat | Element **plus** prose describing it | ❌ faceted, grapefruit-sized |
+
+Passing an Element and then describing the same property in words applies it twice. The
+Element's own description already carries the canonical size, the markings, the scar and
+the proportions.
+
+## The rule
+
+**Pass `<<<88a74648-e818-438f-ab04-5ba44a56cabf>>>` and write NOTHING about how big she is.**
+
+Describe only what she DOES in the shot: where she enters, the line she travels, that she
+stays beneath the surface, where she exits. Not her length, not her thickness, not a
+comparison to the boat, the group, or anything else in frame.
+
+The earlier note in this file about the thirty-foot boat being the scale ruler applies to
+STORYTELLING — Marcus saying "that boat is thirty feet" — **not to prompt text**. Do not
+convert it into a written measurement in a prompt.
+
+Corollary already recorded and worth repeating: the Element's banned words —
+enormous, huge, massive, giant, colossal, towering, titanic, monstrous — must not appear.
+Neither must any number.
+
+---
+
 # 🚨 NEVER DESCRIBE A BODY PART AS "MISSING". SAY WHAT IS THERE.
 
 Every boat prompt carried the phrase **"one boot missing."** The script means he lost a boot
