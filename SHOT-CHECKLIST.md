@@ -1,3 +1,39 @@
+# 🚨 CORRECTION: STATE SHAPE AND SIZE. SUPPRESS ONLY BRILLIANCE.
+
+The earlier rule in this file — "pass the Element, then say nothing about how it looks" —
+is **too broad and produced a fault of its own.** It was written after the boat shot came
+back glittering, and it fixed that, but the next boat take rendered the diamonds as
+*"faceted crystal spheres, roughly the size of a grapefruit"* — the exact thing the locked
+Element forbids.
+
+## What actually holds, measured on 2026-09-06
+
+| Shot | How the diamond was shown | Result |
+|---|---|---|
+| Side passage, the sock | **one stone, tipped into an open palm** | ✅ *"large, unrefined, translucent… jagged"* — correct |
+| The boat | **three loose together in a bag** | ❌ faceted spheres the size of a grapefruit |
+
+Same Element, same absence of description. The difference is the staging: **against a hand,
+one at a time, the reference holds. In a pile, the model reverts to generic movie treasure**
+— big, symmetrical, cut like jewellery.
+
+## The corrected rule
+
+1. **Always pass the Element.**
+2. **Do state shape and size in words** — "irregular and lumpy like a broken stone off the
+   ground, about the size of a watch face, fitting easily between finger and thumb." These
+   are exactly where the model defaults wrongly, and the image alone does not beat that.
+3. **Do NOT restate brilliance** — no "specular", no "prismatic", no "flashes of blue and
+   gold", nothing about light being thrown onto faces. That is what produced the superhero
+   light show, and the Element already carries it.
+4. **Stage it singly wherever the shot allows.** One stone in a palm beats a heap in a bag.
+   When a pile is unavoidable (open your packs), anchor it: "loose in the bottom of an
+   ordinary rucksack like a bag of gravel, each one picked up between finger and thumb."
+
+Short version: **suppress the light, specify the object.**
+
+---
+
 # 🚨🚨 RYAN IS NOW `88211a40-556e-4f9f-bba4-70b992c2293a` — v1 IS RETIRED
 
 `066aa34a-37fa-411b-8dcf-d356fb5bf083` is **RETIRED**. Check the ID before every shot.
