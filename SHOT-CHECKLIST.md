@@ -1,3 +1,41 @@
+# 🚨🚨 PASS THE ELEMENT, THEN SAY NOTHING ABOUT HOW IT LOOKS
+
+The boat shot came back looking like a superhero film — light flaring off the diamonds and
+reflecting in Ryan's eyes. Finaltouch: *"why did you make his eyes glitter? this is not
+some super hero movie."*
+
+**Cause: the properties were applied twice.** The locked diamond Element already carries its
+own brilliance in its description — *"hard white specular highlights… prismatic fire flashes
+blue and gold… caustic light spills onto whatever it rests on."* The prompt then wrote all
+of that again in prose, and added light being thrown up into his face. The model rendered
+the description on top of the reference.
+
+## The rule
+
+When a locked Element is passed, **describe only what it DOES in this shot** — where it is,
+who is holding it, what happens to it. **Never restate its appearance.** Size, shape,
+colour, finish, material, how it catches light: all of that is already in the Element and
+repeating it doubles it.
+
+Wrong: *"three irregular lumpy stones about eight centimetres across throwing hard white
+specular sparks and prismatic flashes of blue and gold up into his face"*
+
+Right: *"Inside the pack are three of `<<<e0762233…>>>`. Photograph them like real objects
+in a canvas bag in ordinary daylight. Keep the camera on him, not on them."*
+
+## And say what the register is
+
+For any quiet dramatic beat, state the genre in the first line so the model does not reach
+for spectacle: *"Restrained, realistic, observational live-action cinema… a quiet dramatic
+scene about an exhausted man sitting down. It is not a fantasy film and there are no visual
+effects of any kind."*
+
+Then give the camera something real to do instead of a light effect. In the boat shot the
+whole event is **his hands starting to shake**. That is the drama. The diamonds should be
+out of focus in his lap while the shot holds on his face.
+
+---
+
 # 🚨🚨 NEVER PASS MORE THAN THREE CHARACTER ELEMENTS IN ONE SHOT
 
 Seedance cannot hold six locked identities in a single frame. It drops one, or it doubles
