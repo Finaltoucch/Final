@@ -1,3 +1,27 @@
+# 🚨🚨 RYAN IS NOW `88211a40-556e-4f9f-bba4-70b992c2293a` — v1 IS RETIRED
+
+`066aa34a-37fa-411b-8dcf-d356fb5bf083` is **RETIRED**. Check the ID before every shot.
+
+**Why:** across 2026-09-06 Ryan rendered as a white man in the deep chamber and as a
+"tanned complexion, short-cropped dark hair" man in the boat, while rendering correctly in
+Marcus-fires. The boat passed only one character element, so it was not the headcount rule.
+
+**The measured cause:** every reliable cast element is a generated `image_job` portrait at
+**2528×1696**. Ryan's was the only one built from an uploaded `media_input` JPG, at
+**2048×1152** — a 16:9 film still in which his face was a small part of the frame. Weak
+facial data, unstable identity.
+
+## The general rule
+
+**A character element must be a chest-up portrait, not a film frame.** Face large, plain
+background, even lighting. When an element misbehaves, check two things first:
+- media `type` — `media_input` (upload) is the suspect; `image_job` is what works
+- dimensions — 16:9 means it is a film still and the face is probably small
+
+Crop to head and shoulders before locking anything from an upload.
+
+---
+
 # 🚨🚨 PASS THE ELEMENT, THEN SAY NOTHING ABOUT HOW IT LOOKS
 
 The boat shot came back looking like a superhero film — light flaring off the diamonds and

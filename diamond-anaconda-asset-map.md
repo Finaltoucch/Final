@@ -11,7 +11,7 @@
 >
 > | Character | Element ID |
 > |---|---|
-> | **Ryan-Cole-Armed** (the only approved hero) | `066aa34a-37fa-411b-8dcf-d356fb5bf083` |
+> | **Ryan-Cole-Armed-v2** (THE ONLY APPROVED HERO) | `88211a40-556e-4f9f-bba4-70b992c2293a` |
 > | **Maya-Bennett** | `f44248b6-531b-4889-946c-b4a8b166477a` |
 > | **Marcus-Okoye** | `2a32ebca-35a7-4e6c-8653-a318517d8482` |
 > | **Daniel-Mercer** | `422c12d2-5a8b-497c-a08b-97c6e54066e6` |
@@ -25,8 +25,32 @@
 > | **The-Diamond** (prop) | `e0762233-1eaa-43ab-a8d6-5c99fa8e0a0b` |
 > | **Snake-Cam-View** (heat POV treatment) | `60de5c28-4ef2-4f54-8a60-6d06ec61ccfa` |
 >
-> **RETIRED — never pass these:** `e788b2c7…` Ryan-Cole unarmed, `223a47e0…`
-> Diamond-Anaconda 30ft, `9490f7c0…` Snake-Vision-POV (contains two figures).
+> **RETIRED — never pass these:** `066aa34a…` Ryan-Cole-Armed v1 (unstable identity, see
+> below), `e788b2c7…` Ryan-Cole unarmed, `223a47e0…` Diamond-Anaconda 30ft, `9490f7c0…`
+> Snake-Vision-POV (contains two figures).
+>
+> ## 🚨 WHY RYAN WAS RE-LOCKED — AND THE RULE IT PROVES
+>
+> Ryan rendered inconsistently all through 2026-09-06: correct in Marcus-fires, a white man
+> in the deep-chamber clutch, "tanned complexion, short-cropped dark hair" in the boat — and
+> the boat passed only ONE character element, so it was not the headcount rule.
+>
+> **Measured cause.** Every cast element is a generated `image_job` portrait at 2528×1696.
+> Ryan's was the sole exception: an uploaded `media_input` JPG at **2048×1152**, a 16:9
+> widescreen film still in which his face occupied a small fraction of the frame. He was the
+> only element built from an upload and the only one whose identity drifted.
+>
+> **v2** is a chest-up character portrait generated at 2528×1696, in the same format as the
+> rest of the cast, chosen by Finaltouch from four candidates.
+>
+> ### The rule for every future element
+>
+> **Build character elements from a generated chest-up portrait, never from a film frame.**
+> A reference where the face is small gives the model almost nothing to hold on to. If an
+> element must come from an upload, crop it to the head and shoulders first.
+>
+> Check any element that misbehaves: if its media `type` is `media_input` rather than
+> `image_job`, or its dimensions are 16:9 rather than ~3:2, that is the first suspect.
 >
 > ## 🚨 THE CREATURE ELEMENT BANS WORDS
 >
