@@ -1,3 +1,19 @@
+# 🚨 NO NARRATION ON THE REMAINING VIDEOS
+
+Direct instruction from Finaltouch. **Do not add narration to the remaining clips.**
+
+- The eight unmade narration blocks are **cancelled**. Do not generate them.
+- The two already made (the opening block, and the Mateo block) are **not to be used**
+  in any cut unless he asks for them.
+- The narration script in `NARRATION-AND-FIXES.md` stays on file as a reference only. It is
+  not a plan and is not to be acted on.
+
+**The audio rule still stands and is separate from this.** Every future prompt still ends
+with the AUDIO block — dialogue and ambience only, no music, no score. That is about giving
+the film a clean, consistent soundtrack, not about narration.
+
+---
+
 # 🚨🚨 DO NOT TOUCH THE CLIPS' AUDIO. EVER.
 
 Direct instruction from Finaltouch: *"do not touch their audio."*
