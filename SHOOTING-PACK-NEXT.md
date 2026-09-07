@@ -1,3 +1,44 @@
+# 🚨🚨 WRITE SHOTS, NOT SCENES — THE FILM HAS ONE ENDING, NOT THIRTY-THREE
+
+Finaltouch: *"why did you allow this, but i told you this is a full film."*
+
+**Every clip in this production was prompted as a complete short film.** The prompts ended
+with *"Cut hard to black"*, *"Hold on him, unmoving, until the end. Then hold two seconds
+longer"*, *"Hold on the two faces in the firelight."* Those are closing shots. Thirty-three
+of them were commissioned, one per clip.
+
+Strung together that is not a film. It is thirty-three films.
+
+## The rule
+
+**A shot starts mid-action and ends mid-action.** It does not resolve. It does not settle.
+It does not fade. The cut is what ends it, and the cut belongs to the edit, not the prompt.
+
+| Never write | Write instead |
+|---|---|
+| "Hold on him as he…" | *(nothing — just stop describing)* |
+| "Cut hard to black" | *(only in the final shot of the entire film)* |
+| "Then hold two seconds longer" | — |
+| "…and the scene settles" | — |
+| "He looks at it for a long moment" *(as the last beat)* | put the long moment in the MIDDLE, end on movement |
+
+**Begin every clip already in motion.** Not "he walks out of the treeline" — he is already
+walking. Not "she opens the door" — the door is opening.
+
+**End every clip still in motion.** The last frame should have somewhere to go. If the last
+frame is a held face, the editor has no cut point and the audience feels a full stop.
+
+## The one exception
+
+The final shot of the film — the line moving inside the diamond — ends. Nothing else does.
+
+## Applied below
+
+Every "Hold on…" and "Cut hard to black" has been stripped from the twelve prompts in this
+pack. They were about to repeat the same mistake at a cost of 2,340 credits.
+
+---
+
 # SHOOTING PACK — READY TO FIRE ON TOP-UP
 
 12 clips · 30s each · seedance_2_5 · **2,340 credits**
@@ -27,7 +68,6 @@ He runs toward and past camera at a steady pace. Long lens, shallow focus, the r
 
 He is calm. He is not afraid of anything. This is the only time in the film he looks like this.
 
-Hold on the wide as he runs out of frame. No music, no dialogue, no voice.
 
 ## 2 · THE CALL — 195
 
@@ -41,7 +81,7 @@ THE SHOT CONTAINS EXACTLY ONE SPOKEN LINE AND IT IS HEARD ON THE PHONE, NOT SPOK
 
 He does not answer. He straightens up slowly. He looks out at the water for a long moment and his face changes — not excitement, something more like recognition.
 
-He lowers the phone. Hold on him against the sea.
+He lowers the phone. 
 
 ## 3 · THE DECISION — 195
 
@@ -64,7 +104,6 @@ The older man looks at the photograph for a long moment, then sits back and nods
 
 Older man: "You will need me to tell you when you are pushing it."
 
-Hold on the two of them.
 
 ## 4 · THE PLAN — 195
 
@@ -80,7 +119,7 @@ Team leader: "Boat to here. On foot from the creek. The hole is two klicks inlan
 Woman with long dark hair: "And if we meet anybody?"
 Team leader: "There is nobody to meet. Nobody has lived there since nineteen seventy-four."
 
-The others start pulling gear toward themselves. Hold on the chart under their hands.
+The others start pulling gear toward themselves. 
 
 ## 5 · MATEO GOES TO THE WATER — 195
 
@@ -100,7 +139,6 @@ He holds the canteen under the water. Air bubbles up. He watches it, half-smilin
 
 Behind him the fire, the camp, and voices. In front of him, flat black water.
 
-Hold on him crouched at the edge of the water with his back to it. No creature is visible.
 
 ## 6 · THEY LOSE HIM — 195
 
@@ -121,7 +159,6 @@ Flat black water. His rifle floats up on its sling and turns slowly. Torch beams
 THE SHOT CONTAINS EXACTLY ONE SPOKEN LINE. Shouted.
 The older bald man with the grey goatee: "MATEO!"
 
-Hold on two men on their knees in the mud aiming at empty water.
 
 NO ANIMAL IS EVER VISIBLE. Only the men, the water, and the force.
 
@@ -131,7 +168,7 @@ Violent realistic action, 35mm, handheld. Flat green daylight, the edge of a flo
 
 EXACTLY THREE FACES: `<<<195d7dd6>>>`, `<<<88211a40>>>`, `<<<2a32ebca>>>`.
 
-OPEN ON THE YOUNGEST MAN'S FACE, alone, waist-deep, wading the last stretch behind the others, carbine held up in both hands, grinning with relief. Hold on him for three full seconds so the audience knows exactly who he is.
+OPEN ON THE YOUNGEST MAN'S FACE, alone, waist-deep, wading the last stretch behind the others, carbine held up in both hands, grinning with relief. 
 
 He looks up the bank toward the others and starts to say something.
 
@@ -145,7 +182,6 @@ THE SHOT CONTAINS EXACTLY TWO SPOKEN LINES. Shouted.
 The older bald man with the grey goatee: "Where is he?"
 The team leader, at the water: "LIAM!"
 
-Hold on flat empty water. NO ANIMAL IS EVER VISIBLE.
 
 ## 8 · DANIEL RUNS — 195
 
@@ -181,7 +217,6 @@ He looks at it. He closes his fist around it.
 
 He stops moving.
 
-Hold on him sitting in the water against the rock, eyes open, the torch still burning beside him.
 
 No dialogue. NO ANIMAL IS EVER VISIBLE.
 
@@ -221,7 +256,6 @@ The woman, not looking at him: "GO."
 
 The gate lets go all at once. The wall of water takes her off her feet and she is gone downstream in the dark in less than a second.
 
-Hold on the empty winch handle spinning free, and the two men in the channel.
 
 NO ANIMAL IS VISIBLE. The water kills her.
 
@@ -242,6 +276,5 @@ He goes into the crack.
 THE SHOT CONTAINS EXACTLY ONE SPOKEN LINE, whispered.
 The team leader: "One more klick."
 
-Hold on the black mouth of the crack.
 
 THE ANIMAL IS NEVER SHOWN IN THIS SHOT — only the light of her moving, and his face.
