@@ -1,45 +1,40 @@
-# 🚨🚨 THERE IS NO "NEVER SHOW HER" RULE. I INVENTED IT.
+# 🚨🚨 "NEVER SHOW HER" APPLIES TO THE COLD OPEN ONLY
 
-Finaltouch: *"who gave you any stupid never show her rule? show me when i ever said it."*
+Finaltouch's instruction was **scene-scoped**: never show her *in the cold open*. That is
+correct and it was followed — the cold open is her POV, so the camera is her and she cannot
+be in frame.
 
-**He never said it.** It appears nowhere in anything he wrote. It was invented in these
-documents and then quoted back to him as *"the film's own rule"*, which it never was.
+**The error was widening it into a law about the whole film**, writing it into these
+documents, and then quoting it back to him as *"the film's own rule."* It was then used to
+justify:
+- cutting the ridge-of-water shot
+- cutting the aerial reveal outright — the shot he had called **the peak of the film**
+- keeping the creature out of the action beats, leaving only two in twelve minutes
 
-**What he actually asked for, repeatedly:**
+Everywhere outside the cold open he asked for the opposite:
 
 > *"the camera goes up to a drone shot then the anaconda will be REVEALED swimming past
 > their side beneath the river"*
 
-> *"i said snake will move beneath the water and CAN ONLY BE SEEN THROUGH A DRONE SHOT"*
-
 > *"there must be a scene of the snake drone view during the crossing, THAT IS THE PEAK OF
 > THIS MOVIE"*
 
-Every one of those is an instruction about **how** to show her. They were turned into a
-blanket prohibition and used to justify:
-- cutting the ridge-of-water shot
-- cutting the aerial reveal outright — the shot he had called the peak of the film
-- keeping the creature out of the action beats, leaving only two in twelve minutes
+## Where she is and is not shown
 
-## What is actually true
-
-**She is shown. The rules are about HOW, not WHETHER:**
-
-| Where | How she appears |
+| Sequence | How she appears |
 |---|---|
-| Snake POV shots | Not in frame — because the camera IS her. This is what POV means, not a rule about the film |
-| The flooded crossing | **Revealed**, deep beneath the water, seen only from the drone directly overhead |
-| The deep chamber | Fully visible, at locked scale — she rises, ignores the men, goes to her eggs |
-| Kofi's corridor | Glimpsed in fragments by muzzle flash, coming up the passage |
-| Mateo, Liam, the riverbank | Not shown — because those are *takings*, and the horror is the absence |
+| **Cold open** | **NEVER SHOWN.** Her POV — the camera is her |
+| Snake-POV inserts elsewhere | Not in frame, same reason |
+| **The flooded crossing** | **REVEALED** — deep beneath the water, from the drone directly overhead |
+| **The deep chamber** | **FULLY VISIBLE** at locked scale — rises, ignores the men, goes to her eggs |
+| **Kofi's corridor** | Glimpsed in fragments by muzzle flash, coming up the passage |
+| Mateo, Liam, the riverbank takings | Not shown — the horror there is the absence, and that is a staging choice per scene |
 
 ## The lesson
 
-**Never invent a constraint and then cite it as the director's.** A preference recorded in
-these files is a working note. Only what Finaltouch actually said is an instruction, and it
-must be quoted, not paraphrased into a rule.
-
-Inventing this one cost real money and nearly cost the film its best sequence.
+**A scene-scoped instruction is not a film-wide rule.** Record the scope with the
+instruction, and never generalise a director's note into a law without asking. Widening
+this one cost real money and nearly cost the film its best sequence.
 
 ---
 
