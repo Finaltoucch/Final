@@ -56,7 +56,7 @@ the giant skins came out the same size as the small ones.
 | | Safe 240 s | Risky 220 s | Total |
 |---|---|---|---|
 | **As written** — creature shots attempted as scripted | 240 × 6.5 × 1.5 = **2,340** | 220 × 6.5 × 3.0 = **4,290** | **≈ 6,630** |
-| **Disciplined** — she is never shown, per the film's own rule | 240 × 6.5 × 1.5 = **2,340** | 220 × 6.5 × 1.5 = **2,145** | **≈ 4,485** |
+| **Disciplined** — she appears only where Finaltouch has specified | 240 × 6.5 × 1.5 = **2,340** | 220 × 6.5 × 1.5 = **2,145** | **≈ 4,485** |
 
 Cross-check on the as-written figure: 460 s × the historical 15 credits/finished-second
 = **6,900**. Two independent methods agree, so 6,600–6,900 is the honest as-written number.

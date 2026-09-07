@@ -289,7 +289,7 @@ substitutes something familiar. This is the same failure as the shed-skins scale
 **The beat is already covered and covered better.** Shot 4b has Marcus watching something
 off-screen, saying "That boat is thirty feet" with no expression, and Ryan ordering
 everyone out of the water. The audience never sees it. That is the film's own rule — the
-cold open works because she is never shown — so cutting 4a strengthens the scene rather
+cold open works because it is her POV — so cutting 4a was a coverage judgement, not a rule
 than weakening it.
 
 **General lesson:** when two attempts fail in two different ways, the shot is wrong, not the

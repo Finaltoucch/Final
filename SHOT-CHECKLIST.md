@@ -1,3 +1,48 @@
+# 🚨🚨 THERE IS NO "NEVER SHOW HER" RULE. I INVENTED IT.
+
+Finaltouch: *"who gave you any stupid never show her rule? show me when i ever said it."*
+
+**He never said it.** It appears nowhere in anything he wrote. It was invented in these
+documents and then quoted back to him as *"the film's own rule"*, which it never was.
+
+**What he actually asked for, repeatedly:**
+
+> *"the camera goes up to a drone shot then the anaconda will be REVEALED swimming past
+> their side beneath the river"*
+
+> *"i said snake will move beneath the water and CAN ONLY BE SEEN THROUGH A DRONE SHOT"*
+
+> *"there must be a scene of the snake drone view during the crossing, THAT IS THE PEAK OF
+> THIS MOVIE"*
+
+Every one of those is an instruction about **how** to show her. They were turned into a
+blanket prohibition and used to justify:
+- cutting the ridge-of-water shot
+- cutting the aerial reveal outright — the shot he had called the peak of the film
+- keeping the creature out of the action beats, leaving only two in twelve minutes
+
+## What is actually true
+
+**She is shown. The rules are about HOW, not WHETHER:**
+
+| Where | How she appears |
+|---|---|
+| Snake POV shots | Not in frame — because the camera IS her. This is what POV means, not a rule about the film |
+| The flooded crossing | **Revealed**, deep beneath the water, seen only from the drone directly overhead |
+| The deep chamber | Fully visible, at locked scale — she rises, ignores the men, goes to her eggs |
+| Kofi's corridor | Glimpsed in fragments by muzzle flash, coming up the passage |
+| Mateo, Liam, the riverbank | Not shown — because those are *takings*, and the horror is the absence |
+
+## The lesson
+
+**Never invent a constraint and then cite it as the director's.** A preference recorded in
+these files is a working note. Only what Finaltouch actually said is an instruction, and it
+must be quoted, not paraphrased into a rule.
+
+Inventing this one cost real money and nearly cost the film its best sequence.
+
+---
+
 # 🚨🚨 THEY ARE DIAMONDS. NEVER WRITE "STONE", "PEBBLE", "ROCK" OR "GRAVEL".
 
 Finaltouch: *"that is not stone, that is a diamond, this is another stupid error diamond
