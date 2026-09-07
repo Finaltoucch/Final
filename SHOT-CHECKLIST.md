@@ -1,3 +1,29 @@
+# 🚨🚨 DO NOT TOUCH THE CLIPS' AUDIO. EVER.
+
+Direct instruction from Finaltouch: *"do not touch their audio."*
+
+Every generated clip keeps its original audio exactly as rendered — dialogue, ambience,
+score, all of it. This overrides every earlier plan in these files.
+
+**CANCELLED:**
+- Muting clip audio in the edit
+- Ducking clip audio under narration
+- Replacing any spoken line with a dub
+- "Rebuilding the soundtrack"
+
+**ALLOWED:**
+- **Narration laid over the top**, mixed above the existing audio. Voice-over only.
+
+The lip-sync argument for dubbing does not apply and is not to be raised again. If a line
+is garbled on camera, the options are: leave it, cut away from the mouth during it in the
+edit, or reshoot the clip. **Never dub over it.**
+
+The two voice dubs made earlier (the female radio line, Maya's "Mateo!") are optional
+extras that Finaltouch may or may not want — they are not to be baked into any cut
+without him asking.
+
+---
+
 # 🚨🚨 "NEVER SHOW HER" APPLIES TO THE COLD OPEN ONLY
 
 Finaltouch's instruction was **scene-scoped**: never show her *in the cold open*. That is
