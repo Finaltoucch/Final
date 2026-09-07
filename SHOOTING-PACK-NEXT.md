@@ -1,3 +1,44 @@
+# 🚨🚨 EVERY PROMPT MUST SPECIFY THE AUDIO. THE BENIN FILM DID. THIS ONE DID NOT.
+
+Finaltouch: *"i told you at the beginning that this film is a dialogue and a narration just
+exactly like the Benin one you did."*
+
+He is right, and his own earlier prompts prove it. **Every Benin clip specified its audio:**
+
+> *"AUDIO: only his two shouted lines and near silence. No drums, no battle noise, no wind,
+> no music, no narrator."*
+>
+> *"...restrained and serious tone, no music over the dialogue."*
+>
+> *"His voice must be the ONLY sound in the clip, recorded clean and loud and perfectly
+> clear."*
+
+**Not one Diamond Anaconda prompt contained an audio instruction.** All thirty-three were
+scored by seedance automatically — a different cue per clip, wall to wall. Measured on the
+finished cut: silencedetect at −22dB found **zero windows of 3 seconds or more across 712
+seconds.** There is nowhere for narration to sit, and that is a hole put there at the
+prompt stage, not a property of the footage.
+
+## The rule
+
+**Every video prompt ends with an AUDIO block:**
+
+> AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no
+> score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is
+> scored. The only sounds are the voices, the environment, and the action.
+
+Music is added once, in the edit, across the whole film — never generated per clip.
+
+## And keep the dialogue sparse
+
+Benin clips carry **one to three short lines in thirty seconds**, with the rest of the
+prompt describing action in detail. Diamond Anaconda clips were packed with dialogue end to
+end, which is the second reason there is no room for a voice-over.
+
+**A 30-second clip should hold no more than three short lines.** The rest is action.
+
+---
+
 # 🚨🚨 WRITE SHOTS, NOT SCENES — THE FILM HAS ONE ENDING, NOT THIRTY-THREE
 
 Finaltouch: *"why did you allow this, but i told you this is a full film."*
@@ -68,6 +109,7 @@ He runs toward and past camera at a steady pace. Long lens, shallow focus, the r
 
 He is calm. He is not afraid of anything. This is the only time in the film he looks like this.
 
+AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the environment, and the action.
 
 ## 2 · THE CALL — 195
 
@@ -81,7 +123,9 @@ THE SHOT CONTAINS EXACTLY ONE SPOKEN LINE AND IT IS HEARD ON THE PHONE, NOT SPOK
 
 He does not answer. He straightens up slowly. He looks out at the water for a long moment and his face changes — not excitement, something more like recognition.
 
-He lowers the phone. 
+He lowers the phone.
+
+AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the environment, and the action.
 
 ## 3 · THE DECISION — 195
 
@@ -104,6 +148,7 @@ The older man looks at the photograph for a long moment, then sits back and nods
 
 Older man: "You will need me to tell you when you are pushing it."
 
+AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the environment, and the action.
 
 ## 4 · THE PLAN — 195
 
@@ -119,7 +164,9 @@ Team leader: "Boat to here. On foot from the creek. The hole is two klicks inlan
 Woman with long dark hair: "And if we meet anybody?"
 Team leader: "There is nobody to meet. Nobody has lived there since nineteen seventy-four."
 
-The others start pulling gear toward themselves. 
+The others start pulling gear toward themselves.
+
+AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the environment, and the action.
 
 ## 5 · MATEO GOES TO THE WATER — 195
 
@@ -139,6 +186,7 @@ He holds the canteen under the water. Air bubbles up. He watches it, half-smilin
 
 Behind him the fire, the camp, and voices. In front of him, flat black water.
 
+AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the environment, and the action.
 
 ## 6 · THEY LOSE HIM — 195
 
@@ -162,6 +210,8 @@ The older bald man with the grey goatee: "MATEO!"
 
 NO ANIMAL IS EVER VISIBLE. Only the men, the water, and the force.
 
+AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the environment, and the action.
+
 ## 7 · LIAM — 195
 
 Violent realistic action, 35mm, handheld. Flat green daylight, the edge of a flooded forest where brown water meets a steep muddy bank.
@@ -182,6 +232,7 @@ THE SHOT CONTAINS EXACTLY TWO SPOKEN LINES. Shouted.
 The older bald man with the grey goatee: "Where is he?"
 The team leader, at the water: "LIAM!"
 
+AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the environment, and the action.
 
 ## 8 · DANIEL RUNS — 195
 
@@ -198,6 +249,8 @@ He keeps running. He is not looking where he is going. He goes down hard in the 
 The camera runs with him the whole time, close and unstable.
 
 No dialogue. Only his breathing, his boots, the water and the rock. NO ANIMAL IS EVER VISIBLE — the passage behind him is empty every time he looks.
+
+AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the environment, and the action.
 
 ## 9 · DANIEL STOPS — 195
 
@@ -220,6 +273,8 @@ He stops moving.
 
 No dialogue. NO ANIMAL IS EVER VISIBLE.
 
+AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the environment, and the action.
+
 ## 10 · THE PASSAGES — 195
 
 Violent kinetic action, 35mm, aggressive handheld. Underground, wet stone, ankle-deep running water. Swinging head torches and the white strobe of gunfire.
@@ -237,6 +292,8 @@ The woman: "LEFT! LEFT!"
 The team leader: "MOVE!"
 
 Realistic firearm behaviour: heavy recoil, brass, smoke in the torch beams.
+
+AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the environment, and the action.
 
 ## 11 · THE GATE TAKES HER — 195
 
@@ -259,6 +316,8 @@ The gate lets go all at once. The wall of water takes her off her feet and she i
 
 NO ANIMAL IS VISIBLE. The water kills her.
 
+AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the environment, and the action.
+
 ## 12 · AFTER MARCUS — 195
 
 Violent realistic action, 35mm, handheld. The vast deep chamber, walls seamed with `<<<e0762233>>>` — rough uncut diamonds set in black rock, returning the torchlight. Pale leathery eggs in a spiral on the floor.
@@ -278,3 +337,5 @@ The team leader: "One more klick."
 
 
 THE ANIMAL IS NEVER SHOWN IN THIS SHOT — only the light of her moving, and his face.
+
+AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the environment, and the action.
