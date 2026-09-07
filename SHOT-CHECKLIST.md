@@ -1,3 +1,49 @@
+# 🚨🚨 THEY ARE DIAMONDS. NEVER WRITE "STONE", "PEBBLE", "ROCK" OR "GRAVEL".
+
+Finaltouch: *"that is not stone, that is a diamond, this is another stupid error diamond
+not stone."* He is right, and this is almost certainly the root cause of every diamond
+failure in this production.
+
+**Not one prompt ever used the word "diamond."** Trying to stop the model rendering a cut
+jewellery gem, the prompts said things like:
+
+> *"each one is a rough, irregular, lumpy broken stone with chipped edges and no flat faces,
+> like a piece of gravel picked up off the ground"*
+
+The model rendered exactly that: a rock. The analyser came back with **"translucent white
+crystal"**, **"faceted crystal spheres roughly the size of a grapefruit"**, **"a large clear
+gem"** — anything but a diamond. The Element is *named* `The-Diamond` and the prompt text
+was contradicting its own name.
+
+## The correct wording
+
+**ROUGH UNCUT DIAMOND.** That is the real trade term and it does both jobs in two words:
+unmistakably a diamond, and unmistakably not cut, polished or faceted.
+
+> ✅ *"three rough uncut diamonds, natural crystal faces still on them, unpolished"*
+> ❌ *"three irregular lumpy stones like gravel off the ground"*
+
+Then add only what the Element does not already carry:
+- **SIZE** (the Element's size is ignored unless anchored to something in frame — a hand, a
+  watch face, a mug)
+- **STAGING** (one in an open palm beats a pile in a bag)
+
+And still never restate its **brilliance** — that produced the superhero light show.
+
+## Every shot this affects
+
+The boat, the cave walls, the sock, the clutch chamber, Marcus firing, Armando's tiny one,
+and the packs. All of them were prompted with "stone". Any reshoot must say **rough uncut
+diamond**.
+
+## The wider lesson
+
+**Do not describe a thing as its opposite in order to avoid a failure mode.** Naming the
+object wrongly to dodge a rendering problem creates a worse one. Name the object correctly,
+then constrain the specific attribute that goes wrong.
+
+---
+
 # 🚨🚨 NEVER WRITE THE CREATURE'S SIZE IN PROSE. THE ELEMENT IS THE SIZE.
 
 Finaltouch, after the aerial reveal came back out of scale again:
