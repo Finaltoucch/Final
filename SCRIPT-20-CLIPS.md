@@ -275,26 +275,34 @@ Nobody speaks for a moment.
 
 ---
 
-## 15 · LIAM — 12:15 · **ACTION**
-The far bank of the crossing. **OPEN ON LIAM'S FACE**, alone, waist-deep, wading the last
-stretch behind the others, carbine up, grinning with relief. Three full seconds on him.
+## 15 · LIAM — 12:15 · **ACTION** · *SHE COMES OUT OF THE TREES*
+The far bank, minutes after the crossing. **OPEN ON LIAM'S FACE**, alone, on dry ground,
+crouched over the drone controller reviewing the footage, grinning. Three full seconds on
+him so the audience knows exactly who he is.
 
-He looks up the bank and starts to say something.
+He looks up to call to the others — and stops. He is looking at something above him.
 
-The water erupts around him. He is pulled sideways and under. **A dark curve of body breaks
-the surface and rolls under again in the same second.** His carbine comes out of his hands.
+**LIAM**
+> Ryan.
 
-Ryan goes back down into the water to the knee, reaching. There is nothing to reach.
+Torch beams whip upward into the canopy. **In the branches directly over him, twenty feet
+up, a length of wet dark body is already moving through the leaves — a section of her, lit
+in fragments as the beams swing, gone behind foliage, showing again further along.**
 
-**MARCUS**
+She comes down out of the tree in one movement.
+
+Liam is taken off the ground and upward. His boots leave the leaf litter. The drone
+controller drops and lands screen-up in the mud, still playing the footage back.
+
+Branches thrash. Leaves come down. Then nothing.
+
+**MARCUS** *(rifle up at the canopy, finding nothing to aim at)*
 > Where is he?
 
-**RYAN**
-> LIAM!
+Ryan turns in a full circle under the trees with his torch. Empty branches. The controller
+lying in the mud with her image still moving across the little screen.
 
-Flat brown water. The carbine turning on its sling.
-
-*Blood is visible in the water but the violence is never graphic.*
+*Blood is visible on the leaf litter and on the men but the violence is never graphic.*
 
 ---
 
@@ -302,9 +310,15 @@ Flat brown water. The carbine turning on its sling.
 Underground. **DANIEL**, alone, sprinting flat out through a narrow rock seam, head torch
 swinging, water exploding around his boots, hitting the walls, breath tearing out of him.
 
-He looks back over his shoulder while running. The beam sweeps back down the passage —
-**and something very long is moving through the water behind him, low and fast, only a
-section of it lit before the beam swings off.**
+He looks back over his shoulder while running. The beam sweeps the passage behind him —
+empty wet rock.
+
+He turns forward again — **and a length of her slides out of a black side-seam in the wall
+directly ahead of him, crosses the passage at chest height, and is gone into the opposite
+seam.** She does not strike at him. She simply passes across his path, close enough to
+touch, and continues on her way as though he is not there.
+
+That is worse. He goes down hard, scrambles up, and runs.
 
 He goes down hard, scrambles up, keeps running.
 
@@ -385,11 +399,30 @@ He goes into the crack.
 
 ---
 
+# THE ATTACK VECTORS — NO TWO THE SAME
+
+Finaltouch: *"it must not attack from water, it can attack from the trees, from inside the
+bush, inside the cave etc."*
+
+Two deaths from the water read as one death twice. Each is now a different mechanism from a
+different direction:
+
+| | Death | Where she comes from |
+|---|---|---|
+| **Mateo** | riverbank, night | **UP OUT OF THE WATER** — the only water attack in the film |
+| **Liam** | far bank, under the trees | **DOWN OUT OF THE CANOPY** — twenty feet above him, vertical, he is lifted off the ground |
+| **Daniel** | the passages | **ACROSS HIS PATH, OUT OF A WALL SEAM** — she does not attack him at all. She passes, indifferent, and his heart stops |
+| **Kofi** | the four-foot gap | **UP THE CORRIDOR, HEAD ON** — the only one who sees her coming and gets to shoot |
+| **Maya** | the sluice gate | **NOT HER.** The water and a rotted gate kill her |
+| **Marcus** | the deep chamber | **OUT OF THE FAR WALL** — she was in the room the whole time |
+
+Water once. Above once. Beside once. Ahead once. And twice she is not the killer at all.
+
 # NOTES ON THE VIOLENCE
 
 **She is on screen in four of the six deaths**, and in every case as a *fragment* — a length
-of scale rolling through churn, a curve breaking the surface, a section lit by a swinging
-torch. Never a full-body wide shot. That is not squeamishness: partial and fast is what the
+of scale rolling through churn, a section moving through branches, a body crossing a passage
+at chest height and gone. Never a full-body wide shot. That is not squeamishness: partial and fast is what the
 model renders convincingly, and it is also how real predation footage looks.
 
 **The two she is absent from** are Daniel, who dies of his own heart with nothing touching
