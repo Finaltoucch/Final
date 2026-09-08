@@ -339,3 +339,31 @@ The team leader: "One more klick."
 THE ANIMAL IS NEVER SHOWN IN THIS SHOT — only the light of her moving, and his face.
 
 AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the environment, and the action.
+
+## 21 · ARMANDO SHOWS HIM THE DIAMOND — 195
+
+Warm, quiet, realistic drama. 35mm, fine film grain. Evening in a small fishing village of wooden houses on stilts above calm brown water. Nets drying. A low fire in a metal drum lights both faces. Everything past the fire fades into blue evening.
+
+EXACTLY TWO PEOPLE APPEAR AND NOBODY ELSE: <<<c471596e-2ca8-4662-b3bb-27a604605691>>> and <<<88211a40-556e-4f9f-bba4-70b992c2293a>>>. The old man sits on a low stool beside the drum. The younger man sits across from him on a crate, clean and dry in a plain shirt, carrying nothing. On the crate between them lies an old curling photograph of a green island.
+
+The old man reaches into his shirt pocket and puts A ROUGH UNCUT DIAMOND down on the wood between them. It is a genuine rough uncut diamond, unpolished, with its natural crystal faces still on it and a frosted greasy surface — not cut, not faceted, not a jewellery gem. It is very small, about the size of a dried pea against the grain of the crate, and it takes the firelight and throws it back.
+
+The younger man goes completely still. He picks it up between finger and thumb, turns it once, and holds it up toward the fire so the light comes through it.
+
+THE SHOT CONTAINS EXACTLY FOUR SPOKEN LINES AND NOTHING ELSE. Speak them slowly with a clear pause between each. Do not add other words and do not read these directions aloud.
+
+The younger man, quietly: "Where did you get this."
+
+The old man keeps looking at the fire, not at the diamond.
+
+The old man: "It belonged to my grandfather."
+
+He takes the diamond back, puts it in his shirt pocket and pats the pocket flat.
+
+The old man: "And that is the smallest one."
+
+The younger man looks up at him.
+
+The old man, poking the fire, completely calm: "Take whatever you like off that island. Just leave the ground alone."
+
+AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the fire, and the water.
