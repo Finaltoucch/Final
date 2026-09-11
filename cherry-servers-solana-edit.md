@@ -82,10 +82,22 @@ The original end card (29.37 – 32.93) is replaced in place, same duration:
 
 ## 4. Third-party branding removal
 
+A frame-by-frame scan of all 33 s at 0.5 s intervals found four places where
+third-party branding is actually legible:
+
 | Mark | Where | Treatment |
 |------|-------|-----------|
-| **PIRELLI** | tyre sidewall, 7.08 – 8.58 | feathered patch: blur σ22 + desaturate to 0.20 + slight darken, so the red wordmark resolves to rubber tone while the sidewall stripe survives |
-| **aramco** | trackside barrier, 16.26 – 17.38 | feathered patch, blur σ38 + desaturate — and covered outright by the portal insert |
+| **PIRELLI** + **P ZERO** | burnout tyre sidewall, 1.20 – 2.02 | two feathered patches on the text only (blur σ24 + desaturate 0.18 + darken). The red sidewall arcs are left intact — they read as brand red, not as a logo. After ~2.0 s the wheel spins up and motion blur hides the text on its own, so the patch ends there. |
+| **PIRELLI** | wheel-gun tyre, 7.08 – 8.58 | feathered patch, blur σ22 + desaturate 0.20 + slight darken |
+| **aramco** | trackside barrier, 16.26 – 17.38 | polygon mask following the barrier face, with a highlight crush (not a blur) so the wall reads as plain dark barrier instead of a conspicuous smear |
+| **aramco** reflection | wet track below the barrier, same window | soft blur only — a blurred reflection still reads as a reflection |
+
+The barrier and its reflection are also covered outright by the portal insert; the
+patches are a safety net in case that insert is re-timed or shortened.
+
+Everything else that looked like sponsorship turned out to be either illegible at
+distance, or inside the 16.30 – 19.80 portal-insert window (the yellow trackside
+boards at ~17.4 s and the painted kerb at ~18.1 s both fall there).
 
 Both use soft-edged alpha masks rather than hard boxes, so there is no visible rectangle.
 The patches are applied to the master *before* reframing, so all three ratios inherit them.
