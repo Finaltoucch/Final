@@ -1,0 +1,3 @@
+# rendered video masters - delivered out of band, too large for git
+*.mp4
+*.mov
