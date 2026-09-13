@@ -367,3 +367,24 @@ The younger man looks up at him.
 The old man, poking the fire, completely calm: "Take whatever you like off that island. Just leave the ground alone."
 
 AUDIO: dialogue and natural ambience only. Near silence under the voices. NO MUSIC, no score, no orchestra, no synth, no drums, no drone, no swell, no narrator. Nothing is scored. The only sounds are the voices, the fire, and the water.
+
+---
+
+# BATCH 2 — THE EIGHT ADDITIONS (fired with the Armando correction)
+
+Same rules. All 30s, seedance_2_5, 195 each.
+Buyer `63965603-83e0-48df-a591-716d0f919c37` · Elena `53497a77-1208-4f26-aa53-3cfabbc7d686` ·
+creature `88a74648-e818-438f-ab04-5ba44a56cabf`.
+
+## 13 · THE VALUATION — 195
+## 14 · MATEO SAYS GOODBYE — 195
+## 15 · UPRIVER — 195
+## 16 · NIGHT ONE — 195
+## 17 · THE 1974 CAMP — BONES — 195
+## 18 · THE 1974 CAMP — THE TORN LOG — 195
+## 19 · THE ARGUMENT — 195
+## 20 · THE DRONE SEES HER — 195
+
+Full prompt text as fired is recorded in the session; each carries the AUDIO block,
+max three character elements, no creature size in prose, no absence-phrasing,
+no held endings, and declared line counts.
