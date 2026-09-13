@@ -49,10 +49,28 @@ hand setting the rough uncut diamond on the crate, a younger hand picking it up 
 turning it. It cuts into the existing Armando scene over the original audio and corrects
 stone → diamond without regenerating the scene or touching a frame of its dialogue.
 
-A fourth attempt (`b6646609`) reframes the scene on a lantern-lit deck with the old man
-mending a net, no held-to-the-firelight beat. If it lands it replaces the scene outright.
+A fourth attempt (`b6646609`) reframed it entirely — lantern-lit deck, old man mending a
+net, plain flat lighting, no held-to-the-firelight beat. **It bounced too.** Four for four.
+Location, lighting, staging and wording have all been varied; the element is the constant.
+**The insert is the fix. Stop re-shooting this scene.**
 
 ## THE NEW REEL
 
 21 clips in story order, **10:13**, concat-copy, no re-encode, every original audio
 track untouched.
+
+
+**Delivered:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/ead3433f-b995-4894-88be-c3dba1230ccd.mp4
+
+## SPEND, RECONCILED
+
+| | |
+|---|---|
+| Balance before | 6,013.45 |
+| 20 clips x 195 | 3,900 |
+| 1 insert, 12s | 78 |
+| Four `ip_detected` bounces | 0 |
+| Two `rate_limit_reached` 429s | 0 |
+| **Balance after** | **2,035.45** |
+
+Against the 5,000 budget: **3,978 spent, 1,022 under.**
