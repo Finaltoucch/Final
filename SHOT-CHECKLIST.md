@@ -1,3 +1,56 @@
+# 🚨🚨 ELEMENTS DO NOT WORK ON NANO BANANA. USE `medias` + `image_references`.
+
+Finaltouch: *"are these my real locked chracters"* — they were not.
+
+**`<<<element_id>>>` is a `seedance_2_5` mechanism.** `nano_banana` is a Google model and its
+only media role is `image_references`. The tags go in as literal prompt text, the backend
+injects nothing, and the model invents faces from whatever prose is around them.
+
+Five poster images were fired this way before the pathway was checked. All five carried
+strangers. 5 credits.
+
+## The rule
+
+**Before using an Element on any model that is not `seedance_2_5`, call
+`models_explore action=get` and read `medias[].roles`.** No `image_references` role and no
+element support means the character must be passed as reference media.
+
+| Model | How characters are passed |
+|---|---|
+| `seedance_2_5` | `<<<element_id>>>` in the prompt, OR plates in `medias` |
+| `nano_banana` | **`medias` only**, role `image_references` |
+
+**Character plate media ids** (NOT the element ids):
+
+| Character | plate for `medias` |
+|---|---|
+| Ryan (armed) | `61201a14-4c4a-49aa-bbce-78e6753b4ad8` |
+| Marcus Okoye | `152eb482-8403-4df9-b2a7-2b08a148c638` |
+| Maya Bennett | `ec3a91da-da70-47f3-a5bf-c1fcc4acaa63` |
+| Kofi Mensah | `775128fd-a1b2-43e1-91ee-a6fa7938b03e` |
+| Daniel Mercer | `fe62d845-c254-4f3f-8ce9-13a1c1af048e` |
+| Mateo Alvarez | `ca764ab7-2ffe-4603-be92-40612517c1bb` |
+| Liam O'Rourke | `75702710-b898-4aa5-b8e7-d20afe36fe6f` |
+| Armando | `e31ad326-ca34-4789-88be-6cf88571f53c` |
+| The Buyer | `a09bed23-6102-48fd-aec4-fffd87663be2` |
+| Elena Alvarez | `ac93b0c7-3408-4256-afe8-a5e32cdeb07d` |
+| **The Mother** (creature) | `2b2a2920-35d4-4931-9dbe-7d0ee1678510` |
+
+This is the same fix that solved the Armando village scene after four `ip_detected`
+bounces. **When an element will not behave, switch that character to reference media.**
+
+---
+
+# 🚨 NO TITLE TEXT ON THE POSTER
+
+Finaltouch: *"no title , dont add any title"*
+
+The cover carries **no title, no tagline, no billing, no type of any kind.** Image only.
+Every poster prompt must say so explicitly — models add title text to anything that looks
+like key art unless forbidden.
+
+---
+
 # 🚨 NO NARRATION ON THE REMAINING VIDEOS
 
 Direct instruction from Finaltouch. **Do not add narration to the remaining clips.**
