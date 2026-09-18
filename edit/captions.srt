@@ -1,3 +1,27 @@
 1
 00:00:00,150 --> 00:00:03,000
 Bare metal for Solana validators.
+
+2
+00:00:03,700 --> 00:00:06,800
+No shared cores. No noisy neighbours.
+
+3
+00:00:07,200 --> 00:00:10,300
+A whole machine, dedicated to your node.
+
+4
+00:00:10,700 --> 00:00:14,000
+Deploy in minutes, not days.
+
+5
+00:00:16,450 --> 00:00:19,550
+Configure and deploy from the Cherry portal.
+
+6
+00:00:20,200 --> 00:00:24,000
+Run your validator on hardware you control.
+
+7
+00:00:24,600 --> 00:00:28,800
+Built for validators that can't miss a slot.
