@@ -110,3 +110,59 @@ Suggested confirmation wording:
 > project; that no stock footage, third-party visual material or real-person
 > references were used; and that full commercial usage rights pass to ALEXATOR
 > as specified in the Brief.
+
+---
+
+# v2 — shot 06 restored
+
+**Client:** *"why didnt you use this exact reference image to do the hand pressing on a beat part"*
+
+They were right. The original keyframe 06
+(`63a65b78-d6ee-404f-8c8f-e8e84d75cdff`) **has no branding on the speaker** —
+it is a plain black cylinder with one unmarked button.
+
+## What went wrong
+
+I saw a brand logo on the speaker in shot 05's frame and assumed the same fault
+was present in 06, 10 and 11. I flagged it, asked the client to check, and then
+when they said "now go" I regenerated all three **on the assumption rather than
+on evidence**. I never looked at 06 before replacing it.
+
+The replacement was also a worse shot. The original had the room in it — the
+plant, the wooden shelf, sunlight across the grain, her shoulder in frame. The
+macro I substituted had none of that: a fingertip and a button against black,
+with no context and no light story.
+
+**Cost of the error: 2 credits wasted on the unnecessary keyframe, 7.50 to
+regenerate the clip, and a worse shot shipped in v1.**
+
+## The rule that should have applied
+
+The same rule that produced the good outcome on 10 and 11 — *remove the object
+or crop past it rather than trusting a negative* — is a fix for a **confirmed**
+problem. It is not a reason to pre-emptively rebuild frames nobody has looked
+at. Verify first; the check is free and the rebuild is not.
+
+## v2 change
+
+| Shot | Change |
+|---|---|
+| 06 | Reverted to the original keyframe; clip regenerated from it (`97538d52-faef-41a4-9099-aa5b1a327710`) |
+
+Everything else is unchanged. Same grid, same frame plan, same ten other clips.
+
+## v2 delivery
+
+| Part | File | Size | Link |
+|---|---|---|---|
+| 1 | `01_FINAL_ALEXATOR_JUST_RELAX.mp4` | 47.5 MB | https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/2005dcf9-0283-421a-95a1-2d77ae31430e.mp4 |
+| 2 | `02_USED_AI_SOURCES.zip` | 208.0 MB | https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/f9c6e85a-9046-4da9-91ea-185855ac88b9.zip |
+| 3 | `03_ORIGIN_PROOF.pdf` | unchanged | https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/db2aecc8-440a-4593-bed1-b47ed898748f.pdf |
+
+## v2 verification
+
+Identical to v1: 1034 frames exact, 43.090 s, no black or frozen frames,
+−14.4 LUFS, LRA 3.4 LU, true peak −5.0 dBFS, all ten cut boundaries present
+with max error 0.137 frame, drop alignment +1.4 ms.
+
+Credits: 9.83 → **2.33**. Project total **127.00**.
