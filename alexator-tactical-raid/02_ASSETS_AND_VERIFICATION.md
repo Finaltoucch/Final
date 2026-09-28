@@ -13,11 +13,11 @@
 | Shot | Job ID |
 |---|---|
 | 01 helicopter over canopy | `027f8b1f-2555-473c-8ff8-4b100c298ee4` |
-| 02 three operators in cabin | `523b64e7-3d63-4559-94bb-641a5841d055` (v2) |
+| 02 three operators in cabin | `d727f681-6186-4d8e-8502-2d77ec8a92f5` (v3) |
 | 03 ropes drop from door | `e660e51a-7763-48c8-9446-d671574f928c` |
 | 04 fast-roping down | `aeaaa99b-a5b5-41fc-8ecb-3b244d5babab` |
-| 05 the landing | `071a3507-fc08-4ec6-99fa-9be37410892f` (v2) |
-| 06 moving on the cabin wall | `f12b27cb-2181-4320-b2f3-96e7aeaa2cac` (v2) |
+| 05 the landing | `76a8b555-aa88-4e3f-9b54-bd5f81f8c635` (v3) |
+| 06 moving on the cabin wall | `f2271345-bb9f-4ae2-867c-9df78c35f852` (v3) |
 | 07 gloved hand on handle | `1a7dd572-2829-4695-94e4-7a502087edfc` |
 | 08 the breach | `8da63786-e2c2-45eb-a0d0-c07cb7baaea9` (v2) |
 | 09 the standoff | `53942caf-795e-42f1-b64a-d551e8e67084` (v2) |
@@ -66,11 +66,11 @@ Native render 1076 x 1928 @ 24 fps. 1.50 credits/second.
 | Shot | Job ID | Rendered | Used |
 |---|---|---|---|
 | 01 | `f3e937ec-2dbf-466d-82ec-0c3e51fada87` | 5 s / 7.50 | 84 fr |
-| 02 | `e94a62e5-e80e-4239-8355-c35df6f0d0ef` | 5 s / 7.50 | 84 fr |
+| 02 | `d56bcde3-b4b0-493f-9d58-f97c5f2f5307` | 5 s / 7.50 | 84 fr |
 | 03 | `5eb53964-bad0-43da-be1d-d7128c1d3afb` | 5 s / 7.50 | 83 fr |
 | 04 | `4c89874f-f910-4806-a8c9-7c65748405e9` | 5 s / 7.50 | 84 fr |
-| 05 | `01397577-1020-4dc7-96f8-92c2b7197d29` | 5 s / 7.50 | 84 fr |
-| 06 | `402bdce9-12cf-46e8-9ece-6c48fd4213b3` | 5 s / 7.50 | 84 fr |
+| 05 | `20cba59d-3932-418b-aac9-b8f609023264` | 5 s / 7.50 | 84 fr |
+| 06 | `a1ba3e63-6dea-4eb0-8ff7-b9f4de45a349` | 5 s / 7.50 | 84 fr |
 | 07 | `3b6ed58e-41c6-4ce1-9944-a81e18ce9ae4` | 5 s / 7.50 | 83 fr |
 | 08 | `af810be2-c626-4298-8cfe-fe85528af591` | 6 s / 9.00 | 126 fr |
 | 09 | `57c88ad0-e24b-40b8-a46c-848995ebdbfa` | 6 s / 9.00 | 126 fr |
@@ -83,7 +83,9 @@ Superseded clips, not delivered: 02 `6ad51d0c-9f97-4484-8978-3649f3475619`,
 
 Round 1 quoted 88.50, charged 88.50 (266.08 -> 177.58).
 Round 2 quoted 39.50 (4 keyframes at 2.00, 3 clips at 7.50, 1 clip at 9.00) and
-charged 39.50 (177.58 -> 138.08). Both preflighted with `get_cost` before submitting.
+charged 39.50 (177.58 -> 138.08).
+Round 3 quoted 28.50 (3 keyframes at 2.00, 3 clips at 7.50) and charged 28.50
+(138.08 -> 109.58). All three rounds preflighted with `get_cost` before submitting.
 
 ### One submission error
 
@@ -93,6 +95,53 @@ found` — and cost nothing. Item 1 in that same call was correct and is the sho
 clip above. Every keyframe ID was then re-derived from the session transcript and
 verified before the remaining ten were submitted; shot 02's real ID differed from
 what had been carried in working memory.
+
+
+### Round 3 — a costume regression I introduced while fixing round 2
+
+The client asked why the uniform colour had changed. It had, and the cause was
+entirely in my round-2 prompts.
+
+The turnaround sheet fixes a nine-item costume specification, and the operative line
+is: **black low-profile plate carrier worn over a matte charcoal grey tactical
+uniform**. Every round-1 keyframe restated that specification in full — helmet,
+balaclava, eye protection, black carrier over charcoal grey uniform, plain black
+webbing, gloves, knee pads, boots, slung carbine muzzle-down — together with the
+plain-kit negatives.
+
+My round-2 rewrites, made to fix the staging, compressed all of it to three words:
+**"black tactical gear"**. The model rendered exactly that. The charcoal grey uniform
+under the black carrier was lost, and so were the plain-kit negatives and the
+muzzle-down carriage rule.
+
+| Shot | Superseded keyframe | Corrected keyframe |
+|---|---|---|
+| 02 | `523b64e7-3d63-4559-94bb-641a5841d055` | `d727f681-6186-4d8e-8502-2d77ec8a92f5` |
+| 05 | `071a3507-fc08-4ec6-99fa-9be37410892f` | `76a8b555-aa88-4e3f-9b54-bd5f81f8c635` |
+| 06 | `f12b27cb-2181-4320-b2f3-96e7aeaa2cac` | `f2271345-bb9f-4ae2-867c-9df78c35f852` |
+
+Superseded round-2 clips: 02 `e94a62e5-e80e-4239-8355-c35df6f0d0ef`,
+05 `01397577-1020-4dc7-96f8-92c2b7197d29`, 06 `402bdce9-12cf-46e8-9ece-6c48fd4213b3`.
+
+Shot 10 was left alone: it is a macro of a gloved hand, and the gloves are black in
+both specifications.
+
+**The rule, and it is the important one from this project.**
+
+> A costume specification has to travel with every prompt that shows the character.
+> Attaching the turnaround sheet as a reference is not sufficient on its own, because
+> the prompt text silently overrides the sheet. A reference image constrains what is
+> *not* described; it does not defend what *is* described wrongly or vaguely.
+
+This is the same failure as rounds 1 and 2 — under-specification — but it is worse,
+because it was a *regression*: the specification existed, had been working for eleven
+shots, and was dropped during an unrelated edit. When rewriting a prompt to fix one
+thing, the parts that were already correct have to be carried across verbatim, not
+paraphrased. Paraphrasing a spec is the same as deleting it.
+
+The correction restored the full costume block verbatim into both the keyframe and
+the clip prompt for all three shots, and added it to the clip prompts as a "kit stays
+exactly as it is throughout" clause so the video model cannot drift it either.
 
 ## Assembly
 
@@ -119,18 +168,26 @@ blackdetect  d=0.05 pix_th=0.10   -> none
 freezedetect n=0.002 d=0.5        -> none
 cropdetect   limit=0.02 round=2   -> crop=1080:1920:0:0
 ebur128      -11.6 LUFS integrated, LRA 2.4 LU, true peak -3.8 dBFS
-scene change frames 84 168 251 335 419 586 838 874 963
-size         63,742,108 bytes
+scene change frames 84 168 251 335 586 838 874 963
+size         61,595,822 bytes
 ```
 
-Eight of the nine detected scene changes land exactly on a planned bar-line frame.
+Seven of the eight detected scene changes land exactly on a planned bar-line frame.
 Frame 586 = 24.417 s = the breach, on the drop.
 
 Frame 874 is **not** a cut — it falls inside shot 10, 1.5 s into a 5.208 s shot. It is
 where the camera's push along the weapon arrives at the muzzle, and the frame content
 changes enough between glove and muzzle to cross the 0.30 threshold. That is the
-intended move, not a fault. Worth remembering: a shot with a large internal camera
-move will register as a scene change, so a bare cut list is not a boundary check.
+intended move, not a fault.
+
+Frame 419 (04->05) dropped out of the detection list in round 3, because the two shots
+are now visually continuous: the same figure in the same correctly-specified kit in
+the same dusk clearing. It is still a hard cut on the bar line.
+
+Worth remembering in both directions: scene detection measures visual discontinuity,
+not edit points. A large internal camera move registers as a scene change, and a
+genuine cut between two continuous shots does not. A bare cut list is not a boundary
+check.
 
 Two of the eleven cuts (06->07 at frame 503, 08->09 at frame 712) fall below the 0.30
 scene threshold because the shots either side are visually continuous — both are
