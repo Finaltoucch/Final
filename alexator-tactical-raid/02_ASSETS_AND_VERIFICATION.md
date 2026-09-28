@@ -21,8 +21,8 @@
 | 07 gloved hand on handle | `1a7dd572-2829-4695-94e4-7a502087edfc` |
 | 08 the breach | `8da63786-e2c2-45eb-a0d0-c07cb7baaea9` (v2) |
 | 09 the standoff | `53942caf-795e-42f1-b64a-d551e8e67084` (v2) |
-| 10 the trigger pull | `1d23de86-4af3-46cd-9b14-0d6da6cdec72` (v2) |
-| 11 woman extracted safe | `330f9516-b71c-4727-9a87-b11b9393cace` |
+| 10 the trigger pull | `0c402eff-fbc8-46a7-bce2-afdf91183700` (v3) |
+| 11 woman extracted safe | `27fbe18b-4353-4096-ade6-fd2b016ec5cb` (v2) |
 
 ### Round 1 — keyframe faults caught before any clip was rendered
 
@@ -74,8 +74,8 @@ Native render 1076 x 1928 @ 24 fps. 1.50 credits/second.
 | 07 | `3b6ed58e-41c6-4ce1-9944-a81e18ce9ae4` | 5 s / 7.50 | 83 fr |
 | 08 | `af810be2-c626-4298-8cfe-fe85528af591` | 6 s / 9.00 | 126 fr |
 | 09 | `57c88ad0-e24b-40b8-a46c-848995ebdbfa` | 6 s / 9.00 | 126 fr |
-| 10 | `1f1c1c2d-6ba0-46d5-b986-860c9188e617` | 6 s / 9.00 | 125 fr |
-| 11 | `371349e5-616e-4b07-921a-ce1a5967cacf` | 6 s / 9.00 | 126 fr |
+| 10 | `e8a6b5d8-8235-474e-8d6c-a543ca313b1d` | 6 s / 9.00 | 125 fr |
+| 11 | `6df87143-64cc-441e-8c13-9587d324c880` | 6 s / 9.00 | 126 fr |
 
 Superseded clips, not delivered: 02 `6ad51d0c-9f97-4484-8978-3649f3475619`,
 05 `8981209a-7d9a-43d3-b285-2c4353beb367`, 06 `d3ea89f0-19f3-4fe4-96f6-64ed09c7967e`,
@@ -85,7 +85,11 @@ Round 1 quoted 88.50, charged 88.50 (266.08 -> 177.58).
 Round 2 quoted 39.50 (4 keyframes at 2.00, 3 clips at 7.50, 1 clip at 9.00) and
 charged 39.50 (177.58 -> 138.08).
 Round 3 quoted 28.50 (3 keyframes at 2.00, 3 clips at 7.50) and charged 28.50
-(138.08 -> 109.58). All three rounds preflighted with `get_cost` before submitting.
+(138.08 -> 109.58).
+Round 4 quoted 22.00 (2 keyframes at 2.00, 2 clips at 9.00) and charged 22.00
+(109.58 -> 87.58). Every round preflighted with `get_cost` before submitting.
+
+Project total: 202.50.
 
 ### One submission error
 
@@ -143,6 +147,37 @@ The correction restored the full costume block verbatim into both the keyframe a
 the clip prompt for all three shots, and added it to the clip prompts as a "kit stays
 exactly as it is throughout" clause so the video model cannot drift it either.
 
+
+### Round 4 — the gunshot, and the grid I misread
+
+Two faults, and one of them was a misreading on my part rather than a generation
+fault.
+
+| Shot | Superseded keyframe | Fault | Correction |
+|---|---|---|---|
+| 10 | `1d23de86-4af3-46cd-9b14-0d6da6cdec72` | The round-2 rebuild put a **pistol** in the operator's hand. The turnaround sheet gives every operator a carbine, and in shot 09 the pistol is the *target's* weapon — so the shot read as the wrong man firing the wrong gun | Rebuilt on the carbine's trigger group, with the barrel running away from the lens into the dark so the camera push has somewhere to travel, and the muzzle blast written explicitly |
+| 11 | `330f9516-b71c-4727-9a87-b11b9393cace` | The frame was divided into a grid rather than being one continuous image | Rebuilt as one single continuous photographic frame, with split-screen, panels, tiles, collage, montage, film strip, insets, borders and dividing lines all explicitly forbidden in *both* the keyframe and the clip prompt. Also the first time shot 11 carried the costume specification |
+
+**The misreading.** The client's round-2 message opened with "remove that collage
+nonsense, i didnt ask you to do a collage or gride" and then listed video faults. I
+took "collage / grid" to mean the contact sheets embedded in the origin proof and
+removed those. They meant a grid *in the film*, in the last scene. Two rounds passed
+before that was caught. When one message mixes a note about the deliverable document
+with notes about the film, do not assume which artefact a term belongs to — ask, or
+check both.
+
+**The pistol.** I had actually noticed this inconsistency at the end of round 2 and
+wrote in the delivery note that shot 10 was "left alone" because gloves are black in
+both specs. That was reasoning about the *costume* while ignoring the *weapon*
+sitting in the same frame. Noticing a fault and then filing it as not-my-problem is
+worse than not noticing it.
+
+**Rule five, which the pistol belongs to.** Consistency has to be checked across
+shots, not only within one. Shot 10 was internally coherent — a hand, a grip, a
+trigger, all plausible. It was only wrong when held against shot 09 and the
+turnaround sheet. A per-shot review will never catch that class of fault; it needs a
+pass that reads the film as one object.
+
 ## Assembly
 
 ```
@@ -168,21 +203,22 @@ blackdetect  d=0.05 pix_th=0.10   -> none
 freezedetect n=0.002 d=0.5        -> none
 cropdetect   limit=0.02 round=2   -> crop=1080:1920:0:0
 ebur128      -11.6 LUFS integrated, LRA 2.4 LU, true peak -3.8 dBFS
-scene change frames 84 168 251 335 586 838 874 963
-size         61,595,822 bytes
+scene change frames 84 168 251 335 586 838 930
+size         62,661,343 bytes
 ```
 
-Seven of the eight detected scene changes land exactly on a planned bar-line frame.
+Six of the seven detected scene changes land exactly on a planned bar-line frame.
 Frame 586 = 24.417 s = the breach, on the drop.
 
-Frame 874 is **not** a cut — it falls inside shot 10, 1.5 s into a 5.208 s shot. It is
-where the camera's push along the weapon arrives at the muzzle, and the frame content
-changes enough between glove and muzzle to cross the 0.30 threshold. That is the
-intended move, not a fault.
+Frame 930 is **not** a cut — it falls inside shot 10, where the camera's push along
+the rifle arrives at the muzzle and the blast fires. The frame content changes enough
+there to cross the 0.30 threshold. That is the intended move, not a fault.
 
-Frame 419 (04->05) dropped out of the detection list in round 3, because the two shots
-are now visually continuous: the same figure in the same correctly-specified kit in
-the same dusk clearing. It is still a hard cut on the bar line.
+Four of the eleven cuts (04->05 at 419, 06->07 at 503, 08->09 at 712, 10->11 at 963)
+now fall below the threshold, because the shots either side are visually continuous or
+share a dominant tone. 419 dropped out in round 3 once the uniform stopped changing
+across it. They are all hard cuts on the bar line, placed by exact frame count at
+assembly.
 
 Worth remembering in both directions: scene detection measures visual discontinuity,
 not edit points. A large internal camera move registers as a scene change, and a
