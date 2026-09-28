@@ -56,6 +56,21 @@ Three rules, all earned from specific failures on earlier projects:
 Shots 08 and 09 are the direct product of the third rule — see the fault table in
 `02_ASSETS_AND_VERIFICATION.md`.
 
+A fourth rule came out of the client's review of the first assembly:
+
+- **Name a formation and you get a formation.** "Shoulder to shoulder", "single file",
+  "press tight" are group nouns, and the model renders the group, tidily and
+  symmetrically. Three people written as three separate bodies with three separate
+  postures is what reads as real. Shots 02 and 06 both failed this way and both were
+  rebuilt.
+
+And a fifth, from the same review:
+
+- **A fragment with nothing attached to it reads as unreal.** Shot 05 was a macro of
+  boots with the body cropped out; shot 10 was a bullet in open air with no cause in
+  frame. Both were rebuilt to include what the fragment belonged to — the whole man
+  landing, and the finger that pulls the trigger.
+
 ## Deliverables
 
 - `01_FINAL_ALEXATOR_NEVER_LET_GO.mp4` — 1080 x 1920, 24 fps, 45.375 s, AAC stereo 48 kHz
@@ -68,9 +83,22 @@ Shots 08 and 09 are the direct product of the third rule — see the fault table
 |---|---|
 | 3 reference sheets (nano_banana_pro 2K) | 6.00 |
 | 11 keyframes (nano_banana_pro 2K) | 22.00 |
-| 2 keyframe corrections (shots 08, 09) | 4.00 |
+| 2 keyframe corrections, round 1 (shots 08, 09) | 4.00 |
 | 7 clips x 5 s (kling3_0 pro, sound off) | 52.50 |
 | 4 clips x 6 s (kling3_0 pro, sound off) | 36.00 |
-| **Total** | **120.50** |
+| 4 keyframe corrections, round 2 (shots 02, 05, 06, 10) | 8.00 |
+| 3 clips x 5 s + 1 clip x 6 s, round 2 | 31.50 |
+| **Total** | **160.00** |
 
-Video stage quoted at 88.50 and charged exactly 88.50 (266.08 -> 177.58).
+Round 1 video stage quoted at 88.50 and charged exactly 88.50 (266.08 -> 177.58).
+Round 2 quoted at 39.50 and charged exactly 39.50 (177.58 -> 138.08).
+
+## Revision history
+
+| Round | Shots rebuilt | Found by |
+|---|---|---|
+| 1 | 08, 09 (keyframes only, before any clip was rendered) | Client review of pasted keyframes |
+| 2 | 02, 05, 06, 10 (keyframe and clip) | Client review of the first assembled film |
+
+The contact sheets originally embedded in the origin proof were removed at the
+client's instruction; they had not been asked for. The proof is text and tables only.

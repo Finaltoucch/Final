@@ -13,18 +13,18 @@
 | Shot | Job ID |
 |---|---|
 | 01 helicopter over canopy | `027f8b1f-2555-473c-8ff8-4b100c298ee4` |
-| 02 three operators in cabin | `ddb73541-54aa-45f1-b4ab-f565cb2e8440` |
+| 02 three operators in cabin | `523b64e7-3d63-4559-94bb-641a5841d055` (v2) |
 | 03 ropes drop from door | `e660e51a-7763-48c8-9446-d671574f928c` |
 | 04 fast-roping down | `aeaaa99b-a5b5-41fc-8ecb-3b244d5babab` |
-| 05 boots hit dirt | `32e0db75-1cb8-4864-a7f3-e732871d6f31` |
-| 06 stack on the wall | `ac5bdef2-9d9d-4498-9c8d-dc755ecdca0a` |
+| 05 the landing | `071a3507-fc08-4ec6-99fa-9be37410892f` (v2) |
+| 06 moving on the cabin wall | `f12b27cb-2181-4320-b2f3-96e7aeaa2cac` (v2) |
 | 07 gloved hand on handle | `1a7dd572-2829-4695-94e4-7a502087edfc` |
 | 08 the breach | `8da63786-e2c2-45eb-a0d0-c07cb7baaea9` (v2) |
 | 09 the standoff | `53942caf-795e-42f1-b64a-d551e8e67084` (v2) |
-| 10 bullet slow motion | `fc2cbdb3-7d09-4225-b1e0-0657e4210b1e` |
+| 10 the trigger pull | `1d23de86-4af3-46cd-9b14-0d6da6cdec72` (v2) |
 | 11 woman extracted safe | `330f9516-b71c-4727-9a87-b11b9393cace` |
 
-### Keyframe faults caught and corrected before any clip was rendered
+### Round 1 — keyframe faults caught before any clip was rendered
 
 Both were spotted because the client pasted the frames into chat — the only route by
 which this environment can see generated imagery at all (see Limitations below).
@@ -37,6 +37,28 @@ which this environment can see generated imagery at all (see Limitations below).
 Same root cause both times, and the same one as the Roman-strike frame and the two
 RIDE THE STORM faults: **undefined isn't neutral, it's N different decisions.**
 
+### Round 2 — faults the client found on the first assembly
+
+Four shots were rebuilt from new keyframes after the client reviewed the delivered
+film. None of these were patched at the clip level; each shot was regenerated from a
+corrected keyframe.
+
+| Shot | Superseded keyframe | Fault | Cause | Fix |
+|---|---|---|---|---|
+| 02 | `ddb73541-54aa-45f1-b4ab-f565cb2e8440` | Seating too arranged and symmetrical to read as real | The prompt described them as a group — "three operators sit shoulder to shoulder on the bench" — so a formation is what came back | Three men written individually, at three different heights and postures: one slumped back with legs stretched out, one hunched forward with a boot on a kit bag, one crouched at the open door facing away from the other two |
+| 05 | `32e0db75-1cb8-4864-a7f3-e732871d6f31` | The landing had no man in it | Written as a macro of boots alone — "a pair of black tactical boots drops into frame" — so nothing connected the feet to a body | Rebuilt as the full figure at the instant of impact: knees collapsed, one boot flat and one rolling onto its edge, one hand down to catch his weight, the other still on the rope |
+| 06 | `ac5bdef2-9d9d-4498-9c8d-dc755ecdca0a` | Neat single-file stack, all three the same distance off the wall | "Single file stack" and "press tight" name a formation, which is what was rendered | Strung out unevenly: lead man on the boards past the window, second a stride and a half back and further out, third lagging at the corner in shadow, glancing back |
+| 10 | `fc2cbdb3-7d09-4225-b1e0-0657e4210b1e` | A bullet travelling through open air on its own read as unreal | The shot showed an effect with no cause in frame | Replaced with the cause: macro on the gloved finger squeezing the trigger, then one continuous camera push down the weapon to the muzzle as the round leaves it |
+
+**The lesson that generalises.** Shots 02 and 06 failed for the same reason and it is a
+new one worth recording: *naming a formation gets you a formation.* "Shoulder to
+shoulder", "single file", "press tight" are all group nouns, and the model renders the
+group, tidily. Writing three people as three separate bodies with three separate
+postures is what produces something that looks real. Shot 05 and shot 10 failed for a
+related reason — both showed a fragment (boots, a bullet) with the body or the cause
+cropped out of frame, and a fragment with nothing attached to it reads as unreal.
+
+
 ## Clips — kling3_0, `mode: "pro"`, `sound: "off"`, 9:16
 
 Native render 1076 x 1928 @ 24 fps. 1.50 credits/second.
@@ -44,19 +66,24 @@ Native render 1076 x 1928 @ 24 fps. 1.50 credits/second.
 | Shot | Job ID | Rendered | Used |
 |---|---|---|---|
 | 01 | `f3e937ec-2dbf-466d-82ec-0c3e51fada87` | 5 s / 7.50 | 84 fr |
-| 02 | `6ad51d0c-9f97-4484-8978-3649f3475619` | 5 s / 7.50 | 84 fr |
+| 02 | `e94a62e5-e80e-4239-8355-c35df6f0d0ef` | 5 s / 7.50 | 84 fr |
 | 03 | `5eb53964-bad0-43da-be1d-d7128c1d3afb` | 5 s / 7.50 | 83 fr |
 | 04 | `4c89874f-f910-4806-a8c9-7c65748405e9` | 5 s / 7.50 | 84 fr |
-| 05 | `8981209a-7d9a-43d3-b285-2c4353beb367` | 5 s / 7.50 | 84 fr |
-| 06 | `d3ea89f0-19f3-4fe4-96f6-64ed09c7967e` | 5 s / 7.50 | 84 fr |
+| 05 | `01397577-1020-4dc7-96f8-92c2b7197d29` | 5 s / 7.50 | 84 fr |
+| 06 | `402bdce9-12cf-46e8-9ece-6c48fd4213b3` | 5 s / 7.50 | 84 fr |
 | 07 | `3b6ed58e-41c6-4ce1-9944-a81e18ce9ae4` | 5 s / 7.50 | 83 fr |
 | 08 | `af810be2-c626-4298-8cfe-fe85528af591` | 6 s / 9.00 | 126 fr |
 | 09 | `57c88ad0-e24b-40b8-a46c-848995ebdbfa` | 6 s / 9.00 | 126 fr |
-| 10 | `693bcd29-e0d4-48a5-9055-602715404c5d` | 6 s / 9.00 | 125 fr |
+| 10 | `1f1c1c2d-6ba0-46d5-b986-860c9188e617` | 6 s / 9.00 | 125 fr |
 | 11 | `371349e5-616e-4b07-921a-ce1a5967cacf` | 6 s / 9.00 | 126 fr |
 
-Quoted 88.50, charged 88.50 (266.08 -> 177.58). Preflighted with `get_cost` at both
-5 s and 6 s before submitting.
+Superseded clips, not delivered: 02 `6ad51d0c-9f97-4484-8978-3649f3475619`,
+05 `8981209a-7d9a-43d3-b285-2c4353beb367`, 06 `d3ea89f0-19f3-4fe4-96f6-64ed09c7967e`,
+10 `693bcd29-e0d4-48a5-9055-602715404c5d`.
+
+Round 1 quoted 88.50, charged 88.50 (266.08 -> 177.58).
+Round 2 quoted 39.50 (4 keyframes at 2.00, 3 clips at 7.50, 1 clip at 9.00) and
+charged 39.50 (177.58 -> 138.08). Both preflighted with `get_cost` before submitting.
 
 ### One submission error
 
@@ -92,11 +119,18 @@ blackdetect  d=0.05 pix_th=0.10   -> none
 freezedetect n=0.002 d=0.5        -> none
 cropdetect   limit=0.02 round=2   -> crop=1080:1920:0:0
 ebur128      -11.6 LUFS integrated, LRA 2.4 LU, true peak -3.8 dBFS
-scene cuts   frames 84 168 251 335 419 586 838 963
+scene change frames 84 168 251 335 419 586 838 874 963
+size         63,742,108 bytes
 ```
 
-Every detected cut lands exactly on a planned bar-line frame. Frame 586 = 24.417 s =
-the breach, on the drop.
+Eight of the nine detected scene changes land exactly on a planned bar-line frame.
+Frame 586 = 24.417 s = the breach, on the drop.
+
+Frame 874 is **not** a cut — it falls inside shot 10, 1.5 s into a 5.208 s shot. It is
+where the camera's push along the weapon arrives at the muzzle, and the frame content
+changes enough between glove and muzzle to cross the 0.30 threshold. That is the
+intended move, not a fault. Worth remembering: a shot with a large internal camera
+move will register as a scene change, so a bare cut list is not a boundary check.
 
 Two of the eleven cuts (06->07 at frame 503, 08->09 at frame 712) fall below the 0.30
 scene threshold because the shots either side are visually continuous — both are
@@ -122,12 +156,16 @@ passes. The origin proof is therefore delivered inside `03_ORIGIN_PROOF.zip`.
 
 ## Limitations
 
-Frame-level visual review of the eleven finished clips was not possible from this
-environment — the CDN is blocked here. Everything asserted above is measured
-programmatically on the delivered file. The only visual QC channel that exists is the
-client pasting frames into chat, which is how both keyframe faults were caught.
-Contact sheets of all eleven shots are embedded in the origin proof so the finished
-film can be reviewed against the record.
+Frame-level visual review of the finished clips is not possible from this environment
+— the CDN is blocked here. Everything asserted above is measured programmatically on
+the delivered file. Every one of the six faults was found by human review outside this
+environment: two on the keyframes before rendering, four by the client on the first
+assembly.
+
+The contact sheets that were originally embedded in the origin proof have been
+**removed** at the client's instruction — they were not asked for. The proof is now
+text and tables only. The individual keyframes and untrimmed clips are delivered as
+files in the sources zip, which is the better artefact for review anyway.
 
 ## Still outstanding across all delivered projects
 
