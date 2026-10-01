@@ -59,3 +59,10 @@ Patched film (frames 630–734 replaced): media 14dd09c5-5fb7-4c4b-9dab-20878d9d
 01 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/14dd09c5-5fb7-4c4b-9dab-20878d9d013f.mp4
 02 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/ccf1e39f-8db3-4039-8174-1cf4db103709.zip (235.7 MB, 28 files)
 03 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/990352d2-e55d-49c6-a5df-6877050c5ea9.zip (PDF inside; 8 client placeholders)
+
+## REVISION 2 — shots 6, 7, 10
+- Shot 6 (was standing upright): new keyframe afea7b12-20a0-4556-ab99-187e81c3c247 (crouched set, rear view), clip cc2bcbb0-2cf5-49a9-a219-f8fec4e9973b, frames 0–41.
+- Shot 7 (block stuck to heel): new clip d67adc97-fb29-42de-bd13-35643edbb0e7 from K07, frames 0–83.
+- Shot 10 (tape must snap at chest): start 8850af7a + end frame 7eb02992-6701-4197-a9e0-7a691a60f804, clip e8032737-25d2-4dc1-8d68-ea3015bd984e, frames 16–120.
+Film v3: media c2f595e6-aeac-42d4-a1a2-8e1e34c6a923 — segments 294/42/84/210/105/105 = 840, 35.000 s, no black/freeze, 1080:1920.
+02/03 packages still list the revision-1 assets for shots 6/7/10 — rebuild after client approval.
