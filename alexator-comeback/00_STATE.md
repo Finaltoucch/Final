@@ -75,3 +75,8 @@ Film v4: media f331e43e-88c8-49e9-90cb-d9186f120a91 — 525/105/210 = 840 frames
 Keyframe 59cb9475-565f-4d1f-afd2-b9d4ca1b7e92 (rear chase, no tape/finish line), clip ad77f7ba-c1f4-4ddf-a6ef-e3425431343d.
 Pixel check: no horizontal white line across lanes in any sampled frame (0–104).
 Film v5: media 9cb5a582-6784-430e-9ab1-8452571af837 — 525/105/210 = 840 frames, 35.000 s.
+
+## FINAL DELIVERY (supersedes earlier links)
+01 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/9cb5a582-6784-430e-9ab1-8452571af837.mp4
+02 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/4a839297-1ddb-4128-b3e4-bc24b237e15b.zip (244.1 MB, 29 files: 2 refs, 12 keyframes, 11 clips, MANIFEST)
+03 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/35c7b96d-4a83-43dc-911f-b7547bf2f276.zip (PDF; 4 terms URLs + 4 screenshots still placeholders)
