@@ -70,3 +70,8 @@ Film v3: media c2f595e6-aeac-42d4-a1a2-8e1e34c6a923 — segments 294/42/84/210/1
 ## REVISION 3 — shot 9 (ran through the tape from behind)
 New clip dfcdbd31-d2ce-4255-a365-3c9aa913e7ab from K09: tape stays far ahead, never reaches her.
 Film v4: media f331e43e-88c8-49e9-90cb-d9186f120a91 — 525/105/210 = 840 frames, 35.000 s, no black/freeze, 1080:1920.
+
+## REVISION 4 — shot 9 without any tape
+Keyframe 59cb9475-565f-4d1f-afd2-b9d4ca1b7e92 (rear chase, no tape/finish line), clip ad77f7ba-c1f4-4ddf-a6ef-e3425431343d.
+Pixel check: no horizontal white line across lanes in any sampled frame (0–104).
+Film v5: media 9cb5a582-6784-430e-9ab1-8452571af837 — 525/105/210 = 840 frames, 35.000 s.
