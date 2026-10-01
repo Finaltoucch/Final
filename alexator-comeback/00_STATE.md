@@ -40,3 +40,11 @@ fe6a220d-8a9c-4c4f-9584-84e6267c8ab0, 9a2ad638-3ff1-49ee-8b94-5a61df8af7a1, cd3c
 bcb6e337-f411-4f2a-b2fc-dacd1dd013ec, a7df6e47-2da0-4a43-be63-cc02f6243a9e, aecc3241-926e-48fd-a53a-fe25fd2038fb,
 f2f63963-6244-4c5e-8cbd-69514b5b244a, bfe5bc33-a1a9-4a92-88d3-4adfd445839d, abe95f03-2788-469c-bfa8-d7d2e2895e47
 Blocked: the track must be uploaded to Higgsfield by the client (media id needed for the build).
+
+## BUILT — 01_FINAL_ALEXATOR_TOWARDS_THE_DREAM.mp4
+media a3566ec6-6a64-4cb1-9298-0e85ee99d1e1
+https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/a3566ec6-6a64-4cb1-9298-0e85ee99d1e1.mp4
+Track in Higgsfield storage: af3c1bb9-3da2-48c9-87e8-5ee5e9f58fa3 (MD5 verified).
+Verify: 1080×1920 9:16, 24 fps, 840 frames, 35.000 s; AAC 48 kHz stereo; no black, no freeze;
+cropdetect 1080:1920:0:0; −14.8 LUFS, peak −5.3 dBFS; scene cuts 84 147 210 252 294 336 420 525 630 735 = plan.
+Still to do: 02_USED_AI_SOURCES.zip, 03_ORIGIN_PROOF.pdf (needs client's 4 terms URLs + 4 screenshots), Contra confirmation.
