@@ -48,3 +48,14 @@ Track in Higgsfield storage: af3c1bb9-3da2-48c9-87e8-5ee5e9f58fa3 (MD5 verified)
 Verify: 1080×1920 9:16, 24 fps, 840 frames, 35.000 s; AAC 48 kHz stereo; no black, no freeze;
 cropdetect 1080:1920:0:0; −14.8 LUFS, peak −5.3 dBFS; scene cuts 84 147 210 252 294 336 420 525 630 735 = plan.
 Still to do: 02_USED_AI_SOURCES.zip, 03_ORIGIN_PROOF.pdf (needs client's 4 terms URLs + 4 screenshots), Contra confirmation.
+
+## REVISION 1 — shot 10 (tape ghosting + identical opponents)
+New keyframe 8850af7a-8797-4a5f-ae33-9d0975bb9f0a (tape intact in front of chest; two different opponents).
+Clip variants: A 1456f005-c2b6-46e6-abf9-716006ced892 (spare), B 16c4f3a9-9bda-4a06-aa7c-a9ca92075707 (used).
+Unused: keyframe 35274a6c-a680-4517-9aa5-2b4face7fa54. Old shot 10 (86458024 / bfe5bc33) retired.
+Patched film (frames 630–734 replaced): media 14dd09c5-5fb7-4c4b-9dab-20878d9d013f — 840 frames, 35.000 s, A/B/C = 630/105/105.
+
+## DELIVERY
+01 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/14dd09c5-5fb7-4c4b-9dab-20878d9d013f.mp4
+02 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/ccf1e39f-8db3-4039-8174-1cf4db103709.zip (235.7 MB, 28 files)
+03 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/990352d2-e55d-49c6-a5df-6877050c5ea9.zip (PDF inside; 8 client placeholders)
