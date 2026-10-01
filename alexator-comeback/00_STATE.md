@@ -66,3 +66,7 @@ Patched film (frames 630–734 replaced): media 14dd09c5-5fb7-4c4b-9dab-20878d9d
 - Shot 10 (tape must snap at chest): start 8850af7a + end frame 7eb02992-6701-4197-a9e0-7a691a60f804, clip e8032737-25d2-4dc1-8d68-ea3015bd984e, frames 16–120.
 Film v3: media c2f595e6-aeac-42d4-a1a2-8e1e34c6a923 — segments 294/42/84/210/105/105 = 840, 35.000 s, no black/freeze, 1080:1920.
 02/03 packages still list the revision-1 assets for shots 6/7/10 — rebuild after client approval.
+
+## REVISION 3 — shot 9 (ran through the tape from behind)
+New clip dfcdbd31-d2ce-4255-a365-3c9aa913e7ab from K09: tape stays far ahead, never reaches her.
+Film v4: media f331e43e-88c8-49e9-90cb-d9186f120a91 — 525/105/210 = 840 frames, 35.000 s, no black/freeze, 1080:1920.
