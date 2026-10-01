@@ -20,8 +20,8 @@ The only non-generated element is the music, an ALEXATOR release supplied by the
 <h2>2. Models and settings</h2>
 <table><tr><th>Stage</th><th>Service / model</th><th>Settings</th><th>Count</th></tr>
 <tr><td>Reference images</td><td>Higgsfield — Nano Banana Pro (model id <span class="mono">nano_banana_pro</span>, backend <span class="mono">nano_banana_2</span>)</td><td>aspect 9:16, 2K (1536×2752), no input images</td><td>2</td></tr>
-<tr><td>Keyframes (stills)</td><td>Higgsfield — Nano Banana Pro</td><td>aspect 9:16, 2K, image_references = the reference images</td><td>11</td></tr>
-<tr><td>Motion clips</td><td>Higgsfield — Kling 3.0 (model id <span class="mono">kling3_0</span>)</td><td>mode <b>pro</b>, sound <b>off</b>, 5 s, 9:16 (native 1076×1928), start_image = keyframe</td><td>11</td></tr>
+<tr><td>Keyframes (stills)</td><td>Higgsfield — Nano Banana Pro</td><td>aspect 9:16, 2K, image_references = the reference images</td><td>12 (incl. one end frame)</td></tr>
+<tr><td>Motion clips</td><td>Higgsfield — Kling 3.0 (model id <span class="mono">kling3_0</span>)</td><td>mode <b>pro</b>, sound <b>off</b>, 5 s, 9:16 (native 1076×1928), start_image = keyframe (clip 10 also end_image)</td><td>11</td></tr>
 <tr><td>Edit / conform</td><td>ffmpeg (local)</td><td>scale to 1080 wide, centre-crop 1080×1920, 24 fps CFR, H.264 CRF 15, AAC 320 kb/s 48 kHz stereo</td><td>—</td></tr></table>
 
 <h2>3. Asset register (job IDs and timestamps, UTC)</h2>
@@ -33,22 +33,23 @@ The only non-generated element is the music, an ALEXATOR release supplied by the
 <tr><td>Keyframe 03</td><td class="mono">5f2f988f-229f-472c-9dd9-41edd2d77629</td><td>2026-10-01 07:11:17</td><td>clip 03</td></tr>
 <tr><td>Keyframe 04</td><td class="mono">ce7555f4-f626-4675-9572-8866251ca427</td><td>2026-10-01 07:11:18</td><td>clip 04</td></tr>
 <tr><td>Keyframe 05</td><td class="mono">5b37ed9f-2c58-498c-90a2-1c3d2f49bc36</td><td>2026-10-01 07:11:17</td><td>clip 05</td></tr>
-<tr><td>Keyframe 06</td><td class="mono">60b9ee62-d819-4792-b019-a287801204cd</td><td>2026-10-01 07:11:17</td><td>clip 06</td></tr>
+<tr><td>Keyframe 06</td><td class="mono">afea7b12-20a0-4556-ab99-187e81c3c247</td><td>2026-10-01 08:06:27</td><td>clip 06</td></tr>
 <tr><td>Keyframe 07</td><td class="mono">6fb0dbc5-c347-4407-9fbf-90976fc117b8</td><td>2026-10-01 07:11:17</td><td>clip 07</td></tr>
 <tr><td>Keyframe 08</td><td class="mono">f0d7960a-a7b7-45df-a136-c70117cae53b</td><td>2026-10-01 07:11:17</td><td>clip 08</td></tr>
-<tr><td>Keyframe 09</td><td class="mono">4c834051-eb18-489e-a2a3-2851a5f7ed4f</td><td>2026-10-01 07:11:18</td><td>clip 09</td></tr>
-<tr><td>Keyframe 10</td><td class="mono">8850af7a-8797-4a5f-ae33-9d0975bb9f0a</td><td>2026-10-01 07:43:24</td><td>clip 10</td></tr>
+<tr><td>Keyframe 09</td><td class="mono">59cb9475-565f-4d1f-afd2-b9d4ca1b7e92</td><td>2026-10-01 09:46:51</td><td>clip 09</td></tr>
+<tr><td>Keyframe 10</td><td class="mono">8850af7a-8797-4a5f-ae33-9d0975bb9f0a</td><td>2026-10-01 07:43:24</td><td>start frame of clip 10</td></tr>
+<tr><td>Keyframe 10b (end frame)</td><td class="mono">7eb02992-6701-4197-a9e0-7a691a60f804</td><td>2026-10-01 08:00:36</td><td>end frame of clip 10</td></tr>
 <tr><td>Keyframe 11</td><td class="mono">956640a8-e516-4c7b-995d-7382e591832a</td><td>2026-10-01 07:11:17</td><td>clip 11</td></tr>
 <tr><td>Clip 01 (frames 0–83)</td><td class="mono">5c62c419-120c-42bf-a564-3f472dd2e853</td><td>2026-10-01 07:25:11</td><td>84 frames</td></tr>
 <tr><td>Clip 02 (84–146)</td><td class="mono">79283f0c-6286-4d2f-abb3-05402cabc78f</td><td>2026-10-01 07:25:11</td><td>63 frames</td></tr>
 <tr><td>Clip 03 (147–209)</td><td class="mono">fe6a220d-8a9c-4c4f-9584-84e6267c8ab0</td><td>2026-10-01 07:25:11</td><td>63 frames</td></tr>
 <tr><td>Clip 04 (210–251)</td><td class="mono">9a2ad638-3ff1-49ee-8b94-5a61df8af7a1</td><td>2026-10-01 07:25:11</td><td>42 frames</td></tr>
 <tr><td>Clip 05 (252–293)</td><td class="mono">cd3c095d-b1ba-40c8-8a6f-3fcb3928d751</td><td>2026-10-01 07:25:11</td><td>42 frames</td></tr>
-<tr><td>Clip 06 (294–335)</td><td class="mono">bcb6e337-f411-4f2a-b2fc-dacd1dd013ec</td><td>2026-10-01 07:25:12</td><td>42 frames</td></tr>
-<tr><td>Clip 07 (336–419)</td><td class="mono">a7df6e47-2da0-4a43-be63-cc02f6243a9e</td><td>2026-10-01 07:25:11</td><td>84 frames</td></tr>
+<tr><td>Clip 06 (294–335)</td><td class="mono">cc2bcbb0-2cf5-49a9-a219-f8fec4e9973b</td><td>2026-10-01 08:08:25</td><td>42 frames</td></tr>
+<tr><td>Clip 07 (336–419)</td><td class="mono">d67adc97-fb29-42de-bd13-35643edbb0e7</td><td>2026-10-01 08:04:44</td><td>84 frames</td></tr>
 <tr><td>Clip 08 (420–524)</td><td class="mono">aecc3241-926e-48fd-a53a-fe25fd2038fb</td><td>2026-10-01 07:25:12</td><td>105 frames</td></tr>
-<tr><td>Clip 09 (525–629)</td><td class="mono">f2f63963-6244-4c5e-8cbd-69514b5b244a</td><td>2026-10-01 07:25:12</td><td>105 frames</td></tr>
-<tr><td>Clip 10 (630–734)</td><td class="mono">16c4f3a9-9bda-4a06-aa7c-a9ca92075707</td><td>2026-10-01 07:45:06</td><td>105 frames</td></tr>
+<tr><td>Clip 09 (525–629)</td><td class="mono">ad77f7ba-c1f4-4ddf-a6ef-e3425431343d</td><td>2026-10-01 09:47:51</td><td>105 frames</td></tr>
+<tr><td>Clip 10 (630–734)</td><td class="mono">e8032737-25d2-4dc1-8d68-ea3015bd984e</td><td>2026-10-01 08:01:41</td><td>105 frames (clip frames 16–120)</td></tr>
 <tr><td>Clip 11 (735–839)</td><td class="mono">abe95f03-2788-469c-bfa8-d7d2e2895e47</td><td>2026-10-01 07:25:13</td><td>105 frames</td></tr></table>
 <p class="small">Full prompts, file SHA-256 hashes and source URLs for every asset are in MANIFEST.txt inside 02_USED_AI_SOURCES.zip.</p>
 
@@ -59,7 +60,7 @@ The only non-generated element is the music, an ALEXATOR release supplied by the
 <tr><td>Tempo</td><td>137.086 BPM (beat 0.437681 s, bar 1.750726 s) — corroborated by spectral-flux autocorrelation (137.07–137.14), kick comb filter (137.20) and phase-locked grid (137.068)</td></tr>
 <tr><td>Section</td><td>IN <b>57.419 s</b> → OUT <b>92.419 s</b> · 20 bars · 35.000 s · 840 frames at 24 fps · starts on a bar line; the track's drop (71.425 s) falls exactly on bar 8, where the sprinter leaves the blocks</td></tr>
 <tr><td>Fades</td><td>fade-in 0.60 s from 0.000 s · fade-out 0.547 s from 34.453 s, ending on the last frame</td></tr>
-<tr><td>Cut points (frames)</td><td>84 · 147 · 210 · 252 · 294 · 336 · 420 · 525 · 630 · 735 — all on bar or half-bar lines; segment frame counts verified (630 + 105 + 105 around the shot-10 revision)</td></tr></table>
+<tr><td>Cut points (frames)</td><td>84 · 147 · 210 · 252 · 294 · 336 · 420 · 525 · 630 · 735 — all on bar or half-bar lines; segment frame counts verified after each shot revision; total 840</td></tr></table>
 
 <h2>5. Final file verification</h2>
 <p>1080×1920, 9:16, 24 fps constant, 840 frames, 35.000 s · AAC 320 kb/s 48 kHz stereo · black frames: none · frozen frames: none · cropdetect 1080:1920:0:0 (no bars) ·
