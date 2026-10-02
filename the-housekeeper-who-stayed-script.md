@@ -1,18 +1,19 @@
-# Story Script #3 — Loyalty / Karma Drama ("The Maid Who Stayed" genre) — FEATURE LENGTH
+# Story Script #3 — Romance / Betrayal / Karma Drama ("The Maid Who Stayed" genre) — FEATURE LENGTH
 
 **Working title:** Everyone Left the Dying Millionaire — Only His Housekeeper Stayed. Then the Will Was Read…
 **Alt titles (A/B thumbnails):**
-- "His Family Abandoned Him for His Money — The Housekeeper Didn't"
+- "His Wife Left Him to Die — He Married the Housekeeper Who Stayed"
 - "They Laughed at the Housekeeper… Until the Lawyer Said Her Name"
-- "The Housekeeper Who Stayed When Everyone Left | Full Movie"
+- "She Loved Him in Secret for 12 Years — Then His Family Betrayed Him | Full Movie"
 
 **Reference video:** [The Maid Who Stayed When Everyone Left!](https://www.youtube.com/watch?v=ypf96Mka05Q)
 **Setting:** Nashville, Tennessee (fully American cast, locations, and details)
-**Target length:** ~40 minutes (~5,200 spoken words at a dramatic ~130–135 words per minute, plus pauses and music beats)
+**Target length:** ~40 minutes (~5,800 spoken words at a steady ~145 words per minute, plus pauses and music beats)
 **Format:** Single narrator (warm, slightly dramatic, American accent) over cinematic
 AI-generated stills / light motion, with in-character dialogue
-**Tone:** Emotional, slow-burn injustice → vindication. Viewer should feel angry at
-the family by minute 8 and deeply satisfied by the end.
+**Tone:** Emotional slow-burn love story inside a betrayal-and-revenge drama. Viewer should
+be rooting for Grace and Thomas by minute 6, furious at the family by minute 8, and in tears
+at the proposal.
 
 ---
 
@@ -20,8 +21,8 @@ the family by minute 8 and deeply satisfied by the end.
 
 | Character | Who they are |
 |---|---|
-| **Grace Miller** (56) | Housekeeper for 19 years. Widow from Dayton, Ohio. Quiet, stubborn, kind. |
-| **Thomas Caldwell** (64) | Founder of Caldwell Freight. Self-made, gruff, lonely. |
+| **Grace Miller** (56) | Housekeeper for 19 years. Widow from Dayton, Ohio. Quiet, stubborn, kind. Secretly in love with Thomas for 12 years. |
+| **Thomas Caldwell** (64) | Founder of Caldwell Freight. Self-made, gruff, lonely. Never noticed the woman who loved him, until he lost everything. |
 | **Vanessa Caldwell** (41) | Thomas's second wife. Glamorous, cold, never read her prenup. |
 | **Bradley Caldwell** (34) | Thomas's son from his first marriage. Lazy, secretly deep in gambling debt. |
 | **Harold Jennings** (70) | Thomas's attorney of 30 years. Calm, sharp, loyal. |
@@ -40,9 +41,10 @@ the family by minute 8 and deeply satisfied by the end.
 | **Stakes stacking** | Every scene takes something from the hero *and* makes the villains nastier | Pay cut → her own family's crisis → framed → blacklisted → Thomas in danger |
 | **Villain clarity** | Villains say the quiet part out loud | Vanessa and Bradley's dialogue |
 | **Mini-hooks** | A cliffhanger line every 60–90s | Marked **[RETENTION HOOK]** |
-| **Mid-video engagement** | Narrator asks viewers to comment | ~14:00 (end of Act 3) and ~27:30 (end of Act 6) |
+| **Mid-video engagement** | Narrator asks viewers to comment | ~13:15 (end of Act 3) and ~27:00 (end of Act 6) |
 | **Long-form pacing** | 40-min "full movie" stories use 3 rising crises, a false defeat, and a rescue before the final payoff | Acts 6 → 8 → 9 |
-| **The twist** | The "helpless" rich man knew more than anyone thought | Thomas's secret recovery + recorder |
+| **The twist** | The "helpless" rich man knew more than anyone thought | Thomas's secret recovery + recorder, and he heard Grace's secret confession |
+| **Forbidden romance** | Helper secretly loves the rich man; villain uses it against her; love wins at the end | Margaret's blessing → hidden love → "I heard you" → proposal |
 | **Karma payoff** | Villains humiliated in public, hero rewarded, hero stays humble | Will reading + epilogue |
 | **Moral + CTA** | One-sentence lesson, then like/subscribe | Closing |
 
@@ -57,7 +59,7 @@ the family by minute 8 and deeply satisfied by the end.
 
 ## SCRIPT
 
-### COLD OPEN — FLASH-FORWARD HOOK (0:00–1:30)
+### COLD OPEN — FLASH-FORWARD HOOK (0:00–1:20)
 > **[VISUAL:** Wood-paneled law office. A family in designer clothes leaning forward,
 > smiling. At the back, by the door, a woman in a faded blue cardigan clutches her purse.**]**
 
@@ -88,7 +90,7 @@ Caldwell collapsed on his kitchen floor. Actually, we need to go back further th
 
 ---
 
-### ACT 1 — NINETEEN YEARS (1:30–6:10)
+### ACT 1 — NINETEEN YEARS (1:20–6:15)
 > **[CHAPTER CARD:** *Part One: The House on Belle Meade Boulevard*]**
 > **[VISUAL:** 2006. A younger Grace, 37, standing nervously at the gate of a white-columned
 > mansion in Nashville, holding a newspaper ad.**]**
@@ -140,7 +142,14 @@ around him for his money. Promise me somebody in that house will love him for wh
 **GRACE:**
 "I promise."
 
-> **[VISUAL:** Slow push-in on their joined hands. Fade to black.**]**
+**MARGARET** *(a tired, knowing smile)*:
+"And Grace… if that somebody turns out to be you one day, don't you dare feel guilty about
+it."
+
+**GRACE** *(shocked)*:
+"Mrs. Caldwell!"
+
+> **[VISUAL:** Margaret laughing weakly, squeezing Grace's hand. Slow push-in. Fade to black.**]**
 
 **NARRATOR:**
 Grace had no idea how much that promise was going to cost her.
@@ -179,7 +188,7 @@ I have. They think they own the place."
 "I don't think I own anything, Mrs. Caldwell. I just take care of it."
 
 **VANESSA:**
-"Mm. Well, take care of it quietly."
+"Mm. Well, take care of it quietly. And Grace? I see how you look at him. Don't."
 
 > **[VISUAL:** Grace alone in the kitchen before sunrise, making biscuits. Warm light.**]**
 
@@ -195,6 +204,15 @@ was the only person in that house who ever asked him how his day went.
 **GRACE:**
 "Oh, I want something, Mr. Caldwell. I want you to eat a vegetable once a week."
 
+> **[VISUAL:** Their fingers brush on the coffee mug. Grace pulls her hand back a little too
+> fast. Thomas laughing, not noticing.**]**
+
+**NARRATOR:**
+He never noticed. For twelve years Grace had loved Thomas Caldwell quietly and kept it to
+herself. She was the help and he was the boss. There had been a time, a few years after
+Margaret died, when she thought he might finally see her. Then Vanessa walked in, and Grace
+put that hope away like a dish on a high shelf.
+
 > **[VISUAL:** Thomas laughing. Freeze frame.**]**
 
 **NARRATOR:**
@@ -204,7 +222,7 @@ It was the last time anyone heard him laugh for a very long time.
 
 ---
 
-### ACT 2 — THE COLLAPSE (6:10–9:10)
+### ACT 2 — THE COLLAPSE (6:15–9:00)
 > **[CHAPTER CARD:** *Part Two: The Night Everything Changed*]**
 > **[VISUAL:** Night. Kitchen. Shattered coffee mug. Thomas on the tile floor.**]**
 
@@ -282,7 +300,7 @@ Grace had just made the same promise for the second time in her life.
 
 ---
 
-### ACT 3 — EVERYONE LEAVES (9:10–14:00)
+### ACT 3 — EVERYONE LEAVES (9:00–13:20)
 > **[CHAPTER CARD:** *Part Three: One by One*]**
 > **[VISUAL:** Thomas in a wheelchair being wheeled past the grand staircase, into a small
 > back room by the laundry. Boxes of Christmas decorations still in the corner.**]**
@@ -409,7 +427,7 @@ everything.
 
 ---
 
-### ACT 4 — THE SQUEEZE (14:00–17:10)
+### ACT 4 — THE SQUEEZE (13:20–16:45)
 > **[CHAPTER CARD:** *Part Four: Still In There*]**
 > **[VISUAL:** Montage, warm grade. Grace spoon-feeding Thomas. Grace moving his fingers one
 > by one. Grace reading the Tennessean sports page aloud.**]**
@@ -442,6 +460,22 @@ have a job.
 
 And every night she sat by his bed and hummed Johnny Cash until he fell asleep. Usually it
 was "I Walk the Line," because that was the song he hummed when he was worried.
+
+> **[VISUAL:** Close-up. Grace brushing a strand of silver hair off Thomas's forehead. His
+> eyes closed.**]**
+
+One night, when she was sure he was asleep, Grace said out loud what she'd kept to herself
+for twelve years.
+
+**GRACE** *(whispering)*:
+"I have loved you since the winter after Margaret died, Tom Caldwell, and you never noticed
+once. So don't you dare die on me now. You hear me? Not before you notice."
+
+> **[VISUAL:** Grace leaving and closing the door softly. Hold on Thomas's face in the dark.
+> His eyes open slowly.**]**
+
+**NARRATOR:**
+She didn't see his eyes open after she left.
 
 Nobody else in the house came into that room for weeks.
 
@@ -501,7 +535,7 @@ coming back.
 
 ---
 
-### ACT 5 — THE PLAN IN THE STUDY (17:10–23:10)
+### ACT 5 — THE PLAN IN THE STUDY (16:45–22:15)
 > **[CHAPTER CARD:** *Part Five: What He Heard*]**
 > **[VISUAL:** Night. Grace walking past the study. A sliver of light under the door.
 > Bradley pacing, Vanessa at the desk with papers.**]**
@@ -645,7 +679,13 @@ the first time he managed a whole sentence.
 "Maybe you were. But that boy is a grown man now, and what he's doing is his choice, not
 yours. You can't fix yesterday, Tom. You can only fix tomorrow."
 
-> **[VISUAL:** Thomas squeezing her hand. Hard. Determined.**]**
+**THOMAS** *(searching her face)*:
+"Why… do you… stay?"
+
+**GRACE** *(looking away, cheeks red)*:
+"Somebody has to make you eat your vegetables."
+
+> **[VISUAL:** Thomas squeezing her hand. Hard. He doesn't let go. Neither does she.**]**
 
 **NARRATOR:**
 He spent every waking hour of the next week trying to fix tomorrow. He squeezed the therapy
@@ -658,7 +698,7 @@ But Grace was out of time.
 
 ---
 
-### ACT 6 — THE ACCUSATION (23:10–27:50)
+### ACT 6 — THE ACCUSATION (22:15–27:00)
 > **[CHAPTER CARD:** *Part Six: The Bracelet*]**
 > **[VISUAL:** Morning. Vanessa at her vanity, fastening a diamond tennis bracelet. Cold smile.**]**
 
@@ -709,9 +749,15 @@ The bracelet slid out across the white marble and stopped at the officer's boot.
 "I didn't… I have never taken a single thing from this house. Not in nineteen years. Not a
 spoon. Not a dollar. Officer, please, she put that there. You have to believe me—"
 
-**VANESSA** *(sweetly, to the officer)*:
-"I don't want to press charges. She's an old woman. I just want her *out*. Today. And I don't
-want her anywhere near my husband ever again."
+**VANESSA** *(sweetly, to the officer, loud enough for the neighbors)*:
+"I don't want to press charges. She's an old woman. I just want her *out*. Today. Honestly,
+Officer, everybody knows she's been in love with my husband for years. It's pathetic. First
+she tried to steal him, and now she's stealing my jewelry."
+
+> **[VISUAL:** Neighbors on their lawns, whispering. Grace's face burning with shame.**]**
+
+**NARRATOR:**
+Of everything Vanessa said that day, that hurt the most, because part of it was true.
 
 > **[VISUAL:** Bradley leaning in the doorway, arms crossed, smirking.**]**
 
@@ -803,7 +849,7 @@ imagined.
 
 ---
 
-### ACT 7 — WHAT THOMAS KNEW (27:50–30:00)
+### ACT 7 — WHAT THOMAS KNEW (27:00–28:50)
 > **[CHAPTER CARD:** *Part Seven: The Recording*]**
 > **[VISUAL:** Grace's tiny rented apartment in East Nashville. A knock at the door. Harold
 > in a gray suit with a briefcase.**]**
@@ -868,7 +914,7 @@ the doctors write down. Tom is still too weak to walk out of that house by himse
 
 ---
 
-### ACT 8 — THURSDAY, 6:40 A.M. (30:00–33:10)
+### ACT 8 — THURSDAY, 6:40 A.M. (28:50–32:00)
 > **[CHAPTER CARD:** *Part Eight: The Rescue*]**
 > **[VISUAL:** Pre-dawn. Fog. The mansion dark. A white transport van idling down the street.**]**
 
@@ -962,6 +1008,12 @@ certain bracelet."
 That morning Thomas Caldwell walked out of his own front door with a housekeeper on one arm
 and a nurse on the other, and his wife couldn't do anything but stand there and watch.
 
+> **[VISUAL:** Back seat of Denise's Honda. Thomas's hand finding Grace's on the seat between
+> them. He laces his fingers through hers.**]**
+
+In the back seat of Denise's old Honda, Thomas reached over and took Grace's hand. He didn't
+let go all the way to Chattanooga.
+
 But Thomas wasn't finished yet. He knew exactly where his wife and son would be in five
 months, and he wanted to be in the room.
 
@@ -969,7 +1021,7 @@ months, and he wanted to be in the room.
 
 ---
 
-### ACT 9 — THE WILL READING (33:10–38:00)
+### ACT 9 — THE WILL READING (32:00–37:30)
 > **[CHAPTER CARD:** *Part Nine: The First Name*]**
 > **[VISUAL:** Back to the law office from the cold open, same framing. Family seated,
 > smiling. Grace by the door.**]**
@@ -1004,6 +1056,39 @@ parallel bars and take one step, then two, then ten.
 
 **NARRATOR:**
 It was the first time Thomas Caldwell had laughed in almost a year.
+
+> **[VISUAL:** Evening. Rehab garden, string lights. Thomas and Grace on a bench. He's quiet,
+> serious.**]**
+
+One evening in the rehab garden, Thomas went quiet. Then he said something that made Grace's
+heart stop.
+
+**THOMAS:**
+"I heard you, Grace. That night in the storage room. 'Since the winter after Margaret died.'"
+
+**GRACE** *(mortified, standing up)*:
+"Oh Lord. Tom, I thought you were asleep. I was tired, I didn't mean—"
+
+**THOMAS** *(catching her hand)*:
+"Twelve years. You were right there every morning with my coffee, and I was too busy and too
+stupid to see you. I nearly had to die to notice the best thing in my life was standing in my
+kitchen."
+
+> **[VISUAL:** Close. Their faces inches apart. String lights blurred behind them. Music swells,
+> then Grace turns her face away.**]**
+
+**GRACE** *(softly)*:
+"You're still a married man, Tom. I won't be what she said I am in front of that whole
+street. Not even for you."
+
+**THOMAS** *(after a long beat, nodding)*:
+"Then I'd better fix that."
+
+> **[VISUAL:** Next morning. Harold at Thomas's bedside, eyebrows raised, pulling out divorce
+> papers.**]**
+
+**NARRATOR:**
+The next morning Thomas told Harold to file for divorce.
 
 > **[VISUAL:** Meanwhile: Vanessa on the phone in the mansion, pacing, furious. Private
 > investigator's card on the table.**]**
@@ -1065,15 +1150,16 @@ me. She's the only reason I'm standing here."
 **GRACE:**
 "Mr. Caldwell, you don't owe me anything."
 
-**THOMAS:**
-"Margaret would disagree. And so do I."
+**THOMAS** *(softly, just to her)*:
+"Margaret made you promise somebody would love me for who I am. You kept it. Now let me
+keep mine."
 
 > **[VISUAL:** Harold reading from the document. Intercut with each reaction.**]**
 
 **NARRATOR:**
 Harold read the terms out loud.
 
-Thomas had filed for divorce. Vanessa's prenup, which she had never bothered to read,
+The divorce Thomas had filed from the rehab center was final. Vanessa's prenup, which she had never bothered to read,
 meant she would leave the marriage with exactly what she brought into it: a 2019 Lexus
 and a closet full of clothes Thomas had paid for.
 
@@ -1116,7 +1202,7 @@ you want to."
 
 ---
 
-### EPILOGUE (38:00–39:40)
+### EPILOGUE — THE PROPOSAL (37:30–40:00)
 > **[VISUAL:** Spring. A small white house with a porch and a garden. Grace on a rocking
 > chair, Sam running in the yard with a puppy, Lily on the steps.**]**
 
@@ -1133,17 +1219,48 @@ Its first director was a nurse from Antioch named Denise Carter.
 Lily and Sam moved down from Dayton, into a house two streets over. Sam hasn't been to the
 ER once since.
 
-And every Sunday, Thomas drives to Grace's little house with two cups of coffee. One of them
-is black, with one ice cube. They sit on the porch, he complains about the Titans, and she
-hums Johnny Cash.
+Every Sunday, Thomas drove to Grace's little house with two cups of coffee. One of them was
+black, with one ice cube. They sat on the porch, he complained about the Titans, and she
+hummed Johnny Cash.
 
-> **[VISUAL:** Margaret's old gardening gloves, now on Grace's hands, in the garden.**]**
+> **[VISUAL:** Thomas handing Grace a small gift wrapped in brown paper. Her hands unwrapping
+> it: Margaret's old gardening gloves.**]**
 
 **NARRATOR:**
-That spring Thomas brought her a gift wrapped in brown paper. It was Margaret's gardening
-gloves. Grace kept her promise, and Margaret's husband never forgot it.
+One Sunday that spring, Thomas handed her a gift wrapped in brown paper. Inside were
+Margaret's old gardening gloves. When Grace slid her hand into one of them, she felt
+something hard in the ring finger.
 
-> **[VISUAL:** Two coffee cups on the porch rail. Slow pull-out.**]**
+> **[SFX:** Music stops.**]**
+> **[VISUAL:** A simple gold ring dropping into Grace's palm. Then a folded, yellowed note.**]**
+
+Inside the finger was a simple gold ring and a folded note, yellow with age. Harold had kept
+it in his safe for thirteen years. The handwriting was Margaret's:
+
+**MARGARET (V.O., reading the note):**
+*"Tom — if you're reading this, you finally figured out it was Grace. I knew it would be.
+Took you long enough. — M."*
+
+> **[VISUAL:** Grace sobbing, laughing, hand over her mouth. Thomas slowly, painfully getting
+> down on one knee on the porch boards, using the railing.**]**
+
+**THOMAS:**
+"My knee's going to give out any second, so I'll keep it short. Grace Miller, you stayed
+when everybody left. Will you stay for good?"
+
+**GRACE** *(through tears)*:
+"Tom Caldwell, I've been saying yes for twelve years. You just weren't listening."
+
+> **[VISUAL:** Summer. Garden wedding behind the little white house. Denise as maid of honor,
+> Sam as ring bearer, Lily crying in the front row, Harold officiating. Thomas and Grace's first
+> dance to "I Walk the Line."**]**
+
+**NARRATOR:**
+They were married that summer in the garden behind her little white house. Denise was the
+maid of honor, Sam carried the rings, and Harold officiated. For their first dance, the
+band played "I Walk the Line."
+
+> **[VISUAL:** Two coffee cups on the porch rail. Two wedding rings beside them. Slow pull-out.**]**
 
 As for Vanessa, she took a plea deal and two years' probation. The last anyone heard, she
 was selling cosmetics in Knoxville. Bradley eventually paid off Rick the hard way, by
@@ -1154,13 +1271,13 @@ It wasn't a Caldwell Freight dock. Thomas made sure of that.
 
 ---
 
-### MORAL + CTA (39:40–40:10)
+### MORAL + CTA (40:00–40:30)
 > **[VISUAL:** Black background, white text fading in.**]**
 
 **NARRATOR:**
-People show you who they really are when you have nothing left to give them. Grace stayed
-when everyone else left, and she didn't do it for a reward. She did it because she'd made a
-promise.
+People show you who they really are when you have nothing left to give them. Vanessa
+married Thomas for his money and walked away with nothing. Grace stayed when everyone else
+left, without asking for anything, and ended up with his heart.
 
 If this story touched you, hit like, subscribe, and tell us in the comments: who's the
 person who stayed for you? We read every single one.
@@ -1170,22 +1287,22 @@ person who stayed for you? We read every single one.
 ## YouTube Chapters (paste into description)
 ```
 0:00 The Will Reading
-1:30 Nineteen Years
-6:10 The Night Everything Changed
-9:10 One by One
-14:00 Still In There
-17:10 What He Heard
-23:10 The Bracelet
-27:50 The Recording
-30:00 The Rescue
-33:10 The First Name
-38:00 One Year Later
+1:20 Nineteen Years
+6:15 The Night Everything Changed
+9:00 One by One
+13:20 Still In There
+16:45 What He Heard
+22:15 The Bracelet
+27:00 The Recording
+28:50 The Rescue
+32:00 The First Name
+37:30 The Proposal
 ```
 
 ## Production Checklist
 - [ ] Character sheets for Grace, Thomas, Vanessa, Bradley, Harold, Denise, Margaret, Lily and Sam (keep faces consistent across every shot)
 - [ ] Two looks for Grace: 2006 (age 37) and present day (age 56)
-- [ ] Thumbnail: Grace (center, tearful, blue cardigan), Vanessa shocked behind her, a red arrow pointing at the will
+- [ ] Thumbnail: Thomas sliding a ring onto Grace's finger (she's in her blue cardigan, tearful), Vanessa shocked in the background in handcuffs
 - [ ] Voiceover: one narrator plus character voices (Thomas's voice slow and halting, and clearer as he recovers)
 - [ ] Music: soft piano (Acts 1–4), tension drone (Acts 5–6), suspense (Act 8), triumphant strings (Act 9)
 - [ ] Captions burned in, key lines in yellow
