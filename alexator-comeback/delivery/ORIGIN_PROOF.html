@@ -9,7 +9,7 @@ th{background:#eee}.mono{font-family:Menlo,Consolas,monospace;font-size:9px;word
 .small{color:#555}
 </style></head><body>
 <h1>03 — Origin Proof</h1>
-<div class="small">Client: ALEXATOR · Deliverable: <b>01_FINAL_ALEXATOR_TOWARDS_THE_DREAM.mp4</b> · Film title: <i>The Comeback</i> · Prepared 1 October 2026</div>
+<div class="small">Client: ALEXATOR · Deliverable: <b>01_FINAL_ALEXATOR_TOWARDS_THE_DREAM.mp4</b> · Film title: <i>The Comeback</i> · Prepared 2 October 2026 (revision after client feedback)</div>
 
 <h2>1. Declaration of origin</h2>
 <p>Every visual in the delivered film is an <b>original AI generation</b> created for this project from text prompts written for it. The film contains
@@ -21,7 +21,7 @@ The only non-generated element is the music, an ALEXATOR release supplied by the
 <table><tr><th>Stage</th><th>Service / model</th><th>Settings</th><th>Count</th></tr>
 <tr><td>Reference images</td><td>Higgsfield — Nano Banana Pro (model id <span class="mono">nano_banana_pro</span>, backend <span class="mono">nano_banana_2</span>)</td><td>aspect 9:16, 2K (1536×2752), no input images</td><td>2</td></tr>
 <tr><td>Keyframes (stills)</td><td>Higgsfield — Nano Banana Pro</td><td>aspect 9:16, 2K, image_references = the reference images</td><td>12 (incl. one end frame)</td></tr>
-<tr><td>Motion clips</td><td>Higgsfield — Kling 3.0 (model id <span class="mono">kling3_0</span>)</td><td>mode <b>pro</b>, sound <b>off</b>, 5 s, 9:16 (native 1076×1928), start_image = keyframe (clip 10 also end_image)</td><td>11</td></tr>
+<tr><td>Motion clips</td><td>Higgsfield — Kling 3.0 (model id <span class="mono">kling3_0</span>)</td><td>mode <b>pro</b>, sound <b>off</b>, 5 s (clip 15: 7 s), 9:16 (native 1076×1928), start_image = keyframe (clip 14 also end_image)</td><td>12</td></tr>
 <tr><td>Edit / conform</td><td>ffmpeg (local)</td><td>scale to 1080 wide, centre-crop 1080×1920, 24 fps CFR, H.264 CRF 15, AAC 320 kb/s 48 kHz stereo</td><td>—</td></tr></table>
 
 <h2>3. Asset register (job IDs and timestamps, UTC)</h2>
@@ -36,21 +36,23 @@ The only non-generated element is the music, an ALEXATOR release supplied by the
 <tr><td>Keyframe 06</td><td class="mono">afea7b12-20a0-4556-ab99-187e81c3c247</td><td>2026-10-01 08:06:27</td><td>clip 06</td></tr>
 <tr><td>Keyframe 07</td><td class="mono">6fb0dbc5-c347-4407-9fbf-90976fc117b8</td><td>2026-10-01 07:11:17</td><td>clip 07</td></tr>
 <tr><td>Keyframe 08</td><td class="mono">f0d7960a-a7b7-45df-a136-c70117cae53b</td><td>2026-10-01 07:11:17</td><td>clip 08</td></tr>
-<tr><td>Keyframe 09</td><td class="mono">59cb9475-565f-4d1f-afd2-b9d4ca1b7e92</td><td>2026-10-01 09:46:51</td><td>clip 09</td></tr>
-<tr><td>Keyframe 10</td><td class="mono">8850af7a-8797-4a5f-ae33-9d0975bb9f0a</td><td>2026-10-01 07:43:24</td><td>start frame of clip 10</td></tr>
-<tr><td>Keyframe 10b (end frame)</td><td class="mono">7eb02992-6701-4197-a9e0-7a691a60f804</td><td>2026-10-01 08:00:36</td><td>end frame of clip 10</td></tr>
-<tr><td>Keyframe 11</td><td class="mono">956640a8-e516-4c7b-995d-7382e591832a</td><td>2026-10-01 07:11:17</td><td>clip 11</td></tr>
-<tr><td>Clip 01 (frames 0–83)</td><td class="mono">5c62c419-120c-42bf-a564-3f472dd2e853</td><td>2026-10-01 07:25:11</td><td>84 frames</td></tr>
-<tr><td>Clip 02 (84–146)</td><td class="mono">79283f0c-6286-4d2f-abb3-05402cabc78f</td><td>2026-10-01 07:25:11</td><td>63 frames</td></tr>
-<tr><td>Clip 03 (147–209)</td><td class="mono">fe6a220d-8a9c-4c4f-9584-84e6267c8ab0</td><td>2026-10-01 07:25:11</td><td>63 frames</td></tr>
-<tr><td>Clip 04 (210–251)</td><td class="mono">9a2ad638-3ff1-49ee-8b94-5a61df8af7a1</td><td>2026-10-01 07:25:11</td><td>42 frames</td></tr>
-<tr><td>Clip 05 (252–293)</td><td class="mono">cd3c095d-b1ba-40c8-8a6f-3fcb3928d751</td><td>2026-10-01 07:25:11</td><td>42 frames</td></tr>
-<tr><td>Clip 06 (294–335)</td><td class="mono">cc2bcbb0-2cf5-49a9-a219-f8fec4e9973b</td><td>2026-10-01 08:08:25</td><td>42 frames</td></tr>
-<tr><td>Clip 07 (336–419)</td><td class="mono">d67adc97-fb29-42de-bd13-35643edbb0e7</td><td>2026-10-01 08:04:44</td><td>84 frames</td></tr>
-<tr><td>Clip 08 (420–524)</td><td class="mono">aecc3241-926e-48fd-a53a-fe25fd2038fb</td><td>2026-10-01 07:25:12</td><td>105 frames</td></tr>
-<tr><td>Clip 09 (525–629)</td><td class="mono">ad77f7ba-c1f4-4ddf-a6ef-e3425431343d</td><td>2026-10-01 09:47:51</td><td>105 frames</td></tr>
-<tr><td>Clip 10 (630–734)</td><td class="mono">e8032737-25d2-4dc1-8d68-ea3015bd984e</td><td>2026-10-01 08:01:41</td><td>105 frames (clip frames 16–120)</td></tr>
-<tr><td>Clip 11 (735–839)</td><td class="mono">abe95f03-2788-469c-bfa8-d7d2e2895e47</td><td>2026-10-01 07:25:13</td><td>105 frames</td></tr></table>
+<tr><td>Keyframe 10b (end frame)</td><td class="mono">7eb02992-6701-4197-a9e0-7a691a60f804</td><td>2026-10-01 08:00:36</td><td>end frame of clip 14</td></tr>
+<tr><td>Keyframe 11</td><td class="mono">956640a8-e516-4c7b-995d-7382e591832a</td><td>2026-10-01 07:11:17</td><td>start frame of clip 15</td></tr>
+<tr><td>Keyframe 12</td><td class="mono">1901eb6e-c2d8-44fb-9e5a-3eadb0ae4f88</td><td>2026-10-02 10:45:27</td><td>clip 12</td></tr>
+<tr><td>Keyframe 13</td><td class="mono">a0c580bc-241e-470e-b944-2c4c42789ac4</td><td>2026-10-02 10:45:27</td><td>clip 13</td></tr>
+<tr><td>Keyframe 14</td><td class="mono">0a7c4911-edb8-4ff3-945a-b97b5b3e50d7</td><td>2026-10-02 10:45:26</td><td>start frame of clip 14</td></tr>
+<tr><td>Clip 01 (frames 0–80)</td><td class="mono">5c62c419-120c-42bf-a564-3f472dd2e853</td><td>2026-10-01 07:25:11</td><td>81 frames</td></tr>
+<tr><td>Clip 02 (81–143)</td><td class="mono">79283f0c-6286-4d2f-abb3-05402cabc78f</td><td>2026-10-01 07:25:11</td><td>63 frames</td></tr>
+<tr><td>Clip 03 (144–206)</td><td class="mono">fe6a220d-8a9c-4c4f-9584-84e6267c8ab0</td><td>2026-10-01 07:25:11</td><td>63 frames</td></tr>
+<tr><td>Clip 04 (207–248)</td><td class="mono">9a2ad638-3ff1-49ee-8b94-5a61df8af7a1</td><td>2026-10-01 07:25:11</td><td>42 frames</td></tr>
+<tr><td>Clip 05 (249–290)</td><td class="mono">cd3c095d-b1ba-40c8-8a6f-3fcb3928d751</td><td>2026-10-01 07:25:11</td><td>42 frames</td></tr>
+<tr><td>Clip 06 (291–332)</td><td class="mono">cc2bcbb0-2cf5-49a9-a219-f8fec4e9973b</td><td>2026-10-01 08:08:25</td><td>42 frames</td></tr>
+<tr><td>Clip 07 (333–416)</td><td class="mono">d67adc97-fb29-42de-bd13-35643edbb0e7</td><td>2026-10-01 08:04:44</td><td>84 frames</td></tr>
+<tr><td>Clip 08 (417–521)</td><td class="mono">aecc3241-926e-48fd-a53a-fe25fd2038fb</td><td>2026-10-01 07:25:12</td><td>105 frames</td></tr>
+<tr><td>Clip 12 (522–626)</td><td class="mono">077c5738-a8ef-4830-a5ce-72e2a3b9482e</td><td>2026-10-02 10:47:53</td><td>105 frames</td></tr>
+<tr><td>Clip 13 (627–731)</td><td class="mono">62e09bb2-61cd-482b-92e7-48e82e3eeced</td><td>2026-10-02 10:47:54</td><td>105 frames</td></tr>
+<tr><td>Clip 14 (732–837)</td><td class="mono">70c4e335-0361-44b3-8d80-cdde3dd25681</td><td>2026-10-02 10:47:53</td><td>106 frames (clip frames 15–120)</td></tr>
+<tr><td>Clip 15 (838–986)</td><td class="mono">e68b0877-f13c-4afe-a458-b97bbdd11a5e</td><td>2026-10-02 10:45:40</td><td>149 frames</td></tr></table>
 <p class="small">Full prompts, file SHA-256 hashes and source URLs for every asset are in MANIFEST.txt inside 02_USED_AI_SOURCES.zip.</p>
 
 <h2>4. Music</h2>
@@ -58,13 +60,13 @@ The only non-generated element is the music, an ALEXATOR release supplied by the
 <tr><td>Track</td><td>ALEXATOR — <b>Towards the Dream</b> (release 006), file <span class="mono">006-Towards-the-Dream.mp3</span>, 243.96 s, MP3 320 kb/s, 48 kHz stereo</td></tr>
 <tr><td>Track MD5</td><td class="mono">20a0f894b782c9311a9d6bb0196fc438</td></tr>
 <tr><td>Tempo</td><td>137.086 BPM (beat 0.437681 s, bar 1.750726 s) — corroborated by spectral-flux autocorrelation (137.07–137.14), kick comb filter (137.20) and phase-locked grid (137.068)</td></tr>
-<tr><td>Section</td><td>IN <b>57.419 s</b> → OUT <b>92.419 s</b> · 20 bars · 35.000 s · 840 frames at 24 fps · starts on a bar line; the track's drop (71.425 s) falls exactly on bar 8, where the sprinter leaves the blocks</td></tr>
-<tr><td>Fades</td><td>fade-in 0.60 s from 0.000 s · fade-out 0.547 s from 34.453 s, ending on the last frame</td></tr>
-<tr><td>Cut points (frames)</td><td>84 · 147 · 210 · 252 · 294 · 336 · 420 · 525 · 630 · 735 — all on bar or half-bar lines; segment frame counts verified after each shot revision; total 840</td></tr></table>
+<tr><td>Section</td><td>IN <b>57.535 s</b> → OUT <b>98.655 s</b> · 41.120 s, exactly the section prepared and supplied by the client as <span class="mono">006.mp3</span> (MD5 <span class="mono">f8f904b11c37d3191eaabab6c3140ff4</span>); rebuilt from the master at sample 2,761,664 (48 kHz), gain 1.0, matching the client file to 35 dB SNR (MP3 coding difference only) · picture runs 987 frames = 41.125 s at 24 fps (last 5 ms silent)</td></tr>
+<tr><td>Fades</td><td>as in the client file: fade-in 0.20 s from 0.000 s · fade-out 0.35 s from 40.77 s</td></tr>
+<tr><td>Cut points (frames)</td><td>81 · 144 · 207 · 249 · 291 · 333 · 417 · 522 · 627 · 732 · 838 — every cut on a bar or half-bar line of the client section (bar = 42.017 frames); the drop (client t = 13.890 s) still falls where the sprinter leaves the blocks; total 987</td></tr></table>
 
 <h2>5. Final file verification</h2>
-<p>1080×1920, 9:16, 24 fps constant, 840 frames, 35.000 s · AAC 320 kb/s 48 kHz stereo · black frames: none · frozen frames: none · cropdetect 1080:1920:0:0 (no bars) ·
-integrated loudness −14.8 LUFS, true peak −5.3 dBFS · no watermark, no AI-service logo, no on-screen text.</p>
+<p>1080×1920, 9:16, 24 fps constant, 987 frames, 41.125 s · AAC 320 kb/s 48 kHz stereo · black frames: none · frozen frames: none · cropdetect 1080:1920:0:0 (no bars) ·
+integrated loudness −14.6 LUFS, peak −5.2 dBFS · no watermark, no AI-service logo, no on-screen text.</p>
 
 <h2>6. Commercial-use terms of each service</h2>
 <div class="ph">PLACEHOLDER — Higgsfield terms of service URL (commercial use)</div>
@@ -74,7 +76,7 @@ integrated loudness −14.8 LUFS, true peak −5.3 dBFS · no watermark, no AI-s
 
 <h2>7. Account evidence</h2>
 <div class="ph">PLACEHOLDER — Screenshot 1: logged-in Higgsfield account, generation history showing the 2 reference images</div>
-<div class="ph">PLACEHOLDER — Screenshot 2: generation history showing the 11 keyframes</div>
-<div class="ph">PLACEHOLDER — Screenshot 3: generation history showing the 11 Kling 3.0 clips</div>
+<div class="ph">PLACEHOLDER — Screenshot 2: generation history showing the 12 keyframes</div>
+<div class="ph">PLACEHOLDER — Screenshot 3: generation history showing the 12 Kling 3.0 clips</div>
 <div class="ph">PLACEHOLDER — Screenshot 4: account / plan page showing the Creator subscription</div>
 </body></html>

@@ -101,3 +101,15 @@ Bar lines now fall at k*42.0174 − 2.78 frames, so shots 1–8 are taken from t
 | 12 NEW 7 s | 838–986 (149) | 20–end | kneeling, fists raised (from K11), longer so the music completes |
 Cost estimate: 3 keyframes 6.00 + 3 × 5 s clips 22.50 + 1 × 7 s clip 10.50 = 39.00 (+ ~10 buffer for one redo).
 Blocked: balance 0.58 credits; client MP3 must be uploaded to Higgsfield storage for the build.
+
+## REVISION 5 — client re-cut (2026-10-02)
+New keyframes K12 1901eb6e (shot 9), K13 a0c580bc (shot 10), K14 0a7c4911 (shot 11).
+New clips C12 077c5738 (shot 9, frames 0–104), C13 62e09bb2 (shot 10, 0–104),
+C14 70c4e335 (shot 11, start K14 + end K10b, clip frames 15–120), C15 e68b0877 (shot 12, 7 s, 0–148).
+Retired from the film and the package: K09, K10, C09, C10, C11.
+Audio rebuilt from master af3c1bb9 (sample 2761664, 1,973,754 samples, fades 0.2 in / 0.35 out), padded to 41.125 s.
+Film v6: media 0ccd6bce-9fb9-4dc6-a71a-a4688fce21e4 — 522/105/105/106/149 = 987 frames, 41.125 s,
+1080:1920, no black, no freeze, −14.6 LUFS, peak −5.2 dBFS.
+Checks: frame-difference motion in left/centre/right thirds through shots 9–11 (no static side runners);
+tape line at chest height continuous across the frame until ~frame 822, then broken (snap).
+Spend: about 39 credits.
