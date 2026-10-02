@@ -113,3 +113,8 @@ Film v6: media 0ccd6bce-9fb9-4dc6-a71a-a4688fce21e4 — 522/105/105/106/149 = 98
 Checks: frame-difference motion in left/centre/right thirds through shots 9–11 (no static side runners);
 tape line at chest height continuous across the frame until ~frame 822, then broken (snap).
 Spend: about 39 credits.
+
+## FINAL DELIVERY v6 (client re-cut; supersedes earlier links)
+01 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/0ccd6bce-9fb9-4dc6-a71a-a4688fce21e4.mp4
+02 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/adac26fa-7e32-47de-93b0-e97203b47a02.zip (270.4 MB, 32 entries: 2 refs, 13 keyframes, 12 clips, MANIFEST)
+03 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/717e961b-1abc-4f55-9804-551b1263df7a.zip (PDF; 4 terms URLs + 4 screenshots still placeholders)
