@@ -80,3 +80,24 @@ Film v5: media 9cb5a582-6784-430e-9ab1-8452571af837 — 525/105/210 = 840 frames
 01 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/9cb5a582-6784-430e-9ab1-8452571af837.mp4
 02 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/4a839297-1ddb-4128-b3e4-bc24b237e15b.zip (244.1 MB, 29 files: 2 refs, 12 keyframes, 11 clips, MANIFEST)
 03 https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/35c7b96d-4a83-43dc-911f-b7547bf2f276.zip (PDF; 4 terms URLs + 4 screenshots still placeholders)
+
+## CLIENT FEEDBACK 1 (2026-10-02)
+1. Music: use the client's MP3 (006.mp3, MD5 f8f904b11c37d3191eaabab6c3140ff4, 41.12 s) exactly.
+   Located in the full track at 57.535 → 98.655 s (0.116 s later than our IN; drop at client t=13.890 s).
+   LESSON (all future projects): never cut a drop/climax before the musical phrase completes.
+2. More running intensity after ~22 s — the champion must visibly win on speed.
+3. 26–30 s: opponents run in place (AI motion error) — all runners must move forward naturally.
+Rest stays.
+
+### Re-cut plan (client timeline, 24 fps, 987 frames = 41.125 s)
+Bar lines now fall at k*42.0174 − 2.78 frames, so shots 1–8 are taken from the approved film from frame 3
+(shot 1 shortened by 3 frames); every existing cut stays on its bar.
+| Shot | Frames | Bars | Content |
+|---|---|---|---|
+| 1–8 | 0–521 (522) | 0–12.5 | approved film frames 3–524, unchanged |
+| 9 NEW | 522–626 (105) | 12.5–15 | low side tracking, camera locked to her, top speed, she pulls clear of the field |
+| 10 NEW | 627–731 (105) | 15–17.5 | camera racing backwards in front of her, she charges at the lens, opponents behind clearly running and dropping back |
+| 11 NEW | 732–837 (106) | 17.5–20 | tape break (start/end frames), opponents a stride back running forward |
+| 12 NEW 7 s | 838–986 (149) | 20–end | kneeling, fists raised (from K11), longer so the music completes |
+Cost estimate: 3 keyframes 6.00 + 3 × 5 s clips 22.50 + 1 × 7 s clip 10.50 = 39.00 (+ ~10 buffer for one redo).
+Blocked: balance 0.58 credits; client MP3 must be uploaded to Higgsfield storage for the build.
