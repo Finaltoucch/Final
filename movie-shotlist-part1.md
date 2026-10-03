@@ -1,6 +1,6 @@
-# THE MAID WHO STAYED — Shot List, Part 1: "The New Maid" (0:00–6:09)
+# THE MAID WHO STAYED — Shot List, Part 1: "The New Maid" (0:00–7:00)
 
-Matches screenplay scenes 1–17 in `the-maid-who-stayed-movie-screenplay.md`.
+Matches the screenplay's hook + scenes 1–17 (including new scenes 1b and 5b) in `the-maid-who-stayed-movie-screenplay.md`.
 
 ## Locked settings (whole movie)
 
@@ -26,7 +26,7 @@ clear dialogue.` (Silent shots: replace with `Realistic natural motion, no dialo
 2. **Reuse frames.** When a shot continues the same angle, grab the last frame of the previous clip
    in your editor (free), upload it, and use it as the next `start_image`. Marked ♻️ below.
 3. **Redo limit: 2 tries per shot.** If it still fails, simplify the prompt (fewer actions).
-4. **Budget gate:** Part 1 should cost **~900–1,000 credits**. If it goes over, switch the 🔇 silent
+4. **Budget gate:** Part 1 should cost **~1,000–1,050 credits**. If it goes over, switch the 🔇 silent
    wide shots in later parts to `mode: std` (1.25 per second). Viewers won't notice on wides.
 
 ---
@@ -73,7 +73,29 @@ standing. Photorealistic…`)
 
 > Format: **#** · length · 🔊/🔇 · camera · **refs** (attach to first frame) → **FIRST FRAME** prompt → **VIDEO** prompt
 
-### Scene 1: The gate (0:00)
+### THE HOOK: 30-second teaser (0:00–0:30) · 0 extra credits
+
+**Cut this LAST, in your editor, after Parts 2–6 are made.** Every clip comes from a shot you
+make anyway. Use the strongest 2–4 seconds of each.
+
+| # | Length | Take it from | What's on screen | Sound |
+|---|---|---|---|---|
+| T1 | 2s | (none) | Black screen | One heartbeat, then a glass SHATTERING |
+| T2 | 3s | Part 2, Sc. 20 | Ethan collapsing at the party, guests screaming | Clip audio |
+| T3 | 3s | Part 2, Sc. 21 | Vanessa grabbing Grace's arm | **"Don't you DARE call 911!"** |
+| T4 | 3s | Part 5, Sc. 52 | Bracelet sliding out of the bag, slow motion | **"She put that there!"** |
+| T5 | 3s | Part 6, Sc. 59 | Close-up of a pill bottle | Bradley on the recording: **"If he'd taken the whole bottle like I planned…"** |
+| T6 | 3s | Part 5, Sc. 54 | Grace in the rain + Ethan's hand on the window | Rain, soft piano |
+| T7 | 3s | Part 3, Sc. 39 | Grace whispering in the dark | **"I think I'm falling in love with you."** |
+| T8 | 3s | Part 6, Sc. 63 | Ethan pulling himself up in the doorway | **"I'm not going… ANYWHERE."** |
+| T9 | 4s | (none) | Black. White text: **"Everyone left the millionaire. Only the maid stayed."** | Silence |
+| T10 | 3s | (none) | Title: **THE MAID WHO STAYED** | One low boom |
+
+**Editing tips:** a heartbeat or drone bed under the whole teaser. Each cut lands on a
+heartbeat. Every line goes on screen as a bold caption, with the key word in yellow. Then hard-cut
+to bright sunshine and birdsong at the gate (S1). The contrast makes viewers lean in.
+
+### Scene 1: The gate (0:30)
 
 **S1** · 6s · 🔇 · wide, slow push-in · refs `GRACE_DRESS` `GATE`
 - **FIRST FRAME:** Wide shot from behind and to the side of the young Black woman in the yellow sundress
@@ -85,6 +107,23 @@ standing. Photorealistic…`)
 **S2** · 5s · 🔊 · close-up · ♻️ or refs `GRACE_DRESS` `GATE`
 - **FIRST FRAME:** Close-up of her face, eyes glistening, looking up to the sky, gate blurred behind.
 - **VIDEO:** She closes her eyes and whispers a prayer: "Lord, please. I need this job. Sam needs this job."
+
+**S2b** · 6s · 🔊 · wide, handheld · refs `GRACE_DRESS` `VANESSA` `GATE`
+- **FIRST FRAME:** A white Range Rover swerving toward the young woman in the yellow sundress at the
+  gate. She jumps back, startled.
+- **VIDEO:** The car horn blares, the SUV screeches to a stop inches from her, and she stumbles back
+  clutching her bag. The driver's window slides down.
+
+**S2c** · 8s · 🔊 · close-up through the car window · refs `VANESSA`
+- **FIRST FRAME:** Close-up through an open SUV window: the blonde woman in sunglasses and red lipstick,
+  looking out with disgust.
+- **VIDEO:** She snaps: "Move! Are you blind?" A woman's voice off-screen says "I'm so sorry, ma'am—" The
+  blonde lowers her sunglasses, looks her up and down, and sneers: "Ugh. Let me guess. The new help." The
+  window slides up.
+
+**S2d** · 5s · 🔇 · medium · ♻️ from S2b
+- **VIDEO:** The SUV speeds through the opening gate. The iron gate swings shut in the young woman's face.
+  She stands frozen, breathing hard.
 
 **S3** · 6s · 🔊 · medium two-shot · refs `GRACE_DRESS` `GUARD` `GATE`
 - **FIRST FRAME:** The security guard from the reference walks up to the young woman at the open gate.
@@ -136,7 +175,26 @@ standing. Photorealistic…`)
 
 **S11** · 6s · 🔊 · ♻️
 - **VIDEO:** Grace asks: "Who's Miss Pierce?" Mrs. Hayes, without slowing: "You'll know her when you hear
-  her."
+  her." Grace mutters to herself: "I think I already met her."
+
+### Scene 5b: The pills (1:40), the mystery plant
+
+**S11b** · 8s · 🔊 · medium, from behind Grace · refs `BRADLEY` `GRACE_UNIFORM` + new location
+`PANTRY` (*butler's pantry with a wall medicine cabinet, white cabinetry*)
+- **FIRST FRAME:** Grace stops at a doorway. Inside, the slick-haired man stands at an open medicine
+  cabinet with his back to her, phone on his shoulder, holding two orange pill bottles.
+- **VIDEO:** He pours pills from one orange bottle into the other and says quietly into the phone: "End of
+  the month, Rick. I told you. You'll have every dollar." He turns, sees Grace, and slams the cabinet shut.
+
+**S11c** · 10s · 🔊 · close two-shot, slow push-in · ♻️
+- **VIDEO:** He slips a bottle into his pocket, smiles slowly and steps close to her: "Vitamins. For my
+  brother. And you didn't hear any of that, sweetheart. Did you?" She says: "Hear what, sir?" He smirks:
+  "Smart girl," and walks away.
+
+**S11d** · 4s · 🔇 · insert · refs `PANTRY`
+- **FIRST FRAME:** Extreme close-up through a medicine cabinet's glass door: an orange pill bottle label
+  reading "ETHAN CALDWELL — Lisinopril 20mg — Take one daily."
+- **VIDEO:** Slow push-in on the label; the cabinet door gently swings and catches the light.
 
 ### Scene 6: Ethan (1:15)
 
@@ -195,7 +253,7 @@ standing. Photorealistic…`)
 
 **S25** · 8s · 🔊 · medium · refs `VANESSA` `GRACE_UNIFORM` `DRIVEWAY`
 - **FIRST FRAME:** The blonde woman holds out shopping bags toward the maid at the front steps.
-- **VIDEO:** She snaps: "You! New girl! Get these upstairs. Carefully. Some of these cost more than you make
+- **VIDEO:** She snaps: "You again. The girl from the gate. Get these upstairs. Carefully. Some of these cost more than you make
   in a year." The maid takes the bags: "Yes, ma'am."
 
 ### Scene 10: The sheets (2:48)
@@ -326,16 +384,17 @@ morning, ma'am." / "Did I ask for your opinion?"
 
 | | Seconds | Credits |
 |---|---|---|
-| 🔊 Dialogue shots (pro, sound on) | ~298s (minus S26 already done) | ~580 |
-| 🔇 Silent shots (pro, sound off) | ~63s | ~95 |
-| First frames (~35 new; the rest ♻️ reused for free) | | ~70 |
-| One-time characters + locations | 13 images | ~26 |
-| Redos (~20%) | | ~150 |
-| **Part 1 total** | **~6:09** | **≈ 920** |
+| 🔊 Dialogue shots (pro, sound on) | ~330s (minus S26 already done) | ~644 |
+| 🔇 Silent shots (pro, sound off) | ~72s | ~108 |
+| First frames (~39 new; the rest ♻️ reused for free) | | ~78 |
+| One-time characters + locations | 14 images | ~28 |
+| Redos (~20%) | | ~165 |
+| 30-second teaser | cut from later shots | 0 |
+| **Part 1 total** | **~7:00** | **≈ 1,025** |
 
-**Full movie projection at this rate:** ~5,900–6,100 credits, which is right at the 6,000 limit.
+**Full movie projection at this rate (~41 min with the hook):** ~6,000–6,200 credits, which is right at the 6,000 limit.
 To keep a safety margin:
 - keep redos to 20% or less, and reuse frames (♻️) everywhere you can
 - use `std` (sound off) for silent wide shots in Parts 2–9, which saves ~100–150 credits
-- if Part 1 costs more than ~950, buy a small top-up (500 credits) before Part 9, so the proposal
+- if Part 1 costs more than ~1,050, buy a small top-up (500 credits) before Part 9, so the proposal
   and wedding aren't rushed

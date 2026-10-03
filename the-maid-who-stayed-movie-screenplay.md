@@ -49,14 +49,54 @@ boardroom) · Vanderbilt hospital · Grace's small apartment · rehab gym · man
 
 ---
 
-## PART 1 — THE NEW MAID (0:00–6:00)
+## THE HOOK — 30-SECOND TEASER (0:00–0:30)
 
-**1. MANSION GATE — DAY** (0:00)
+*No narrator. Fast cuts, each 2–4 seconds, of the biggest moments in the movie, with a heartbeat
+sound and a low drone rising underneath. Every clip comes from scenes you make anyway, so the
+teaser costs 0 extra credits; it's cut together in the editor.*
+
+**T1.** *Black screen. A single heartbeat. Then the CRASH of a champagne glass shattering.*
+**T2.** *(from Sc. 20)* *Ethan collapsing at his engagement party, guests screaming.*
+**T3.** *(from Sc. 21)* *Vanessa grabbing Grace's arm.*
+**VANESSA:** "Don't you DARE call 911!"
+**T4.** *(from Sc. 52)* *Slow motion: a diamond bracelet sliding out of Grace's handbag onto the marble.*
+**GRACE:** "She put that there!"
+**T5.** *(from Sc. 59)* *Bradley's voice on a recording, over a close-up of a pill bottle.*
+**BRADLEY:** "If he'd taken the whole bottle like I planned…"
+**T6.** *(from Sc. 54)* *Grace walking down the driveway in the rain with a cardboard box. In a small
+window, Ethan's hand pressed against the glass.*
+**T7.** *(from Sc. 39)* *Grace in the dark, whispering.*
+**GRACE:** "I think I'm falling in love with you."
+**T8.** *(from Sc. 63)* *Ethan pulling himself up in a doorway, legs shaking.*
+**ETHAN:** "I'm not going… ANYWHERE."
+**T9.** *Smash cut to black. Silence. White text fades in:*
+**ON SCREEN:** *Everyone left the millionaire. Only the maid stayed.*
+**T10.** *Title card: THE MAID WHO STAYED*
+
+*Hard cut to bright sunshine and birdsong.*
+
+---
+
+## PART 1 — THE NEW MAID (0:30–6:50)
+
+> **Timing note:** the hook and two new scenes (1b, 5b) add ~50 seconds. Every time marker after
+> Part 1 runs ~0:50 later than written. The movie is now ~41 minutes.
+
+**1. MANSION GATE — DAY** (0:30)
 *Grace, in a yellow sundress, clutches her handbag in front of a huge white mansion. She looks up at the sky.*
 
 **GRACE** *(whispering)*: Lord, please. I need this job. Sam needs this job.
 
-*A SECURITY GUARD walks up.*
+**1b. MANSION GATE — CONTINUOUS** (0:38)
+*A horn BLARES. Grace jumps back as a white Range Rover swerves around her and stops at the gate,
+missing her by inches. The window slides down: VANESSA, sunglasses, red lipstick.*
+
+**VANESSA:** Move! Are you blind?
+**GRACE:** I'm so sorry, ma'am, I—
+**VANESSA** *(looking her up and down)*: Ugh. Let me guess. The new help.
+*The window slides up. The gate opens. The car speeds through, and the gate closes in Grace's face.*
+
+*Grace stands there, heart pounding. A SECURITY GUARD walks up.*
 
 **GUARD:** You Grace Miller?
 **GRACE:** Yes, sir.
@@ -96,6 +136,25 @@ dirtier than a hospital.
 Mr. Caldwell's study. Never touch anything on his desk. And never, ever argue with Miss Pierce.
 **GRACE:** Who's Miss Pierce?
 **MRS. HAYES:** You'll know her when you hear her.
+**GRACE** *(quietly)*: …I think I already met her.
+
+**5b. BUTLER'S PANTRY — DAY** (1:40)
+*Mrs. Hayes is called away. Grace, alone, turns a corner and stops. BRADLEY stands at the open
+medicine cabinet, back to her, phone wedged on his shoulder, pouring pills from one orange bottle
+into another.*
+
+**BRADLEY** *(low, into phone)*: End of the month, Rick. I told you. You'll have every dollar.
+
+*He turns, sees Grace, and slams the cabinet shut. The bottle disappears into his pocket. Then he
+smiles a slow, charming smile.*
+
+**BRADLEY:** Vitamins. For my brother. He works too hard. *(steps close)* And you didn't hear any
+of that, sweetheart. Did you?
+**GRACE:** Hear what, sir?
+**BRADLEY:** Smart girl.
+
+*He walks off. Grace stares at the cabinet. Close-up on the label of a bottle still inside:*
+*"ETHAN CALDWELL — Lisinopril 20mg — Take one daily."*
 
 **6. GRAND STAIRCASE — DAY** (1:25)
 *ETHAN comes down the stairs in a navy suit, reading his phone. He looks up.*
@@ -134,7 +193,7 @@ should be able to wait one minute for coffee.
 *A white Range Rover pulls up. VANESSA steps out in a red dress and sunglasses, holding eight
 shopping bags.*
 
-**VANESSA:** You! New girl! Get these upstairs. Carefully. Some of those cost more than you make in
+**VANESSA:** You again. The girl from the gate. Get these upstairs. Carefully. Some of those cost more than you make in
 a year.
 **GRACE:** Yes, ma'am.
 
@@ -255,7 +314,7 @@ red gown. Grace carries a tray of champagne.*
 
 **GRACE:** Mr. Caldwell! Ethan! Look at me. Smile for me. *(his face droops on one side)* He's
 having a stroke! Someone call 911!
-**VANESSA** *(grabbing Grace's arm)*: Don't you dare! There's press here! We'll take him in our car,
+**VANESSA** *(grabbing Grace's arm)*: Don't you DARE call 911! There's press here! We'll take him in our car,
 quietly—
 **GRACE** *(pulling free, dialing)*: He doesn't have time for quietly!
 *(into phone)* I need an ambulance at 4100 Belle Meade Boulevard, stroke, thirty-four-year-old male,
@@ -431,6 +490,11 @@ compares it with a photo on her phone.*
 **GRACE:** These would *raise* it.
 
 *She looks at the bottle's label: "Prepared for E. Caldwell. Filled by: B. Caldwell."*
+
+*Quick flashback (2 seconds, from Sc. 5b): Bradley at the medicine cabinet, pouring pills from one
+bottle into another. "Vitamins. For my brother."*
+
+**GRACE** *(whispering, horrified)*: Vitamins…
 
 **39. GUEST ROOM — CONTINUOUS** (15:40)
 *She looks at sleeping Ethan. Brushes hair off his forehead.*
