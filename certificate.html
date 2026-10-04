@@ -1,0 +1,324 @@
+<title>CGS Judge Certificate</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&family=Baskervville&family=Pinyon+Script&family=Courier+Prime&display=swap">
+<style>
+/* Layout: landscape A4 sheet (2000 × 1414 reference grid) scaled with cqw units, matching the supplied template:
+   grey watercolour ground, red ribbon + gold seal on the left, open dark frame, centred red title block. */
+:root {
+  --bg: #e9e9ea;
+  --fg: #2b2d31;
+  --muted: #6b6e75;
+  --red: #990000;
+  --frame: #4a4a4a;
+  --name: #3d4652;
+  --body: #7a7a7a;
+  --paper: #ffffff;
+  --f-title: "Roboto", "Helvetica Neue", Arial, sans-serif;
+  --f-script: "Pinyon Script", "Snell Roundhand", "Apple Chancery", cursive;
+  --f-body: "Baskervville", "Libre Baskerville", Baskerville, Georgia, serif;
+  --f-seal: "Courier Prime", "Courier New", monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #18191b; --fg: #e6e6e8; --muted: #9a9ca3; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --bg: #18191b; --fg: #e6e6e8; --muted: #9a9ca3; color-scheme: dark; }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--fg); font-family: system-ui, sans-serif; padding-inline: 16px; padding-block: 24px 40px; }
+.wrap { max-width: 1200px; margin-inline: auto; display: grid; gap: 10px; }
+.note { margin: 0; color: var(--muted); font-size: .82rem; }
+
+.sheet-wrap { container-type: inline-size; width: 100%; }
+.sheet {
+  position: relative; width: 100%; max-width: 100%;
+  aspect-ratio: 2000 / 1414;
+  background: var(--paper); overflow: hidden;
+  box-shadow: 0 1px 2px rgba(0,0,0,.1), 0 14px 34px -14px rgba(0,0,0,.4);
+}
+.sheet > * { position: absolute; }
+.sheet p { margin: 0; }
+canvas.wash { inset: 0; width: 100%; height: 100%; display: block; }
+
+/* open frame: top line, broken right side, short bottom line */
+.f-top    { left: 19.25cqw; right: 3.75cqw; top: 3.55cqw; height: .25cqw; background: var(--frame); }
+.f-right1 { right: 3.75cqw; top: 3.55cqw; height: 21.5cqw; width: .25cqw; background: var(--frame); }
+.f-right2 { right: 3.75cqw; top: 45.5cqw; height: 21.45cqw; width: .25cqw; background: var(--frame); }
+.f-bottom { left: 64.5cqw; right: 3.75cqw; top: 66.7cqw; height: .25cqw; background: var(--frame); }
+
+.frame, .ribbon-group { position: absolute; inset: 0; }
+.frame > div, .ribbon-group > div { position: absolute; }
+.ribbon {
+  left: 10.9cqw; top: 0; width: 6.4cqw; height: 68.5cqw;
+  background: var(--red);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 96.3%, 0 100%);
+}
+.ribbon-shadow {
+  left: 11.5cqw; top: 0; width: 6.6cqw; height: 68.7cqw;
+  background: rgba(70,70,95,.3); filter: blur(.5cqw);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 96.3%, 0 100%);
+}
+.seal { left: 5.85cqw; top: 45.65cqw; width: 16.5cqw; height: 16.5cqw; filter: drop-shadow(0 .3cqw .5cqw rgba(0,0,0,.25)); }
+
+.watermark { left: calc(58cqw - 13cqw); top: 24cqw; width: 26cqw; height: auto; opacity: .07; filter: grayscale(.2); }
+.lockup { left: calc(58cqw - 8.3cqw); top: 6.2cqw; width: 16.6cqw; height: auto; }
+
+.eyebrow, .cert-title, .cert-sub, .presented, .recipient {
+  left: 21cqw; right: 5cqw; margin: 0; text-align: center;
+}
+.eyebrow {
+  top: 13.2cqw; font-family: var(--f-title); font-weight: 500; color: var(--frame);
+  font-size: 1.1cqw; letter-spacing: .34em; padding-left: .34em; text-transform: uppercase; line-height: 1;
+}
+.cert-title {
+  top: 15.4cqw; font-family: var(--f-title); font-weight: 500; color: var(--red);
+  font-size: 6.4cqw; line-height: 1; letter-spacing: .2em; padding-left: .2em;
+}
+.cert-sub {
+  top: 23.3cqw; font-family: var(--f-title); font-weight: 700; color: var(--red);
+  font-size: 2.15cqw; line-height: 1; letter-spacing: .2em; padding-left: .2em; text-transform: uppercase;
+}
+.presented { top: 27.1cqw; font-family: var(--f-body); font-style: italic; color: var(--body); font-size: 1.45cqw; line-height: 1; }
+.recipient {
+  top: 29.6cqw; font-family: var(--f-script); color: var(--name); font-size: 6.2cqw; line-height: 1.15;
+  white-space: nowrap; overflow: hidden;
+}
+.citation {
+  left: 27cqw; right: 11cqw; top: 38.2cqw; text-align: center;
+  font-family: var(--f-body); color: var(--body); font-size: 1.22cqw; line-height: 1.95cqw;
+  display: grid; gap: .5cqw;
+}
+.citation p { margin: 0; text-wrap: balance; }
+.slot { top: 50cqw; width: 21cqw; display: grid; justify-items: center; text-align: center; }
+.s-date { left: calc(36cqw - 10.5cqw); }
+.s-sig1 { left: calc(58.5cqw - 10.5cqw); }
+.s-sig2 { left: calc(81cqw - 10.5cqw); }
+.slot .label {
+  font-family: var(--f-title); font-weight: 700; color: var(--red);
+  font-size: 1.6cqw; letter-spacing: .1em; line-height: 1; padding-left: .1em;
+}
+.slot .value {
+  height: 4.2cqw; display: flex; align-items: flex-end; padding-bottom: .5cqw;
+  font-family: var(--f-body); color: var(--name); font-size: 1.3cqw;
+}
+.slot .rule { width: 17cqw; height: .1cqw; background: var(--frame); }
+.slot .who { margin-top: .7cqw; font-family: var(--f-title); font-weight: 700; color: var(--name); font-size: 1.12cqw; letter-spacing: .04em; }
+.s-date .who { font-family: var(--f-body); font-weight: 400; font-style: italic; color: var(--body); letter-spacing: 0; }
+.slot .role { margin-top: .35cqw; font-family: var(--f-body); font-style: italic; color: var(--body); font-size: 1.05cqw; line-height: 1.3; }
+
+[contenteditable]:hover { background: rgba(153,0,0,.05); }
+[contenteditable]:focus { outline: .12cqw dashed var(--red); outline-offset: .3cqw; }
+
+@media print {
+  @page { size: A4 landscape; margin: 0; }
+  body { padding: 0; background: #fff; }
+  .note { display: none; }
+  .wrap { max-width: none; }
+  .sheet { box-shadow: none; }
+  .sheet-wrap { width: 297mm; }
+}
+</style>
+
+<div class="wrap">
+  <div class="sheet-wrap">
+    <article class="sheet" id="sheet">
+      <canvas class="wash" id="wash" data-layer="Background" aria-hidden="true"></canvas>
+      <img class="watermark" data-layer="Watermark" src="certificate-assets/cgs-mark.png" alt="" aria-hidden="true">
+
+      <div class="frame" data-layer="Frame" aria-hidden="true">
+        <div class="f-top"></div><div class="f-right1"></div><div class="f-right2"></div><div class="f-bottom"></div>
+      </div>
+
+      <div class="ribbon-group" data-layer="Ribbon" aria-hidden="true">
+        <div class="ribbon-shadow"></div>
+        <div class="ribbon"></div>
+      </div>
+
+      <svg class="seal" data-layer="Seal" viewBox="0 0 330 330" role="img" aria-label="Gold seal">
+        <defs>
+          <radialGradient id="gOuter" cx="35%" cy="25%" r="85%">
+            <stop offset="0" stop-color="#fdf0b5"/><stop offset=".45" stop-color="#f3c96a"/>
+            <stop offset=".8" stop-color="#e6a640"/><stop offset="1" stop-color="#d48f2c"/>
+          </radialGradient>
+          <linearGradient id="gInner" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0" stop-color="#f6ae4c"/><stop offset=".55" stop-color="#fbe9a2"/>
+            <stop offset="1" stop-color="#e5ad3d"/>
+          </linearGradient>
+          <filter id="inset" x="-20%" y="-20%" width="140%" height="140%">
+            <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#8a5a10" flood-opacity=".45"/>
+          </filter>
+          <path id="ring" d="M165 165 m-120 0 a120 120 0 1 1 240 0 a120 120 0 1 1 -240 0"/>
+        </defs>
+        <circle cx="165" cy="165" r="163" fill="#fff6d9"/>
+        <circle cx="165" cy="165" r="159" fill="url(#gOuter)"/>
+        <text font-family="Courier Prime, Courier New, monospace" font-size="27" fill="#1b1b1b" letter-spacing="3.1">
+          <textPath href="#ring" startOffset="1%">certificate of appreciation . . . . . .</textPath>
+        </text>
+        <circle cx="165" cy="165" r="96" fill="url(#gInner)" filter="url(#inset)"/>
+        <circle cx="165" cy="165" r="72" fill="none" stroke="#8f8fe0" stroke-width="2.4" stroke-dasharray="1 5" stroke-linecap="round"/>
+        <circle cx="165" cy="165" r="29" fill="none" stroke="#8f8fe0" stroke-width="2.4"/>
+      </svg>
+
+      <img class="lockup" data-layer="Logo" src="certificate-assets/cgs-lockup.png" alt="Council of Graduate Students, The Ohio State University">
+
+      <p class="eyebrow" data-layer="Ray Travel Awards" contenteditable="true" spellcheck="false" data-field="eyebrow">Ray Travel Awards</p>
+      <h1 class="cert-title" data-layer="Title" contenteditable="true" spellcheck="false" data-field="title">CERTIFICATE</h1>
+      <p class="cert-sub" data-layer="Subtitle" contenteditable="true" spellcheck="false" data-field="sub">Of Appreciation</p>
+      <p class="presented" data-layer="Presented to" contenteditable="true" data-field="presented">Presented to</p>
+      <p class="recipient" data-layer="Judge Name" contenteditable="true" spellcheck="false" data-field="name">Judge&rsquo;s Name</p>
+
+      <div class="citation" data-layer="Citation">
+        <p contenteditable="true" data-field="citation">In recognition and sincere appreciation of your service as a Judge for the Ray Travel Award 2027 Funding Period&nbsp;1. Your time, expertise, and thoughtful review of applications were invaluable to ensure a fair and thorough evaluation process.</p>
+        <p contenteditable="true" data-field="citation2">We gratefully acknowledge your commitment and contribution to the review and selection process.</p>
+      </div>
+
+      <div class="slot s-date" data-layer="Date">
+        <div class="label">DATE</div>
+        <div class="value" contenteditable="true" data-field="date">Month Day, 2027</div>
+        <div class="rule"></div>
+        <div class="who" contenteditable="true" data-field="datecap">Date presented</div>
+      </div>
+      <div class="slot s-sig1" data-layer="Signature - Kene Adimorah">
+        <div class="label">SIGNATURE</div>
+        <div class="value"></div>
+        <div class="rule"></div>
+        <div class="who" contenteditable="true" spellcheck="false" data-field="s1">Kene Adimorah</div>
+        <div class="role" contenteditable="true" data-field="r1">CGS Treasurer &amp; Ray Travel Award Chair</div>
+      </div>
+      <div class="slot s-sig2" data-layer="Signature - Johnathan Chisam">
+        <div class="label">SIGNATURE</div>
+        <div class="value"></div>
+        <div class="rule"></div>
+        <div class="who" contenteditable="true" spellcheck="false" data-field="s2">Johnathan Chisam</div>
+        <div class="role" contenteditable="true" data-field="r2">CGS President</div>
+      </div>
+    </article>
+  </div>
+  <p class="note">Click any text on the certificate to edit it, for example to type each judge&rsquo;s name. A4 landscape; opened as a local file, the browser&rsquo;s Print command outputs the sheet at full size.</p>
+</div>
+
+<script>
+(() => {
+  // Seeded random so the watercolour is identical on every load.
+  let seed = 7;
+  const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+
+  const cv = document.getElementById("wash");
+  function draw() {
+    const r = cv.getBoundingClientRect();
+    const dpr = Math.min(window.devicePixelRatio || 1, 2);
+    cv.width = Math.round(r.width * dpr); cv.height = Math.round(r.height * dpr);
+    const ctx = cv.getContext("2d");
+    const k = cv.width / 2000;                     // reference grid → device px
+    ctx.setTransform(k, 0, 0, k, 0, 0);
+    ctx.clearRect(0, 0, 2000, 1414);
+    seed = 7;
+
+    // soft pigment pool: many translucent blobs around a centre
+    const pool = (cx, cy, rx, ry, tone, alpha, n) => {
+      for (let i = 0; i < n; i++) {
+        const a = rnd() * Math.PI * 2, d = Math.sqrt(rnd());
+        const x = cx + Math.cos(a) * rx * d, y = cy + Math.sin(a) * ry * d;
+        const rad = (0.18 + rnd() * 0.35) * Math.min(rx, ry);
+        const g = ctx.createRadialGradient(x, y, 0, x, y, rad);
+        const c = tone + Math.round(rnd() * 30);
+        g.addColorStop(0, `rgba(${c},${c},${c + 3},${alpha})`);
+        g.addColorStop(.7, `rgba(${c},${c},${c + 3},${alpha * .6})`);
+        g.addColorStop(1, `rgba(${c},${c},${c + 3},0)`);
+        ctx.fillStyle = g;
+        ctx.beginPath(); ctx.arc(x, y, rad, 0, Math.PI * 2); ctx.fill();
+      }
+    };
+    const dots = (cx, cy, rx, ry, n, tone, maxR) => {
+      for (let i = 0; i < n; i++) {
+        const x = cx + (rnd() * 2 - 1) * rx, y = cy + (rnd() * 2 - 1) * ry;
+        const rr = Math.pow(rnd(), 3) * maxR + 1;
+        ctx.fillStyle = `rgba(${tone},${tone},${tone + 4},${.25 + rnd() * .45})`;
+        ctx.beginPath(); ctx.arc(x, y, rr, 0, Math.PI * 2); ctx.fill();
+      }
+    };
+
+    // hard-edged watercolour blots: layered noisy shapes with a darker pigment rim
+    const blot = (cx, cy, r, tone, alpha, layers) => {
+      for (let l = 0; l < layers; l++) {
+        const n = 90, ph = [rnd() * 6, rnd() * 6, rnd() * 6];
+        const rr = r * (0.65 + 0.35 * rnd());
+        const ox = (rnd() - .5) * r * .5, oy = (rnd() - .5) * r * .5;
+        ctx.beginPath();
+        for (let i = 0; i <= n; i++) {
+          const a = (i / n) * Math.PI * 2;
+          const d = rr * (1 + .22 * Math.sin(a * 3 + ph[0]) + .12 * Math.sin(a * 7 + ph[1]) + .06 * Math.sin(a * 17 + ph[2]) + .05 * (rnd() - .5));
+          const x = cx + ox + Math.cos(a) * d, y = cy + oy + Math.sin(a) * d * 1.05;
+          i ? ctx.lineTo(x, y) : ctx.moveTo(x, y);
+        }
+        ctx.closePath();
+        const c = tone + Math.round(rnd() * 25);
+        ctx.fillStyle = `rgba(${c},${c},${c + 4},${alpha})`; ctx.fill();
+        ctx.strokeStyle = `rgba(${c - 30},${c - 30},${c - 26},${alpha * .9})`; ctx.lineWidth = 2.5; ctx.stroke();
+      }
+    };
+
+    pool(120, 160, 220, 260, 225, .08, 50);     // pale wash, top-left
+    blot(160, 700, 260, 150, .10, 7);           // heavy wash, left
+    blot(330, 980, 230, 135, .11, 6);
+    blot(470, 1170, 170, 160, .10, 5);
+    blot(60, 1150, 200, 150, .10, 4);
+    pool(220, 800, 330, 420, 150, .05, 80);
+    pool(780, 1330, 420, 140, 200, .07, 60);    // bottom drift
+    blot(820, 1380, 230, 205, .08, 4);
+    blot(1760, 170, 220, 205, .07, 5);          // top-right
+    pool(1820, 180, 240, 260, 210, .05, 40);
+    pool(1600, 1350, 300, 90, 215, .06, 40);
+    dots(110, 220, 120, 200, 70, 140, 7);
+    dots(640, 1180, 260, 200, 120, 120, 10);
+    dots(1260, 1340, 260, 70, 50, 140, 12);
+    dots(1900, 640, 80, 220, 70, 150, 9);
+
+    // dry-brush strokes on the right edge
+    ctx.lineCap = "round";
+    for (let i = 0; i < 14; i++) {
+      const x = 1890 + rnd() * 90, y = 470 + rnd() * 120;
+      ctx.strokeStyle = `rgba(200,200,205,${.25 + rnd() * .3})`;
+      ctx.lineWidth = 3 + rnd() * 12;
+      ctx.beginPath(); ctx.moveTo(x, y);
+      ctx.quadraticCurveTo(x - 20, y + 220, x - 90 - rnd() * 40, y + 360 + rnd() * 140);
+      ctx.stroke();
+    }
+
+    // keep the writing area clean, like the template's white field
+    const g = ctx.createRadialGradient(1180, 640, 120, 1180, 640, 820);
+    g.addColorStop(0, "rgba(255,255,255,1)");
+    g.addColorStop(.62, "rgba(255,255,255,.92)");
+    g.addColorStop(1, "rgba(255,255,255,0)");
+    ctx.fillStyle = g; ctx.fillRect(0, 0, 2000, 1414);
+  }
+
+  // Remember in-place edits per viewer.
+  const sheet = document.getElementById("sheet");
+  try {
+    const saved = JSON.parse(localStorage.getItem("cgs-cert") || "{}");
+    Object.entries(saved).forEach(([k, v]) => {
+      const el = sheet.querySelector(`[data-field="${k}"]`); if (el) el.textContent = v;
+    });
+  } catch (e) {}
+  sheet.addEventListener("input", e => {
+    const f = e.target.dataset && e.target.dataset.field; if (!f) return;
+    try {
+      const saved = JSON.parse(localStorage.getItem("cgs-cert") || "{}");
+      saved[f] = e.target.textContent;
+      localStorage.setItem("cgs-cert", JSON.stringify(saved));
+    } catch (err) {}
+  });
+  sheet.addEventListener("keydown", e => {
+    if (e.key === "Enter" && e.target.isContentEditable && !/^citation/.test(e.target.dataset.field)) { e.preventDefault(); e.target.blur(); }
+  });
+  sheet.addEventListener("paste", e => {
+    if (!e.target.isContentEditable) return;
+    e.preventDefault();
+    document.execCommand("insertText", false, e.clipboardData.getData("text/plain"));
+  });
+
+  new ResizeObserver(draw).observe(cv);
+  draw();
+})();
+</script>
