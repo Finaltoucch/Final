@@ -7,6 +7,10 @@ water, descends until blue turns black, switches on a torch, and finds a
 sunken treasure chest half-buried in the sand. The lid opens and gold light
 floods up out of the dark. No dialogue. The camera only ever travels DOWN.
 
+A second character, the BOAT TENDER, stays topside. A diver never works a
+boat alone, and his presence also gives the departure someone to be watched
+by, which makes the descent read as a parting rather than as footage.
+
 Chosen because none of the 13 previous projects is aquatic, dark, or a
 treasure-hunt; and because there is no vehicle, so none of the left/right
 mirror geometry traps that damaged the previous project apply here.
@@ -37,7 +41,8 @@ drop at frame 249.**
 | Diver | `6e9b716f-66db-46a9-8626-a54df8965b82` |
 | Boat  | `eba110dd-c198-497e-ac3a-c31dc8241ca6` |
 | Chest | `ea2a553f-b614-467b-9271-a21ae38b6f17` |
-All three 1536x2752 (9:16). nano_banana_pro.
+| Boat tender | `a9abb5db-bd7c-473c-aff9-048ef95f6637` |
+All four 1536x2752 (9:16). nano_banana_pro.
 
 ## LOCKED SPECS — paste VERBATIM into every prompt showing that subject
 Reference sheets do NOT carry these properties between shots. Only the prompt
@@ -59,6 +64,20 @@ BLACK DIVE COMPUTER with a plain dark face on his LEFT wrist. A compact BLACK
 DIVE TORCH with a brushed-chrome bezel. Long BLACK FINS. Plain black neoprene
 gloves. He is NOT blonde, NOT fair-haired, NOT long-haired, NOT a woman, and
 wears NO hood covering his face.
+
+**THE BOAT TENDER** — a 58-year-old lifelong fisherman who stays with the
+boat and never enters the water. About 1.72 m, stocky and thickset through
+the chest and shoulders, heavy forearms. Deeply sun-weathered dark-tanned
+skin, lined face. SHORT GREY HAIR cut close. A SHORT WHITE-GREY BEARD AND
+MOUSTACHE, neatly trimmed. Heavy grey eyebrows, pale grey-blue eyes. He wears
+a SUN-BLEACHED OLIVE-GREEN COTTON WORK SHIRT, sleeves rolled to the elbow,
+open at the collar, loose and untucked, over a plain FADED WHITE COTTON VEST.
+OLD FADED SAND-BEIGE CANVAS WORK TROUSERS, loose, rolled once at the ankle.
+A plain worn brown leather belt. BARE FEET. A SOFT FADED NAVY-BLUE COTTON
+FLAT CAP. A dull-steel wristwatch with a worn leather strap on his left
+wrist. Everything plain — no slogans, no logos, no lettering, no numbers, no
+badges, no patterns. HE IS NOT A DIVER: no wetsuit, no neoprene, no buoyancy
+jacket, no cylinder, no regulator, no mask, no fins, at any point.
 
 **THE BOAT** — a small open fishing skiff about 5 metres long, weathered and
 workmanlike. The hull is WHITE, sun-faded and lightly scuffed along the
@@ -100,6 +119,7 @@ upper section, a single hard torch beam in the lower section.
 | Item | Credits |
 |---|---|
 | 3 reference sheets | 6.00 |
-| **Spent so far** | **6.00** |
-Balance before 31.58 -> after ~25.58.
+| Boat tender sheet | 2.00 |
+| **Spent so far** | **8.00** |
+Balance before 31.58 -> after ~23.58.
 Remaining estimate: 8-shot minimum ~92, 12-shot version ~123.
