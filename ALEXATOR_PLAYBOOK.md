@@ -215,3 +215,10 @@ Quote me the real number against my real balance before you start.
 ## FIRST THING TO DO
 Check my balance, tell me what it is, tell me the concept and track you have
 chosen in two lines, quote the cost, then start.
+
+## SANDBOX TRANSFER LIMIT (learned on LAST GOODBYE)
+`sandbox_exec` refuses any command carrying a large base64 blob of file bytes —
+it blocks text-relaying bytes between environments. Get files in by URL with
+curl, or write them inline within the 16,000-char command limit. Plan packaging
+around that: provenance tables and specs go in as heredocs, big source files
+come down from their CDN URLs.
