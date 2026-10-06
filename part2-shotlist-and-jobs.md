@@ -1,6 +1,17 @@
 # Part 2 — The Collapse: shot list and jobs
 
-## ✅ Part 2 v4 — film score (current)
+## ✅ Part 2 v5 (current)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/484c7f06-5578-4962-9634-db7798aae385.mp4
+- **Stroke build-up:** new shot 81 shows the warning signs (temple, numb hand, forced smile): frame `89b2ee74`, clip `1c9e7105`. A new "TWENTY MINUTES LATER" card follows.
+- **Shot 10 replaced:** the glass close-up is now Ethan visibly losing his balance and falling off the stage onto the grass. Frame `18a7d909`, clip `ded6279f`.
+- **Shot 16 fixed:** Vanessa now grips Grace's arm, not a man's sleeve. Frame `ebc636c3`, clip `d3bf9016`. The first attempt was blocked by Kling's content filter.
+- **Shot 19 fixed:** Ethan lies on the grass while Grace holds his hand. He was standing before. Frame `4412db18`, clip `c097f496`.
+- **Shot 20 fixed:** the team now runs and Ethan is on the gurney with an oxygen mask. Before, the gurney was empty and the team was walking. Frame `509707b2`, clip `84978ddf`.
+- **Shot 41 fixed:** Ethan, not a woman, is in the bed. Frame `6c3b9e3d`, clip `1b77f75c`, voice `d336a0c5`.
+- **Screamed lines** (shots 13, 15–20) use Kling's original shouting take, because Voice Change flattened them by about 10 dB. Dr. Patel uses Kling's own voice throughout so she stays consistent.
+- **Music and effects** are 4 dB quieter.
+
+## Part 2 v4 (superseded)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/9967082e-5dd2-483f-8393-bd8c3e562e91.mp4
 - Original score from `tools/part2_cues.json`. A riser builds into the impact as Ethan's glass shatters, followed by panic strings and drums and sad hospital strings. Measured −14.9 LUFS.
 

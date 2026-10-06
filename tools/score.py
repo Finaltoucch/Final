@@ -149,7 +149,7 @@ def c_panic(T):
     if j%4==0:place(o,pan(tom(0.4 if j%8==0 else 0.25)),t0)
   return verb(o,0.2)
 CUES=dict(hope=c_hope,tender=c_tender,elegant=c_elegant,sad=c_sad,tension=c_tension,suspense=c_suspense,dark=c_dark,panic=c_panic)
-LVL=dict(hope=-27,tender=-27,elegant=-29,sad=-26,tension=-27,suspense=-27,dark=-26,panic=-25)
+LVL=dict(hope=-31,tender=-31,elegant=-33,sad=-30,tension=-31,suspense=-31,dark=-30,panic=-29)
 def key(k,TL):
   for e in TL:
     if e['key']==k:return e
@@ -168,11 +168,11 @@ for c in CU:
     s=c['sfx']
     if s=='riser':x=riser(c.get('len',4.0),0.6);t0-=len(x)/SR
     else:x={'impact':impact,'stinger':stinger,'whoosh':whoosh,'braam':lambda:braam(0.7)}[s]()
-    x*=10**(c.get('db',{'impact':-12,'stinger':-16,'whoosh':-24,'riser':-18,'braam':-14}[s])/20)/(max(np.sqrt((x[i:i+int(SR*0.5)]**2).mean()) for i in range(0,max(1,len(x)-int(SR*0.5)),int(SR*0.25)))+1e-9)
+    x*=10**(c.get('db',{'impact':-16,'stinger':-20,'whoosh':-28,'riser':-22,'braam':-18}[s])/20)/(max(np.sqrt((x[i:i+int(SR*0.5)]**2).mean()) for i in range(0,max(1,len(x)-int(SR*0.5)),int(SR*0.25)))+1e-9)
     place(sfx,x,max(0,t0))
 for e in TL:
   if e['key'].startswith('c:'):
-    x=whoosh();x*=10**(-28/20)/(np.sqrt((x**2).mean())+1e-9);place(sfx,x,max(0,e['start']-0.3))
+    x=whoosh();x*=10**(-32/20)/(np.sqrt((x**2).mean())+1e-9);place(sfx,x,max(0,e['start']-0.3))
 mus=mus[:N];sfx=sfx[:N]
 dlg=np.frombuffer(sp.run(['ffmpeg','-v','error','-i',sys.argv[3],'-f','f32le','-ac','2','-ar','48000','-'],capture_output=True).stdout,np.float32).reshape(-1,2)[:N]
 if len(dlg)<N:dlg=np.vstack([dlg,np.zeros((N-len(dlg),2),np.float32)])
