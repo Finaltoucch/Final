@@ -103,3 +103,17 @@ Voices: Grace = Naomi, Vanessa = Celine, Ethan = Holden, Mrs. Hayes = Helena, Gu
 | 39 | Vanessa repeats "You'll never work in Nashville again" twice at the end | Free: trim the last ~2s |
 | 3 | Vanessa's "Move! Are you blind?" was never spoken | Optional: fine as is |
 | 6 | The guard's "Wait here" was never spoken | Optional: fine as is |
+
+## ✅ Part 1 v2 (fixed cut, Oct 6)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/2755379d-e919-4795-ab93-669b797780f7.mp4 (Higgsfield media `2755379d-e919-4795-ab93-669b797780f7`)
+- **Story fixes:**
+  - Ethan is introduced before Bradley.
+  - The pill scene (clips 10–11) now comes after "Two weeks later".
+  - The new blond Bradley appears in clips 10 and 38.
+  - Clip 8 adds the hiring line.
+  - The order of clip 12 is fixed.
+  - Clip 34 was remade.
+  - The repeated line at the end of clip 39 is trimmed.
+- **On screen:** five time cards (Nashville, Two weeks later, 1:00 A.M., Later that night, The next night) and name captions for Grace, Vanessa, Mrs. Hayes, Ethan, Bradley and Mama Ruth.
+- **Voices:** Ethan is now **Benji** (softer), and Bradley is Reid.
+- **Ambience:** no licensed sound. It is synthesized room tone, traffic, fridge, dryer, crickets, pool water and a low tension drone, plus one public-domain birds recording (Wikimedia, "Gentle breeze and birds singing"). Each scene gets its own mix.
