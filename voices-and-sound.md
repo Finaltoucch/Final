@@ -8,9 +8,9 @@ To change a voice later, rerun Voice Change on that character's clips (about 1 c
 | Character | Voice | voice_id |
 |---|---|---|
 | **Grace** | Naomi | `caeba733-3c17-43db-863e-69c7025512cd` |
-| **Ethan** | Holden | `3c9d6053-6334-592c-8997-4e325286af3f` |
+| **Ethan** | Dylan (softer, ~153 Hz; Holden at ~119 Hz was too deep) | `b847bc29-f184-583a-8ad9-d1f1e16d1a60` |
 | **Vanessa** | Celine | `57ccb351-84d7-54ba-afd4-26b566ca6023` |
-| **Bradley** | Dylan | `b847bc29-f184-583a-8ad9-d1f1e16d1a60` |
+| **Bradley** | Reid (~168 Hz, younger and slicker) | `66469f5a-10db-586a-bab1-72f6ee66ba69` |
 | **Mrs. Hayes** | Helena | `3c2b83c0-2e0a-5ae8-998a-a5fe71b7eccd` |
 | **Mama Ruth** | Opal | `66f35c82-2088-55eb-a0aa-7bf715dc03b7` |
 | **Security Guard** | Desmond | `563f728c-e249-5a85-97ab-8461e8c09da6` |
@@ -43,7 +43,11 @@ To change a voice later, rerun Voice Change on that character's clips (about 1 c
 | 32, 33 | Mama Ruth, Grace |
 | 1, 11, 14–17, 19, 22, 26, 37, 38 | Silent: no pass, add ambience in the editor |
 
-## Ambience & music (add in the editor — free)
+## Ambience (built into the edit, Oct 6). NO licensed sounds
+Every ambience sound is synthesized on the editing machine (room tone, traffic, fridge hum, dryer, crickets, water, tension drone),
+except birdsong, which is the **public-domain** recording "Gentle breeze and birds singing" (Wikimedia Commons, PD: no copyright, no credit needed).
+
+## Ambience & music (original plan)
 
 Higgsfield's audio tools only make speech, so add music and sound effects from **CapCut's sound library**,
 the **YouTube Audio Library** or **Pixabay**.
