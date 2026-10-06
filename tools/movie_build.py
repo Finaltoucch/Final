@@ -75,10 +75,10 @@ def card(text,i,sec=CS):
   run(['ffmpeg','-v','error','-y','-f','lavfi','-i',f'color=c=black:s=1920x1080:r=24:d={sec}','-t',str(sec),
        '-vf',f"drawtext=fontfile='{FONT}':textfile='{tf(text)}':fontsize=64:fontcolor=white:x=(w-tw)/2:y=(h-th)/2:alpha='{a}',format=yuv420p",
        '-c:v','libx264','-preset','veryfast','-crf','19','-an',o]);return o
-rep=[];outs=[];wavs=[]
+rep=[];outs=[];wavs=[];TL=[];pos=0.0
 for i,c in enumerate(M,1):
   if 'card' in c:
-    outs.append(card(c['card'],i));wavs.append(np.zeros((int(round(CS*SR)),2),np.float32));print('card',i,flush=True);continue
+    outs.append(card(c['card'],i));wavs.append(np.zeros((int(round(CS*SR)),2),np.float32));TL.append(dict(key='c:'+c['card'],start=pos,dur=CS));pos+=CS;print('card',i,flush=True);continue
   t=c['t'];ks=list(t);f0=dl(t[ks[0]]);D=vdur(f0)
   if 'vo' in c:
     au=rd(dl(c['vo']));rep.append(f"#{c['n']}: VO")
@@ -118,22 +118,12 @@ for i,c in enumerate(M,1):
       if hits:D=min(D,hits[0][2]+0.5);rep.append(f"   trimmed at {D:.2f}s")
   NF=int(D*24);D=NF/24;n=NF*2000;au=au[:n]
   if len(au)<n:au=np.vstack([au,np.zeros((n-len(au),2),np.float32)])
-  am=amb(c['amb'],D)[:n]
-  e=np.sqrt(np.convolve((au**2).mean(1),np.ones(2400)/2400,'same'))
-  sp_=(e>max(0.004,0.12*np.percentile(e,99))).astype(np.float32)
-  g=np.ones(n,np.float32);lvl=1.0;hop=480
-  for j in range(0,n,hop):
-    tgt=0.25 if sp_[j:j+hop].any() else 1.0
-    lvl+= (tgt-lvl)*(0.5 if tgt<lvl else 0.08)
-    g[j:j+hop]=lvl
-  au=au+am*g[:,None]
   vf=BASE+''.join(lower_third(*x) for x in c.get('lt',[]))
   o=f'c{i:02d}.mp4'
   run(['ffmpeg','-v','error','-y','-i',f0,'-map','0:v','-frames:v',str(NF),'-vf',vf,'-c:v','libx264','-preset','veryfast','-crf','19','-an',o])
-  wavs.append(au);outs.append(o);print('done',i,c['n'],flush=True)
+  wavs.append(au);outs.append(o);TL.append(dict(key='n%s'%c['n'],start=pos,dur=D));pos+=D;print('done',i,c['n'],flush=True)
 open('list.txt','w').write(''.join(f"file '{o}'\n" for o in outs))
 run(['ffmpeg','-v','error','-y','-f','concat','-safe','0','-i','list.txt','-an','-c','copy','vid.mp4'])
-full=np.vstack(wavs);run(['ffmpeg','-v','error','-y','-f','f32le','-ar',str(SR),'-ac','2','-i','-','full.wav'],input=full.tobytes())
-run(['ffmpeg','-v','error','-y','-i','vid.mp4','-i','full.wav','-map','0:v','-map','1:a','-c:v','copy','-af','loudnorm=I=-14:TP=-1.5:LRA=11','-c:a','aac','-b:a','192k','-ar','48000','-movflags','+faststart',OUT])
-open('report.txt','w').write('\n'.join(rep)+f"\n\nTotal: {dur(OUT):.1f}s\n")
-print('FINISHED',dur(OUT),flush=True)
+full=np.vstack(wavs);run(['ffmpeg','-v','error','-y','-f','f32le','-ar',str(SR),'-ac','2','-i','-','dlg.wav'],input=full.tobytes())
+json.dump(TL,open('timeline.json','w'))
+print('FINISHED',pos,flush=True)
