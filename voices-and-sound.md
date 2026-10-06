@@ -8,7 +8,7 @@ To change a voice later, rerun Voice Change on that character's clips (about 1 c
 | Character | Voice | voice_id |
 |---|---|---|
 | **Grace** | Naomi | `caeba733-3c17-43db-863e-69c7025512cd` |
-| **Ethan** | Dylan (softer, ~153 Hz; Holden at ~119 Hz was too deep) | `b847bc29-f184-583a-8ad9-d1f1e16d1a60` |
+| **Ethan** | Benji (your choice; replaces Holden, which was too deep) | `e6f9b893-51b1-51d3-afe9-9e0482cb7ac1` |
 | **Vanessa** | Celine | `57ccb351-84d7-54ba-afd4-26b566ca6023` |
 | **Bradley** | Reid (~168 Hz, younger and slicker) | `66469f5a-10db-586a-bab1-72f6ee66ba69` |
 | **Mrs. Hayes** | Helena | `3c2b83c0-2e0a-5ae8-998a-a5fe71b7eccd` |
