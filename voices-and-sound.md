@@ -14,6 +14,8 @@ To change a voice later, rerun Voice Change on that character's clips (about 1 c
 | **Mrs. Hayes** | Helena | `3c2b83c0-2e0a-5ae8-998a-a5fe71b7eccd` |
 | **Mama Ruth** | Opal | `66f35c82-2088-55eb-a0aa-7bf715dc03b7` |
 | **Security Guard** | Desmond | `563f728c-e249-5a85-97ab-8461e8c09da6` |
+| **Dr. Patel** | Elena (female, matches the doctor on screen) | `ca83ca7f-c186-493d-bd69-0d765fa861b2` |
+| Nurse (Part 2) | Kling's own voice (one line) | — |
 | Harold (Part 5+) | Barrett | `d603a8cd-3fe1-55e0-9245-617a2589131e` |
 | Sam (Part 5+) | ElevenLabs line + lip-sync, or keep Kling's child voice | — |
 

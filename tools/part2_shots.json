@@ -1,0 +1,736 @@
+[
+ {
+  "id": 1,
+  "dur": 5,
+  "refs": [
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Wide establishing shot of an elegant engagement party in the garden of a white-columned mansion at night, hundreds of string lights, round tables, a jazz trio on a small stage, guests in tuxedos and gowns. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "Slow crane shot drifting down over the glamorous night garden party, guests mingling, string lights twinkling. Realistic natural motion, no dialogue.",
+  "amb": "party",
+  "spk": null,
+  "card": "THE ENGAGEMENT PARTY",
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 2,
+  "dur": 6,
+  "refs": [
+   "c6c6c408-b240-4f9b-b641-6bd15842baef",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Medium close-up of the handsome blond man, 30, with designer stubble and a gold watch, in a cream dinner jacket, raising a champagne flute toward camera, grinning. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The blond man raises his champagne glass high and shouts cheerfully: \"To my big brother! The man who has everything!\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "party",
+  "spk": "B",
+  "card": null,
+  "lt": [
+   "BRADLEY CALDWELL",
+   "Ethan's younger brother",
+   0.4,
+   4.4
+  ],
+  "vo": null
+ },
+ {
+  "id": 3,
+  "dur": 5,
+  "refs": [
+   "b680952e-0b27-4645-9afb-ccfafc24447c",
+   "6977815a-009f-4da0-9799-8a1c8daf4026",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Medium shot of the very handsome dark-haired man, 34, with a short neat beard, in a black tuxedo with his arm around the stunning blonde woman in a red evening gown with red lipstick and a diamond bracelet, both smiling and raising champagne glasses, guests around them cheering. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The couple smile and raise their glasses as the crowd cheers and applauds around them. Realistic natural motion, no dialogue.",
+  "amb": "party",
+  "spk": null,
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 4,
+  "dur": 5,
+  "refs": [
+   "c6c6c408-b240-4f9b-b641-6bd15842baef",
+   "6977815a-009f-4da0-9799-8a1c8daf4026",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Two-shot: the handsome blond man, 30, with designer stubble and a gold watch, in a cream dinner jacket and the stunning blonde woman in a red evening gown with red lipstick and a diamond bracelet standing slightly apart from the crowd, exchanging a secret, knowing look. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The blond man and the blonde woman lock eyes for a moment; a tiny, secret, conspiratorial smile passes between them, then they look away. Realistic natural motion, no dialogue.",
+  "amb": "party",
+  "spk": null,
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 5,
+  "dur": 5,
+  "refs": [
+   "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a navy-and-white maid uniform, holding a silver tray of champagne flutes, watching something across the party with curiosity. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The young maid with the tray watches across the garden, her smile fading into a slight frown of curiosity. Realistic natural motion, no dialogue.",
+  "amb": "party",
+  "spk": null,
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 6,
+  "dur": 6,
+  "refs": [
+   "c6c6c408-b240-4f9b-b641-6bd15842baef",
+   "b680952e-0b27-4645-9afb-ccfafc24447c",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Over-the-shoulder shot from behind the dark-haired man in the tuxedo, facing the handsome blond man, 30, with designer stubble and a gold watch, in a cream dinner jacket, who holds out a small orange pill bottle. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The blond man shakes two pills into his palm and holds them out with a charming smile, saying: \"Don't forget your blood pressure meds, old man.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "party",
+  "spk": "B",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 7,
+  "dur": 5,
+  "refs": [
+   "b680952e-0b27-4645-9afb-ccfafc24447c",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Close-up of the very handsome dark-haired man, 34, with a short neat beard, in a black tuxedo, smiling warmly, holding two small white pills and a glass of water. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The handsome man smiles gratefully and says: \"Thanks, Brad.\" Then he swallows the pills with a sip of water. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "party",
+  "spk": "E",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 8,
+  "dur": 5,
+  "refs": [
+   "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Close-up of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a navy-and-white maid uniform, eyes narrowing with suspicion as she watches someone. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The young maid's eyes narrow; she studies someone across the party, troubled, something feels wrong. Realistic natural motion, no dialogue.",
+  "amb": "party_drone",
+  "spk": null,
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 9,
+  "dur": 8,
+  "refs": [
+   "b680952e-0b27-4645-9afb-ccfafc24447c",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Medium shot of the very handsome dark-haired man, 34, with a short neat beard, in a black tuxedo, standing on a small stage with a microphone stand, raising a champagne glass to give a toast. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The handsome man begins a toast, smiling, then his glass starts trembling, his speech slurs and he struggles: \"I want to thank... thank... everyb\u2014\" His face goes slack. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "party_drone",
+  "spk": "E",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 10,
+  "dur": 5,
+  "refs": [
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Extreme close-up of a crystal champagne glass falling toward a stone garden path at night, string-light reflections. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "Slow motion: the champagne glass falls and shatters on the stone path, champagne splashing. Realistic natural motion, no dialogue.",
+  "amb": "party_drone",
+  "spk": null,
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 11,
+  "dur": 5,
+  "refs": [
+   "b680952e-0b27-4645-9afb-ccfafc24447c",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Wide shot: the very handsome dark-haired man, 34, with a short neat beard, in a black tuxedo collapsing to the grass in front of the stage while shocked guests step back. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The man in the tuxedo collapses onto the grass; guests gasp and step back in horror. Realistic natural motion, no dialogue.",
+  "amb": "party_panic",
+  "spk": null,
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 12,
+  "dur": 5,
+  "refs": [
+   "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Medium shot of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a navy-and-white maid uniform, dropping her silver tray of champagne glasses in shock. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The maid drops her tray, glasses crashing, and runs toward camera through the crowd. Realistic natural motion, no dialogue.",
+  "amb": "party_panic",
+  "spk": null,
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 13,
+  "dur": 8,
+  "refs": [
+   "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+   "b680952e-0b27-4645-9afb-ccfafc24447c",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Close-up of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a navy-and-white maid uniform, kneeling on the grass, leaning over the fallen man in the tuxedo, holding his face, looking down at him. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The maid kneels over the fallen man, cradling his face, and says urgently: \"Mr. Caldwell! Ethan! Look at me. Smile for me.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "party_panic",
+  "spk": "G",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 14,
+  "dur": 5,
+  "refs": [
+   "b680952e-0b27-4645-9afb-ccfafc24447c",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Close-up of the very handsome dark-haired man, 34, with a short neat beard, in a black tuxedo, lying on his back on the grass, one side of his face drooping, eyes unfocused. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The man on the grass tries to smile but only one side of his mouth moves; the other side of his face droops. His eyes are scared. Realistic natural motion, no dialogue.",
+  "amb": "party_panic",
+  "spk": null,
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 15,
+  "dur": 5,
+  "refs": [
+   "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Close-up of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a navy-and-white maid uniform, kneeling, looking up at the crowd, shouting. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The maid looks up at the crowd and shouts desperately: \"He's having a stroke! Someone call nine-one-one!\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "party_panic",
+  "spk": "G",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 16,
+  "dur": 8,
+  "refs": [
+   "6977815a-009f-4da0-9799-8a1c8daf4026",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Close-up of the stunning blonde woman in a red evening gown with red lipstick and a diamond bracelet, crouching, gripping someone's arm hard, furious and panicked. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The blonde woman in red grips the maid's arm and hisses angrily: \"Don't you dare call nine-one-one! There's press here! We'll take him in our car, quietly...\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "party_panic",
+  "spk": "V",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 17,
+  "dur": 5,
+  "refs": [
+   "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Close-up of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a navy-and-white maid uniform, yanking her arm free and holding up a phone, determined. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The maid pulls her arm free, lifts her phone and says firmly: \"He doesn't have time for quietly!\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "party_panic",
+  "spk": "G",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 18,
+  "dur": 10,
+  "refs": [
+   "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Close-up of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a navy-and-white maid uniform, phone pressed to her ear, kneeling on the grass, focused and calm. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The maid speaks clearly and fast into the phone: \"I need an ambulance at forty-one hundred Belle Meade Boulevard. Stroke. Thirty-four-year-old male. Symptoms started at nine forty-two.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "party_panic",
+  "spk": "G",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 19,
+  "dur": 7,
+  "refs": [
+   "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+   "b680952e-0b27-4645-9afb-ccfafc24447c",
+   "7be55d14-f2b0-4b7c-b87f-e39ec46177ac"
+  ],
+  "frame": "Close-up of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a navy-and-white maid uniform, holding the fallen man's hand tightly against her chest, tears in her eyes, blue ambulance light starting to flash on her face. Night garden party at a Southern mansion, warm string lights, guests in evening wear, soft bokeh. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "Holding his hand, the maid says softly but fiercely: \"Stay with me. You hear me? You stay with me.\" Blue ambulance lights flash across her face. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "party_siren",
+  "spk": "G",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 20,
+  "dur": 8,
+  "refs": [
+   "69a576f5-9de0-41f7-b572-300ea317db07",
+   "c786f50d-8526-4f86-8a1b-3cefca0e6af5"
+  ],
+  "frame": "Medium shot of the doctor (from the reference) in a white coat with a stethoscope, walking fast beside a hospital gurney down a corridor, pointing ahead and shouting orders, nurses around. Modern hospital, cool fluorescent light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The doctor rushes alongside the gurney and shouts: \"Ischemic stroke, get him to CT now! Who noted the time of onset?\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_rush",
+  "spk": "P",
+  "card": null,
+  "lt": [
+   "DR. PATEL",
+   "Neurologist, Vanderbilt",
+   0.5,
+   4.5
+  ],
+  "vo": null
+ },
+ {
+  "id": 21,
+  "dur": 4,
+  "refs": [
+   "c786f50d-8526-4f86-8a1b-3cefca0e6af5"
+  ],
+  "frame": "Close-up of a young female nurse in blue scrubs pushing a gurney, answering someone. Modern hospital, cool fluorescent light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The nurse glances at the doctor and answers quickly: \"The maid, doctor.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_rush",
+  "spk": "N",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 22,
+  "dur": 5,
+  "refs": [
+   "69a576f5-9de0-41f7-b572-300ea317db07",
+   "c786f50d-8526-4f86-8a1b-3cefca0e6af5"
+  ],
+  "frame": "Close-up of the doctor (from the reference) in a white coat with a stethoscope, pausing for a beat in the corridor, impressed. Modern hospital, cool fluorescent light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The doctor pauses, nods slowly and says: \"Then the maid just saved his life.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_rush",
+  "spk": "P",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 23,
+  "dur": 6,
+  "refs": [
+   "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+   "a06cf4f3-5de6-4941-b406-0aed67147f7e",
+   "a8a54c4a-b8fe-433c-950d-eb086cd6ab37"
+  ],
+  "frame": "Medium shot of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a navy-and-white maid uniform, her uniform stained with champagne, sitting alone in an empty hospital waiting room at night; the elegant 60-year-old Black woman with silver hair in a neat bun and a pearl necklace, in a black dress arrives and drapes a warm coat around her shoulders. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The older woman gently places a coat around the young maid's shoulders and sits beside her. Realistic natural motion, no dialogue.",
+  "amb": "hospital_night",
+  "spk": null,
+  "card": "3:00 A.M.",
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 24,
+  "dur": 5,
+  "refs": [
+   "a06cf4f3-5de6-4941-b406-0aed67147f7e",
+   "a8a54c4a-b8fe-433c-950d-eb086cd6ab37"
+  ],
+  "frame": "Close-up of the elegant 60-year-old Black woman with silver hair in a neat bun and a pearl necklace, in a black dress, sitting in a hospital waiting room at night, looking at someone beside her. Cool fluorescent light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The older woman asks quietly: \"Where's Miss Pierce?\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_night",
+  "spk": "H",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 25,
+  "dur": 6,
+  "refs": [
+   "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+   "a8a54c4a-b8fe-433c-950d-eb086cd6ab37"
+  ],
+  "frame": "Close-up of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a navy-and-white maid uniform, exhausted, sitting in a hospital waiting room at night, a coat around her shoulders. Cool fluorescent light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The tired young maid answers softly: \"She said she'd come in the morning. She was tired.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_night",
+  "spk": "G",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 26,
+  "dur": 5,
+  "refs": [
+   "a06cf4f3-5de6-4941-b406-0aed67147f7e",
+   "a8a54c4a-b8fe-433c-950d-eb086cd6ab37"
+  ],
+  "frame": "Close-up of the elegant 60-year-old Black woman with silver hair in a neat bun and a pearl necklace, in a black dress, silent, her jaw tightening with quiet disapproval. Cool fluorescent light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The older woman says nothing, but her face hardens with silent judgment; she slowly shakes her head. Realistic natural motion, no dialogue.",
+  "amb": "hospital_night",
+  "spk": null,
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 27,
+  "dur": 5,
+  "refs": [
+   "078f29c9-818d-471e-825f-91cc30a9d8b1",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Close-up of the very handsome dark-haired man, 34, with a short neat beard, in a hospital gown, lying in a hospital bed, waking up groggy, monitors beside him, morning light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The man slowly opens his eyes, confused, and mumbles, slightly slurred: \"Where... am I?\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_day",
+  "spk": "E",
+  "card": "THE NEXT MORNING",
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 28,
+  "dur": 5,
+  "refs": [
+   "69a576f5-9de0-41f7-b572-300ea317db07",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Medium close-up of the doctor (from the reference) in a white coat with a stethoscope, standing at a hospital bedside in morning light, calm and serious. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The doctor says gently: \"Vanderbilt. You had a stroke, Mr. Caldwell.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_day",
+  "spk": "P",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 29,
+  "dur": 4,
+  "refs": [
+   "078f29c9-818d-471e-825f-91cc30a9d8b1",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Close-up of the very handsome dark-haired man, 34, with a short neat beard, in a hospital gown, lying in a hospital bed, stunned disbelief, morning light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The man in the bed says in disbelief: \"I'm thirty-four.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_day",
+  "spk": "E",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 30,
+  "dur": 6,
+  "refs": [
+   "69a576f5-9de0-41f7-b572-300ea317db07",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Medium close-up of the doctor (from the reference) in a white coat with a stethoscope, at the bedside holding a tablet, morning light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The doctor answers calmly: \"It happens. Rarely. We're running tests to understand why.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_day",
+  "spk": "P",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 31,
+  "dur": 8,
+  "refs": [
+   "078f29c9-818d-471e-825f-91cc30a9d8b1",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Close-up of the very handsome dark-haired man, 34, with a short neat beard, in a hospital gown, lying in a hospital bed, straining to move, panic rising, morning light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The man tries to move his arm and legs and can't. Panic rises in his face and he shouts: \"My legs. Why can't I... Why can't I move my legs?!\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_day",
+  "spk": "E",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 32,
+  "dur": 6,
+  "refs": [
+   "60595ef4-874c-426e-a1b5-a9e854f9aad7",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Medium shot of the stunning blonde woman with red lipstick, in a chic cream designer outfit, sunglasses pushed up on her head, entering a hospital room doorway holding a bouquet of white roses, freezing in shock. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The blonde woman with the flowers stops dead in the doorway, stares, and whispers: \"Ethan...\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_day",
+  "spk": "V",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 33,
+  "dur": 6,
+  "refs": [
+   "078f29c9-818d-471e-825f-91cc30a9d8b1",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Close-up of the very handsome dark-haired man, 34, with a short neat beard, in a hospital gown, lying in a hospital bed, looking up at the doctor, desperate but steady, morning light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The man swallows hard and says: \"Doctor. Tell me the truth. Will I walk again?\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_day",
+  "spk": "E",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 34,
+  "dur": 10,
+  "refs": [
+   "69a576f5-9de0-41f7-b572-300ea317db07",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Close-up of the doctor (from the reference) in a white coat with a stethoscope, at the bedside, honest and compassionate, morning light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The doctor answers carefully: \"I can't promise you that. With intensive therapy, there's a chance. But it will be months. Maybe longer.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_day",
+  "spk": "P",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 35,
+  "dur": 5,
+  "refs": [
+   "60595ef4-874c-426e-a1b5-a9e854f9aad7",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Close-up of the hands of the blonde woman with a diamond bracelet setting a bouquet of white roses down on a hospital table. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "Slowly, very slowly, she sets the flowers down on the table and pulls her hand away. Realistic natural motion, no dialogue.",
+  "amb": "hospital_day",
+  "spk": null,
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 36,
+  "dur": 12,
+  "refs": [
+   "60595ef4-874c-426e-a1b5-a9e854f9aad7",
+   "c786f50d-8526-4f86-8a1b-3cefca0e6af5"
+  ],
+  "frame": "Medium close-up of the stunning blonde woman with red lipstick, in a chic cream designer outfit, sunglasses pushed up on her head, in a hospital hallway, phone to her ear, whispering, glancing around. Modern hospital, cool fluorescent light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The blonde woman whispers into the phone coldly: \"Months, Brad. Maybe never. I didn't sign up to push a wheelchair.\" She pauses, listening, then: \"No. Not on the phone. Tonight.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_hall",
+  "spk": "V",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 37,
+  "dur": 5,
+  "refs": [
+   "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+   "c786f50d-8526-4f86-8a1b-3cefca0e6af5"
+  ],
+  "frame": "Medium shot of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a navy-and-white maid uniform, stopped at the corner of a hospital hallway, holding a man's leather bag, eyes wide in shock. Modern hospital, cool fluorescent light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The young maid freezes at the corner, clutching the bag, shocked by what she just overheard. Realistic natural motion, no dialogue.",
+  "amb": "hospital_hall",
+  "spk": null,
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 38,
+  "dur": 10,
+  "refs": [
+   "078f29c9-818d-471e-825f-91cc30a9d8b1",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Medium shot of the very handsome dark-haired man, 34, with a short neat beard, in a hospital gown, lying in a hospital bed, alone in a dark hospital room at night, staring out a window at the Nashville city lights. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The man stares silently out the window at the city lights, motionless, a single tear on his cheek. Realistic natural motion, no dialogue.",
+  "amb": "hospital_night",
+  "spk": null,
+  "card": "THAT NIGHT",
+  "lt": null,
+  "vo": "E"
+ },
+ {
+  "id": 381,
+  "dur": 8,
+  "refs": [
+   "078f29c9-818d-471e-825f-91cc30a9d8b1",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Close-up of the very handsome dark-haired man, 34, with a short neat beard, in a hospital gown, lying in a hospital bed, in a dim hospital room at night, quiet and bitter. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The man says quietly and bitterly: \"Yesterday I ran three hundred trucks across six states. Today I can't hold a glass of water.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_night",
+  "spk": "E",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 39,
+  "dur": 8,
+  "refs": [
+   "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Medium shot of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a navy-and-white maid uniform, standing in the doorway of a dim hospital room at night, holding a tray with a bowl of soup, warm small smile. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The maid knocks softly, smiles, and says: \"Mrs. Hayes sent soup. Real food. The hospital stuff could kill a healthy man.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_night",
+  "spk": "G",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 40,
+  "dur": 4,
+  "refs": [
+   "078f29c9-818d-471e-825f-91cc30a9d8b1",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Close-up of the very handsome dark-haired man, 34, with a short neat beard, in a hospital gown, lying in a hospital bed, turning away, dim night light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "The man turns his face away and says flatly: \"I'm not hungry.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_night",
+  "spk": "E",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 41,
+  "dur": 5,
+  "refs": [
+   "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Close-up of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a navy-and-white maid uniform, sitting on the edge of a hospital bed holding out a spoon of soup, gentle but firm, dim night light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "She holds the spoon out steadily and says: \"I didn't ask if you were hungry.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_night",
+  "spk": "G",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 42,
+  "dur": 6,
+  "refs": [
+   "078f29c9-818d-471e-825f-91cc30a9d8b1",
+   "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Close-up of the very handsome dark-haired man, 34, with a short neat beard, in a hospital gown, lying in a hospital bed, glaring at a spoon held in front of him by a woman's hand, dim night light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "He glares at the spoon. It doesn't move. After a long beat, he gives in and eats the soup. Realistic natural motion, no dialogue.",
+  "amb": "hospital_night",
+  "spk": null,
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 43,
+  "dur": 10,
+  "refs": [
+   "078f29c9-818d-471e-825f-91cc30a9d8b1",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Medium close-up of the very handsome dark-haired man, 34, with a short neat beard, in a hospital gown, lying in a hospital bed, sitting up, scrolling on his phone, daytime, flowers wilting on the table. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "He scrolls through his phone, then says with a bitter laugh: \"You know what's funny? When I had everything, I couldn't get a minute alone. Now nobody picks up.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_day",
+  "spk": "E",
+  "card": "DAYS LATER",
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 44,
+  "dur": 4,
+  "refs": [
+   "152a6fd3-1ac7-4225-9b1e-8e63a654012c",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Close-up of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a simple fitted yellow sundress, sitting in a chair by a hospital bed, daytime, warm smile. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "She says simply, with a small smile: \"I picked up.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_day",
+  "spk": "G",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 45,
+  "dur": 4,
+  "refs": [
+   "078f29c9-818d-471e-825f-91cc30a9d8b1",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Close-up of the very handsome dark-haired man, 34, with a short neat beard, in a hospital gown, lying in a hospital bed, sitting up in bed, daytime, skeptical. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "He says dryly: \"You work for me.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_day",
+  "spk": "E",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 46,
+  "dur": 5,
+  "refs": [
+   "152a6fd3-1ac7-4225-9b1e-8e63a654012c",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Close-up of the beautiful curvy young Black woman with long box braids and a small gold cross necklace, in a simple fitted yellow sundress, sitting by the hospital bed, daytime, playful and warm. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "She shakes her head gently and says: \"Not today, sir. Today's my day off.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+  "amb": "hospital_day",
+  "spk": "G",
+  "card": null,
+  "lt": null,
+  "vo": null
+ },
+ {
+  "id": 47,
+  "dur": 6,
+  "refs": [
+   "078f29c9-818d-471e-825f-91cc30a9d8b1",
+   "46491f74-5a09-4954-b489-353d86673049"
+  ],
+  "frame": "Close-up of the very handsome dark-haired man, 34, with a short neat beard, in a hospital gown, lying in a hospital bed, sitting up in bed, looking at someone with new eyes, daytime, soft window light. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+  "video": "He looks at her, really looks, for the first time. A small, surprised softness crosses his face. Slow push-in. Realistic natural motion, no dialogue.",
+  "amb": "hospital_day_soft",
+  "spk": null,
+  "card": null,
+  "lt": null,
+  "vo": null
+ }
+]
