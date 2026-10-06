@@ -104,7 +104,13 @@ Voices: Grace = Naomi, Vanessa = Celine, Ethan = Holden, Mrs. Hayes = Helena, Gu
 | 3 | Vanessa's "Move! Are you blind?" was never spoken | Optional: fine as is |
 | 6 | The guard's "Wait here" was never spoken | Optional: fine as is |
 
-## ✅ Part 1 v2 (fixed cut, Oct 6)
+## ✅ Part 1 v3 (current, Oct 6)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/469f9c2f-6936-4d4d-a881-f65aaab82be8.mp4 (media `469f9c2f-6936-4d4d-a881-f65aaab82be8`)
+- Clip 8 remade. The old frame had a man in a suit in the foreground; the new one shows Grace in her yellow dress. New frame `29324ad2-b9a2-4bb2-99e1-ba472d9156b1`, Kling clip `16ad246f-d5c7-4d8f-9932-264a27d002c6`, Mrs. Hayes voice `dcac1d7c-1313-4350-b6b2-ff5633e4741b`.
+- Sound/picture drift fixed. v2 drifted up to 0.49s by the end because each clip's AAC audio ran slightly long and the joins added up. Each clip is now cut to an exact frame count, with one continuous audio track, and the total drift is under 0.01s.
+- Voice replacement keeps the original timing exactly (measured 0 ms offset). Any remaining mouth mismatch comes from Kling's own lip animation.
+
+## Part 1 v2 (superseded)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/2755379d-e919-4795-ab93-669b797780f7.mp4 (Higgsfield media `2755379d-e919-4795-ab93-669b797780f7`)
 - **Story fixes:**
   - Ethan is introduced before Bradley.
