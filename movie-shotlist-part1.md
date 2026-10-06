@@ -231,6 +231,7 @@ to bright sunshine and birdsong at the gate (S1). The contrast makes viewers lea
 ### Scene 8: The coffee (1:57)
 
 **S19** · 6s · 🔊 · medium · refs `ETHAN` `KITCHEN`
+- ✅ **First frame chosen:** `dec901ac-21ca-4732-8bb2-cd9464075df3` (Ethan pouring coffee behind the island)
 - **FIRST FRAME:** Early morning, the man in shirtsleeves pours black coffee at the marble island.
 - **VIDEO:** He sips, flinches, burned: "Ah! Every single morning."
 

@@ -86,8 +86,8 @@ Use the **Job ID** as an `image_references` / `start_image` value in Higgsfield.
 | S17 — Montage: piano | `ecde14b3-0a1b-40d3-902f-3bdcd325e709` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180737_ecde14b3-0a1b-40d3-902f-3bdcd325e709.png) |
 | S18 — Montage: towels | `32d1acd0-c6ae-49ff-bed7-4b34b333bdb0` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180739_32d1acd0-c6ae-49ff-bed7-4b34b333bdb0.png) |
 | S19 — ❌ OLD (body passes through the island; don't use) | `4a5ab29e-d5b1-4f1f-977e-0e49311b208e` | — |
-| S19 — ✅ FIX option A (pouring coffee behind the island) | `b977949c-4d49-417c-9c36-61bc26da6c9c` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_182322_b977949c-4d49-417c-9c36-61bc26da6c9c.png) |
-| S19 — ✅ FIX option B | `dec901ac-21ca-4732-8bb2-cd9464075df3` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_182322_dec901ac-21ca-4732-8bb2-cd9464075df3.png) |
+| S19 — option A (not chosen) | `b977949c-4d49-417c-9c36-61bc26da6c9c` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_182322_b977949c-4d49-417c-9c36-61bc26da6c9c.png) |
+| **S19 — ✅ CHOSEN (option B): pouring coffee behind the island** | `dec901ac-21ca-4732-8bb2-cd9464075df3` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_182322_dec901ac-21ca-4732-8bb2-cd9464075df3.png) |
 | S20 — The ice cube | `d8d5c6f1-8f55-4dd7-80f8-93361960dc76` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180737_d8d5c6f1-8f55-4dd7-80f8-93361960dc76.png) |
 | S21 — Coffee across the island | `cfbafc75-8383-49d1-a8cb-2da94589a85b` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_181039_cfbafc75-8383-49d1-a8cb-2da94589a85b.png) |
 | S24 — Vanessa arrives | `c2506e6a-9bd4-4116-b5f8-fa2c4d523189` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_181221_c2506e6a-9bd4-4116-b5f8-fa2c4d523189.png) |
