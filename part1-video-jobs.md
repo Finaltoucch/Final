@@ -61,29 +61,29 @@ Voices: Grace = Naomi, Vanessa = Celine, Ethan = Holden, Mrs. Hayes = Helena, Gu
 | 2 | `82dc55d9-597d-4ac0-b9c2-f4d94e5f5292` | — |
 | 3 | `dabdd576-5266-438c-a075-c6507bc6e696` | Vanessa `cb029741-dc4c-4957-9c4d-49d0b70f571f` |
 | 4 | `fb4406ed-3eb8-4bf1-b948-da882c1b873c` | Guard `d9ef0dca-e1f9-4b88-b9d0-89db6f71c347` |
-| 5 (remake) | pending | Guard pending |
+| 5 (remake) | `f4426138-72ec-4a19-83c5-6f92bf83acfd` | Guard `a19fb15a-d724-4f22-a7f1-0e01fe5b3bfb` |
 | 6 | `66768d2c-c8bc-4a91-801a-667a39ebdf70` | Guard `fbfa979b-f627-497a-a09b-a12ddabd97a1` |
 | 7 | `2c34f543-db8f-46cb-9022-7fe45b14e74b` | Mrs. Hayes `10d0d960-76a1-4fdb-884e-958757ce796b` |
 | 8 | — | Mrs. Hayes `b2d149b6-859c-4e12-af90-e4098dc4a350` |
 | 9 | `2b98fb0e-6b63-403e-be6e-88560427be71` | Mrs. Hayes `bb512e49-8e86-4d31-aa4a-f20a4cb5824c` |
-| 10 | `5f890fb8-a004-4297-9302-a5cf8d15f026` | Bradley pending |
-| 12 | — | Ethan pending · Mrs. Hayes pending |
-| 13 | `a3480218-1fe7-4fb5-b76d-109e56f542e3` | Ethan pending · Mrs. Hayes pending |
-| 18 | — | Ethan pending |
-| 20 | `940d91dc-3f7d-4021-9455-e487fcdad768` | Ethan pending |
-| 21 | `13ce45b6-54b9-4506-a46f-41940dff1aeb` | Ethan pending |
+| 10 | `5f890fb8-a004-4297-9302-a5cf8d15f026` | Bradley `a6342d52-fe8f-4255-a4b7-7528e4c91b54` |
+| 12 | — | Ethan `50f4adf9-af2f-45c6-9972-3b4bdbab9df5` · Mrs. Hayes `4f5b3264-b76d-47ca-99c8-09e215d6a28c` |
+| 13 | `a3480218-1fe7-4fb5-b76d-109e56f542e3` | Ethan `412245b1-7e09-4a45-a80a-fc1e57ee4c8b` · Mrs. Hayes `006d4337-38f4-473d-96a0-1c08ce623e81` |
+| 18 | — | Ethan `0a145878-53d8-467a-b6bd-7e3caa199aac` |
+| 20 | `940d91dc-3f7d-4021-9455-e487fcdad768` | Ethan `1ab457d2-b454-488d-b639-37b27dbf7bc3` |
+| 21 | `13ce45b6-54b9-4506-a46f-41940dff1aeb` | Ethan `01cb17a1-385e-41eb-b890-cd291eb73b17` |
 | 23 | `c1e96b4e-e8ff-4519-b4db-b4dc01556417` | Vanessa `6a510973-59db-4277-93b8-238518c55cd2` |
 | 24 | `be1a4dba-b55c-4f6a-9cab-908ebdda246c` | Vanessa `2144ffb2-1baa-43a3-b780-e9b0c253284d` |
 | 25 | — | Vanessa `ba0ff88d-5996-4a91-8304-77fea3246cd1` |
 | 27 | `ee6bf921-3cbd-4a11-9e30-0ab9f1cae091` | Vanessa `08344863-9a3a-4272-b402-858534f0457d` |
 | 28 | — | Vanessa `49e4ae45-8fbc-4ee5-9008-dfdf81526ca4` |
-| 29 | — | Ethan pending · Vanessa pending |
-| 30 | `5064832a-cc62-43d6-992e-e06b9e07a371` | Ethan pending |
+| 29 | — | Ethan `9ee7afa4-08b4-46e4-b6b1-3c4fb665c0fa` · Vanessa `f025d4bd-989b-4743-a702-83a0cb23f3ab` |
+| 30 | `5064832a-cc62-43d6-992e-e06b9e07a371` | Ethan `f8c20de1-2528-4523-bed5-c080526882be` |
 | 31 | `02a959a1-6cbb-428a-a410-d346a73299ee` | — |
-| 32 | `df7f36c5-3a39-4889-9d5a-275485cd96f0` | Mama Ruth pending |
-| 33 | `23d452f3-5748-4962-8fab-b634cb2ae3be` | Mama Ruth pending |
-| 34 | `b0dc5cd7-de55-40c0-b537-9a533c319c59` | Ethan pending |
+| 32 | `df7f36c5-3a39-4889-9d5a-275485cd96f0` | Mama Ruth `3b17fd18-c9ba-46ca-a96b-f4c1a1c9a8e7` |
+| 33 | `23d452f3-5748-4962-8fab-b634cb2ae3be` | Mama Ruth `e3ef1272-ea3c-42d4-9df6-9717d99a2722` |
+| 34 | `b0dc5cd7-de55-40c0-b537-9a533c319c59` | Ethan `9fe46c25-3db4-4adf-861e-6ea372362a8f` |
 | 35 | `1de59136-7fc0-4b6c-8928-ac393c04c852` | — |
-| 36 | — | Ethan pending |
-| 39 | `d1b79d1e-fa60-4430-8763-34ba325d8319` | Vanessa pending |
+| 36 | — | Ethan `b04d3830-7240-48fd-baab-a90587e22793` |
+| 39 | `d1b79d1e-fa60-4430-8763-34ba325d8319` | Vanessa `9d43148b-a6e8-4743-9b08-81ac9fedfe0d` |
 | 40 | — | Vanessa `aafa7209-09ee-4b91-8525-0724e8c95e77` |
