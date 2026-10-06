@@ -87,3 +87,19 @@ Voices: Grace = Naomi, Vanessa = Celine, Ethan = Holden, Mrs. Hayes = Helena, Gu
 | 36 | — | Ethan `b04d3830-7240-48fd-baab-a90587e22793` |
 | 39 | `d1b79d1e-fa60-4430-8763-34ba325d8319` | Vanessa `9d43148b-a6e8-4743-9b08-81ac9fedfe0d` |
 | 40 | — | Vanessa `aafa7209-09ee-4b91-8525-0724e8c95e77` |
+
+## ✅ Part 1 rough cut (assembled Oct 6)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/9ba55c8e-db15-4461-b400-729865d965bf.mp4 (Higgsfield media `9ba55c8e-db15-4461-b400-729865d965bf`)
+- 6 min 24 s · 1920×1080 · 16:9 · 24 fps · H.264 + AAC
+- All 40 clips in order, with the voice-locked lines spliced per speaker (speech recognition finds each line, and each line is taken from its speaker's voice version with a 30 ms crossfade).
+- **No music or ambience yet.** Higgsfield can't generate it. Upload music or sound files to add them.
+- **Teaser not included yet.** It needs Parts 2–6.
+
+### Problems found by the speech check (Kling's own dialogue mistakes)
+| Clip | Problem | Fix |
+|---|---|---|
+| 12 | Kling scrambled the lines ("Good morning, Mr. Caldwell. Good morning, Mrs. Hayes…"), so the whole clip ended up in Mrs. Hayes's voice | Regenerate (8s, ~16 credits + voice) |
+| 34 | Kling garbled the speech ("Nor muscular rehabilitation… at online"), and "Why?" is missing | Regenerate (15s, ~30 credits + voice) |
+| 39 | Vanessa repeats "You'll never work in Nashville again" twice at the end | Free: trim the last ~2s |
+| 3 | Vanessa's "Move! Are you blind?" was never spoken | Optional: fine as is |
+| 6 | The guard's "Wait here" was never spoken | Optional: fine as is |
