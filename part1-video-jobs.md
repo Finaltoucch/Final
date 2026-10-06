@@ -47,3 +47,43 @@ Edit the clips together in this order. The teaser (0:00–0:30) is cut last, fro
 | 40 | S50 "Good girl." | 5s | on | `ed99178c-43f5-4916-be4d-6ecbe211000c` |
 
 **Total:** ~6 min 23 s of video, about 735 credits.
+
+## Fix: clip 5 remade (Oct 6)
+The original clip 5 had Grace and the guard walking **backwards**. Use the remake instead:
+- **Clip 5 (remake, walking forward):** `ca4e6bb6-2283-4ce1-ba4e-2ac64cec4b23`. Old clip `92ced80e…` is ❌ don't use.
+
+## Voice-locked versions (Higgsfield Voice Change)
+For two-speaker clips, use each speaker's lines from the version in their voice (the timing is identical).
+Voices: Grace = Naomi, Vanessa = Celine, Ethan = Holden, Mrs. Hayes = Helena, Guard = Desmond, Bradley = Dylan, Mama Ruth = Opal.
+
+| Clip | Grace (Naomi) | Other voice |
+|---|---|---|
+| 2 | `82dc55d9-597d-4ac0-b9c2-f4d94e5f5292` | — |
+| 3 | `dabdd576-5266-438c-a075-c6507bc6e696` | Vanessa `cb029741-dc4c-4957-9c4d-49d0b70f571f` |
+| 4 | `fb4406ed-3eb8-4bf1-b948-da882c1b873c` | Guard `d9ef0dca-e1f9-4b88-b9d0-89db6f71c347` |
+| 5 (remake) | pending | Guard pending |
+| 6 | `66768d2c-c8bc-4a91-801a-667a39ebdf70` | Guard `fbfa979b-f627-497a-a09b-a12ddabd97a1` |
+| 7 | `2c34f543-db8f-46cb-9022-7fe45b14e74b` | Mrs. Hayes `10d0d960-76a1-4fdb-884e-958757ce796b` |
+| 8 | — | Mrs. Hayes `b2d149b6-859c-4e12-af90-e4098dc4a350` |
+| 9 | `2b98fb0e-6b63-403e-be6e-88560427be71` | Mrs. Hayes `bb512e49-8e86-4d31-aa4a-f20a4cb5824c` |
+| 10 | `5f890fb8-a004-4297-9302-a5cf8d15f026` | Bradley pending |
+| 12 | — | Ethan pending · Mrs. Hayes pending |
+| 13 | `a3480218-1fe7-4fb5-b76d-109e56f542e3` | Ethan pending · Mrs. Hayes pending |
+| 18 | — | Ethan pending |
+| 20 | `940d91dc-3f7d-4021-9455-e487fcdad768` | Ethan pending |
+| 21 | `13ce45b6-54b9-4506-a46f-41940dff1aeb` | Ethan pending |
+| 23 | `c1e96b4e-e8ff-4519-b4db-b4dc01556417` | Vanessa `6a510973-59db-4277-93b8-238518c55cd2` |
+| 24 | `be1a4dba-b55c-4f6a-9cab-908ebdda246c` | Vanessa `2144ffb2-1baa-43a3-b780-e9b0c253284d` |
+| 25 | — | Vanessa `ba0ff88d-5996-4a91-8304-77fea3246cd1` |
+| 27 | `ee6bf921-3cbd-4a11-9e30-0ab9f1cae091` | Vanessa `08344863-9a3a-4272-b402-858534f0457d` |
+| 28 | — | Vanessa `49e4ae45-8fbc-4ee5-9008-dfdf81526ca4` |
+| 29 | — | Ethan pending · Vanessa pending |
+| 30 | `5064832a-cc62-43d6-992e-e06b9e07a371` | Ethan pending |
+| 31 | `02a959a1-6cbb-428a-a410-d346a73299ee` | — |
+| 32 | `df7f36c5-3a39-4889-9d5a-275485cd96f0` | Mama Ruth pending |
+| 33 | `23d452f3-5748-4962-8fab-b634cb2ae3be` | Mama Ruth pending |
+| 34 | `b0dc5cd7-de55-40c0-b537-9a533c319c59` | Ethan pending |
+| 35 | `1de59136-7fc0-4b6c-8928-ac393c04c852` | — |
+| 36 | — | Ethan pending |
+| 39 | `d1b79d1e-fa60-4430-8763-34ba325d8319` | Vanessa pending |
+| 40 | — | Vanessa `aafa7209-09ee-4b91-8525-0724e8c95e77` |
