@@ -1,6 +1,11 @@
 # Part 2 — The Collapse: shot list and jobs
 
-## ✅ Part 2 v1 (Oct 6)
+## ✅ Part 2 v2 (current)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/76bcfb71-3443-41cb-86ea-a18e2233b56f.mp4 (media `76bcfb71-3443-41cb-86ea-a18e2233b56f`)
+- **Shot 46 fixed.** The old frame showed Grace twice. The new frame is `98c15e2c-d37c-47c1-9373-7fde373644b8` (GPT Image 2.5, built from shot 44's frame), the Kling clip is `49c9b61c-cd11-4340-bb2e-3d96e454b44c`, and Grace's voice is `6163086e-d68d-4e5d-9298-4d21df75537f`.
+- I checked every other Part 2 shot on contact sheets and found no other duplicates or errors.
+
+## Part 2 v1 (superseded)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/ff718e91-35db-45a6-a106-a92ef540b0fd.mp4 (media `ff718e91-35db-45a6-a106-a92ef540b0fd`)
 - 5 min 01 s · 1920×1080 · 16:9 · 24 fps. Sound and picture stay in sync across the whole cut (0.013 s difference).
 - **Title cards:** Part 2 · The Collapse, The Engagement Party, 3:00 A.M., The Next Morning, That Night, Days Later.
