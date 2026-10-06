@@ -33,6 +33,10 @@ clear dialogue.` (Silent shots: replace with `Realistic natural motion, no dialo
 
 ## Already made (from the test, Oct 3)
 
+> ⚠️ Grace's look was upgraded on Oct 6 (beautiful + curvy). `GRACE_UNIFORM`, the `BEDROOM` frame and
+> shot S26 below use the OLD Grace and must be **remade** with the new character sheet (~20 credits).
+> `VANESSA` can be kept.
+
 | Asset | Higgsfield job ID |
 |---|---|
 | `GRACE_UNIFORM` (character sheet) | `4f16fd7b-fc6b-4021-8eb8-bf24b157700f` |
@@ -48,12 +52,13 @@ standing. Photorealistic…`)
 
 | ID | Description |
 |---|---|
-| `GRACE_DRESS` | Attach `GRACE_UNIFORM` as reference. "The SAME young woman from the reference, now wearing a simple yellow sundress, holding an old brown leather handbag" |
-| `ETHAN` | handsome white American man, 34, dark brown hair, short neat beard, blue eyes, tall and fit, tailored navy suit, white shirt, no tie |
-| `MRS_HAYES` | Black American woman, 60, silver hair in a neat bun, pearl necklace, elegant black dress, strict but kind face |
+| `GRACE_UNIFORM` | **REMAKE** (new look): strikingly beautiful young Black woman, 25, curvy hourglass figure, glowing deep-brown skin, long elegant box braids, big warm brown eyes, full lips, radiant smile, small gold cross necklace, well-fitted knee-length navy-and-white maid uniform, classy and modest |
+| `GRACE_DRESS` | Attach the new `GRACE_UNIFORM` as reference. "The SAME young woman from the reference, now wearing a fitted yellow sundress, holding an old brown leather handbag" |
+| `ETHAN` | very handsome white American man, 34, movie-star looks, chiseled jaw, dark brown hair, short neat beard, blue eyes, tall and fit, tailored navy suit, white shirt, no tie |
+| `MRS_HAYES` | elegant, graceful Black American woman, 60, silver hair in a neat bun, pearl necklace, elegant black dress, strict but kind face |
 | `GUARD` | Black American man, 40s, bald, muscular, black security suit, earpiece, friendly eyes |
-| `BRADLEY` | white American man, 30, slicked-back dark hair, designer stubble, flashy gold watch, open-collar silk shirt, charming but shifty smile (resembles ETHAN as his brother) |
-| `MAMA_RUTH` | Black American woman, 52, reading glasses, floral blouse, warm tired face |
+| `BRADLEY` | handsome-but-flashy white American man, 30, slicked-back dark hair, designer stubble, flashy gold watch, open-collar silk shirt, charming but shifty smile (resembles ETHAN as his brother) |
+| `MAMA_RUTH` | beautiful Black American woman, 52, reading glasses, floral blouse, warm loving face |
 | `SAM` | Black American boy, 12, short curly hair, Titans jersey, thin, carries a blue inhaler |
 
 **Locations** (prompt pattern: `Empty location plate, no people: [DESCRIPTION]`)

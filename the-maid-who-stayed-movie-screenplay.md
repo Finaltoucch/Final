@@ -31,15 +31,15 @@
 
 | Character | Look (lock this for every image) |
 |---|---|
-| **GRACE MILLER** (25) | Young Black woman, long box braids, warm brown eyes, natural beauty, small gold cross necklace. Day one: yellow sundress + old brown handbag. Work: navy-and-white maid uniform. |
-| **ETHAN CALDWELL** (34) | Handsome white American man, dark brown hair, short beard, blue eyes, tall and fit. Tailored navy suits; later gray T-shirt in a wheelchair. |
-| **VANESSA PIERCE** (31) | Glamorous blonde, red dresses, red lipstick, diamond tennis bracelet, always holding her phone. Ethan's fiancée. |
-| **BRADLEY CALDWELL** (30) | Ethan's younger brother. Slick dark hair, flashy watch, charming smile, nervous eyes. Gambling debts. |
-| **MRS. HAYES** (60) | Head housekeeper. Silver bun, black dress, pearl necklace, strict. Becomes Grace's ally. |
+| **GRACE MILLER** (25) | Strikingly beautiful young Black woman with a curvy hourglass figure, glowing deep-brown skin, long elegant box braids, big warm brown eyes, full lips, radiant smile, small gold cross necklace. Day one: fitted yellow sundress + old brown handbag. Work: well-fitted, knee-length navy-and-white maid uniform (classy, never revealing). |
+| **ETHAN CALDWELL** (34) | Very handsome white American man, movie-star looks, chiseled jaw, dark brown hair, neat short beard, piercing blue eyes, tall and athletic. Tailored navy suits; later gray T-shirt in a wheelchair. |
+| **VANESSA PIERCE** (31) | Stunning, glamorous blonde with a slim model figure, sharp cheekbones, red dresses, red lipstick, diamond tennis bracelet, always holding her phone. Beautiful on the outside, cold on the inside. Ethan's fiancée. |
+| **BRADLEY CALDWELL** (30) | Ethan's younger brother. Handsome in a flashy way, slick dark hair, designer stubble, gold watch, charming smile, nervous eyes. Gambling debts. |
+| **MRS. HAYES** (60) | Head housekeeper. Elegant, graceful Black woman, silver hair in a neat bun, black dress, pearl necklace, strict. Becomes Grace's ally. |
 | **HAROLD JENNINGS** (70) | Family lawyer. Black man, white beard, round gold glasses, gray suit. |
-| **MAMA RUTH** (52) | Grace's mother. Lives with Grace and Sam in a tiny Nashville apartment. Church hat, reading glasses, loving but blunt. |
+| **MAMA RUTH** (52) | Grace's mother. Lives with Grace and Sam in a tiny Nashville apartment. Still beautiful, warm face, church hat, reading glasses, loving but blunt. |
 | **SAM** (12) | Grace's little brother. Asthma, inhaler, Titans jersey. |
-| **DENISE** (38) | Physical therapist. Latina, ponytail, navy scrubs. |
+| **DENISE** (38) | Physical therapist. Pretty Latina woman, dark ponytail, warm smile, navy scrubs. |
 | **DR. PATEL** | Hospital neurologist. |
 | **RICK** | Loan shark Bradley owes $400,000. |
 
