@@ -25,9 +25,9 @@ SYN={'room':"anoisesrc=color=brown:amplitude=0.6:r=48000,lowpass=f=350,volume=0.
      'cricket':"sine=f=4400:r=48000,volume='0.05*gt(sin(2*PI*t*28),0)*lt(mod(t,0.85),0.22)':eval=frame[a];sine=f=4900:r=48000,volume='0.03*gt(sin(2*PI*t*31),0)*lt(mod(t+0.4,1.1),0.18)':eval=frame[b];[a][b]amix=inputs=2:normalize=0,highpass=f=3000",
      'water':"anoisesrc=color=brown:amplitude=0.8:r=48000,lowpass=f=700,highpass=f=80,volume='0.12*(0.45+0.55*abs(sin(2*PI*t/2.3)*sin(2*PI*t/3.7)))':eval=frame",
      'drone':"sine=f=55:r=48000,volume='0.05*(0.6+0.4*sin(2*PI*t/6))':eval=frame[a];sine=f=82.4:r=48000,volume=0.03[b];sine=f=110.5:r=48000,volume=0.012[c];[a][b][c]amix=inputs=3:normalize=0",
-     'crowd':"anoisesrc=color=pink:amplitude=0.5:r=48000,bandpass=f=900:width_type=h:w=1400,volume='0.10*(0.7+0.2*sin(2*PI*t/3.1)+0.1*sin(2*PI*t/1.3))':eval=frame",
+     'crowd':"anoisesrc=color=brown:amplitude=0.5:r=48000,lowpass=f=700,highpass=f=150,volume='0.10*(0.7+0.2*sin(2*PI*t/3.1)+0.1*sin(2*PI*t/1.3))':eval=frame",
      'hvac':"anoisesrc=color=brown:amplitude=0.6:r=48000,lowpass=f=500,highpass=f=60,volume=0.10",
-     'monitor':"sine=f=1000:r=48000,volume='0.05*lt(mod(t,1.0),0.11)':eval=frame",
+     'monitor':"sine=f=880:r=48000,volume='0.02*lt(mod(t,1.0),0.08)':eval=frame,lowpass=f=1500",
      'siren':"aevalsrc='0.05*sin(2*PI*950*t-250*1.3*cos(2*PI*t/1.3))':s=48000,lowpass=f=1800"}
 for k,g in SYN.items():
   run(['ffmpeg','-v','error','-y','-filter_complex',g+',aformat=sample_rates=48000:channel_layouts=stereo','-t','40',f'amb/{k}.wav'])
@@ -35,10 +35,10 @@ AMB={'ext_day':[('birds',0.9),('room',0.3)],'int_day':[('room',1.0),('birds',0.1
      'pantry':[('room',1.0),('drone',0.9)],'night_kitchen':[('fridge',1.0),('cricket',0.25),('room',0.6)],
      'apartment':[('room',1.0),('traffic',1.0),('cricket',0.12)],'pool':[('water',1.0),('cricket',0.6),('drone',0.5)],'laundry':[('dryer',1.0),('drone',0.8)],
      'party':[('crowd',1.0),('cricket',0.3),('room',0.3)],'party_drone':[('crowd',0.5),('drone',0.9),('cricket',0.2)],'party_panic':[('crowd',1.0),('drone',0.6)],
-     'party_siren':[('crowd',0.5),('siren',0.8),('drone',0.4)],'hospital_rush':[('hvac',1.0),('monitor',0.4),('crowd',0.4)],'hospital_night':[('hvac',1.0),('monitor',0.25)],
+     'party_siren':[('crowd',0.5),('siren',0.35),('drone',0.4)],'hospital_rush':[('hvac',1.0),('monitor',0.4),('crowd',0.4)],'hospital_night':[('hvac',1.0),('monitor',0.25)],
      'hospital_day':[('hvac',1.0),('monitor',0.5),('birds',0.08)],'hospital_hall':[('hvac',1.0),('crowd',0.25)],'hospital_day_soft':[('hvac',0.8),('birds',0.2)]}
-TGT={'ext_day':-31,'int_day':-42,'kitchen_day':-39,'pantry':-35,'night_kitchen':-38,'apartment':-37,'pool':-32,'laundry':-34,
-     'party':-30,'party_drone':-32,'party_panic':-30,'party_siren':-30,'hospital_rush':-33,'hospital_night':-40,'hospital_day':-38,'hospital_hall':-37,'hospital_day_soft':-40}
+TGT={'ext_day':-45,'int_day':-56,'kitchen_day':-53,'pantry':-49,'night_kitchen':-52,'apartment':-51,'pool':-46,'laundry':-48,
+     'party':-44,'party_drone':-46,'party_panic':-44,'party_siren':-44,'hospital_rush':-47,'hospital_night':-54,'hospital_day':-52,'hospital_hall':-51,'hospital_day_soft':-54}
 def amb(key,dur):
   out=np.zeros((int(dur*SR),2),np.float32)
   for src,g in AMB[key]:
@@ -118,7 +118,15 @@ for i,c in enumerate(M,1):
       if hits:D=min(D,hits[0][2]+0.5);rep.append(f"   trimmed at {D:.2f}s")
   NF=int(D*24);D=NF/24;n=NF*2000;au=au[:n]
   if len(au)<n:au=np.vstack([au,np.zeros((n-len(au),2),np.float32)])
-  au=au+amb(c['amb'],D)[:n]
+  am=amb(c['amb'],D)[:n]
+  e=np.sqrt(np.convolve((au**2).mean(1),np.ones(2400)/2400,'same'))
+  sp_=(e>max(0.004,0.12*np.percentile(e,99))).astype(np.float32)
+  g=np.ones(n,np.float32);lvl=1.0;hop=480
+  for j in range(0,n,hop):
+    tgt=0.25 if sp_[j:j+hop].any() else 1.0
+    lvl+= (tgt-lvl)*(0.5 if tgt<lvl else 0.08)
+    g[j:j+hop]=lvl
+  au=au+am*g[:,None]
   vf=BASE+''.join(lower_third(*x) for x in c.get('lt',[]))
   o=f'c{i:02d}.mp4'
   run(['ffmpeg','-v','error','-y','-i',f0,'-map','0:v','-frames:v',str(NF),'-vf',vf,'-c:v','libx264','-preset','veryfast','-crf','19','-an',o])
@@ -126,6 +134,6 @@ for i,c in enumerate(M,1):
 open('list.txt','w').write(''.join(f"file '{o}'\n" for o in outs))
 run(['ffmpeg','-v','error','-y','-f','concat','-safe','0','-i','list.txt','-an','-c','copy','vid.mp4'])
 full=np.vstack(wavs);run(['ffmpeg','-v','error','-y','-f','f32le','-ar',str(SR),'-ac','2','-i','-','full.wav'],input=full.tobytes())
-run(['ffmpeg','-v','error','-y','-i','vid.mp4','-i','full.wav','-map','0:v','-map','1:a','-c:v','copy','-c:a','aac','-b:a','192k','-ar','48000','-movflags','+faststart',OUT])
+run(['ffmpeg','-v','error','-y','-i','vid.mp4','-i','full.wav','-map','0:v','-map','1:a','-c:v','copy','-af','loudnorm=I=-14:TP=-1.5:LRA=11','-c:a','aac','-b:a','192k','-ar','48000','-movflags','+faststart',OUT])
 open('report.txt','w').write('\n'.join(rep)+f"\n\nTotal: {dur(OUT):.1f}s\n")
 print('FINISHED',dur(OUT),flush=True)
