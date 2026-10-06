@@ -54,6 +54,7 @@ standing. Photorealistic…`)
 | `GUARD` | Black American man, 40s, bald, muscular, black security suit, earpiece, friendly eyes |
 | `BRADLEY` | white American man, 30, slicked-back dark hair, designer stubble, flashy gold watch, open-collar silk shirt, charming but shifty smile (resembles ETHAN as his brother) |
 | `MAMA_RUTH` | Black American woman, 52, reading glasses, floral blouse, warm tired face |
+| `SAM` | Black American boy, 12, short curly hair, Titans jersey, thin, carries a blue inhaler |
 
 **Locations** (prompt pattern: `Empty location plate, no people: [DESCRIPTION]`)
 
@@ -313,19 +314,22 @@ morning, ma'am." / "Did I ask for your opinion?"
 - **FIRST FRAME:** Close-up of the maid turning from the sink, eyes wet but steady.
 - **VIDEO:** She says: "With respect, sir, I need this job more than I need my pride." She turns back to the sink.
 
-### Scene 14: Mama on the phone (4:19)
+### Scene 14: Mama and the receipt (4:19)
 
-**S38** · 10s · 🔊 · medium · refs `MAMA_RUTH`
-- **FIRST FRAME:** The older woman in reading glasses at a cluttered kitchen table at night, phone to her ear, an inhaler box in her hand; a boy coughing on a couch behind her.
-- **VIDEO:** She says into the phone, worried: "The inhaler went up again, baby. Three hundred and forty dollars."
+**S38** · 10s · 🔊 · medium two-shot · refs `MAMA_RUTH` `GRACE_UNIFORM` `APARTMENT`
+- **FIRST FRAME:** A tiny apartment kitchen at night. The young woman in her maid uniform has just come
+  home and sets down her bag; the older woman in reading glasses sits at the table holding a pharmacy
+  receipt; a boy in a Titans jersey coughs on a worn couch behind them.
+- **VIDEO:** The older woman holds up the receipt and says, worried: "The inhaler went up again, baby. Three
+  hundred and forty dollars."
 
-**S39** · 6s · 🔊 · medium · refs `GRACE_UNIFORM` `APARTMENT`
-- **FIRST FRAME:** The young woman, tired, at her tiny kitchen table at night, phone to her ear, textbook open.
-- **VIDEO:** She says firmly: "I'll send it Friday, Mama. Every penny."
+**S39** · 6s · 🔊 · close-up Grace · ♻️
+- **VIDEO:** The young woman glances at her coughing brother, then says firmly: "I'll have it Friday, Mama.
+  Every penny."
 
 **S40** · 10s · 🔊 · ♻️
-- **VIDEO:** She listens, then smiles a little: "Six months. Then I'm a licensed physical therapist, and nobody
-  tells me to clean a clean table ever again."
+- **VIDEO:** Her mother asks: "And your exam?" She sits, touches the textbook, and smiles a little: "Six months.
+  Then I'm a licensed physical therapist, and nobody tells me to clean a clean table ever again."
 
 ### Scene 15: 1 a.m. (4:45)
 

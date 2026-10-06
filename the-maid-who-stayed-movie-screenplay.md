@@ -37,7 +37,7 @@
 | **BRADLEY CALDWELL** (30) | Ethan's younger brother. Slick dark hair, flashy watch, charming smile, nervous eyes. Gambling debts. |
 | **MRS. HAYES** (60) | Head housekeeper. Silver bun, black dress, pearl necklace, strict. Becomes Grace's ally. |
 | **HAROLD JENNINGS** (70) | Family lawyer. Black man, white beard, round gold glasses, gray suit. |
-| **MAMA RUTH** (52) | Grace's mother. Church hat, reading glasses, loving but blunt. |
+| **MAMA RUTH** (52) | Grace's mother. Lives with Grace and Sam in a tiny Nashville apartment. Church hat, reading glasses, loving but blunt. |
 | **SAM** (12) | Grace's little brother. Asthma, inhaler, Titans jersey. |
 | **DENISE** (38) | Physical therapist. Latina, ponytail, navy scrubs. |
 | **DR. PATEL** | Hospital neurologist. |
@@ -244,11 +244,12 @@ a year.
 *He has no answer for that.*
 
 **14. GRACE'S APARTMENT — NIGHT** (4:15)
-*Tiny kitchen. Grace on the phone with MAMA RUTH. SAM coughs in the background. A physical
-therapy textbook is open on the table.*
+*Tiny kitchen. Grace comes home exhausted, still in her uniform. MAMA RUTH sits at the table with
+a pharmacy receipt. SAM coughs on the couch behind her. A physical therapy textbook is open on the
+table.*
 
-**MAMA RUTH** *(phone)*: The inhaler went up again, baby. Three hundred and forty dollars.
-**GRACE:** I'll send it Friday, Mama. Every penny.
+**MAMA RUTH:** The inhaler went up again, baby. Three hundred and forty dollars.
+**GRACE:** I'll have it Friday, Mama. Every penny.
 **MAMA RUTH:** And your exam?
 **GRACE:** Six months. Then I'm a licensed physical therapist and nobody tells me to clean a clean table
 ever again.
@@ -671,15 +672,41 @@ himself out of the wheelchair to reach it.*
 Nobody will hire you.
 *Click.*
 
-**56. GRACE'S APARTMENT — NIGHT** (24:50)
-*Grace on the bathroom floor, crying. Mama Ruth sits beside her and pulls her head onto her
-shoulder.*
+**56. GRACE'S APARTMENT — 2 A.M.** (24:50) · *the lowest point*
+*Darkness. A horrible wheezing sound. Grace bolts awake. SAM is sitting up in bed, clawing at his
+chest, lips turning gray.*
 
-**GRACE:** They called me a thief, Mama. In front of the whole street.
-**MAMA RUTH:** Baby, you once drove back forty minutes to a Kroger because the cashier gave you five
-dollars too much. Nobody who knows you believes that.
-**GRACE:** He's alone in that room with them. With those pills.
-**MAMA RUTH:** Then we pray. And then we do something.
+**SAM** *(gasping)*: Gracie… can't… breathe…
+**GRACE:** Inhaler! Where's your inhaler?
+*She dumps her handbag onto the bed. Keys, rosary, wallet. No inhaler.*
+*Quick flash (from Sc. 52): Sam's spare inhaler rolling across the mansion's marble floor next to the
+bracelet. Nobody picked it up.*
+**GRACE** *(screaming)*: MAMA! Call 911!
+
+*Grace holds Sam's face in her hands, forcing calm into her voice.*
+
+**GRACE:** Look at me. Look at me, baby. Breathe with me. In… two, three. Out… two, three. You stay
+with me. You hear me? You stay with me.
+
+*It's the same words she said to Ethan on the garden floor.*
+
+**56b. HOSPITAL ER — NIGHT** (25:25)
+*Sam on a bed with an oxygen mask, breathing again, asleep. Grace slumps in a plastic chair, still in
+her pajamas. A BILLING CLERK hands her a clipboard.*
+
+**CLERK:** Emergency visit, nebulizer, overnight observation. Payment or insurance?
+*Grace looks at her banking app: $612.40. She closes her eyes.*
+**GRACE** *(barely a whisper)*: I'll figure it out.
+
+*Footsteps. MRS. HAYES stands in the doorway in a raincoat, holding a small blue inhaler.*
+
+**MRS. HAYES:** You left this on Miss Pierce's floor. I picked it up when nobody was looking. Your
+mother told me where to find you.
+*Grace breaks down. Mrs. Hayes, strict Mrs. Hayes, sits down and holds her.*
+**MRS. HAYES:** Thirty years I've watched that family. I have never seen anybody love that boy upstairs
+the way you do. And I have never seen anybody get paid back so cruelly for it.
+**GRACE** *(crying)*: He's alone with them, Mrs. Hayes. With those pills.
+**MRS. HAYES:** Not for long. Mr. Jennings is coming to see you tomorrow. Get some sleep, child.
 
 **57. GUEST ROOM — NIGHT** (25:30)
 *Ethan alone. Vanessa stands over him with a pill cup.*
@@ -893,6 +920,13 @@ filing a false police report.
 **GRACE:** You knew?
 **ETHAN:** Harold has friends at the licensing board. *(beat)* Kidding. I just refreshed the website
 forty times.
+
+**SAM** *(bursting in, waving a paper)*: Gracie! Gracie! The hospital called. Somebody paid my whole
+bill. AND there's a fund for my inhalers. Until I'm EIGHTEEN!
+*Grace slowly turns to Ethan. He shrugs, looking at the ceiling.*
+**ETHAN:** Mrs. Hayes might have mentioned something.
+**GRACE:** Ethan…
+**ETHAN:** You held my hand on a garden floor, Grace. Let somebody hold yours for once.
 
 **77. MANSION PORCH — NIGHT** (38:05)
 *Candles everywhere, string lights, Johnny Cash playing softly. Ethan, no cane, stands by a table
