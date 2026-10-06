@@ -72,3 +72,20 @@ the **YouTube Audio Library** or **Pixabay**.
 
 **Mixing tip:** voices at 0 dB, ambience around −20 dB, and music around −18 dB under dialogue
 (−10 dB when nobody is talking).
+
+
+## Sound design (current, Oct 6)
+All synthesized ambience has been removed at the user's request. Every part now uses an **original procedural film score** from `tools/score.py`. It uses no samples or licensed audio, so there is no Content ID risk.
+
+| Cue | Used for |
+|---|---|
+| hope | Soft piano arpeggios, for Grace's arrival |
+| elegant | Piano waltz, for the mansion and the party |
+| tender | Piano and strings, for Grace and Ethan moments |
+| suspense | Plucked ostinato with low drone, for the pill swap and the bullying |
+| tension | Heartbeat, low drone and high dissonance, for discoveries |
+| dark | Braams, heartbeat and cluster, for threats and betrayal |
+| panic | Fast strings and drums, for the collapse and the ER |
+| sad | Slow strings, for the hospital and Mama Ruth |
+
+Sound effects are risers, impacts, stingers, braams and a whoosh on every title card. The music ducks by 8 dB under dialogue, and the final mix is normalized to −14 LUFS.

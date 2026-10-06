@@ -75,10 +75,10 @@ def card(text,i,sec=CS):
   run(['ffmpeg','-v','error','-y','-f','lavfi','-i',f'color=c=black:s=1920x1080:r=24:d={sec}','-t',str(sec),
        '-vf',f"drawtext=fontfile='{FONT}':textfile='{tf(text)}':fontsize=64:fontcolor=white:x=(w-tw)/2:y=(h-th)/2:alpha='{a}',format=yuv420p",
        '-c:v','libx264','-preset','veryfast','-crf','19','-an',o]);return o
-rep=[];outs=[];wavs=[];TL=[];pos=0.0
+rep=[];outs=[];wavs=[];TL=[];TPOS=0.0
 for i,c in enumerate(M,1):
   if 'card' in c:
-    outs.append(card(c['card'],i));wavs.append(np.zeros((int(round(CS*SR)),2),np.float32));TL.append(dict(key='c:'+c['card'],start=pos,dur=CS));pos+=CS;print('card',i,flush=True);continue
+    outs.append(card(c['card'],i));wavs.append(np.zeros((int(round(CS*SR)),2),np.float32));TL.append(dict(key='c:'+c['card'],start=TPOS,dur=CS));TPOS+=CS;print('card',i,flush=True);continue
   t=c['t'];ks=list(t);f0=dl(t[ks[0]]);D=vdur(f0)
   if 'vo' in c:
     au=rd(dl(c['vo']));rep.append(f"#{c['n']}: VO")
@@ -121,9 +121,9 @@ for i,c in enumerate(M,1):
   vf=BASE+''.join(lower_third(*x) for x in c.get('lt',[]))
   o=f'c{i:02d}.mp4'
   run(['ffmpeg','-v','error','-y','-i',f0,'-map','0:v','-frames:v',str(NF),'-vf',vf,'-c:v','libx264','-preset','veryfast','-crf','19','-an',o])
-  wavs.append(au);outs.append(o);TL.append(dict(key='n%s'%c['n'],start=pos,dur=D));pos+=D;print('done',i,c['n'],flush=True)
+  wavs.append(au);outs.append(o);TL.append(dict(key='n%s'%c['n'],start=TPOS,dur=D));TPOS+=D;print('done',i,c['n'],flush=True)
 open('list.txt','w').write(''.join(f"file '{o}'\n" for o in outs))
 run(['ffmpeg','-v','error','-y','-f','concat','-safe','0','-i','list.txt','-an','-c','copy','vid.mp4'])
 full=np.vstack(wavs);run(['ffmpeg','-v','error','-y','-f','f32le','-ar',str(SR),'-ac','2','-i','-','dlg.wav'],input=full.tobytes())
 json.dump(TL,open('timeline.json','w'))
-print('FINISHED',pos,flush=True)
+print('FINISHED',TPOS,flush=True)

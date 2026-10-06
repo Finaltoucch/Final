@@ -1,6 +1,10 @@
 # Part 2 — The Collapse: shot list and jobs
 
-## ✅ Part 2 v3 (current)
+## ✅ Part 2 v4 — film score (current)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/9967082e-5dd2-483f-8393-bd8c3e562e91.mp4
+- Original score from `tools/part2_cues.json`. A riser builds into the impact as Ethan's glass shatters, followed by panic strings and drums and sad hospital strings. Measured −14.9 LUFS.
+
+## Part 2 v3 (superseded)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/d3757389-7b6d-4934-86cd-52e9d1fd9a1f.mp4
 - **Ambience remix:** same as Part 1 v4. Measured: −15.7 LUFS integrated. Loud speech sits about 22 dB above the ambience in pauses, and about 34 dB above it under dialogue.
 
