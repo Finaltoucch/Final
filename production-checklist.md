@@ -53,3 +53,10 @@ Apply this checklist to every part.
 - Bradley is the BLOND man from Parts 2–3 (short tousled blond hair, light stubble, gold watch). Reference frames: `e59ccf4f-99ae-4084-b9cc-9bd6a543d608` (Part 3, navy blazer) and `9bf308d3-8577-40d1-a9d9-88a305a544f3` (Part 3, white shirt).
 - Do NOT use the old `BRADLEY` library image (`8f021d31…`, dark slick hair + beard): it looks like Ethan and viewers confuse the two.
 - Over-the-shoulder listeners must be checked as carefully as speakers (hair colour, length, neckline).
+
+## Lessons from Part 6
+- Voice change sometimes drops a soft first word ("And", "Ignore"). Always compare the voice-changed transcript's FIRST word with the script; fix with an `l` splice (first word from raw, rest locked voice).
+- Kling can invent a stray word before a shouted line: trim with the `ss` key rather than re-rolling.
+- Fog/mist prompts can sprout smoke puffs: say "fog hangs still, no smoke, no steam, nothing appears".
+- Asking for "platinum" hair can overshoot to silver/grey (reads as an older woman): say "light buttery blonde, NOT white/grey/silver/orange" and reference the character's own close-up.
+- The 2 s contact sheet can skip clips shorter than 2 s; check those by timeline position.

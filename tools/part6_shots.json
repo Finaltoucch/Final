@@ -1,0 +1,772 @@
+{
+ "shots": [
+  {
+   "id": 1,
+   "dur": 5,
+   "refs": [
+    "AP5",
+    "GD",
+    "HJ4"
+   ],
+   "frame": "Medium wide shot in Grace's small cramped apartment in daylight (worn sofa, small kitchen table, family photos on the wall, peeling paint): the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress has just opened the front door; standing in the doorway is the distinguished 65-year-old Black lawyer with a white beard, short white hair, round wire-rimmed glasses and a charcoal three-piece suit, holding a silver laptop under his arm, solemn. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman opens the door wider, surprised; the old lawyer nods politely and steps inside holding the laptop. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "THE NEXT DAY",
+   "master": "A1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 2,
+   "dur": 6,
+   "refs": [
+    "@A1",
+    "HJ4"
+   ],
+   "frame": "Medium close-up of the distinguished 65-year-old Black lawyer with a white beard, short white hair, round wire-rimmed glasses and a charcoal three-piece suit in Grace's small cramped apartment in daylight (worn sofa, small kitchen table, family photos on the wall, peeling paint), just inside the door, serious and gentle, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a yellow sundress, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The lawyer says gently: \"Miss Miller. I'm sorry it took this long. I had to be sure.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "HJ",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 3,
+   "dur": 4,
+   "refs": [
+    "@A1"
+   ],
+   "frame": "Medium shot in Grace's small cramped apartment in daylight (worn sofa, small kitchen table, family photos on the wall, peeling paint): the distinguished 65-year-old Black lawyer with a white beard, short white hair, round wire-rimmed glasses and a charcoal three-piece suit sets a silver laptop on the small kitchen table and presses a key; the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress leans in beside him, tense. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The lawyer opens the laptop and presses play; the young woman leans in to listen. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 4,
+   "dur": 3,
+   "refs": [
+    "@A1"
+   ],
+   "frame": "Close-up of a silver laptop screen on a kitchen table showing a simple audio player with a moving green waveform and the file name 'storage_room_rec_04.wav'. No people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The audio waveform on the screen moves as the recording plays. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 5,
+   "dur": 10,
+   "refs": [
+    "V56"
+   ],
+   "frame": "Same as the reference image: the blonde woman in the cream silk blouse in the shabby storage room at night, cold smile, facing the camera, the blond man's back blurred in the foreground. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blonde woman says coldly and casually: \"Put the bracelet in her bag, call the cops, cry a little, mention the brother. She's gone by the weekend, and nobody's left to tell the judge he's improving.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "V",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": "hue=s=0.25,eq=contrast=1.05",
+   "reuse": null
+  },
+  {
+   "id": 6,
+   "dur": 8,
+   "refs": [
+    "B55"
+   ],
+   "frame": "Same as the reference image: the blond man in the white shirt by the door of the shabby storage room at night, facing the camera, the blonde woman's back blurred in the foreground. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blond man says quietly, annoyed: \"And the pills. If he'd taken the whole bottle at the party like I planned, we wouldn't need any of this.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "B",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": "hue=s=0.25,eq=contrast=1.05",
+   "reuse": null
+  },
+  {
+   "id": 7,
+   "dur": 3,
+   "refs": [
+    "@A1",
+    "GD"
+   ],
+   "frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress in Grace's small cramped apartment in daylight (worn sofa, small kitchen table, family photos on the wall, peeling paint), both hands over her mouth in horror, eyes wide and wet. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman slowly covers her mouth with both hands, horrified. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 8,
+   "dur": 8,
+   "refs": [
+    "@2"
+   ],
+   "frame": "Medium close-up of the distinguished 65-year-old Black lawyer with a white beard, short white hair, round wire-rimmed glasses and a charcoal three-piece suit in Grace's small cramped apartment in daylight (worn sofa, small kitchen table, family photos on the wall, peeling paint), seated at the kitchen table beside the laptop, grave, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a yellow sundress, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The lawyer says gravely: \"Attempted murder, fraud, a false police report. But here's the problem. They move him to Memphis Thursday morning.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "HJ",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 9,
+   "dur": 10,
+   "refs": [
+    "@8"
+   ],
+   "frame": "Medium close-up of the distinguished 65-year-old Black lawyer with a white beard, short white hair, round wire-rimmed glasses and a charcoal three-piece suit in Grace's small cramped apartment in daylight (worn sofa, small kitchen table, family photos on the wall, peeling paint), seated at the kitchen table, urgent, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a yellow sundress, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The lawyer says urgently: \"Once he's in Ridgeview, they control his doctors, his medicine, and his visitors. I've filed for an emergency order, but the judge can't sign it before six a.m.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "HJ",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 10,
+   "dur": 3,
+   "refs": [
+    "@A1",
+    "GD"
+   ],
+   "frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress in Grace's small cramped apartment in daylight (worn sofa, small kitchen table, family photos on the wall, peeling paint), seated at the kitchen table, jaw set, determined, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the older Black man with short white hair and a charcoal suit, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman says firmly: \"Then we stop that van.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 11,
+   "dur": 4,
+   "refs": [
+    "@8"
+   ],
+   "frame": "Medium close-up of the distinguished 65-year-old Black lawyer with a white beard, short white hair, round wire-rimmed glasses and a charcoal three-piece suit in Grace's small cramped apartment in daylight (worn sofa, small kitchen table, family photos on the wall, peeling paint), seated, a slow proud smile spreading, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a yellow sundress, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The lawyer smiles slowly and says: \"Ethan said you'd say that.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "HJ",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 12,
+   "dur": 5,
+   "refs": [
+    "CAR"
+   ],
+   "frame": "Wide shot on a quiet, wide, tree-lined residential boulevard of big Southern mansions at dawn, thick morning fog, soft blue light: an old silver sedan parked at the curb in the foreground; far down the street in the fog, a plain white medical transport van idles with its headlights on. No people visible. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "Fog drifts; the white van idles far down the street with its lights on; the parked silver car stays still. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "THURSDAY \u00b7 6:30 A.M.",
+   "master": "B1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 13,
+   "dur": 6,
+   "refs": [
+    "CAR",
+    "DN"
+   ],
+   "frame": "Medium close-up of the pretty Latina woman, about 38, with a dark ponytail and a warm face, in navy scrubs inside an old silver sedan at dawn, fog outside the windshield, soft blue light, in the driver's seat, hands on the steering wheel, looking toward the passenger, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a yellow sundress and a denim jacket, in the passenger seat, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The woman at the wheel says warmly: \"When you called, I didn't even ask. I just said, what time.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "DN",
+   "card": null,
+   "master": "B2",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 14,
+   "dur": 5,
+   "refs": [
+    "@B2",
+    "GD"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress with a light denim jacket over it inside an old silver sedan at dawn, fog outside the windshield, soft blue light, in the passenger seat, looking up from her phone, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the Latina woman with a dark ponytail in navy scrubs, in the driver's seat, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman checks her phone and says: \"Judge signed at six fifteen. Harold's ten minutes out.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 15,
+   "dur": 3,
+   "refs": [
+    "@13"
+   ],
+   "frame": "Medium close-up of the pretty Latina woman, about 38, with a dark ponytail and a warm face, in navy scrubs inside an old silver sedan at dawn, fog outside the windshield, soft blue light, eyes on the road ahead, worried, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a yellow sundress and a denim jacket, in the passenger seat, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The woman at the wheel says tensely: \"That van isn't waiting ten minutes.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "DN",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 16,
+   "dur": 6,
+   "refs": [
+    "DW",
+    "ROBE",
+    "V5"
+   ],
+   "frame": "Wide shot on the long brick driveway of the white-columned Southern mansion at dawn, light fog, soft blue morning light: a plain white medical transport van has stopped near the front steps; two male medical transport attendants in light blue uniforms lift a folded stretcher out of the back; at the open front door stands the stunning blonde woman with red lipstick, in a long ivory silk robe tied closed at the waist (modest, covered neckline), holding a white coffee cup. Exactly THREE people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The two attendants pull the stretcher from the van; the blonde woman watches from the doorway sipping her coffee. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "6:41 A.M.",
+   "master": "C1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 17,
+   "dur": 4,
+   "refs": [
+    "@C1",
+    "GD"
+   ],
+   "frame": "Wide shot on the long brick driveway of the white-columned Southern mansion at dawn, light fog, soft blue morning light, from the house looking toward the gate: the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress with a light denim jacket over it running fast up the driveway toward the house, determined. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman runs up the driveway toward the house. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 18,
+   "dur": 6,
+   "refs": [
+    "@C1",
+    "ROBE",
+    "V5"
+   ],
+   "frame": "Medium shot of the stunning blonde woman with red lipstick, in a long ivory silk robe tied closed at the waist (modest, covered neckline), holding a white coffee cup standing at the open front door of the mansion at dawn, furious, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a yellow sundress and a denim jacket, at the foot of the steps, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blonde woman in the robe says angrily: \"Oh, you have GOT to be kidding me. Get off my property or I'm calling the police.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "V",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 19,
+   "dur": 4,
+   "refs": [
+    "@C1",
+    "GD"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress with a light denim jacket over it at the foot of the mansion steps at dawn, chin up, calm and defiant, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the blonde woman in a long ivory silk robe, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman says calmly: \"Please do. I'd love them here for this.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 20,
+   "dur": 4,
+   "refs": [
+    "@18"
+   ],
+   "frame": "Medium shot of the stunning blonde woman with red lipstick, in a long ivory silk robe tied closed at the waist (modest, covered neckline), holding a white coffee cup at the open front door at dawn, turning to the side and pointing into the house, commanding. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blonde woman turns aside and says sharply: \"Ignore her. She's a thief. Go get him.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks.",
+   "spk": "V",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 21,
+   "dur": 4,
+   "refs": [
+    "@C1",
+    "H"
+   ],
+   "frame": "Medium shot of the elegant 60-year-old Black woman Mrs. Hayes with silver hair in a neat bun, a pearl necklace and a long-sleeved black dress stepping into the open front doorway of the mansion and blocking it with her body, arms at her sides, steady, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of one of the male transport attendants in a light blue uniform, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The older woman steps into the doorway and says firmly: \"Nobody goes through this door.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "H",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 22,
+   "dur": 3,
+   "refs": [
+    "@18"
+   ],
+   "frame": "Medium close-up of the stunning blonde woman with red lipstick, in a long ivory silk robe tied closed at the waist (modest, covered neckline), holding a white coffee cup in the front hall at dawn, enraged, shouting, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the elegant older Black woman with silver hair in a bun and a black dress, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blonde woman shouts: \"You're FIRED!\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "V",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 23,
+   "dur": 4,
+   "refs": [
+    "@21"
+   ],
+   "frame": "Medium close-up of the elegant 60-year-old Black woman Mrs. Hayes with silver hair in a neat bun, a pearl necklace and a long-sleeved black dress in the doorway, a small unbothered smile, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the blonde woman in a long ivory silk robe, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The older woman says calmly with a small smile: \"Honey, I quit thirty seconds ago.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "H",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 24,
+   "dur": 8,
+   "refs": [
+    "FO",
+    "GD"
+   ],
+   "frame": "Medium shot of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress with a light denim jacket over it in the grand white marble foyer of the mansion at dawn (crystal chandelier, curved staircase), facing the camera, speaking firmly and clearly. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of a male transport attendant in a light blue uniform, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman says firmly: \"That man is not incompetent. He can talk, he can think, and he does not want to go with you.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "G",
+   "card": null,
+   "master": "D1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 25,
+   "dur": 3,
+   "refs": [
+    "@D1",
+    "ROBE",
+    "V5"
+   ],
+   "frame": "Medium close-up of the stunning blonde woman with red lipstick, in a long ivory silk robe tied closed at the waist (modest, covered neckline), holding a white coffee cup in the grand white marble foyer of the mansion at dawn (crystal chandelier, curved staircase), scornful, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a yellow sundress and a denim jacket, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blonde woman snaps scornfully: \"He can't even stand up!\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "V",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 26,
+   "dur": 3,
+   "refs": [
+    "@24"
+   ],
+   "frame": "Medium shot in the grand white marble foyer of the mansion at dawn (crystal chandelier, curved staircase): the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress with a light denim jacket over it turning her head sharply toward a hallway on the right, startled. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman turns her head sharply toward a sound from the hallway. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 27,
+   "dur": 5,
+   "refs": [
+    "HALL",
+    "E"
+   ],
+   "frame": "Wide shot in a long elegant mansion hallway (cream paneled walls, gilt-framed oil paintings, polished wood floor, arched window at the end): the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt and gray sweatpants STANDING in a doorway, gripping the doorframe with both hands, legs shaking, an empty black wheelchair tipped over on its side behind him. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The man clings to the doorframe, his legs trembling violently, but he stays standing. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": "E1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 28,
+   "dur": 8,
+   "refs": [
+    "@E1",
+    "E"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt and gray sweatpants in a long elegant mansion hallway (cream paneled walls, gilt-framed oil paintings, polished wood floor, arched window at the end), standing, gripping the doorframe, sweating, fierce, facing the camera. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The man says slowly and with fierce effort: \"My name... is Ethan... Caldwell. And I'm... not going... anywhere!\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 29,
+   "dur": 3,
+   "refs": [
+    "@D1"
+   ],
+   "frame": "Slow-motion close-up on the white marble foyer floor: a white coffee cup hitting the floor and shattering, coffee splashing. The hem of a long ivory silk robe and bare feet in the background. No faces. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "Slow motion: the coffee cup hits the marble and shatters, coffee splashing outward. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 30,
+   "dur": 3,
+   "refs": [
+    "@24"
+   ],
+   "frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress with a light denim jacket over it in the grand white marble foyer of the mansion at dawn (crystal chandelier, curved staircase), tears in her eyes, a proud trembling smile. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman's eyes fill with tears as a proud smile breaks through. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 31,
+   "dur": 5,
+   "refs": [
+    "@C1"
+   ],
+   "frame": "Wide shot on the long brick driveway of the white-columned Southern mansion at dawn, light fog, soft blue morning light: a black sedan followed by a police cruiser with lights flashing drive up through the fog toward the house. No people visible. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The black sedan and the police cruiser roll up the driveway through the fog and stop. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 32,
+   "dur": 7,
+   "refs": [
+    "@C1",
+    "HJ4"
+   ],
+   "frame": "Medium close-up of the distinguished 65-year-old Black lawyer with a white beard, short white hair, round wire-rimmed glasses and a charcoal three-piece suit on the long brick driveway of the white-columned Southern mansion at dawn, light fog, soft blue morning light, handing a folded legal document forward, firm, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the police officer in a dark navy uniform and police cap, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The lawyer hands over the papers and says firmly: \"Emergency protective order. Mr. Caldwell goes to a facility of HIS choosing.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "HJ",
+   "card": null,
+   "master": "F1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 33,
+   "dur": 5,
+   "refs": [
+    "@F1"
+   ],
+   "frame": "Medium close-up of the distinguished 65-year-old Black lawyer with a white beard, short white hair, round wire-rimmed glasses and a charcoal three-piece suit on the long brick driveway of the white-columned Southern mansion at dawn, light fog, soft blue morning light, holding up his phone, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the police officer in a dark navy uniform and police cap, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The lawyer says pointedly: \"And Officer, you'll want to hear a recording about a certain bracelet.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "HJ",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 34,
+   "dur": 4,
+   "refs": [
+    "@C1",
+    "RY5"
+   ],
+   "frame": "Medium close-up of the Latino police officer, about 35, with short black hair, in a dark navy police uniform with a silver badge and a navy police cap on the long brick driveway of the white-columned Southern mansion at dawn, light fog, soft blue morning light, holding a phone to his ear, listening, his face slowly changing to shock and shame. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The officer listens to the phone, his expression turning from doubt to shame. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 35,
+   "dur": 4,
+   "refs": [
+    "@34"
+   ],
+   "frame": "Medium shot of the Latino police officer, about 35, with short black hair, in a dark navy police uniform with a silver badge and a navy police cap on the long brick driveway of the white-columned Southern mansion at dawn, light fog, soft blue morning light, taking off his police cap and walking toward the camera. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The officer slowly takes off his cap and walks forward. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 36,
+   "dur": 4,
+   "refs": [
+    "@34",
+    "GD"
+   ],
+   "frame": "Medium close-up of the Latino police officer, about 35, with short black hair, in a dark navy police uniform with a silver badge and a navy police cap on the long brick driveway of the white-columned Southern mansion at dawn, light fog, soft blue morning light, bareheaded, holding his cap against his chest, humble, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a yellow sundress and a denim jacket, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The officer says humbly: \"Ma'am... I owe you an apology.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "RY",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 37,
+   "dur": 3,
+   "refs": [
+    "@19"
+   ],
+   "frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress with a light denim jacket over it on the long brick driveway of the white-columned Southern mansion at dawn, light fog, soft blue morning light, giving a small gracious nod. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman gives a small, gracious nod. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 38,
+   "dur": 5,
+   "refs": [
+    "@C1",
+    "GD",
+    "DN",
+    "E"
+   ],
+   "frame": "Medium shot on the long brick driveway of the white-columned Southern mansion at dawn, light fog, soft blue morning light: the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress with a light denim jacket over it and the pretty Latina woman, about 38, with a dark ponytail and a warm face, in navy scrubs help the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt and gray sweatpants from his wheelchair into the back seat of an old silver sedan, one on each side supporting him. Exactly THREE people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The two women support the man under his arms and help him slide into the back seat of the car. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "MOMENTS LATER",
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 39,
+   "dur": 6,
+   "refs": [
+    "CAR",
+    "GD",
+    "E"
+   ],
+   "frame": "Medium shot in the back seat of an old silver sedan, foggy dawn light through the windows: the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress with a light denim jacket over it sits beside the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt and gray sweatpants; both facing forward, the car moving. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "As the car pulls away, the man slowly reaches over and laces his fingers through hers; she looks at him and squeezes his hand. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": "G1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 40,
+   "dur": 3,
+   "refs": [
+    "@G1"
+   ],
+   "frame": "Extreme close-up on a car seat: a man's light-skinned hand slowly lacing its fingers through a young Black woman's hand. Exactly two hands, natural anatomy, five fingers each. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The fingers slowly interlace and hold tight. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 41,
+   "dur": 5,
+   "refs": [
+    "@C1",
+    "ROBE",
+    "V5",
+    "B3W"
+   ],
+   "frame": "Medium shot of the stunning blonde woman with red lipstick, in a long ivory silk robe tied closed at the waist (modest, covered neckline), holding a white coffee cup frozen in the open front doorway of the mansion at dawn, cold fury, and just behind her the handsome BLOND man, 30, with short tousled blond hair, light stubble and a gold watch, in an open-collar white shirt, pale and frightened. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blonde woman stares out, frozen; the blond man behind her swallows nervously. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  },
+  {
+   "id": 42,
+   "dur": 5,
+   "refs": [
+    "@C1"
+   ],
+   "frame": "Wide shot on the long brick driveway of the white-columned Southern mansion at dawn, light fog, soft blue morning light, from the house: an old silver sedan driving away down the long brick driveway into the fog toward the gate. No people visible. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The silver sedan drives away down the driveway and disappears into the fog. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null
+  }
+ ],
+ "refs": {
+  "GD": "152a6fd3-1ac7-4225-9b1e-8e63a654012c",
+  "G5": "ae581a1c-6746-400c-bd17-7351b0fa46a3",
+  "E": "ada7e801-a781-4694-9800-584fbcf5662a",
+  "HJ": "9d1044f9-8821-4731-86ab-264ff93a4d2e",
+  "HJ4": "bac74591-d9cc-4447-8a59-5588435941b1",
+  "H": "a06cf4f3-5de6-4941-b406-0aed67147f7e",
+  "H5": "971f8a3f-3fcb-4776-b903-ff2cbc58f240",
+  "V5": "ace27837-384e-4fde-96b7-400c71c758f5",
+  "ROBE": "8cf325d1-074a-4949-b292-4932345a1ac3",
+  "B3": "e59ccf4f-99ae-4084-b9cc-9bd6a543d608",
+  "B3W": "9bf308d3-8577-40d1-a9d9-88a305a544f3",
+  "RY": "ac5e0c43-ef4f-4228-920f-0bbcce106433",
+  "RY5": "84e70d95-f0b7-43bd-9376-84ebb5d0fbb7",
+  "DN": "01a5dd9b-85e4-4b2c-8975-88d5fa0e4e2f",
+  "AP": "547cc763-25e8-4f82-9936-3ead4ac5b666",
+  "AP5": "f07b45a2-53cb-4810-9743-520cabb74a46",
+  "CAR": "1327d542-efa3-4256-adbf-f2796a8390e4",
+  "DW": "7dd3b00d-aa14-4991-8b26-cf0b1b2627d8",
+  "FO": "2547b718-1527-4247-b3b2-0d7b23f237df",
+  "HALL": "87e665f3-1bf5-4ed7-988f-e88e42b3818f",
+  "V56": "d55d9b8c-d7b4-4f74-ba19-1bc01f91906d",
+  "B55": "31d83565-b6ab-4f4a-8cfb-e07d750c3289"
+ }
+}
