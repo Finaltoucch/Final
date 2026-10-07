@@ -47,7 +47,6 @@ for i,c in enumerate(M,1):
   elif 'l' not in c:
     au=rd(f0);rep.append(f"#{c['n']}: single {ks[0]}")
   else:
-    global WM
     if WM is None:
       from faster_whisper import WhisperModel;WM=WhisperModel('base.en',device='cpu',compute_type='int8')
     segs,_=WM.transcribe(f0,word_timestamps=True,language='en')
