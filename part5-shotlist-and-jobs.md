@@ -1,6 +1,8 @@
 # Part 5 — FRAMED (5:05)
 
-**Final (v1):** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/684611f7-ccc8-4240-8cd4-f65aededbb14.mp4
+**Final (v2, blond Bradley):** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/c1a89b2d-c0eb-450f-9581-e5f4501a0baa.mp4
+
+(v1 had the old dark-haired Bradley in shots 21, 55, 56: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/684611f7-ccc8-4240-8cd4-f65aededbb14.mp4)
 
 Shot list: `tools/part5_shots.json` (built by `tools/part5_shots.py`). Edit list: `tools/part5_edit_list.json`. Score cues: `tools/part5_cues.json`.
 
