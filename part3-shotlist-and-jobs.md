@@ -64,4 +64,6 @@
 | 58 | - | 4 | c8b73e10-5552-457b-b14f-588129739e10 | 20261007_095912_b58a3f42-83eb-49c6-8c6e-331aceda0683 | — |
 | 59 | - | 6 | 481edb76-5160-4367-8422-5b9cac1b53e3 | 20261007_100104_84763b10-6a3f-4014-a8be-32981762d9ee | — |
 
+Deliverable v1 (6:04): https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/4d2c2e10-a9b5-4355-99e7-f98f39145d96.mp4
+
 Fixes during production: 9 (stranger in foreground, then stray wheelchair), 10 (wrong company on screen), 17/55/59 (failed, re-prompted), 18/19 (room continuity), 23 (second wheelchair), 25 (Kling ad-libbed extra words; table vanished; foreground figure), 26/27 (empty wheelchair while Ethan sits in his), 56 (Bradley shirt color mismatch). Shot 3 uses a crop to hide an empty-looking wheelchair.
