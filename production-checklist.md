@@ -17,6 +17,10 @@ Apply this checklist to every part.
 - **No empty wheelchairs in the background** while Ethan is sitting in his. The models love to add a spare one.
 - **Keep wardrobe identical inside a scene.** Feed the previous shot's frame as a reference (Bradley's shirt changed color in Part 3).
 - **Kling ad-libs extra words when a line is shorter than the clip.** Fill the time in the prompt ("glares in silence for two seconds, then...") and whisper-check every clip.
+- **Check the identity of EVERY person in the frame, not just the subject.** Partly visible people (backs of heads, a sleeper in the background, over-the-shoulder figures) are where the model swaps in strangers: Part 3 shots 32 and 46 had a dark-skinned man in Ethan's place. Zoom in on each one and confirm skin tone, hair and beard.
+- **Background extras must not be twins.** Describe each extra with different age, build, ethnicity and hair (Part 3 shot 1 had identical orderlies).
+- **If a character is in bed or in a chair in one shot, every other shot of that room in the same scene must not show it empty** (Part 3 shots 47, 48 and 50). Use tight close-ups against a wall if needed.
+- **Check eye color and wardrobe against the reference** (Grace came out with blue eyes once).
 - **Check every frame by eye before making the clip.** Use sandbox_exec with image_paths.
 - **After the cut, check the middle and end of every shot** on contact sheets, not just the opening frame.
 

@@ -1,10 +1,10 @@
 # Part 3 — Everyone Leaves: shot list and job IDs
 
-59 shots. Frames: nano_banana_pro 2k. Clips: kling3_0 pro. Voices locked via voice_change except raw shots 11 (board chair), 25, 32. Level-match gains in tools/part3_gains.json.
+59 shots. Frames: nano_banana_pro 2k. Clips: kling3_0 pro. Voices locked via voice_change except raw shots 11 (board chair), 25, 32. Level-match gains in tools/part3_gains.json. Crops (pre) on 3, 15, 50.
 
 | Shot | Spk | Dur | Frame job | Clip (raw) | Voice-locked |
 |---|---|---|---|---|---|
-| 1 | - | 6 | faf774f8-8b9a-43fe-a01b-8633d22b85de | 20261007_095537_3f79e150-2883-4d6f-987d-8acb5c3d1c66 | — |
+| 1 | - | 6 | 3d23f619-ae38-466d-b46d-c40278a9cdc7 | 20261007_114813_97a6008d-d79f-4d49-8beb-29773f8982bf | — |
 | 2 | E | 5 | 2d8cf583-77e5-4dee-abb6-21a6ea71cd76 | 20261007_095537_a2969d6b-63c7-495e-8ec9-d964ed37fb66 | 20261007_101620_6afc366d-bf42-40a0-982c-fb55ec94d254 |
 | 3 | G | 5 | ba5f527f-a083-4051-88ba-2731fef048fc | 20261007_095537_233c5afd-27cf-4c42-9a0e-214dacf87bd5 | 20261007_101620_95d189d3-8c18-4037-ab7e-62b6ff0cafec |
 | 4 | E | 6 | 99d14365-60d5-41e2-b1ff-d84177e9f2b5 | 20261007_095537_8786f26f-1f08-4c00-a43c-527af47a5706 | 20261007_101620_a6b48463-afab-44bd-a192-2c3645aabc36 |
@@ -35,7 +35,7 @@
 | 29 | G | 4 | ae183854-cceb-4455-bd48-40832e9bf156 | 20261007_095614_29a4167e-ff5e-4aab-9783-602ed0ecd46c | 20261007_101827_83f8ab14-1cd4-4333-9968-b4e6b9fb80d2 |
 | 30 | E | 4 | bcec587e-8d0a-4c31-b0dc-78a2edd62de4 | 20261007_095614_79142031-4a5f-44ba-9101-db30abc567e0 | 20261007_101827_36a8772d-1172-476f-b5a7-c567b113600f |
 | 31 | G | 4 | c3c37e35-cece-49c9-9a0f-e79be3281d25 | 20261007_095614_78febbaa-1f6f-499e-8160-9ad9f86589b8 | 20261007_101827_e06e5072-a3f7-469c-a48c-eeccb4763510 |
-| 32 | G | 15 | f7e58b51-02ee-4a7d-9b3e-1feb314b421b | 20261007_095636_4d08ab42-5007-40a2-b2a7-639843e6e58a | — |
+| 32 | G | 15 | 7766821e-467f-43fe-96c7-f6f1fd05720c | 20261007_114456_d6e35ebb-b81c-498d-915a-74c244213571 | — |
 | 33 | - | 5 | 2dc0a391-478d-498d-aba6-857826320b4d | 20261007_095636_97709701-2e29-470c-8082-e034790d62c9 | — |
 | 34 | - | 5 | 630fd60f-c392-4a98-bd44-604f232ec1eb | 20261007_095636_a46889ba-4b11-46aa-a594-f7125c04c0fb | — |
 | 35 | - | 5 | 841524d5-437b-400e-9b1e-e33f77ef90db | 20261007_095636_7595c39e-dc62-4f92-b23f-63bd4c136b25 | — |
@@ -49,11 +49,11 @@
 | 43 | G | 8 | 1eacd426-18d7-4063-a294-dcf28352c700 | 20261007_095834_94c6c9e9-e14d-4d65-bfef-aee42ec2ffcb | 20261007_101843_1b2a3256-41aa-421b-8373-0ef155bdb4bc |
 | 44 | M | 6 | db7b4339-32f2-47b4-bde0-d61ff9189031 | 20261007_095834_121c081c-e9ae-4d1f-8f94-c10f115d6eb5 | 20261007_101844_507dadce-c515-454e-a804-75faeb864a5c |
 | 45 | - | 4 | 9d6a8a91-c5ca-41c2-9dd5-6ed8b8533c5d | 20261007_095834_8bbbad9a-6033-4592-a87b-4c8cf15f65c0 | — |
-| 46 | - | 5 | 914f3308-3036-4162-8805-005390169d4a | 20261007_095913_19f22479-f657-4678-af26-7f76023b342e | — |
-| 47 | G | 6 | 1fbc7b79-4924-4ca8-84af-3c277e92c89b | 20261007_095913_4bec5a41-cf87-42ae-8b89-98787a7ef2fe | 20261007_101931_e20834ac-fe1b-4807-b619-63f0ecfd4a94 |
-| 48 | G | 5 | 43a7efb6-d421-4b8a-a0e7-7f787c437baa | 20261007_095913_61822122-af49-46c3-a5c2-3782efe58dab | 20261007_101930_7bc9de52-bfe0-4904-b01c-9951d8f75ba6 |
+| 46 | - | 5 | b30fb6ea-53f4-4603-8416-3de86dd71177 | 20261007_114642_880aca93-881f-4a23-9d83-01e492f2002c | — |
+| 47 | G | 6 | 9e1d3e10-4daa-4ab0-a5fe-65ab579e721d | 20261007_114543_a60b598a-db89-4e52-9f0d-deccf8f72288 | 20261007_114903_4b665dce-0ebe-46e7-8df1-917b8a16bcd5 |
+| 48 | G | 5 | 613970ef-1bad-4bb0-9dd9-aa3cbe495fa6 | 20261007_114727_8e31cbde-4e7c-482f-8975-cc041054b2af | 20261007_115046_38c1d92b-65db-412d-b29b-05b5f64f258a |
 | 49 | - | 4 | ea1a713c-1c9d-4a95-8d28-e37d25272492 | 20261007_095912_7f5ff20b-10da-4f96-9c4f-b44c0b740fe8 | — |
-| 50 | G | 5 | 2c56bd94-3e1d-4929-b225-3d12a04ca591 | 20261007_095913_32baa2c3-5a55-42c7-be9a-5b8efad5152e | 20261007_101930_ce9e6f79-f40f-47b4-bbf9-7b75f186eeec |
+| 50 | G | 5 | 59a61fed-5dc4-4e25-bf99-7bbe2337ee7f | 20261007_114543_04bccc46-7428-4c55-97d9-c10588b16a9e | 20261007_114900_63c7d8bd-42a4-4cc2-a5e4-4cb450ed96da |
 | 51 | G | 12 | 4eb15db5-b685-44e4-b58c-e038fd5b5fcd | 20261007_095913_9280d183-61de-40ab-8304-c41967b37502 | 20261007_101933_b915a167-026d-4049-bd90-ef6ef81aa3ff |
 | 52 | - | 5 | ee571b7e-207e-443e-85cf-9ae21e9e22b7 | 20261007_095913_8e23230a-fe88-481e-909a-4de9c4277aaa | — |
 | 53 | - | 5 | 988ea1f1-b564-42e2-8a13-42f31af60524 | 20261007_095913_1aff90ef-0f82-493c-b91b-5d5e4507ec2f | — |
@@ -64,6 +64,8 @@
 | 58 | - | 4 | c8b73e10-5552-457b-b14f-588129739e10 | 20261007_095912_b58a3f42-83eb-49c6-8c6e-331aceda0683 | — |
 | 59 | - | 6 | 481edb76-5160-4367-8422-5b9cac1b53e3 | 20261007_100104_84763b10-6a3f-4014-a8be-32981762d9ee | — |
 
-Deliverable v1 (6:04): https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/4d2c2e10-a9b5-4355-99e7-f98f39145d96.mp4
+v1 (superseded): https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/4d2c2e10-a9b5-4355-99e7-f98f39145d96.mp4
 
-Fixes during production: 9 (stranger in foreground, then stray wheelchair), 10 (wrong company on screen), 17/55/59 (failed, re-prompted), 18/19 (room continuity), 23 (second wheelchair), 25 (Kling ad-libbed extra words; table vanished; foreground figure), 26/27 (empty wheelchair while Ethan sits in his), 56 (Bradley shirt color mismatch). Shot 3 uses a crop to hide an empty-looking wheelchair.
+v2 fixes after user review: 32 and 46 (a dark-skinned stranger in place of Ethan), 1 (identical-twin orderlies), 47/48/50 (empty bed while Ethan sleeps in it; blue eyes on Grace in 48), 15 (crop out dark foreground shape).
+
+Fixes during production: 9, 10, 17/55/59, 18/19, 23, 25, 26/27, 56 (see commit history).
