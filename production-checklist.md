@@ -48,3 +48,8 @@ Apply this checklist to every part.
 - In any close-up that shows a person's hand, check that their other arm is visible or clearly out of frame, never an empty sleeve.
 - Run a full contact sheet of the FINAL cut (1 frame / 2 s) and look at every tile before delivering, not just the clips that were changed.
 - Voice change can garble lines spoken through gritted teeth: always transcribe the voice-changed take, not just the raw one.
+
+## Character lock: Bradley
+- Bradley is the BLOND man from Parts 2–3 (short tousled blond hair, light stubble, gold watch). Reference frames: `e59ccf4f-99ae-4084-b9cc-9bd6a543d608` (Part 3, navy blazer) and `9bf308d3-8577-40d1-a9d9-88a305a544f3` (Part 3, white shirt).
+- Do NOT use the old `BRADLEY` library image (`8f021d31…`, dark slick hair + beard): it looks like Ethan and viewers confuse the two.
+- Over-the-shoulder listeners must be checked as carefully as speakers (hair colour, length, neckline).
