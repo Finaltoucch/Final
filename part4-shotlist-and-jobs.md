@@ -68,4 +68,6 @@
 Frame fixes before video: 1 (second wheelchair), 11 (wrong photo of Margaret), 18 (empty bed behind Harold), 19 (Harold face drift, reused 18 frame), 24 (wrong bars), 31 (empty wheelchair + stranger), 42, 43 (kiss → gap, hands), 50 (empty wheelchair), 56 (daylight), 60 (Grace face drift, reused 58 frame).
 Clip fixes: 18 (Harold smiling → line now plays over the wide profile shot), 19 (re-voiced, cut after "tape" before the smile), 43 (new frame: both of Ethan's hands hold Grace's, cut before the lips meet), 13/30 (trimmed), 35 (cropped).
 
-Final (v2, 5:17): https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/b1aef959-8cce-42e6-9889-0a9b96ee4b89.mp4
+Final (v3, 5:19): https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/1d435d21-1f65-44d2-b32b-38e13f41f655.mp4
+
+v3 fixes (from viewer notes): 22/24/28 broom-handle bars read as brooms → plain wooden rails, new frames; 42 only one of Ethan's arms visible → new frame with both arms; Harold re-voiced Barrett → Sterling (18, 19, 21).

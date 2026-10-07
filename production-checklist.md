@@ -42,3 +42,9 @@ Apply this checklist to every part.
 - **Large uploads time out in the foreground.** Run the PUT in the background; a 412 on a retry means the first PUT already succeeded.
 - **The sandbox resets about 10 seconds after a call ends.** Start a background `sleep 1700` lease first, then send `mb.py`, `score.py`, the edit list, the cues and the upload script.
 - **Keep everything in the repo:** `tools/` (scripts, edit lists, cue sheets) and `partN-shotlist-and-jobs.md` (all IDs).
+
+## Lessons from Part 4 viewer notes
+- Props named after household objects (e.g. "broom-handle bars") get drawn as the whole object. Describe the shape only ("plain smooth round wooden rails").
+- In any close-up that shows a person's hand, check that their other arm is visible or clearly out of frame, never an empty sleeve.
+- Run a full contact sheet of the FINAL cut (1 frame / 2 s) and look at every tile before delivering, not just the clips that were changed.
+- Voice change can garble lines spoken through gritted teeth: always transcribe the voice-changed take, not just the raw one.
