@@ -1,0 +1,13 @@
+[{"cue": "dark", "from": "c:PART 5 · FRAMED", "to": "n4", "gain": -3},
+ {"sfx": "stinger", "at": "n5", "off": 0.1, "db": -32},
+ {"cue": "suspense", "from": "c:20 MINUTES LATER", "to": "n9", "gain": -4},
+ {"sfx": "impact", "at": "n10", "off": 0.0, "db": -31},
+ {"cue": "dark", "from": "n10", "to": "n21", "gain": -3},
+ {"cue": "sad", "from": "c:THAT AFTERNOON", "to": "n29", "gain": -1},
+ {"sfx": "stinger", "at": "n31", "off": 0.1, "db": -32},
+ {"cue": "suspense", "from": "c:2 A.M.", "to": "n38", "gain": -4},
+ {"cue": "sad", "from": "c:THE ER", "to": "n42", "gain": -2},
+ {"cue": "tender", "from": "n43", "to": "n49", "gain": -2},
+ {"cue": "dark", "from": "c:THE MANSION · THAT NIGHT", "to": "n57", "gain": -2},
+ {"sfx": "stinger", "at": "n58", "off": 0.3, "db": -31},
+ {"cue": "suspense", "from": "n58", "to": "n58", "gain": -1}]

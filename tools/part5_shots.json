@@ -281,7 +281,7 @@
    "card": null,
    "master": null,
    "lt": null,
-   "raw": false,
+   "raw": true,
    "vo": null,
    "reuse": null
   },
@@ -692,7 +692,7 @@
    "card": null,
    "master": null,
    "lt": null,
-   "raw": false,
+   "raw": true,
    "vo": null,
    "reuse": null
   },
