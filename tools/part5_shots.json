@@ -1,0 +1,1002 @@
+{
+ "shots": [
+  {
+   "id": 1,
+   "dur": 4,
+   "refs": [
+    "MB",
+    "V"
+   ],
+   "frame": "Medium close-up of the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline) in the luxurious master bedroom in soft morning light (arched windows, cream walls, dark wood), standing at a vanity, unclasping a sparkling diamond tennis bracelet from her wrist, a sly look. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The woman unclasps the diamond bracelet from her wrist and closes her hand around it, a sly look in her eyes. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "THE NEXT MORNING",
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 2,
+   "dur": 5,
+   "refs": [
+    "LA",
+    "V"
+   ],
+   "frame": "Wide shot in the dark-paneled laundry room in morning light (white washer and dryer, shelves of folded white towels, a window): the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline) walks toward an old worn brown leather handbag hanging on a hook by the doorway, glancing back over her shoulder. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The woman walks to the old brown handbag on the hook, glances over her shoulder, and quietly slips something into it. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": "A1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 3,
+   "dur": 3,
+   "refs": [
+    "@A1"
+   ],
+   "frame": "Extreme close-up in the same laundry room: a woman's manicured hand with red nails dropping a sparkling diamond tennis bracelet into an open, old, worn brown leather handbag hanging on a hook. No faces. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The manicured hand lets the diamond bracelet slide down into the worn handbag and pulls away. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 4,
+   "dur": 3,
+   "refs": [
+    "@A1",
+    "V"
+   ],
+   "frame": "Close-up of the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline) in the dark-paneled laundry room in morning light (white washer and dryer, shelves of folded white towels, a window), a small cold satisfied smile. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The woman smiles coldly to herself and walks out of frame. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 5,
+   "dur": 5,
+   "refs": [
+    "FO",
+    "V"
+   ],
+   "frame": "Medium shot of the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline) in the grand white marble foyer of the mansion (crystal chandelier, curved staircase, round table with flowers, tall dark wood front doors), standing in the middle of the foyer, shouting up toward the staircase, holding her bare wrist, furious. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The woman shouts furiously: \"My bracelet! My Cartier! Forty-two thousand dollars! Someone in this house STOLE it!\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks.",
+   "spk": "V",
+   "card": null,
+   "master": "B0",
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 6,
+   "dur": 5,
+   "refs": [
+    "FO",
+    "V",
+    "RY",
+    "G"
+   ],
+   "frame": "Wide shot in the grand white marble foyer of the mansion (crystal chandelier, curved staircase, round table with flowers, tall dark wood front doors), morning: the Latino police officer, about 35, with short black hair, in a dark navy police uniform with a silver badge stands in the center taking notes; the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline) on the left dabbing her eyes with a tissue, fake-crying; the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform on the right with an old worn brown leather handbag over her shoulder, worried. Through the open front doors, neighbors watch from the distant gate. Exactly THREE people in the foyer. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The officer writes in his notebook while the blonde woman dabs her eyes and the maid stands anxiously holding her handbag strap. Nobody speaks. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "20 MINUTES LATER",
+   "master": "B1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 7,
+   "dur": 8,
+   "refs": [
+    "@B1",
+    "V"
+   ],
+   "frame": "Medium close-up of the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline) in the grand white marble foyer of the mansion (crystal chandelier, curved staircase, round table with flowers, tall dark wood front doors), tearful, sorrowful, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the police officer in a dark navy uniform with short black hair, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blonde woman says sadly, dabbing her eyes: \"I hate to say it, Officer. Her brother's sick. Medicine is expensive. I think she got desperate.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "V",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 8,
+   "dur": 4,
+   "refs": [
+    "@B1",
+    "RY"
+   ],
+   "frame": "Medium close-up of the Latino police officer, about 35, with short black hair, in a dark navy police uniform with a silver badge in the grand white marble foyer of the mansion (crystal chandelier, curved staircase, round table with flowers, tall dark wood front doors), polite and serious, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a navy-and-white maid uniform, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The officer says politely: \"Ma'am, may I check your bag?\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "RY",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 9,
+   "dur": 4,
+   "refs": [
+    "@B1",
+    "G"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform in the grand white marble foyer of the mansion (crystal chandelier, curved staircase, round table with flowers, tall dark wood front doors), chin up, calm and dignified, facing the camera, the old brown handbag on her shoulder. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the police officer in a dark navy uniform with short black hair, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The maid hands over her bag and says calmly: \"Go ahead. I have nothing to hide.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 10,
+   "dur": 5,
+   "refs": [
+    "@B1"
+   ],
+   "frame": "Slow-motion close-up on the white marble floor of the foyer: an old worn brown leather handbag being turned upside down by a man's hand in a navy uniform sleeve; keys, a wooden rosary, a small blue asthma inhaler and a sparkling diamond tennis bracelet tumble out onto the marble. No faces. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "Slow motion: the bag is upended and the keys, rosary, blue inhaler and the glittering diamond bracelet spill and bounce onto the marble floor. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 11,
+   "dur": 4,
+   "refs": [
+    "@B1"
+   ],
+   "frame": "Low close-up at floor level on white marble: a small blue asthma inhaler rolling slowly away across the polished floor, a sparkling diamond bracelet lying just behind it. No people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blue inhaler rolls slowly across the marble and comes to rest near the baseboard while the bracelet glitters behind it. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 12,
+   "dur": 3,
+   "refs": [
+    "@9"
+   ],
+   "frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform in the grand white marble foyer of the mansion (crystal chandelier, curved staircase, round table with flowers, tall dark wood front doors), staring down at the floor in shock, color draining from her face. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The maid stares down, frozen in shock, her lips parting. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 13,
+   "dur": 6,
+   "refs": [
+    "@9"
+   ],
+   "frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform in the grand white marble foyer of the mansion (crystal chandelier, curved staircase, round table with flowers, tall dark wood front doors), panicked, pleading, facing the camera, eyes wet. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the police officer in a dark navy uniform with short black hair, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The maid pleads desperately: \"No... no, I didn't... Officer, she put that there! I would never...\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 14,
+   "dur": 5,
+   "refs": [
+    "@7"
+   ],
+   "frame": "Medium close-up of the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline) in the grand white marble foyer of the mansion (crystal chandelier, curved staircase, round table with flowers, tall dark wood front doors), cold, wiping her eyes, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the police officer in a dark navy uniform with short black hair, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blonde woman says coldly: \"I won't press charges. I just want her OUT.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "V",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 15,
+   "dur": 6,
+   "refs": [
+    "@B1",
+    "V"
+   ],
+   "frame": "Medium shot of the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline) in the grand white marble foyer of the mansion (crystal chandelier, curved staircase, round table with flowers, tall dark wood front doors), turning toward the open front doors, raising her voice so the neighbors at the far gate can hear, theatrical disgust. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blonde woman turns to the open doors and says loudly: \"Everybody knows she's been throwing herself at my fiance. It's disgusting.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks.",
+   "spk": "V",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 16,
+   "dur": 5,
+   "refs": [
+    "@B1",
+    "E"
+   ],
+   "frame": "Wide shot in the grand white marble foyer of the mansion (crystal chandelier, curved staircase, round table with flowers, tall dark wood front doors): the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, SEATED IN HIS BLACK WHEELCHAIR (he cannot walk) wheeling himself fast out of a side hallway into the foyer, arms straining on the wheels, jaw clenched. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The man pushes the wheels of his wheelchair hard with both arms, rolling fast into the foyer. The man stays seated in his wheelchair the whole time; he never stands. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 17,
+   "dur": 4,
+   "refs": [
+    "@16",
+    "E"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, SEATED IN HIS BLACK WHEELCHAIR (he cannot walk) in the grand white marble foyer of the mansion (crystal chandelier, curved staircase, round table with flowers, tall dark wood front doors), furious, straining to speak, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the stunning blonde woman in a cream silk blouse, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The man in the wheelchair forces the words out slowly, hard and furious: \"She... didn't... do it!\" The man stays seated in his wheelchair the whole time; he never stands. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 18,
+   "dur": 6,
+   "refs": [
+    "@7"
+   ],
+   "frame": "Medium close-up of the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline) in the grand white marble foyer of the mansion (crystal chandelier, curved staircase, round table with flowers, tall dark wood front doors), sweetly pitying, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the police officer in a dark navy uniform with short black hair, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blonde woman says with fake sadness: \"He's confused, Officer. The stroke. He doesn't know what's real anymore.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "V",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 19,
+   "dur": 4,
+   "refs": [
+    "@17"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, SEATED IN HIS BLACK WHEELCHAIR (he cannot walk) in the grand white marble foyer of the mansion (crystal chandelier, curved staircase, round table with flowers, tall dark wood front doors), shouting with all his strength, veins in his neck, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the stunning blonde woman in a cream silk blouse, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The man in the wheelchair shouts with all his strength: \"I know... EXACTLY... what's real!\" The man stays seated in his wheelchair the whole time; he never stands. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 20,
+   "dur": 3,
+   "refs": [
+    "@8"
+   ],
+   "frame": "Medium close-up of the Latino police officer, about 35, with short black hair, in a dark navy police uniform with a silver badge in the grand white marble foyer of the mansion (crystal chandelier, curved staircase, round table with flowers, tall dark wood front doors), raising a calming hand, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the dark-haired man seated in a black wheelchair (the back of his head and the wheelchair push handles), seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The officer raises a hand and says firmly: \"Sir, please calm down.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "RY",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 21,
+   "dur": 5,
+   "refs": [
+    "@B1",
+    "B"
+   ],
+   "frame": "Low-angle medium shot of the handsome man, 30, with slick dark hair, designer stubble and a gold watch, in a black silk shirt leaning on the banister halfway down the curved staircase of the marble foyer, smirking down at the people below. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a navy-and-white maid uniform, looking up, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The man on the stairs smirks and says mockingly: \"Six months, and this is how you repay us. Wow.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "B",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 22,
+   "dur": 6,
+   "refs": [
+    "DW",
+    "GD"
+   ],
+   "frame": "Wide shot on the long brick driveway of the white-columned mansion in pouring rain, gray sky: the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress walking away down the driveway toward the gate, soaked, carrying one small cardboard box; neighbors under umbrellas whisper at the distant gate. Only ONE person in the foreground in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman walks slowly down the driveway in the pouring rain carrying the box, head down. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "THAT AFTERNOON",
+   "master": "C1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 23,
+   "dur": 4,
+   "refs": [
+    "@C1",
+    "H"
+   ],
+   "frame": "Medium shot of the elegant 60-year-old Black woman Mrs. Hayes with silver hair in a neat bun and a pearl necklace, in a long-sleeved black dress, standing in the open front doorway of the mansion, rain falling in front of her, hand over her mouth, helpless. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The older woman watches from the doorway, her hand slowly covering her mouth, eyes full of sorrow. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 24,
+   "dur": 4,
+   "refs": [
+    "@C1",
+    "GD"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress on the long brick driveway of the white-columned mansion in pouring rain, gray sky, soaked, stopping and turning back to look at the house, rain on her face. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman stops in the rain and slowly turns around to look back at the house. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 25,
+   "dur": 5,
+   "refs": [
+    "@C1",
+    "E"
+   ],
+   "frame": "Exterior close-up of a small ground-floor window of the mansion in pouring rain, rain streaming down the glass: behind the glass, the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt kneeling on the floor inside, one hand pressed flat against the window, looking out desperately. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "Rain streams down the window as the man inside keeps his hand pressed flat against the glass, staring out. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 26,
+   "dur": 4,
+   "refs": [
+    "@24"
+   ],
+   "frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress on the long brick driveway of the white-columned mansion in pouring rain, gray sky, tears mixing with rain, pressing her hand to her heart. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman presses her hand to her heart, crying in the rain, then turns and walks away out of frame. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 27,
+   "dur": 4,
+   "refs": [
+    "AP",
+    "GD"
+   ],
+   "frame": "Medium shot of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress in a small cramped apartment in daylight (worn sofa, small kitchen table, family photos on the wall), sitting at the small kitchen table holding a phone to her ear, listening, hopeful but tense. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman listens to the phone, hopeful, then her face slowly falls. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "THE NEXT DAY",
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 28,
+   "dur": 7,
+   "refs": [],
+   "frame": "Medium close-up of a professional middle-aged white woman with a neat brown bob, in a gray blazer, wearing a slim office headset sitting at an office desk with a computer, speaking into her headset, uncomfortable, apologetic. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The woman with the headset says, uncomfortable and apologetic: \"I'm sorry, Miss Miller. Mrs. Pierce has called every agency in Nashville. Nobody will hire you.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks.",
+   "spk": "AG",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 29,
+   "dur": 4,
+   "refs": [
+    "@27"
+   ],
+   "frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a simple fitted yellow sundress in a small cramped apartment in daylight (worn sofa, small kitchen table, family photos on the wall), slowly lowering the phone from her ear, staring at nothing, devastated. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman slowly lowers the phone, staring blankly, her eyes filling with tears. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 30,
+   "dur": 5,
+   "refs": [
+    "AP",
+    "GPJ",
+    "S"
+   ],
+   "frame": "Wide shot in a small cramped apartment bedroom at night, dim streetlight through thin curtains: the 11-year-old Black boy with short curly black hair, in a navy Tennessee Titans jersey sitting up in the double bed clutching his chest, struggling to breathe, mouth open; the beautiful young Black woman with dark brown eyes, a patterned head wrap over her braids, a loose gray T-shirt and red plaid pajama pants bolting upright beside him, terrified. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The boy sits up gasping for air and clutching his chest; the young woman jolts awake and grabs his shoulders. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "2 A.M.",
+   "master": "D1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 31,
+   "dur": 4,
+   "refs": [
+    "@D1",
+    "S"
+   ],
+   "frame": "Close-up of the 11-year-old Black boy with short curly black hair, in a navy Tennessee Titans jersey in a small cramped apartment bedroom at night, dim streetlight through thin curtains, sitting up in bed, gasping for air, lips grayish, terrified, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young woman in a patterned head wrap, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The boy gasps, barely able to speak: \"Gracie... can't... breathe...\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "S",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 32,
+   "dur": 3,
+   "refs": [
+    "@D1",
+    "GPJ"
+   ],
+   "frame": "Close-up of the beautiful young Black woman with dark brown eyes, a patterned head wrap over her braids, a loose gray T-shirt and red plaid pajama pants in a small cramped apartment bedroom at night, dim streetlight through thin curtains, panicking, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the 11-year-old boy with short curly black hair in a navy jersey, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman shouts in panic: \"Inhaler! Where's your inhaler?\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 33,
+   "dur": 4,
+   "refs": [
+    "@D1"
+   ],
+   "frame": "Top-down close-up on a rumpled bed at night: a woman's hands dumping an old brown handbag onto the sheets; keys, a wooden rosary and a wallet fall out. No inhaler. No faces. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The hands shake the bag upside down; keys, rosary and wallet tumble onto the sheet, the hands search frantically through them. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 34,
+   "dur": 3,
+   "refs": [],
+   "frame": " Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": 11
+  },
+  {
+   "id": 35,
+   "dur": 3,
+   "refs": [
+    "@32"
+   ],
+   "frame": "Close-up of the beautiful young Black woman with dark brown eyes, a patterned head wrap over her braids, a loose gray T-shirt and red plaid pajama pants in a small cramped apartment bedroom at night, dim streetlight through thin curtains, screaming toward the bedroom door, desperate. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman screams toward the door: \"MAMA! Call 911!\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 36,
+   "dur": 3,
+   "refs": [
+    "@D1",
+    "M"
+   ],
+   "frame": "Medium shot of the beautiful 52-year-old Black woman with short natural hair and reading glasses, in a floral robe, rushing into the bedroom doorway at night with a phone in her hand, frightened. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The older woman rushes into the doorway, already dialing the phone with shaking hands. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 37,
+   "dur": 8,
+   "refs": [
+    "@D1",
+    "GPJ"
+   ],
+   "frame": "Close-up of the beautiful young Black woman with dark brown eyes, a patterned head wrap over her braids, a loose gray T-shirt and red plaid pajama pants in a small cramped apartment bedroom at night, dim streetlight through thin curtains, holding the boy's face in both hands, forcing calm into her voice, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the 11-year-old boy with short curly black hair, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman says slowly and steadily: \"Look at me. Look at me, baby. Breathe with me. In... two, three. Out... two, three.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 38,
+   "dur": 5,
+   "refs": [
+    "@37"
+   ],
+   "frame": "Close-up of the beautiful young Black woman with dark brown eyes, a patterned head wrap over her braids, a loose gray T-shirt and red plaid pajama pants in a small cramped apartment bedroom at night, dim streetlight through thin curtains, tears on her face but steady, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the 11-year-old boy with short curly black hair, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman says firmly through tears: \"You stay with me. You hear me? You stay with me.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 39,
+   "dur": 5,
+   "refs": [
+    "ER",
+    "S",
+    "GPJ"
+   ],
+   "frame": "Wide shot in a hospital emergency room cubicle at night (curtain, monitors, cool fluorescent light): the 11-year-old Black boy with short curly black hair, in a navy Tennessee Titans jersey asleep on the hospital bed with a clear oxygen mask over his face; the beautiful young Black woman with dark brown eyes, a patterned head wrap over her braids, a loose gray T-shirt and red plaid pajama pants slumped exhausted in a blue plastic chair beside the bed. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The boy sleeps peacefully with the oxygen mask fogging softly; the young woman sits slumped in the chair, exhausted. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "THE ER",
+   "master": "E1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 40,
+   "dur": 6,
+   "refs": [
+    "@E1"
+   ],
+   "frame": "Medium close-up of a tired middle-aged white hospital billing clerk with short gray hair, in a burgundy cardigan with an ID lanyard in a hospital emergency room cubicle at night (curtain, monitors, cool fluorescent light), standing, holding out a clipboard, flat and tired, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young woman in a patterned head wrap, seated, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The clerk says flatly, holding out the clipboard: \"Emergency visit, nebulizer, overnight observation. Payment or insurance?\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "CL",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 41,
+   "dur": 3,
+   "refs": [
+    "@E1"
+   ],
+   "frame": "Close-up of a phone screen in a woman's hand in dim light showing a simple banking app with the balance '$612.40' in large numbers. No faces. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The thumb holds still on the screen showing the balance. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 42,
+   "dur": 4,
+   "refs": [
+    "@E1",
+    "GPJ"
+   ],
+   "frame": "Close-up of the beautiful young Black woman with dark brown eyes, a patterned head wrap over her braids, a loose gray T-shirt and red plaid pajama pants in a hospital emergency room cubicle at night (curtain, monitors, cool fluorescent light), closing her eyes, barely holding together, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the hospital clerk with short gray hair in a burgundy cardigan, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman whispers, barely audible: \"I'll figure it out.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 43,
+   "dur": 4,
+   "refs": [
+    "@E1",
+    "H"
+   ],
+   "frame": "Medium shot of the elegant 60-year-old Black woman Mrs. Hayes with silver hair in a neat bun and a pearl necklace, in a beige raincoat over her black dress, standing in the ER cubicle opening at night, holding a small blue asthma inhaler. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The older woman stands in the opening, holding up the small blue inhaler. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 44,
+   "dur": 9,
+   "refs": [
+    "@43"
+   ],
+   "frame": "Medium close-up of the elegant 60-year-old Black woman Mrs. Hayes with silver hair in a neat bun and a pearl necklace, in a beige raincoat over her black dress, in a hospital emergency room cubicle at night (curtain, monitors, cool fluorescent light), gentle, holding the blue inhaler, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young woman in a patterned head wrap, seated, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The older woman says gently: \"You left this on Miss Pierce's floor. I picked it up when nobody was looking. Your mother told me where to find you.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "H",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 45,
+   "dur": 5,
+   "refs": [
+    "@E1",
+    "H",
+    "GPJ"
+   ],
+   "frame": "Medium shot in a hospital emergency room cubicle at night (curtain, monitors, cool fluorescent light): the elegant 60-year-old Black woman Mrs. Hayes with silver hair in a neat bun and a pearl necklace, in a beige raincoat, sitting beside the beautiful young Black woman with dark brown eyes, a patterned head wrap over her braids, a loose gray T-shirt and red plaid pajama pants and holding her tightly as she breaks down crying on her shoulder. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman breaks down sobbing; the older woman holds her close and strokes her back. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 46,
+   "dur": 8,
+   "refs": [
+    "@44"
+   ],
+   "frame": "Close-up of the elegant 60-year-old Black woman Mrs. Hayes with silver hair in a neat bun and a pearl necklace, in a beige raincoat, in a hospital emergency room cubicle at night (curtain, monitors, cool fluorescent light), seated, eyes glistening, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young woman in a patterned head wrap leaning against her, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The older woman says softly: \"Thirty years I've watched that family. I have never seen anybody love that boy upstairs the way you do.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "H",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 47,
+   "dur": 5,
+   "refs": [
+    "@46"
+   ],
+   "frame": "Close-up of the elegant 60-year-old Black woman Mrs. Hayes with silver hair in a neat bun and a pearl necklace, in a beige raincoat, in a hospital emergency room cubicle at night (curtain, monitors, cool fluorescent light), seated, bitter sorrow, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young woman in a patterned head wrap leaning against her, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The older woman says quietly: \"And I have never seen anybody get paid back so cruelly for it.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "H",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 48,
+   "dur": 5,
+   "refs": [
+    "@E1",
+    "GPJ"
+   ],
+   "frame": "Close-up of the beautiful young Black woman with dark brown eyes, a patterned head wrap over her braids, a loose gray T-shirt and red plaid pajama pants in a hospital emergency room cubicle at night (curtain, monitors, cool fluorescent light), seated, crying, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the elegant older Black woman with silver hair in a bun and a beige raincoat, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The young woman says through tears: \"He's alone with them, Mrs. Hayes. With those pills.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 49,
+   "dur": 7,
+   "refs": [
+    "@46"
+   ],
+   "frame": "Close-up of the elegant 60-year-old Black woman Mrs. Hayes with silver hair in a neat bun and a pearl necklace, in a beige raincoat, in a hospital emergency room cubicle at night (curtain, monitors, cool fluorescent light), seated, firm and reassuring, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young woman in a patterned head wrap, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The older woman says firmly: \"Not for long. Mr. Jennings is coming to see you tomorrow. Get some sleep, child.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "H",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 50,
+   "dur": 5,
+   "refs": [
+    "GRN",
+    "V",
+    "E"
+   ],
+   "frame": "Wide shot in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly): the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline) stands over the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk), holding a small white paper pill cup and a glass of water. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blonde woman holds out the pill cup and the glass of water to the man in the bed. The man stays lying in the bed the whole time; he never gets up. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "THE MANSION \u00b7 THAT NIGHT",
+   "master": "F1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 51,
+   "dur": 3,
+   "refs": [
+    "@F1",
+    "V"
+   ],
+   "frame": "Close-up of the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline) in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), sweet fake smile, holding out a paper pill cup, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the dark-haired man lying in the bed, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blonde woman says sweetly: \"Take your medicine, babe.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "V",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 52,
+   "dur": 5,
+   "refs": [
+    "@F1",
+    "E"
+   ],
+   "frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk) in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), looking at the pills in the paper cup, then up at the woman, expressionless. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The man looks at the pills, then at her, tips them into his mouth and sips water from the glass. The man stays lying in the bed the whole time; he never gets up. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 53,
+   "dur": 9,
+   "refs": [
+    "@52"
+   ],
+   "frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk) in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), alone, turning his head, spitting pills into his palm, then pushing them deep down between the mattress and the bed frame. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The man, alone now, spits the pills into his palm and quietly pushes them deep into the mattress edge. His lips do not move afterwards. The man stays lying in the bed the whole time; he never gets up. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": 153,
+   "reuse": null
+  },
+  {
+   "id": 153,
+   "dur": 9,
+   "refs": [
+    "@52"
+   ],
+   "frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk) in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), alone, eyes on the door, quiet. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The man lying in bed says softly to himself: \"Grace taught me that. Hold the pills under the tongue. Count to ten.\" The man stays lying in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 54,
+   "dur": 4,
+   "refs": [
+    "@F1",
+    "E"
+   ],
+   "frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk) in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), eyes closed, pretending to sleep. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The man lies still with his eyes closed, breathing slowly, pretending to sleep. The man stays lying in the bed the whole time; he never gets up. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 55,
+   "dur": 9,
+   "refs": [
+    "GRN",
+    "B"
+   ],
+   "frame": "Medium close-up of the handsome man, 30, with slick dark hair, designer stubble and a gold watch, in a black silk shirt in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), standing by the door, speaking low, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the stunning blonde woman with long hair in a cream silk blouse, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The man by the door says quietly: \"The transfer to Ridgeview is set for Thursday, seven a.m. The hearing's Friday. By Monday, Atlas wires the money.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "B",
+   "card": null,
+   "master": "G1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 56,
+   "dur": 5,
+   "refs": [
+    "@G1",
+    "V"
+   ],
+   "frame": "Medium close-up of the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline) in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), standing by the door, cold smile, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the man with slick dark hair in a black silk shirt, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The blonde woman says with a cold smile: \"And by Christmas, nobody will remember Ethan Caldwell existed.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent.",
+   "spk": "V",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 57,
+   "dur": 4,
+   "refs": [
+    "@54"
+   ],
+   "frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk) in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), eyes opening slowly in the dark, staring at the ceiling, determined. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "The man slowly opens his eyes in the dark, staring upward, jaw tightening. The man stays lying in the bed the whole time; he never gets up. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  },
+  {
+   "id": 58,
+   "dur": 6,
+   "refs": [
+    "@F1"
+   ],
+   "frame": "Slow push-in in the dark storage room at night between stacked cardboard boxes labeled XMAS DECOR: a small black digital voice recorder hidden in a gap between the boxes, its tiny red recording light glowing. No people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+   "video": "Slow push-in toward the hidden recorder as its tiny red light keeps glowing in the dark. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "reuse": null
+  }
+ ],
+ "refs": {
+  "G": "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+  "GD": "152a6fd3-1ac7-4225-9b1e-8e63a654012c",
+  "GPJ": "d78e965c-93b4-41ce-837b-915e658e64a0",
+  "E": "ada7e801-a781-4694-9800-584fbcf5662a",
+  "H": "a06cf4f3-5de6-4941-b406-0aed67147f7e",
+  "V": "60595ef4-874c-426e-a1b5-a9e854f9aad7",
+  "B": "8f021d31-5f5f-4c9d-8d87-a2a0cc59dd47",
+  "RY": "ac5e0c43-ef4f-4228-920f-0bbcce106433",
+  "M": "78b978ae-a3e3-4aee-957b-33ccf88aa5d7",
+  "S": "7f4a3e65-b525-43d5-890c-880817be583d",
+  "MB": "b5f8e290-9436-4d25-b111-2c86f55f10f7",
+  "LA": "ffad441f-6279-4b09-89a8-bb04da3b4b65",
+  "FO": "8527312d-488b-4051-af76-08efe3ac7655",
+  "DW": "7dd3b00d-aa14-4991-8b26-cf0b1b2627d8",
+  "AP": "547cc763-25e8-4f82-9936-3ead4ac5b666",
+  "ER": "f326efcf-a4fe-405e-b423-abab98df56af",
+  "GRN": "b30fb6ea-53f4-4603-8416-3de86dd71177"
+ }
+}

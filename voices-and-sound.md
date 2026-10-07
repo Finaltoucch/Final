@@ -16,7 +16,7 @@ To change a voice later, rerun Voice Change on that character's clips (about 1 c
 | **Security Guard** | Desmond | `563f728c-e249-5a85-97ab-8461e8c09da6` |
 | **Dr. Patel** | Elena (female, matches the doctor on screen) | `ca83ca7f-c186-493d-bd69-0d765fa861b2` |
 | Nurse (Part 2) | Kling's own voice (one line) | — |
-| Harold (Part 4+) | Sterling (was Barrett; changed: sounded odd) | `dc382508-c8bd-443c-8cb2-46e57b8d2e6f` |
+| Harold (Part 4+) | "Harold natural": cloned from his own on-camera Kling delivery (natural, not a narrator preset) | `277d8e8e-25ba-49e3-ab3e-3a758731bb94` (voice_type element) |
 | Sam (Part 5+) | ElevenLabs line + lip-sync, or keep Kling's child voice | — |
 
 ## How the voice lock works
