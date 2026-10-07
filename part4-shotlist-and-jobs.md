@@ -66,4 +66,6 @@
 | 60 | G | 6 | 24efbc98-a648-4a51-bed4-914261d64ffc | 20261007_122703_e0a30b1e-ed4d-4780-b355-acd5422f42de | 20261007_155731_00988861-8b61-4c1b-959d-2bdd4c2c2dae |
 
 Frame fixes before video: 1 (second wheelchair), 11 (wrong photo of Margaret), 18 (empty bed behind Harold), 19 (Harold face drift, reused 18 frame), 24 (wrong bars), 31 (empty wheelchair + stranger), 42, 43 (kiss → gap, hands), 50 (empty wheelchair), 56 (daylight), 60 (Grace face drift, reused 58 frame).
-Clip fixes: 18 (Harold smiling), 43 (kissing / one hand visible).
+Clip fixes: 18 (Harold smiling → line now plays over the wide profile shot), 19 (re-voiced, cut after "tape" before the smile), 43 (new frame: both of Ethan's hands hold Grace's, cut before the lips meet), 13/30 (trimmed), 35 (cropped).
+
+Final (v2, 5:17): https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/b1aef959-8cce-42e6-9889-0a9b96ee4b89.mp4
