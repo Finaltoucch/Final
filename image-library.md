@@ -32,7 +32,8 @@ Use the **Job ID** as an `image_references` / `start_image` value in Higgsfield.
 | DR_PATEL | `69a576f5-9de0-41f7-b572-300ea317db07` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180444_69a576f5-9de0-41f7-b572-300ea317db07.png) |
 | GUARD | `0f150821-525c-43fe-bc8d-ee35831260da` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180443_0f150821-525c-43fe-bc8d-ee35831260da.png) |
 | OFFICER_REYES | `ac5e0c43-ef4f-4228-920f-0bbcce106433` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180443_ac5e0c43-ef4f-4228-920f-0bbcce106433.png) |
-| DETECTIVE (RETIRED: labelled with a TV character name and resembled a real actress; replacement pending) | `9d45d4c2-db8e-4023-928d-cc12db562e1e` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180443_9d45d4c2-db8e-4023-928d-cc12db562e1e.png) |
+| DETECTIVE (v2, original face) | `9d7a04cc-bbfd-49a6-ad6e-59077f966591` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261007_220050_9d7a04cc-bbfd-49a6-ad6e-59077f966591.png) |
+| ~~DETECTIVE v1~~ RETIRED: TV-character name label + real-actress resemblance. Never use `9d45d4c2…`. | | |
 | BOARD_CHAIR | `7cee2784-1c67-4ee8-9d7b-fdb71398ad79` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180443_7cee2784-1c67-4ee8-9d7b-fdb71398ad79.png) |
 
 ## Locations (25)
