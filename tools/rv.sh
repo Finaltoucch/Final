@@ -1,0 +1,4 @@
+# Review sheet for still frames: rv.sh out.jpg id=stem ... (1-4 images)
+o=$1; shift; fs=""
+for a in "$@"; do n=${a%%=*}; u=${a#*=}; curl -sf https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_$u.png -o $n.png; ffmpeg -v error -y -i $n.png -vf "scale=800:450,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='$n':x=6:y=6:fontsize=28:fontcolor=yellow:box=1:boxcolor=black" $n.jpg; fs="$fs -i $n.jpg"; done
+n=$#; if [ $n -eq 4 ]; then ffmpeg -v error -y $fs -filter_complex "[0][1]hstack[t];[2][3]hstack[u];[t][u]vstack" -q:v 4 $o; elif [ $n -eq 2 ]; then ffmpeg -v error -y $fs -filter_complex "[0][1]hstack" -q:v 4 $o; elif [ $n -eq 3 ]; then ffmpeg -v error -y $fs -filter_complex "[0][1][2]hstack=inputs=3" -q:v 4 $o; else cp $(echo $fs|awk '{print $2}') $o; fi
