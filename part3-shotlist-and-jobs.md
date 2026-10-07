@@ -64,6 +64,8 @@
 | 58 | - | 4 | c8b73e10-5552-457b-b14f-588129739e10 | 20261007_095912_b58a3f42-83eb-49c6-8c6e-331aceda0683 | — |
 | 59 | - | 6 | 481edb76-5160-4367-8422-5b9cac1b53e3 | 20261007_100104_84763b10-6a3f-4014-a8be-32981762d9ee | — |
 
+v2 (current): https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/8d39476e-a1ee-4be4-b2bd-4a49cdd81950.mp4
+
 v1 (superseded): https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/4d2c2e10-a9b5-4355-99e7-f98f39145d96.mp4
 
 v2 fixes after user review: 32 and 46 (a dark-skinned stranger in place of Ethan), 1 (identical-twin orderlies), 47/48/50 (empty bed while Ethan sleeps in it; blue eyes on Grace in 48), 15 (crop out dark foreground shape).
