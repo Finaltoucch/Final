@@ -1,3 +1,5 @@
+**v5 — Harold replaced with an original face (shots 16-21):** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/3ac9a744-ddc7-4965-ba9a-253a29d7773b.mp4 (earlier versions withdrawn: Harold resembled a real actor)
+
 # Part 4 — Falling: shot list and job IDs
 
 60 shots (155 = voice-over source for 54). Masters first, close-ups referenced to masters. Raw voice: 27, 29 (Grace joyful shouts), 36 (laugh), 57/59 (Sam, Kling child voice). Crops on 31, 35, 37; maxdur on 13, 30, 43; trim_after on 18.

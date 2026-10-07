@@ -1,6 +1,8 @@
 # Part 6 — The Rescue
 
-**v1 (3:38):** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/20369946-df87-4904-8798-46b3fe1d8ff2.mp4
+**v2 (3:37) — Harold replaced with an original face:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/8a922980-9067-45e6-8728-39299d1a4a6f.mp4
+
+~~v1 (3:38)~~ withdrawn (Harold resembled a real actor): https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/20369946-df87-4904-8798-46b3fe1d8ff2.mp4
 
 Build: `python3 mb.py part6_edit_list.json && python3 score.py timeline.json part6_cues.json dlg.wav vid.mp4 out.mp4`
 Shot definitions: `tools/part6_shots.json` (generator `tools/part6_shots.py`).
@@ -89,3 +91,18 @@ Shot definitions: `tools/part6_shots.json` (generator `tools/part6_shots.py`).
 33 hf_20261007_214715_d3efb701-05de-4fe5-a967-2d4665f69896
 19 hf_20261007_214949_36f14695-654e-41d1-a387-81ff81430f35
 ```
+p4 16 98673a2e-2745-4953-851e-3b2c76c3d52a
+p4 17 8927c901-f36f-46be-9899-5b80c05949e1
+p4 18 a2c014ab-7a18-48fe-8f34-b2b995617036
+p4 19 e2253d79-bc53-479a-af42-a153b64de1fd
+p4 20 1b1b8eb4-1cb2-4972-b7f8-4adc1da9d839
+p4 21 6bae1947-e3f7-4455-8818-ddd44fa0b0b1
+p6 2 a81efab6-bc5d-4044-84a5-4b3ceec750d4
+p6 3 9d105c99-bc13-4d06-95f4-827fcdf21aa9
+p6 8 2e3c1520-cd54-464f-80d9-82e8ad37e672
+p6 9 d0639a44-5d8b-4afa-867c-1b723d6249d3
+p6 10 d2bc5e4d-9d6b-43f6-8bd4-a797a24a067e
+p6 11 6f168606-f01f-4738-81af-03f6ceb22abc
+p6 32 ddcd7294-5284-4623-90d2-34cad85f8707
+p6 33 6bb92c80-8f76-4876-8226-af49e1556137
+img p6_1 49571e9c-87ac-46bd-b15e-668110fb1b7a
