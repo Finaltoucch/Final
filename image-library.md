@@ -24,14 +24,15 @@ Use the **Job ID** as an `image_references` / `start_image` value in Higgsfield.
 | VANESSA_ROBE — silk robe | `8cf325d1-074a-4949-b292-4932345a1ac3` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180608_8cf325d1-074a-4949-b292-4932345a1ac3.png) |
 | BRADLEY | `8f021d31-5f5f-4c9d-8d87-a2a0cc59dd47` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180606_8f021d31-5f5f-4c9d-8d87-a2a0cc59dd47.png) |
 | MRS_HAYES | `a06cf4f3-5de6-4941-b406-0aed67147f7e` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180433_a06cf4f3-5de6-4941-b406-0aed67147f7e.png) |
-| HAROLD | `9d1044f9-8821-4731-86ab-264ff93a4d2e` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180443_9d1044f9-8821-4731-86ab-264ff93a4d2e.png) |
+| HAROLD (v2, original face: heavy-set, grey mustache, tortoiseshell glasses, navy pinstripe + burgundy bow tie) | `7d7b513f-a9ea-4ddc-8cf8-4c7ae77cc5bf` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261007_215725_7d7b513f-a9ea-4ddc-8cf8-4c7ae77cc5bf.png) |
+| ~~HAROLD v1~~ RETIRED: resembled a real actor. Never use `9d1044f9…`. | | |
 | MAMA_RUTH | `78b978ae-a3e3-4aee-957b-33ccf88aa5d7` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180440_78b978ae-a3e3-4aee-957b-33ccf88aa5d7.png) |
 | SAM | `7f4a3e65-b525-43d5-890c-880817be583d` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180443_7f4a3e65-b525-43d5-890c-880817be583d.png) |
 | DENISE | `01a5dd9b-85e4-4b2c-8975-88d5fa0e4e2f` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180444_01a5dd9b-85e4-4b2c-8975-88d5fa0e4e2f.png) |
 | DR_PATEL | `69a576f5-9de0-41f7-b572-300ea317db07` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180444_69a576f5-9de0-41f7-b572-300ea317db07.png) |
 | GUARD | `0f150821-525c-43fe-bc8d-ee35831260da` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180443_0f150821-525c-43fe-bc8d-ee35831260da.png) |
 | OFFICER_REYES | `ac5e0c43-ef4f-4228-920f-0bbcce106433` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180443_ac5e0c43-ef4f-4228-920f-0bbcce106433.png) |
-| DETECTIVE | `9d45d4c2-db8e-4023-928d-cc12db562e1e` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180443_9d45d4c2-db8e-4023-928d-cc12db562e1e.png) |
+| DETECTIVE (RETIRED: labelled with a TV character name and resembled a real actress; replacement pending) | `9d45d4c2-db8e-4023-928d-cc12db562e1e` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180443_9d45d4c2-db8e-4023-928d-cc12db562e1e.png) |
 | BOARD_CHAIR | `7cee2784-1c67-4ee8-9d7b-fdb71398ad79` | [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261006_180443_7cee2784-1c67-4ee8-9d7b-fdb71398ad79.png) |
 
 ## Locations (25)

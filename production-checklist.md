@@ -60,3 +60,8 @@ Apply this checklist to every part.
 - Fog/mist prompts can sprout smoke puffs: say "fog hangs still, no smoke, no steam, nothing appears".
 - Asking for "platinum" hair can overshoot to silver/grey (reads as an older woman): say "light buttery blonde, NOT white/grey/silver/orange" and reference the character's own close-up.
 - The 2 s contact sheet can skip clips shorter than 2 s; check those by timeline position.
+
+## No real-person likenesses (hard rule)
+- Every character must be an ORIGINAL face. Harold v1 looked like Samuel L. Jackson and was replaced everywhere (Part 4 shots 16-21, Part 6 shots 1-3, 8-11, 32-33).
+- Generic "distinguished older man, white beard, round glasses, three-piece suit" prompts drift toward famous actors. Give specific, ordinary, unusual features and add "must not resemble any real actor or celebrity".
+- Before a new character reference is used, look at it specifically for celebrity resemblance and for names of real people / TV characters in any text on the sheet.
