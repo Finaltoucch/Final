@@ -149,7 +149,7 @@ def c_panic(T):
     if j%4==0:place(o,pan(tom(0.4 if j%8==0 else 0.25)),t0)
   return verb(o,0.2)
 CUES=dict(hope=c_hope,tender=c_tender,elegant=c_elegant,sad=c_sad,tension=c_tension,suspense=c_suspense,dark=c_dark,panic=c_panic)
-LVL=dict(hope=-31,tender=-31,elegant=-33,sad=-30,tension=-31,suspense=-31,dark=-30,panic=-29)
+LVL=dict(hope=-41,tender=-41,elegant=-43,sad=-40,tension=-41,suspense=-41,dark=-40,panic=-39)
 def key(k,TL):
   for e in TL:
     if e['key']==k:return e
@@ -168,19 +168,19 @@ for c in CU:
     s=c['sfx']
     if s=='riser':x=riser(c.get('len',4.0),0.6);t0-=len(x)/SR
     else:x={'impact':impact,'stinger':stinger,'whoosh':whoosh,'braam':lambda:braam(0.7)}[s]()
-    x*=10**(c.get('db',{'impact':-16,'stinger':-20,'whoosh':-28,'riser':-22,'braam':-18}[s])/20)/(max(np.sqrt((x[i:i+int(SR*0.5)]**2).mean()) for i in range(0,max(1,len(x)-int(SR*0.5)),int(SR*0.25)))+1e-9)
+    x*=10**(c.get('db',{'impact':-26,'stinger':-30,'whoosh':-38,'riser':-32,'braam':-28}[s])/20)/(max(np.sqrt((x[i:i+int(SR*0.5)]**2).mean()) for i in range(0,max(1,len(x)-int(SR*0.5)),int(SR*0.25)))+1e-9)
     place(sfx,x,max(0,t0))
 for e in TL:
   if e['key'].startswith('c:'):
-    x=whoosh();x*=10**(-32/20)/(np.sqrt((x**2).mean())+1e-9);place(sfx,x,max(0,e['start']-0.3))
+    x=whoosh();x*=10**(-42/20)/(np.sqrt((x**2).mean())+1e-9);place(sfx,x,max(0,e['start']-0.3))
 mus=mus[:N];sfx=sfx[:N]
 dlg=np.frombuffer(sp.run(['ffmpeg','-v','error','-i',sys.argv[3],'-f','f32le','-ac','2','-ar','48000','-'],capture_output=True).stdout,np.float32).reshape(-1,2)[:N]
 if len(dlg)<N:dlg=np.vstack([dlg,np.zeros((N-len(dlg),2),np.float32)])
 e=np.sqrt(np.convolve((dlg**2).mean(1),np.ones(2400)/2400,'same'));spk=e>max(0.004,0.12*np.percentile(e,99))
 g=np.ones(N,np.float32);lvl=1.0;hop=480
 for j in range(0,N,hop):
-  tgt=0.4 if spk[j:j+hop].any() else 1.0;lvl+=(tgt-lvl)*(0.35 if tgt<lvl else 0.05);g[j:j+hop]=lvl
-mix=dlg+mus*g[:,None]+sfx*(0.5+0.5*g[:,None])
+  tgt=0.25 if spk[j:j+hop].any() else 1.0;lvl+=(tgt-lvl)*(0.35 if tgt<lvl else 0.05);g[j:j+hop]=lvl
+mix=dlg+mus*g[:,None]+sfx*g[:,None]
 mix=np.tanh(mix*0.98)/0.98
 sp.run(['ffmpeg','-v','error','-y','-f','f32le','-ar','48000','-ac','2','-i','-','mix.wav'],input=mix.astype(np.float32).tobytes(),check=True)
 if sys.argv[4]!='-':sp.run(['ffmpeg','-v','error','-y','-i',sys.argv[4],'-i','mix.wav','-map','0:v','-map','1:a','-c:v','copy','-af','loudnorm=I=-14:TP=-1.5:LRA=11','-c:a','aac','-b:a','192k','-ar','48000','-movflags','+faststart',sys.argv[5]],check=True)

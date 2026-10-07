@@ -104,7 +104,11 @@ Voices: Grace = Naomi, Vanessa = Celine, Ethan = Holden, Mrs. Hayes = Helena, Gu
 | 3 | Vanessa's "Move! Are you blind?" was never spoken | Optional: fine as is |
 | 6 | The guard's "Wait here" was never spoken | Optional: fine as is |
 
-## ✅ Part 1 v6 (current)
+## ✅ Part 1 v7 (current)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/e997566f-d9de-42e3-a5c2-e9a60368abfd.mp4
+- The score is 10 dB quieter again, and it ducks by 12 dB under dialogue.
+
+## Part 1 v6 (superseded)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/e87488a3-faf7-405e-853a-cac51c3183a6.mp4
 - The score is 4 dB quieter (music and effects) at the user's request.
 

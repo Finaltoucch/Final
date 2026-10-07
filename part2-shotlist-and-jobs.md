@@ -1,6 +1,10 @@
 # Part 2 — The Collapse: shot list and jobs
 
-## ✅ Part 2 v5 (current)
+## ✅ Part 2 v6 (current)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/d8e96d6b-9bce-4a45-9362-7d79e87da97b.mp4
+- Same content as v5, with the score 10 dB quieter. Measured: music in pauses about 15 dB below speech, up from 9 dB.
+
+## Part 2 v5 (superseded)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/484c7f06-5578-4962-9634-db7798aae385.mp4
 - **Stroke build-up:** new shot 81 shows the warning signs (temple, numb hand, forced smile): frame `89b2ee74`, clip `1c9e7105`. A new "TWENTY MINUTES LATER" card follows.
 - **Shot 10 replaced:** the glass close-up is now Ethan visibly losing his balance and falling off the stage onto the grass. Frame `18a7d909`, clip `ded6279f`.

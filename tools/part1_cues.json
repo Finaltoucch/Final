@@ -1,13 +1,1 @@
-[{"cue":"hope","from":"c:NASHVILLE, TENNESSEE","to":"n2"},
- {"sfx":"stinger","at":"n3","off":0.2},{"cue":"tension","from":"n3","to":"n3","gain":-2},
- {"cue":"elegant","from":"n4","to":"n9"},
- {"cue":"tender","from":"n12","to":"n14"},
- {"cue":"elegant","from":"n15","to":"n17"},
- {"cue":"tender","from":"n18","to":"n21"},
- {"cue":"suspense","from":"n10","to":"n11"},{"sfx":"stinger","at":"n11"},
- {"cue":"suspense","from":"n22","to":"n28","gain":-3},
- {"cue":"tender","from":"n29","to":"n31"},
- {"cue":"tender","from":"c:1:00 A.M.","to":"n36","gain":-2},
- {"cue":"sad","from":"c:LATER THAT NIGHT","to":"n33"},
- {"cue":"tension","from":"c:THE NEXT NIGHT","to":"n38"},{"sfx":"riser","at":"n39","len":4},{"sfx":"impact","at":"n39"},
- {"cue":"dark","from":"n39","to":"n40"},{"sfx":"braam","at":"n40","pos":"end","off":-3.5}]
+[{"cue": "hope", "from": "c:NASHVILLE, TENNESSEE", "to": "n2"}, {"sfx": "stinger", "at": "n3", "off": 0.2}, {"cue": "tension", "from": "n3", "to": "n3", "gain": -2}, {"cue": "elegant", "from": "n4", "to": "n9"}, {"cue": "tender", "from": "n12", "to": "n14"}, {"cue": "elegant", "from": "n15", "to": "n17"}, {"cue": "tender", "from": "n18", "to": "n21"}, {"cue": "suspense", "from": "n10", "to": "n11"}, {"sfx": "stinger", "at": "n11"}, {"cue": "suspense", "from": "n22", "to": "n28", "gain": -3}, {"cue": "tender", "from": "n29", "to": "n31"}, {"cue": "tender", "from": "c:1:00 A.M.", "to": "n36", "gain": -2}, {"cue": "sad", "from": "c:LATER THAT NIGHT", "to": "n33"}, {"cue": "tension", "from": "c:THE NEXT NIGHT", "to": "n38"}, {"sfx": "riser", "at": "n39", "len": 4}, {"sfx": "impact", "at": "n39"}, {"cue": "dark", "from": "n39", "to": "n40"}, {"sfx": "braam", "at": "n40", "pos": "end", "off": -3.5}]
