@@ -89,11 +89,13 @@ for i,c in enumerate(M,1):
     if hits:D=min(D,hits[-1].end+0.35);rep.append(f"   trimmed at {D:.2f}s")
   if c.get('gain'):
     pk=float(np.abs(au).max())+1e-9;g=min(c['gain'],-1-20*np.log10(pk));au=au*10**(g/20);rep.append(f"   gain {g:+.1f} dB")
+  ss=c.get('ss',0)
+  if ss:D-=ss;au=au[int(ss*SR):];rep.append(f"   skip first {ss:.2f}s")
   NF=int(D*24);D=NF/24;n=NF*2000;au=au[:n]
   if len(au)<n:au=np.vstack([au,np.zeros((n-len(au),2),np.float32)])
   vf=(c['pre']+',' if c.get('pre') else '')+BASE+''.join(lower_third(*x) for x in c.get('lt',[]))
   o=f'c{i:02d}.mp4'
-  run(['ffmpeg','-v','error','-y','-i',f0,'-map','0:v','-frames:v',str(NF),'-vf',vf,'-c:v','libx264','-preset','veryfast','-crf','19','-an',o])
+  run(['ffmpeg','-v','error','-y']+(['-ss',str(ss)] if ss else [])+['-i',f0,'-map','0:v','-frames:v',str(NF),'-vf',vf,'-c:v','libx264','-preset','veryfast','-crf','19','-an',o])
   wavs.append(au);outs.append(o);TL.append(dict(key='n%s'%c['n'],start=TPOS,dur=D));TPOS+=D;print('done',i,c['n'],flush=True)
 open('list.txt','w').write(''.join(f"file '{o}'\n" for o in outs))
 run(['ffmpeg','-v','error','-y','-f','concat','-safe','0','-i','list.txt','-an','-c','copy','vid.mp4'])
