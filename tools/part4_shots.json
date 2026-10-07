@@ -1,0 +1,955 @@
+{
+"shots": [
+{
+"id": 1,
+"dur": 5,
+"refs": [
+"GRN",
+"G",
+"E"
+],
+"frame": "Wide shot in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly): the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform slips in through the door and closes it behind her, breathing hard, frightened; in the bed nearby lies the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk), awake, eyes open, watching her. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid slips in, quietly closes the door behind her and leans against it, breathing hard. The man in the bed opens his eyes and stays lying down, awake, watching her. The man stays lying in the bed the whole time; he never gets up. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": "THAT SAME NIGHT",
+"master": "A1",
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 2,
+"dur": 4,
+"refs": [
+"@A1",
+"E"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk) in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), awake, eyes open, looking toward the door, calm and knowing. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man lying in bed says slowly and quietly: \"You heard them.\" The man stays lying in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 3,
+"dur": 4,
+"refs": [
+"@A1",
+"G"
+],
+"frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), standing by the door, stunned, eyes wide. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid whispers, stunned: \"You... you can understand everything?\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "G",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 4,
+"dur": 7,
+"refs": [
+"@2"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk) in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), eyes open, intense, speaking slowly. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man lying in bed says slowly and deliberately: \"I can understand everything, Grace. My mouth is slow. My brain isn't.\" The man stays lying in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 5,
+"dur": 9,
+"refs": [
+"@2"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk) in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), bitter, eyes glistening. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man lying in bed says slowly, bitterly: \"I've been lying in this storage closet for six weeks, listening to my brother and my fianc\u00e9e plan my funeral.\" The man stays lying in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 6,
+"dur": 4,
+"refs": [
+"@3"
+],
+"frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), urgent, stepping closer. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid whispers urgently: \"The pills. Ethan, the pills...\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "G",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 7,
+"dur": 6,
+"refs": [
+"@2"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk) in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), steady gaze. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man lying in bed says slowly: \"I know. I saw your face when you read the label.\" The man stays lying in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 8,
+"dur": 9,
+"refs": [
+"@2"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk) in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), serious, determined. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man lying in bed says slowly and firmly: \"Call Harold Jennings. My lawyer. His number's in my desk. Don't trust anyone else.\" The man stays lying in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 9,
+"dur": 5,
+"refs": [
+"ST",
+"G"
+],
+"frame": "Medium shot in the wood-paneled study at night (framed black-and-white truck photographs, stone fireplace, green banker's lamp switched off), lit only by moonlight and a phone flashlight: the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform tiptoes in and crouches at the big wooden desk, opening a drawer, shining her phone flashlight inside, nervous. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid tiptoes to the desk, kneels and slides the drawer open, shining her phone light inside, glancing nervously at the door. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": null,
+"master": "B1",
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 10,
+"dur": 4,
+"refs": [
+"@B1"
+],
+"frame": "Top-down close-up inside an open wooden desk drawer at night lit by a phone flashlight: a cream business card printed 'HAROLD JENNINGS \u2014 ATTORNEY AT LAW' with a phone number, an old pair of worn floral women's gardening gloves, and a small framed vintage photo of a smiling middle-aged white woman with short light-brown hair in a garden. No hands, no people except the woman in the photo. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "Slow push-in on the drawer contents, the flashlight beam moving gently across the card, the gloves and the framed photo. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 11,
+"dur": 4,
+"refs": [
+"@B1",
+"G"
+],
+"frame": "Close-up in the wood-paneled study at night (framed black-and-white truck photographs, stone fireplace, green banker's lamp switched off), lit only by moonlight and a phone flashlight: the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform kneeling at the desk, holding a small framed photo of a smiling woman in her hand, looking at it tenderly by phone light. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid gazes at the old framed photo, touched, then gently lifts the business card from the drawer. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 12,
+"dur": 5,
+"refs": [
+"@B1",
+"H"
+],
+"frame": "Medium close-up of the elegant 60-year-old Black woman Mrs. Hayes with silver hair in a neat bun, a pearl necklace and a long-sleeved black dress standing in the open study doorway at night, a dim hallway light behind her, calm, solemn. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The older woman in the doorway says quietly: \"That was his mother. Margaret.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "H",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 13,
+"dur": 4,
+"refs": [
+"@11"
+],
+"frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform in the wood-paneled study at night (framed black-and-white truck photographs, stone fireplace, green banker's lamp switched off), lit only by moonlight and a phone flashlight, spinning around from the desk, terrified, caught, holding the photo. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid spins around, terrified, and blurts: \"Mrs. Hayes, I can explain...\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "G",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 14,
+"dur": 7,
+"refs": [
+"@12"
+],
+"frame": "Close-up of the elegant 60-year-old Black woman Mrs. Hayes with silver hair in a neat bun, a pearl necklace and a long-sleeved black dress in the study doorway at night, eyes glistening, steady. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The older woman says softly: \"I heard them too, child. Thirty years I've worked in this house.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "H",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 15,
+"dur": 5,
+"refs": [
+"@12"
+],
+"frame": "Close-up of the elegant 60-year-old Black woman Mrs. Hayes with silver hair in a neat bun, a pearl necklace and a long-sleeved black dress in the study doorway at night, a small determined nod. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The older woman nods and says firmly: \"Go make your call. I'll stand watch.\" Then she turns to look down the hallway. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "H",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 16,
+"dur": 5,
+"refs": [
+"DW",
+"HJ"
+],
+"frame": "Wide shot of the white-columned Southern mansion's front driveway on a sunny day: a black sedan has just parked and the distinguished 65-year-old Black lawyer with a white beard, short white hair, round wire-rimmed glasses and a charcoal three-piece suit steps out holding a brown leather briefcase, looking up at the house. No other people. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The lawyer closes the car door, buttons his jacket and walks briskly toward the front door with his briefcase. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": "TWO DAYS LATER",
+"master": "C0",
+"lt": [
+[
+"HAROLD JENNINGS",
+"Ethan's attorney",
+0.6,
+4.6
+]
+],
+"raw": false,
+"vo": null
+},
+{
+"id": 17,
+"dur": 5,
+"refs": [
+"GRD",
+"HJ",
+"E"
+],
+"frame": "Wide shot in the same shabby storage room in daylight (peeling cream walls, high small window, stacked cardboard boxes labeled XMAS DECOR, narrow metal bed): the distinguished 65-year-old Black lawyer with a white beard, short white hair, round wire-rimmed glasses and a charcoal three-piece suit sits on a wooden chair beside the bed holding a small black digital voice recorder; in the bed lies the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk), awake, listening. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The lawyer leans toward the man in the bed and talks quietly with him, turning the small recorder in his hands. The man stays lying in the bed. The man stays lying in the bed the whole time; he never gets up. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": null,
+"master": "C1",
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 18,
+"dur": 9,
+"refs": [
+"@C1",
+"HJ"
+],
+"frame": "Close-up of the distinguished 65-year-old Black lawyer with a white beard, short white hair, round wire-rimmed glasses and a charcoal three-piece suit seated in a wooden chair in the same shabby storage room in daylight (peeling cream walls, high small window, stacked cardboard boxes labeled XMAS DECOR, narrow metal bed), serious, holding a small black voice recorder. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The lawyer says gravely: \"A judge won't take the word of a stroke patient and a maid against a fianc\u00e9e, a brother, and a doctor.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "HJ",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 19,
+"dur": 4,
+"refs": [
+"@18"
+],
+"frame": "Close-up of the distinguished 65-year-old Black lawyer with a white beard, short white hair, round wire-rimmed glasses and a charcoal three-piece suit in the same shabby storage room in daylight (peeling cream walls, high small window, stacked cardboard boxes labeled XMAS DECOR, narrow metal bed), leaning forward, decisive. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The lawyer says firmly: \"We need them on tape.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "HJ",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 20,
+"dur": 4,
+"refs": [
+"@C1"
+],
+"frame": "Close-up of an older Black man's hand with a white shirt cuff and charcoal suit sleeve tucking a small black digital voice recorder with a red light into a gap behind stacked cardboard boxes labeled XMAS DECOR, daylight. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The hand slides the small recorder into the gap behind the boxes; its tiny red light blinks on. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 21,
+"dur": 8,
+"refs": [
+"@18"
+],
+"frame": "Close-up of the distinguished 65-year-old Black lawyer with a white beard, short white hair, round wire-rimmed glasses and a charcoal three-piece suit in the same shabby storage room in daylight (peeling cream walls, high small window, stacked cardboard boxes labeled XMAS DECOR, narrow metal bed), standing beside the boxes, glancing at the door, quiet and shrewd. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The lawyer says quietly: \"They think he can't understand them. So this is the one room in the house where they'll say everything.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "HJ",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 22,
+"dur": 5,
+"refs": [
+"GRD",
+"G",
+"E"
+],
+"frame": "Wide shot in the same shabby storage room in daylight (peeling cream walls, high small window, stacked cardboard boxes labeled XMAS DECOR, narrow metal bed): the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt and gray sweatpants, STANDING between two homemade parallel bars made of broom handles bolted between two dressers, gripping the bars with both hands, legs trembling, his wheelchair right behind him; the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform stands right beside him, one hand on his back and one on his arm, supporting him. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man grips the broom-handle bars, trembling, holding himself upright while the maid steadies him with both hands. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": "THE NEXT MORNING",
+"master": "D1",
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 23,
+"dur": 4,
+"refs": [
+"@D1",
+"G"
+],
+"frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform beside the parallel bars in the same shabby storage room in daylight (peeling cream walls, high small window, stacked cardboard boxes labeled XMAS DECOR, narrow metal bed), encouraging, one hand on the man's back (only her face and shoulders in frame). Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid says gently: \"One step. That's all I'm asking.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "G",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 24,
+"dur": 4,
+"refs": [
+"@D1",
+"E"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, sweating, gripping a broom-handle bar, standing upright with effort in the same shabby storage room in daylight (peeling cream walls, high small window, stacked cardboard boxes labeled XMAS DECOR, narrow metal bed). Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man, straining, says through his teeth: \"You said that yesterday.\" He keeps gripping the bar. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 25,
+"dur": 5,
+"refs": [
+"@23"
+],
+"frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform in the same shabby storage room in daylight (peeling cream walls, high small window, stacked cardboard boxes labeled XMAS DECOR, narrow metal bed), playful but firm. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid says with a little smile: \"And you didn't do it yesterday. So I'm asking again.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "G",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 26,
+"dur": 5,
+"refs": [
+"@D1"
+],
+"frame": "Low close-up of a man's feet in gray socks and gray sweatpants on a worn wooden floor between the legs of two dressers, his weight shifting. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The right foot slides forward slowly, just one inch, trembling, then stops. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 27,
+"dur": 3,
+"refs": [
+"@23"
+],
+"frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform in the same shabby storage room in daylight (peeling cream walls, high small window, stacked cardboard boxes labeled XMAS DECOR, narrow metal bed), gasping with joy, hands to her mouth. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid gasps loudly with joy: \"Ethan!\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "G",
+"card": null,
+"master": null,
+"lt": null,
+"raw": true,
+"vo": null
+},
+{
+"id": 28,
+"dur": 4,
+"refs": [
+"@24"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, sweating, gripping the bar, trying not to smile in the same shabby storage room in daylight (peeling cream walls, high small window, stacked cardboard boxes labeled XMAS DECOR, narrow metal bed). Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man says, embarrassed, trying not to smile: \"Don't make a big deal out of it.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 29,
+"dur": 5,
+"refs": [
+"@23"
+],
+"frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform in the same shabby storage room in daylight (peeling cream walls, high small window, stacked cardboard boxes labeled XMAS DECOR, narrow metal bed), crying and laughing at the same time, tears on her cheeks. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid, crying and laughing at once, says loudly: \"That was the biggest inch I've ever seen!\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "G",
+"card": null,
+"master": null,
+"lt": null,
+"raw": true,
+"vo": null
+},
+{
+"id": 30,
+"dur": 6,
+"refs": [
+"POOL",
+"G",
+"E"
+],
+"frame": "Wide shot at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands): the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, SEATED IN HIS WHEELCHAIR (he cannot walk) at the pool's edge, alone, staring at the water; the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform walks toward him carrying a folded gray blanket. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid walks up beside the man in the wheelchair, holding the folded gray blanket. The man stays seated in his wheelchair the whole time; he never stands. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": "THAT NIGHT",
+"master": "E1",
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 31,
+"dur": 4,
+"refs": [
+"@E1",
+"G"
+],
+"frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), standing beside the wheelchair holding a gray blanket, warm and teasing. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid says softly: \"You'll catch a cold out here.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "G",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 32,
+"dur": 4,
+"refs": [
+"@E1",
+"E"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, SEATED IN HIS WHEELCHAIR (he cannot walk) at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), pool light rippling on his face, melancholy. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man in the wheelchair says slowly: \"Maybe I need to feel something.\" The man stays seated in his wheelchair the whole time; he never stands. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 33,
+"dur": 5,
+"refs": [
+"@31"
+],
+"frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), now crouching beside the wheelchair at his eye level, gentle. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid says gently: \"Pain isn't the only proof you're alive, Ethan.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "G",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 34,
+"dur": 5,
+"refs": [
+"@32"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, SEATED IN HIS WHEELCHAIR (he cannot walk) at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), a hint of a smile. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man in the wheelchair says slowly, amused: \"When did you stop calling me 'sir'?\" The man stays seated in his wheelchair the whole time; he never stands. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 35,
+"dur": 5,
+"refs": [
+"@33"
+],
+"frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), crouching beside the wheelchair, grinning. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid grins and says: \"When you started being a pain in my neck.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "G",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 36,
+"dur": 4,
+"refs": [
+"@32"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, SEATED IN HIS WHEELCHAIR (he cannot walk) at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), beginning to laugh. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man in the wheelchair throws his head back and laughs, really laughs, a warm genuine laugh, no words. The man stays seated in his wheelchair the whole time; he never stands. Realistic, no music.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": true,
+"vo": null
+},
+{
+"id": 37,
+"dur": 9,
+"refs": [
+"@32"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, SEATED IN HIS WHEELCHAIR (he cannot walk) at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), the laugh fading, turning serious, looking at her. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man in the wheelchair says slowly: \"Can I ask you something? Everybody left. My fianc\u00e9e. My brother. My friends. Why are you still here?\" The man stays seated in his wheelchair the whole time; he never stands. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 38,
+"dur": 6,
+"refs": [
+"@32"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, SEATED IN HIS WHEELCHAIR (he cannot walk) at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), a wry half smile. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man in the wheelchair adds slowly: \"And don't say for the money. Vanessa cut your pay in half.\" The man stays seated in his wheelchair the whole time; he never stands. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 39,
+"dur": 4,
+"refs": [
+"@33"
+],
+"frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), crouching beside the wheelchair, deflecting with a smile. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid says lightly: \"Somebody has to make you eat your vegetables.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "G",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 40,
+"dur": 3,
+"refs": [
+"@32"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, SEATED IN HIS WHEELCHAIR (he cannot walk) at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), serious, insisting. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man in the wheelchair says quietly: \"Grace.\" The man stays seated in his wheelchair the whole time; he never stands. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 41,
+"dur": 11,
+"refs": [
+"@33"
+],
+"frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), crouching beside the wheelchair, eyes wet, quiet and honest. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid says quietly, emotional: \"Because when my daddy couldn't walk, everybody left him too. I promised myself I'd never be one of the people who leave.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "G",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 42,
+"dur": 5,
+"refs": [
+"@E1"
+],
+"frame": "Close-up of a wheelchair armrest at night by the glowing pool: a man's light-skinned right hand (gray T-shirt sleeve) trembling as it reaches toward a young Black woman's hand resting on the armrest. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man's shaking hand slowly reaches over and the woman's hand turns and holds it gently. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 43,
+"dur": 5,
+"refs": [
+"@E1",
+"G",
+"E"
+],
+"frame": "Close two-shot in profile at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands): the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform crouching beside the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, SEATED IN HIS WHEELCHAIR (he cannot walk); their faces close together, about to kiss. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "Their faces move slowly closer, eyes closing, almost touching, but they do not kiss. The man stays seated in his wheelchair the whole time; he never stands. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": null,
+"master": "E2",
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 44,
+"dur": 4,
+"refs": [
+"POOL",
+"V"
+],
+"frame": "Medium shot of the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline), a gold bracelet on her wrist standing on the stone patio by the pool at night, arms crossed, cold smirk, string lights behind her. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The blonde woman says icily: \"Well. Isn't this sweet.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "V",
+"card": null,
+"master": "E3",
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 45,
+"dur": 3,
+"refs": [
+"@33"
+],
+"frame": "Close-up of the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), crouching by the wheelchair, startled, pulling back, turning toward the patio. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid pulls back abruptly and turns, startled and frightened. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 46,
+"dur": 4,
+"refs": [
+"@E3"
+],
+"frame": "Close-up of the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline), a gold bracelet on her wrist on the patio at night, cold, commanding. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The blonde woman says sharply: \"Go home, Grace. Now.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "V",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 47,
+"dur": 5,
+"refs": [
+"@E1",
+"G"
+],
+"frame": "Medium shot at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands): the beautiful curvy young Black woman with long box braids, dark brown eyes and a small gold cross necklace, in a modest navy-and-white maid uniform walking quickly away along the pool edge, head down, hurt. Only ONE person. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The maid hurries away along the edge of the pool, head down, without looking back. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 48,
+"dur": 7,
+"refs": [
+"@E3",
+"E"
+],
+"frame": "Close two-shot at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands): the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline), a gold bracelet on her wrist crouching beside the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, SEATED IN HIS WHEELCHAIR (he cannot walk), speaking to him with contempt. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The blonde woman, crouching beside the wheelchair, sneers: \"The maid, Ethan? Really? You're even more pathetic than I thought.\" The man stays seated in his wheelchair the whole time; he never stands. Only the woman speaks. Realistic facial acting and precise lip sync, American accent, no music.",
+"spk": "V",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 49,
+"dur": 6,
+"refs": [
+"@32"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, SEATED IN HIS WHEELCHAIR (he cannot walk) at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), looking at someone crouching beside him, calm, testing her. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man in the wheelchair says slowly and carefully: \"Have you... thought about... the wedding?\" The man stays seated in his wheelchair the whole time; he never stands. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 50,
+"dur": 3,
+"refs": [
+"@46"
+],
+"frame": "Close-up of the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline), a gold bracelet on her wrist at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), crouching, incredulous. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The blonde woman scoffs: \"Is that a joke?\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "V",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 51,
+"dur": 5,
+"refs": [
+"@32"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, SEATED IN HIS WHEELCHAIR (he cannot walk) at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), steady, waiting. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man in the wheelchair says slowly: \"Would you... still marry me?\" The man stays seated in his wheelchair the whole time; he never stands. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 52,
+"dur": 5,
+"refs": [
+"@E3"
+],
+"frame": "Medium shot of the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline), a gold bracelet on her wrist by the pool at night, standing up, adjusting the gold bracelet on her wrist, avoiding his eyes. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The blonde woman stands up slowly, adjusts her bracelet and looks away, saying nothing. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 53,
+"dur": 4,
+"refs": [
+"@46"
+],
+"frame": "Close-up of the stunning blonde woman with red lipstick, in an elegant high-neck cream silk blouse buttoned to the collar and tailored dark trousers (modest, covered neckline), a gold bracelet on her wrist at the glowing turquoise backyard pool at night with string lights and a lit pool house behind (no signs, no stands), standing, cold, final. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The blonde woman says flatly: \"Good night, Ethan.\" Then she turns away. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "V",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 54,
+"dur": 9,
+"refs": [
+"@A1",
+"E"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk) in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), alone, eyes open, staring at the ceiling, a single tear. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man lies still in bed, staring at the ceiling, blinking slowly; a tear runs down his temple. His lips do not move. The man stays lying in the bed the whole time; he never gets up. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": "LATER THAT NIGHT",
+"master": null,
+"lt": null,
+"raw": false,
+"vo": "VO54"
+},
+{
+"id": 155,
+"dur": 9,
+"refs": [
+"@54"
+],
+"frame": "Close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, LYING in a narrow metal hospital-style bed under a gray blanket, head on the pillow (he cannot walk) in the same shabby storage room at night (peeling cream walls, stacked cardboard boxes labeled XMAS DECOR, a small lamp glowing dimly), eyes open, speaking softly to himself. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The man lying in bed says softly and slowly to himself: \"She looked at me like I was already gone. And the only person who still sees me... is the one I never noticed.\" The man stays lying in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "E",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 56,
+"dur": 5,
+"refs": [
+"AP",
+"GPJ",
+"S"
+],
+"frame": "Wide shot in a small cramped apartment bedroom at night, dim streetlight through thin curtains: the beautiful young Black woman with dark brown eyes, a patterned head wrap over her braids, a loose gray T-shirt and red plaid pajama pants lies awake on her back in a double bed, staring at the ceiling; asleep beside her lies the 11-year-old Black boy with short curly black hair, in a navy Tennessee Titans jersey, holding a blue asthma inhaler. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The young woman lies awake, staring at the ceiling, while the boy sleeps beside her clutching his inhaler. Realistic natural motion, no dialogue.",
+"spk": null,
+"card": "GRACE'S APARTMENT",
+"master": "F1",
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 57,
+"dur": 4,
+"refs": [
+"@F1",
+"S"
+],
+"frame": "Close-up of the 11-year-old Black boy with short curly black hair, in a navy Tennessee Titans jersey lying in bed in a small cramped apartment bedroom at night, dim streetlight through thin curtains, sleepy, eyes half open, head on the pillow. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The sleepy boy murmurs: \"Gracie? Are you sad?\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "S",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 58,
+"dur": 4,
+"refs": [
+"@F1",
+"GPJ"
+],
+"frame": "Close-up of the beautiful young Black woman with dark brown eyes, a patterned head wrap over her braids, a loose gray T-shirt and red plaid pajama pants lying in bed on her pillow in a small cramped apartment bedroom at night, dim streetlight through thin curtains, eyes glistening, turning her head toward the boy beside her. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The young woman whispers softly: \"No, baby. Go to sleep.\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "G",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 59,
+"dur": 3,
+"refs": [
+"@57"
+],
+"frame": "Close-up of the 11-year-old Black boy with short curly black hair, in a navy Tennessee Titans jersey in bed in a small cramped apartment bedroom at night, dim streetlight through thin curtains, sleepy, curious. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "The sleepy boy murmurs: \"Is it the rich man?\" Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "S",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+},
+{
+"id": 60,
+"dur": 6,
+"refs": [
+"@58"
+],
+"frame": "Close-up of the beautiful young Black woman with dark brown eyes, a patterned head wrap over her braids, a loose gray T-shirt and red plaid pajama pants lying in bed in a small cramped apartment bedroom at night, dim streetlight through thin curtains, staring at the ceiling, a tear rolling down. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field.",
+"video": "After a long pause, the young woman whispers: \"...Go to sleep, Sam.\" and keeps staring at the ceiling. Realistic facial acting and precise lip sync, American accent, no music, clear dialogue. Only this one person speaks.",
+"spk": "G",
+"card": null,
+"master": null,
+"lt": null,
+"raw": false,
+"vo": null
+}
+],
+"refs": {
+"G": "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+"GPJ": "d78e965c-93b4-41ce-837b-915e658e64a0",
+"E": "ada7e801-a781-4694-9800-584fbcf5662a",
+"H": "a06cf4f3-5de6-4941-b406-0aed67147f7e",
+"HJ": "9d1044f9-8821-4731-86ab-264ff93a4d2e",
+"V": "60595ef4-874c-426e-a1b5-a9e854f9aad7",
+"S": "7f4a3e65-b525-43d5-890c-880817be583d",
+"GRN": "b30fb6ea-53f4-4603-8416-3de86dd71177",
+"GRD": "915bb889-6475-447f-8fca-51ddf717051c",
+"ST": "15ea490b-5423-4416-99c4-2b0f26b13abd",
+"POOL": "df2f0520-ec27-4926-bde5-411b7a3da354",
+"AP": "547cc763-25e8-4f82-9936-3ead4ac5b666",
+"DW": "7dd3b00d-aa14-4991-8b26-cf0b1b2627d8"
+}
+}

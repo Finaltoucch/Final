@@ -1,0 +1,13 @@
+[{"cue": "suspense", "from": "c:PART 4 · FALLING", "to": "n8", "gain": -3},
+ {"sfx": "stinger", "at": "n2", "off": 0.2, "db": -32},
+ {"cue": "suspense", "from": "n9", "to": "n11", "gain": -2},
+ {"sfx": "stinger", "at": "n12", "off": 0.1, "db": -31},
+ {"cue": "tender", "from": "n13", "to": "n15", "gain": -2},
+ {"cue": "elegant", "from": "c:TWO DAYS LATER", "to": "n16", "gain": -1},
+ {"cue": "suspense", "from": "n17", "to": "n21", "gain": -4},
+ {"cue": "hope", "from": "c:THE NEXT MORNING", "to": "n29", "gain": -1},
+ {"cue": "tender", "from": "c:THAT NIGHT", "to": "n43"},
+ {"sfx": "impact", "at": "n44", "off": 0.0, "db": -31},
+ {"cue": "dark", "from": "n44", "to": "n53", "gain": -1},
+ {"cue": "sad", "from": "c:LATER THAT NIGHT", "to": "n54"},
+ {"cue": "tender", "from": "c:GRACE'S APARTMENT", "to": "n60", "gain": -2}]

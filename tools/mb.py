@@ -80,6 +80,13 @@ for i,c in enumerate(M,1):
     if c.get('trim_after'):
       key=N(c['trim_after']);hits=[x for x in ww if N(x[0])==key]
       if hits:D=min(D,hits[0][2]+0.5);rep.append(f"   trimmed at {D:.2f}s")
+  if c.get('maxdur'):D=min(D,c['maxdur'])
+  if c.get('trim_after') and 'l' not in c:
+    if WM is None:
+      from faster_whisper import WhisperModel;WM=WhisperModel('base.en',device='cpu',compute_type='int8')
+    segs,_=WM.transcribe(f0,word_timestamps=True,language='en');ww=[w for s in segs for w in (s.words or [])]
+    hits=[w for w in ww if N(w.word)==N(c['trim_after'])]
+    if hits:D=min(D,hits[-1].end+0.35);rep.append(f"   trimmed at {D:.2f}s")
   if c.get('gain'):
     pk=float(np.abs(au).max())+1e-9;g=min(c['gain'],-1-20*np.log10(pk));au=au*10**(g/20);rep.append(f"   gain {g:+.1f} dB")
   NF=int(D*24);D=NF/24;n=NF*2000;au=au[:n]
