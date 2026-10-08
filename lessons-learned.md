@@ -136,3 +136,13 @@ Every mistake made so far, why it happened, and the rule that prevents it.
 | Reverse-angle OTS put the speaker alone mid-bench | Generate the reverse from the matching OTS frame ("reverse angle of reference") | Keep seating geometry consistent across OTS pairs |
 | Voice change dropped "'d" in "I'd better" | Raw take | Contractions like 'd and 've are fragile; check them in the voice-changed take |
 | Sandbox reset killed a build while I was busy elsewhere | Restart and poll continuously | Never leave a running build unpolled for more than ~10 s |
+
+## 6. Added during Part 8 (group scenes)
+| Mistake | Fix | Rule |
+|---|---|---|
+| Room empty / people missing / people in the wrong seats between shots of the same scene | Keep a seating chart; generate every group frame from the latest approved group frame | In group scenes, write the seating chart into the prompt and check every person in every frame |
+| A character changes position (Bradley at the head after giving up the chair) | Explicitly state the new position in every later prompt | When the blocking changes, update every later frame's prompt and references |
+| Villains raising their hands in a vote against themselves | Name who does NOT act | For group actions, list who acts AND who does not |
+| A prop (cane) vanished three takes in a row because the start frame had a hand in a pocket | New start frame with the prop clearly gripped; cut away before it vanishes | Start frames must show props clearly held; if Kling still drops it, cut to a reaction shot and carry the dialogue as voice-over |
+| A character standing at the door also appeared seated in the background | Remove duplicates in the background | Check backgrounds for duplicates of main characters |
+| Kling adds speech to non-dialogue shots ("Thank you" over applause) | Mute that clip | Transcribe silent/ambient clips too |
