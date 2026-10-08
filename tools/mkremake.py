@@ -14,7 +14,7 @@ LT={'1:3':['VANESSA PIERCE',"Ethan Caldwell's fiancée"],'1:11':['MRS. HAYES','H
 EXTRA={'1:16':{'ss':1.7},                                   # ad-libbed "Oh" before the line
        '1:60':{'pre':'crop=iw*0.84:ih*0.84:iw*0.08:0'}}     # stray card at the frame edge
 # Part 2 silent additions: spoon-feeding beat (replaces old 42, uniform sleeve) and Ethan's look (replaces old 47, daylight)
-NEW_SILENT={'2':{42:[{'n':'42.1','t':{'X':'20261008_155934_48fdb850-c811-4a4e-9929-e5ed35398059'}}],47:[{'n':'47.1','t':{'X':'20261008_155934_7f551a25-a6fc-419e-a832-b4a21323cc8a'}}]}}
+NEW_SILENT={'2':{42:[{'n':'42.1','t':{'X':'20261008_155934_48fdb850-c811-4a4e-9929-e5ed35398059'},'ss':1.0}],47:[{'n':'47.1','t':{'X':'20261008_155934_7f551a25-a6fc-419e-a832-b4a21323cc8a'}}]}}
 groups={}
 for k,v in S.items():
   p,i=k.split(':')

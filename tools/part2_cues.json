@@ -1,1 +1,102 @@
-[{"cue": "elegant", "from": "c:PART 2 · THE COLLAPSE", "to": "n5"}, {"cue": "tension", "from": "n6", "to": "n81", "gain": -2}, {"sfx": "stinger", "at": "n8", "off": 0.5}, {"cue": "tension", "from": "c:TWENTY MINUTES LATER", "to": "n9"}, {"sfx": "riser", "at": "n10", "len": 5, "off": 2.0}, {"sfx": "impact", "at": "n10", "off": 2.0}, {"cue": "panic", "from": "n11", "to": "n18"}, {"cue": "sad", "from": "n19", "to": "n19", "gain": 2}, {"cue": "panic", "from": "n20", "to": "n22", "gain": -2}, {"cue": "sad", "from": "c:3:00 A.M.", "to": "n26"}, {"cue": "sad", "from": "c:THE NEXT MORNING", "to": "n30", "gain": -2}, {"cue": "tension", "from": "n31", "to": "n31"}, {"sfx": "stinger", "at": "n32"}, {"cue": "tension", "from": "n32", "to": "n35"}, {"cue": "dark", "from": "n36", "to": "n37"}, {"sfx": "impact", "at": "n37", "db": -29}, {"cue": "sad", "from": "c:THAT NIGHT", "to": "n38"}, {"cue": "tender", "from": "n39", "to": "n42"}, {"cue": "tender", "from": "c:DAYS LATER", "to": "n47", "gain": 1}]
+[
+{
+"cue": "elegant",
+"from": "c:PART 2 · THE COLLAPSE",
+"to": "n5"
+},
+{
+"cue": "tension",
+"from": "n6",
+"to": "n81",
+"gain": -2
+},
+{
+"sfx": "stinger",
+"at": "n8",
+"off": 0.5
+},
+{
+"cue": "tension",
+"from": "c:TWENTY MINUTES LATER",
+"to": "n9"
+},
+{
+"sfx": "riser",
+"at": "n10",
+"len": 5,
+"off": 2.0
+},
+{
+"sfx": "impact",
+"at": "n10",
+"off": 2.0
+},
+{
+"cue": "panic",
+"from": "n11",
+"to": "n18"
+},
+{
+"cue": "sad",
+"from": "n19",
+"to": "n19",
+"gain": 2
+},
+{
+"cue": "panic",
+"from": "n20",
+"to": "n22",
+"gain": -2
+},
+{
+"cue": "sad",
+"from": "c:3:00 A.M.",
+"to": "n26"
+},
+{
+"cue": "sad",
+"from": "c:THE NEXT MORNING",
+"to": "n30",
+"gain": -2
+},
+{
+"cue": "tension",
+"from": "n31.1",
+"to": "n31.1"
+},
+{
+"sfx": "stinger",
+"at": "n32"
+},
+{
+"cue": "tension",
+"from": "n32",
+"to": "n35"
+},
+{
+"cue": "dark",
+"from": "n36",
+"to": "n37"
+},
+{
+"sfx": "impact",
+"at": "n37",
+"db": -29
+},
+{
+"cue": "sad",
+"from": "c:THAT NIGHT",
+"to": "n38"
+},
+{
+"cue": "tender",
+"from": "n39.1",
+"to": "n42.1"
+},
+{
+"cue": "tender",
+"from": "c:DAYS LATER",
+"to": "n47.1",
+"gain": 1
+}
+]
