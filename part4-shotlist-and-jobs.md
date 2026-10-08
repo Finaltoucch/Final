@@ -1,3 +1,7 @@
+**v6 (current): lawyer scene as a conversation.** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/0ff9df36-a0af-417e-8908-cafb2265c297.mp4 (media `0ff9df36-a0af-417e-8908-cafb2265c297`).
+- **Shots 18 and 21:** Harold now speaks to Grace over her shoulder, instead of to the lens. The frame `3cb5f506` was edited from a still of the approved Harold (upload `eff47b90`). The clips are `b812f096` and `45524ceb`, voice-locked with "Harold natural".
+- **Shot 19:** Grace's silent nod (`8e054b7f`). Shot 21 skips an ad-lib before 3.7 s. The patch is in `tools/part4_lawyer_fix.py`.
+
 **v5 — Harold replaced with an original face (shots 16-21):** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/3ac9a744-ddc7-4965-ba9a-253a29d7773b.mp4 (earlier versions withdrawn: Harold resembled a real actor)
 
 **Current cut (5:19), rebuilt with speech fixes from the full re-check:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/02b04a5d-9d9e-40e8-999a-a8fdd47281fa.mp4
