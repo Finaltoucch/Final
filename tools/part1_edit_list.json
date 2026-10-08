@@ -1,1 +1,753 @@
-[{"card": "NASHVILLE, TENNESSEE"}, {"n": 1, "t": {"X": "20261006_182915_6ce0a30e-ea68-4d50-827b-b2a832110fda"}, "amb": "ext_day"}, {"n": 2, "t": {"G": "20261006_185036_82dc55d9-597d-4ac0-b9c2-f4d94e5f5292"}, "amb": "ext_day", "lt": [["GRACE MILLER", "25 \u00b7 Needs this job", 0.3, 4.5]]}, {"n": 3, "t": {"G": "20261006_185254_dabdd576-5266-438c-a075-c6507bc6e696", "V": "20261006_185704_cb029741-dc4c-4957-9c4d-49d0b70f571f"}, "amb": "ext_day", "l": [["V", "Move! Are you blind?"], ["G", "I'm so sorry, ma'am"], ["V", "Ugh. Let me guess. The new help."]], "lt": [["VANESSA PIERCE", "Ethan Caldwell's fianc\u00e9e", 8.6, 13.4]]}, {"n": 4, "t": {"G": "20261006_185254_fb4406ed-3eb8-4bf1-b948-da882c1b873c", "U": "20261006_190019_d9ef0dca-e1f9-4b88-b9d0-89db6f71c347"}, "amb": "ext_day", "l": [["U", "You Grace Miller?"], ["G", "Yes, sir."], ["U", "Follow me."]]}, {"n": 5, "t": {"G": "20261006_190337_f4426138-72ec-4a19-83c5-6f92bf83acfd", "U": "20261006_190336_a19fb15a-d724-4f22-a7f1-0e01fe5b3bfb"}, "amb": "ext_day", "l": [["G", "How many cars does one man need?"], ["U", "You're staring at the Ferrari like it owes you money."]]}, {"n": 6, "t": {"G": "20261006_185254_66768d2c-c8bc-4a91-801a-667a39ebdf70"}, "amb": "int_day"}, {"n": 7, "t": {"G": "20261006_185255_2c34f543-db8f-46cb-9022-7fe45b14e74b", "H": "20261006_190023_10d0d960-76a1-4fdb-884e-958757ce796b"}, "amb": "int_day", "l": [["H", "You must be Grace."], ["G", "Yes, ma'am."], ["H", "I'm Mrs. Hayes. I run this house. Have you cleaned a house like this before?"], ["G", "No, ma'am. But I cleaned hospital rooms for two years. Nothing is dirtier than a hospital."]], "lt": [["MRS. HAYES", "Head housekeeper", 0.4, 4.4]]}, {"n": 8, "t": {"H": "20261006_201610_dcac1d7c-1313-4350-b6b2-ff5633e4741b"}, "amb": "int_day"}, {"n": 9, "t": {"G": "20261006_185254_2b98fb0e-6b63-403e-be6e-88560427be71", "H": "20261006_190020_bb512e49-8e86-4d31-aa4a-f20a4cb5824c"}, "amb": "int_day", "l": [["H", "Never enter Mr. Caldwell's study. Never touch his desk. And never, ever argue with Miss Pierce."], ["G", "Who's Miss Pierce?"], ["H", "You'll know her when you hear her."], ["G", "I think I already met her."]]}, {"n": 12, "t": {"E": "20261006_195323_5ef2f355-d969-4e06-908d-74ee377acc4c", "H": "20261006_194232_106eb72e-0a93-4459-8d99-b1687db450a4"}, "amb": "int_day", "l": [["H", "Good morning, Mr. Caldwell."], ["E", "Good morning, Mrs. Hayes."], ["H", "This is Grace. New staff."]], "lt": [["ETHAN CALDWELL", "CEO, Caldwell Freight", 0.8, 5.2]]}, {"n": 13, "t": {"G": "20261006_185254_a3480218-1fe7-4fb5-b76d-109e56f542e3", "E": "20261006_195323_f1f12242-68de-4425-9f75-8e293ebfdaad", "H": "20261006_190942_006d4337-38f4-473d-96a0-1c08ce623e81"}, "amb": "int_day", "l": [["E", "Ethan. Welcome, Grace."], ["G", "Thank you, sir."], ["E", "If Mrs. Hayes gives you a hard time, you're on your own."], ["H", "I heard that."]]}, {"n": 14, "t": {"X": "20261006_183013_8cb92699-48cc-420b-89bd-d7ab8a08e5d9"}, "amb": "int_day"}, {"card": "TWO WEEKS LATER"}, {"n": 15, "t": {"X": "20261006_183046_e0e21abd-fc7d-4d34-923c-acd84fd9350d"}, "amb": "int_day"}, {"n": 16, "t": {"X": "20261006_183013_9b060534-fe03-4e55-a5d5-b119a4bdef7a"}, "amb": "int_day"}, {"n": 17, "t": {"X": "20261006_183013_76672a00-3eaf-495b-9493-d041364699db"}, "amb": "int_day"}, {"n": 18, "t": {"E": "20261006_195323_a97ed34a-1219-4e0a-9ba2-a7b76c69429e"}, "amb": "kitchen_day"}, {"n": 19, "t": {"X": "20261006_183046_0c5480c0-e76f-4084-96da-0abbdfbd9a45"}, "amb": "kitchen_day"}, {"n": 20, "t": {"G": "20261006_185254_940d91dc-3f7d-4021-9455-e487fcdad768", "E": "20261006_195322_ead04b52-5ed7-4905-99b5-cce5a8fcfb8c"}, "amb": "kitchen_day", "l": [["G", "Try it now."], ["E", "That's perfect. How did you know?"], ["G", "You've burned your tongue three mornings in a row, sir. A man who runs three hundred trucks can wait one minute for coffee."]]}, {"n": 21, "t": {"G": "20261006_185254_13ce45b6-54b9-4506-a46f-41940dff1aeb", "E": "20261006_195324_744b3eca-11b6-46a8-9296-c33be4c83b24"}, "amb": "kitchen_day", "l": [["E", "Nobody in this house talks to me like that."], ["G", "I'm sorry, sir"], ["E", "No. It's refreshing."]], "mute": [[0, 1.9]]}, {"n": 10, "t": {"G": "20261006_194613_5190bd33-cdc5-4d65-b03a-cabd0973b7c7", "B": "20261006_194613_f95e6bf0-4b9c-4479-908c-8eddd7100b13"}, "amb": "pantry", "l": [["B", "End of the month, Rick. You'll have every dollar. Vitamins. For my brother. And you didn't hear any of that, sweetheart. Did you?"], ["G", "Hear what, sir?"], ["B", "Smart girl."]], "lt": [["BRADLEY CALDWELL", "Ethan's younger brother", 1.0, 5.4]]}, {"n": 11, "t": {"X": "20261006_182915_a8df59b6-0d2b-4815-8822-d4efe7821a8a"}, "amb": "pantry"}, {"n": 22, "t": {"X": "20261006_183013_681cd24b-5b7a-4940-946b-296cdcb7e241"}, "amb": "ext_day"}, {"n": 23, "t": {"G": "20261006_185254_c1e96b4e-e8ff-4519-b4db-b4dc01556417", "V": "20261006_185704_6a510973-59db-4277-93b8-238518c55cd2"}, "amb": "ext_day", "l": [["V", "You again. The girl from the gate. Get these upstairs. Carefully. Some of these cost more than you make in a year."], ["G", "Yes, ma'am."]]}, {"n": 24, "t": {"G": "20261006_185254_be1a4dba-b55c-4f6a-9cab-908ebdda246c", "V": "20261006_185704_2144ffb2-1baa-43a3-b780-e9b0c253284d"}, "amb": "int_day", "l": [["V", "Change these sheets."], ["G", "I changed them this morning, ma'am."], ["V", "Did I ask for your opinion?"], ["G", "No, ma'am."], ["V", "Then change them."]]}, {"n": 25, "t": {"V": "20261006_185704_ba0ff88d-5996-4a91-8304-77fea3246cd1"}, "amb": "int_day"}, {"n": 26, "t": {"X": "20261006_183132_0c0777b4-c12b-4dae-abf8-738adfdb69c2"}, "amb": "int_day"}, {"n": 27, "t": {"G": "20261006_185704_ee6bf921-3cbd-4a11-9e30-0ab9f1cae091", "V": "20261006_190020_08344863-9a3a-4272-b402-858534f0457d"}, "amb": "int_day", "l": [["V", "This is dirty."], ["G", "I cleaned it five minutes ago, ma'am."], ["V", "Then what's this?"], ["G", "That's your fingerprint, ma'am."]]}, {"n": 28, "t": {"V": "20261008_122719_6e507094-c1c1-4939-8278-f98d08a394c6"}, "amb": "int_day", "gain": 1.3}, {"n": 29, "t": {"E": "20261006_195323_740faf3a-77b5-4188-a859-2fa96f38a88c", "V": "20261006_190337_f025d4bd-989b-4743-a702-83a0cb23f3ab"}, "amb": "int_day", "l": [["E", "What's going on?"], ["V", "Baby! She just didn't clean the table properly."], ["E", "It looks clean to me."], ["V", "You men never notice anything. Come see the wedding flowers."]]}, {"n": 30, "t": {"G": "20261006_185704_5064832a-cc62-43d6-992e-e06b9e07a371", "E": "20261006_195323_0d9fea69-8e94-4103-b2f5-892874771594"}, "amb": "kitchen_day", "l": [["E", "Grace. What really happened in there?"], ["G", "It's nothing, sir."], ["E", "You don't have to let anybody disrespect you because you work here. Not even her."]]}, {"n": 31, "t": {"G": "20261006_185704_02a959a1-6cbb-428a-a410-d346a73299ee"}, "amb": "kitchen_day"}, {"card": "1:00 A.M."}, {"n": 34, "t": {"G": "20261006_194612_f2c68d9c-c24f-441f-8e7f-166c56eb6519", "E": "20261006_195323_c90d0195-2271-4304-849c-3348f0d4c1ab"}, "amb": "night_kitchen", "l": [["E", "Neuromuscular rehabilitation. Light reading? You're studying physical therapy?"], ["G", "At night. Online."]]}, {"n": 35, "t": {"G": "20261006_185705_1de59136-7fc0-4b6c-8928-ac393c04c852"}, "amb": "night_kitchen"}, {"n": 36, "t": {"E": "20261006_195323_3737d8af-9723-4b98-9ab1-c192540f8ca0"}, "amb": "night_kitchen"}, {"card": "LATER THAT NIGHT"}, {"n": 32, "t": {"G": "20261006_185704_df7f36c5-3a39-4889-9d5a-275485cd96f0", "M": "20261006_190942_3b17fd18-c9ba-46ca-a96b-f4c1a1c9a8e7"}, "amb": "apartment", "l": [["M", "The inhaler went up again, baby. Three hundred and forty dollars."], ["G", "I'll have it Friday, Mama. Every penny."]], "lt": [["MAMA RUTH", "Grace's mother", 0.4, 4.4]]}, {"n": 33, "t": {"G": "20261006_185704_23d452f3-5748-4962-8fab-b634cb2ae3be", "M": "20261006_190942_e3ef1272-ea3c-42d4-9df6-9717d99a2722"}, "amb": "apartment", "l": [["M", "And your exam?"], ["G", "Six months. Then I'm a licensed physical therapist, and nobody tells me to clean a clean table ever again."]]}, {"card": "THE NEXT NIGHT"}, {"n": 37, "t": {"X": "20261006_183147_4eb923f1-fb16-425f-9aa5-aaaafa6715e7"}, "amb": "pool"}, {"n": 38, "t": {"X": "20261006_194034_2814d573-5abd-4304-ad27-51e412a09923"}, "amb": "pool"}, {"n": 39, "t": {"G": "20261006_185704_d1b79d1e-fa60-4430-8763-34ba325d8319", "V": "20261006_190336_9d43148b-a6e8-4743-9b08-81ac9fedfe0d"}, "amb": "laundry", "l": [["V", "You didn't see anything."], ["G", "Ma'am, I"], ["V", "Your little brother's inhaler. Three hundred and forty dollars. One word to Ethan and you'll never work in Nashville again."]], "trim_after": "again"}, {"n": 40, "t": {"V": "20261006_190009_aafa7209-09ee-4b91-8525-0724e8c95e77"}, "amb": "laundry"}]
+[
+{
+"card": "NASHVILLE, TENNESSEE"
+},
+{
+"n": 1,
+"t": {
+"X": "20261006_182915_6ce0a30e-ea68-4d50-827b-b2a832110fda"
+}
+},
+{
+"n": 2,
+"t": {
+"G": "20261006_185036_82dc55d9-597d-4ac0-b9c2-f4d94e5f5292"
+},
+"lt": [
+[
+"GRACE MILLER",
+"25 · Needs this job",
+0.3,
+4.5
+]
+]
+},
+{
+"n": "3.1",
+"t": {
+"V": "20261008_154227_10e4f04b-1bf5-49a7-ae89-a2502a71dab3"
+},
+"ss": 0,
+"maxdur": 3.04,
+"gain": -3.5
+},
+{
+"n": "3.2",
+"t": {
+"G": "20261008_154225_1cd5e7e2-7320-4669-824c-20ac74cd0338"
+},
+"ss": 0.98,
+"maxdur": 3.04,
+"gain": 7.6
+},
+{
+"n": "3.3",
+"t": {
+"V": "20261008_153959_dc001d62-13f3-453b-a6e8-6cab6060099c"
+},
+"ss": 0.36,
+"maxdur": 4.04,
+"gain": 1.5,
+"lt": [
+[
+"VANESSA PIERCE",
+"Ethan Caldwell's fiancée",
+0.3,
+3.48
+]
+]
+},
+{
+"n": "4.1",
+"t": {
+"U": "20261008_151840_269fdc17-ed93-484e-b901-14f1f4135b04"
+},
+"ss": 1.28,
+"maxdur": 3.04,
+"gain": -1.3
+},
+{
+"n": "4.2",
+"t": {
+"G": "20261008_154227_7ff9e66d-9290-494a-9068-0ec647684bc8"
+},
+"ss": 0.62,
+"maxdur": 2.55,
+"gain": 8.9
+},
+{
+"n": "4.3",
+"t": {
+"U": "20261008_151840_d3737986-916a-4d5f-b867-270461b2deaa"
+},
+"ss": 0,
+"maxdur": 2.17,
+"gain": 4.7
+},
+{
+"n": "5.1",
+"t": {
+"G": "20261008_154302_144e843d-e7c6-4d79-8a33-d01da72cdadc"
+},
+"ss": 1.88,
+"maxdur": 4.04,
+"gain": 5.7
+},
+{
+"n": "5.2",
+"t": {
+"U": "20261008_151841_063fb8f6-0696-410e-8167-30fd0c6574af"
+},
+"ss": 2.24,
+"maxdur": 5.04,
+"gain": -1.7
+},
+{
+"n": 6,
+"t": {
+"G": "20261006_185254_66768d2c-c8bc-4a91-801a-667a39ebdf70"
+}
+},
+{
+"n": "7.1",
+"t": {
+"H": "20261008_155255_915fe6c1-16dc-451f-9f5a-fa119e04dbd3"
+},
+"ss": 1.0,
+"maxdur": 3.04,
+"gain": 7.1
+},
+{
+"n": "7.2",
+"t": {
+"G": "20261008_151841_93609faf-fa71-435a-bf9b-77f5c4c5898f"
+},
+"ss": 1.22,
+"maxdur": 3.04,
+"gain": 16.4
+},
+{
+"n": "7.3",
+"t": {
+"H": "20261008_155449_6740b5bf-72f7-4f6e-b8a4-a92b9150668a"
+},
+"ss": 1.02,
+"maxdur": 6.93,
+"gain": 6.3,
+"lt": [
+[
+"MRS. HAYES",
+"Head housekeeper",
+0.3,
+4.5
+]
+]
+},
+{
+"n": "7.4",
+"t": {
+"G": "20261008_154301_082e982c-3f15-4c14-83eb-e47199439ee6"
+},
+"ss": 0,
+"maxdur": 8.03,
+"gain": 8.5
+},
+{
+"n": "8.1",
+"t": {
+"H": "20261008_155451_cf52a3b9-bf9d-436e-b14d-878f9841027b"
+},
+"ss": 0.54,
+"maxdur": 6.04,
+"gain": 7.6
+},
+{
+"n": "9.1",
+"t": {
+"H": "20261008_154302_3a31ea19-f76a-4e72-96d3-82398447560d"
+},
+"ss": 0,
+"maxdur": 8.03,
+"gain": 7.8
+},
+{
+"n": "9.2",
+"t": {
+"G": "20261008_154301_01c85ed8-b03e-42ec-a782-d12ba6704e35"
+},
+"ss": 1.18,
+"maxdur": 2.85,
+"gain": 4.7
+},
+{
+"n": "9.3",
+"t": {
+"H": "20261008_154327_16ed3439-91b5-4cc1-8277-db31995ee50f"
+},
+"ss": 1.7,
+"maxdur": 3.95,
+"gain": 14.7
+},
+{
+"n": "9.4",
+"t": {
+"G": "20261008_154326_79f7ab4e-eab4-42e8-8eff-9cf464aaca79"
+},
+"ss": 1.96,
+"maxdur": 4.04,
+"gain": 4.8
+},
+{
+"n": "12.1",
+"t": {
+"H": "20261008_154301_107480cb-a5fd-4f0b-bcde-85546983c7cf"
+},
+"ss": 0.62,
+"maxdur": 3.04,
+"gain": 4.3
+},
+{
+"n": "12.2",
+"t": {
+"E": "20261008_154302_062e60e4-53c1-4381-949e-9d1a7433eadb"
+},
+"ss": 1.0,
+"maxdur": 3.04,
+"gain": -1.6
+},
+{
+"n": "12.3",
+"t": {
+"H": "20261008_154302_73eec289-12a3-4f44-a8a3-381f24f68018"
+},
+"ss": 0,
+"maxdur": 4.04,
+"gain": 8.1
+},
+{
+"n": "13.1",
+"t": {
+"E": "20261008_154301_77b92121-db79-4e1c-90bd-1a68db54a30b"
+},
+"ss": 0,
+"maxdur": 3.04,
+"gain": 2.8
+},
+{
+"n": "13.2",
+"t": {
+"G": "20261008_154327_6fa1fe31-8890-49fc-8951-22c076af11fc"
+},
+"ss": 0.92,
+"maxdur": 2.73,
+"gain": 10.8
+},
+{
+"n": "13.3",
+"t": {
+"E": "20261008_154327_1173d3a4-3254-4796-b9f9-d37c8478a443"
+},
+"ss": 1.98,
+"maxdur": 5.99,
+"gain": 0.3,
+"lt": [
+[
+"ETHAN CALDWELL",
+"CEO, Caldwell Freight",
+0.3,
+3.81
+]
+]
+},
+{
+"n": "13.4",
+"t": {
+"H": "20261008_154327_460a375b-0909-46d8-af9c-d317106dcf3e"
+},
+"ss": 0,
+"maxdur": 2.75,
+"gain": 6.8
+},
+{
+"n": 14,
+"t": {
+"X": "20261006_183013_8cb92699-48cc-420b-89bd-d7ab8a08e5d9"
+}
+},
+{
+"card": "TWO WEEKS LATER"
+},
+{
+"n": 15,
+"t": {
+"X": "20261006_183046_e0e21abd-fc7d-4d34-923c-acd84fd9350d"
+}
+},
+{
+"n": 16,
+"t": {
+"X": "20261006_183013_9b060534-fe03-4e55-a5d5-b119a4bdef7a"
+}
+},
+{
+"n": 17,
+"t": {
+"X": "20261006_183013_76672a00-3eaf-495b-9493-d041364699db"
+}
+},
+{
+"n": 18,
+"t": {
+"E": "20261006_195323_a97ed34a-1219-4e0a-9ba2-a7b76c69429e"
+}
+},
+{
+"n": 19,
+"t": {
+"X": "20261006_183046_0c5480c0-e76f-4084-96da-0abbdfbd9a45"
+}
+},
+{
+"n": "20.1",
+"t": {
+"G": "20261008_154327_1b40932d-1f20-4770-a62c-f2c0ec060982"
+},
+"ss": 0.48,
+"maxdur": 2.39,
+"gain": 8.3
+},
+{
+"n": "20.2",
+"t": {
+"E": "20261008_154606_61715398-418e-4bcf-8a22-c84b6616a27b"
+},
+"ss": 0,
+"maxdur": 4.04,
+"gain": 5.7
+},
+{
+"n": "20.3",
+"t": {
+"G": "20261008_154327_d1334ceb-31ef-467a-ab97-ec38a5251bf6"
+},
+"ss": 3.58,
+"maxdur": 10.03,
+"gain": 7.6
+},
+{
+"n": "21.1",
+"t": {
+"E": "20261008_154327_f6b49899-b51e-46c4-b26b-aaf3776282fd"
+},
+"ss": 2.72,
+"maxdur": 5.04,
+"gain": 2.5
+},
+{
+"n": "21.2",
+"t": {
+"G": "20261008_154327_0d41c1f3-edf2-45d8-b227-9da107cdce7f"
+},
+"ss": 0.78,
+"maxdur": 2.79,
+"gain": 5.3
+},
+{
+"n": "21.3",
+"t": {
+"E": "20261008_154327_dbba0a79-2485-4e4a-a08e-cd5ee2aa3513"
+},
+"ss": 0,
+"maxdur": 3.04,
+"gain": -0.5
+},
+{
+"n": "10.1",
+"t": {
+"B": "20261008_154327_5eec6e44-78dd-4f17-a0e3-abe2f8c8086f"
+},
+"ss": 0.66,
+"maxdur": 4.04,
+"gain": 5.7,
+"lt": [
+[
+"BRADLEY CALDWELL",
+"Ethan's younger brother",
+0.3,
+3.18
+]
+]
+},
+{
+"n": "10.2",
+"t": {
+"B": "20261008_154426_12b2963c-7cd9-4b06-acbc-c66fcab5753f"
+},
+"ss": 2.7,
+"maxdur": 8.03,
+"gain": 1.2
+},
+{
+"n": "10.3",
+"t": {
+"G": "20261008_154606_66dfe9ca-eefd-4ffd-9481-4189244e5587"
+},
+"ss": 1.2,
+"maxdur": 2.93,
+"gain": 2.5
+},
+{
+"n": "10.4",
+"t": {
+"B": "20261008_154426_36c2f1ca-a878-4788-8bb9-aa86ad3c4113"
+},
+"ss": 1.64,
+"maxdur": 3.04,
+"gain": 2.8
+},
+{
+"n": 11,
+"t": {
+"X": "20261006_182915_a8df59b6-0d2b-4815-8822-d4efe7821a8a"
+}
+},
+{
+"n": 22,
+"t": {
+"X": "20261006_183013_681cd24b-5b7a-4940-946b-296cdcb7e241"
+}
+},
+{
+"n": "23.1",
+"t": {
+"V": "20261008_154425_68283362-8bcd-453b-a55b-e90535c194a8"
+},
+"ss": 0,
+"maxdur": 10.03,
+"gain": -0.2
+},
+{
+"n": "23.2",
+"t": {
+"G": "20261008_154426_412e7622-639f-440a-b92e-dcc6cf11088f"
+},
+"ss": 0.98,
+"maxdur": 2.95,
+"gain": 9.2
+},
+{
+"n": "24.1",
+"t": {
+"V": "20261008_154426_a06dbc37-e7f0-431f-8309-2d7d3648454b"
+},
+"ss": 0,
+"maxdur": 2.97,
+"gain": -0.6
+},
+{
+"n": "24.2",
+"t": {
+"G": "20261008_154605_fbf227fc-3536-476e-8971-bd1975e87fb7"
+},
+"ss": 0.92,
+"maxdur": 3.85,
+"gain": 7.3
+},
+{
+"n": "24.3",
+"t": {
+"V": "20261008_154426_751de745-6ad4-4e47-94e0-4cfefe94df8b"
+},
+"ss": 1.94,
+"maxdur": 4.04,
+"gain": -1.9
+},
+{
+"n": "24.4",
+"t": {
+"G": "20261008_154425_f8876a53-52a8-47eb-89cc-7ab2d4f06398"
+},
+"ss": 0,
+"maxdur": 2.07,
+"gain": 7.3
+},
+{
+"n": "24.5",
+"t": {
+"V": "20261008_152000_179ebec0-b94f-43ea-ad6d-d98eb4397695"
+},
+"ss": 0.98,
+"maxdur": 3.04,
+"gain": 2.8
+},
+{
+"n": "25.1",
+"t": {
+"V": "20261008_154426_7717add8-f435-4b27-948c-f38a6267dd4f"
+},
+"ss": 2.62,
+"maxdur": 7.04,
+"gain": 0.7
+},
+{
+"n": 26,
+"t": {
+"X": "20261006_183132_0c0777b4-c12b-4dae-abf8-738adfdb69c2"
+}
+},
+{
+"n": "27.1",
+"t": {
+"V": "20261008_152525_6ad54442-e777-4cbd-8bb6-49bfdef0bd42"
+},
+"ss": 1.56,
+"maxdur": 3.04,
+"gain": 0.9
+},
+{
+"n": "27.2",
+"t": {
+"G": "20261008_154607_95011ef2-462a-499c-9a5c-6d8d3194819a"
+},
+"ss": 1.36,
+"maxdur": 4.04,
+"gain": 6.0
+},
+{
+"n": "27.3",
+"t": {
+"V": "20261008_154606_edd73820-482b-456e-81be-b0da08bd919b"
+},
+"ss": 1.38,
+"maxdur": 3.04,
+"gain": 0.0
+},
+{
+"n": "27.4",
+"t": {
+"G": "20261008_154608_09155d19-f73b-4e3c-992c-f103a434be41"
+},
+"ss": 0.68,
+"maxdur": 3.04,
+"gain": 8.7
+},
+{
+"n": "28.1",
+"t": {
+"V": "20261008_154607_ef4773f2-7e6b-4ddc-b9c1-e98935b176d8"
+},
+"ss": 0,
+"maxdur": 7.04,
+"gain": -0.5
+},
+{
+"n": "29.1",
+"t": {
+"E": "20261008_154607_b241a3c8-1351-4745-b571-1a92f248de7d"
+},
+"ss": 1.78,
+"maxdur": 3.04,
+"gain": 1.1
+},
+{
+"n": "29.2",
+"t": {
+"V": "20261008_154607_d4399d6c-6168-414c-987c-0aeb25f051ae"
+},
+"ss": 1.96,
+"maxdur": 5.04,
+"gain": 2.1
+},
+{
+"n": "29.3",
+"t": {
+"E": "20261008_154607_e2d08d43-73c6-4559-81e0-27af3ec23bde"
+},
+"ss": 0.94,
+"maxdur": 3.13,
+"gain": 1.6
+},
+{
+"n": "29.4",
+"t": {
+"V": "20261008_155039_8ed36318-d5c1-446e-8029-317c2cd4a35b"
+},
+"ss": 1.18,
+"maxdur": 5.04,
+"gain": -1.6
+},
+{
+"n": "30.1",
+"t": {
+"E": "20261008_155039_5f04a4c5-7022-4154-806c-eb38e2ae6a88"
+},
+"ss": 1.76,
+"maxdur": 4.04,
+"gain": 3.6
+},
+{
+"n": "30.2",
+"t": {
+"G": "20261008_155039_169d4a2a-207d-4380-93ec-9070e3294770"
+},
+"ss": 0.92,
+"maxdur": 3.01,
+"gain": 5.9
+},
+{
+"n": "30.3",
+"t": {
+"E": "20261008_155038_eb8b273b-1511-4653-84d2-ea148ffbddfc"
+},
+"ss": 0.86,
+"maxdur": 6.77,
+"gain": 0.8
+},
+{
+"n": "31.1",
+"t": {
+"G": "20261008_155039_4b613460-fbb6-4944-a20e-752618739cd1"
+},
+"ss": 2.04,
+"maxdur": 6.91,
+"gain": 6.3
+},
+{
+"card": "1:00 A.M."
+},
+{
+"n": "34.1",
+"t": {
+"E": "20261008_155038_fa58b3aa-d73f-4abc-9443-c283b4221c58"
+},
+"ss": 0.64,
+"maxdur": 5.04,
+"gain": 2.0
+},
+{
+"n": "34.2",
+"t": {
+"G": "20261008_155039_031e9276-2a89-4428-9e1f-66caee3fae28"
+},
+"ss": 0,
+"maxdur": 2.95,
+"gain": 9.2
+},
+{
+"n": "35.1",
+"t": {
+"G": "20261008_155256_48966bc3-db09-4741-8303-9fbf7433fb36"
+},
+"ss": 0.38,
+"maxdur": 14.04,
+"gain": 8.9
+},
+{
+"n": "36.1",
+"t": {
+"E": "20261008_155039_5eca9ba0-24e3-4388-92e5-26d45de62e21"
+},
+"ss": 2.34,
+"maxdur": 5.04,
+"gain": 0.4
+},
+{
+"card": "LATER THAT NIGHT"
+},
+{
+"n": "32.1",
+"t": {
+"M": "20261008_155255_0a978c62-a849-456a-8701-aed1e3b10f71"
+},
+"ss": 0.8,
+"maxdur": 5.41,
+"gain": -3.1,
+"pre": "crop=iw*0.84:ih*0.84:iw*0.08:0",
+"lt": [
+[
+"MAMA RUTH",
+"Grace's mother",
+0.3,
+4.41
+]
+]
+},
+{
+"n": "32.2",
+"t": {
+"G": "20261008_155255_cba07551-5d49-4ba1-82dd-9b301a8ce3d6"
+},
+"ss": 0.56,
+"maxdur": 4.04,
+"gain": 7.3
+},
+{
+"n": "33.1",
+"t": {
+"M": "20261008_155038_6d208dca-1ee7-41d5-8f3b-f7e8930e59e7"
+},
+"ss": 1.04,
+"maxdur": 3.04,
+"gain": -6.2
+},
+{
+"n": "33.2",
+"t": {
+"G": "20261008_152114_a7c258be-fc63-4da3-8b15-1947d01ddca4"
+},
+"ss": 1.66,
+"maxdur": 9.04,
+"gain": -0.5
+},
+{
+"card": "THE NEXT NIGHT"
+},
+{
+"n": 37,
+"t": {
+"X": "20261006_183147_4eb923f1-fb16-425f-9aa5-aaaafa6715e7"
+}
+},
+{
+"n": 38,
+"t": {
+"X": "20261006_194034_2814d573-5abd-4304-ad27-51e412a09923"
+}
+},
+{
+"n": "39.1",
+"t": {
+"V": "20261008_155256_ce022b68-657e-4b18-9759-5f2b56f65e83"
+},
+"ss": 0,
+"maxdur": 2.83,
+"gain": 1.8
+},
+{
+"n": "39.2",
+"t": {
+"G": "20261008_155255_e5d60fc7-970a-45b1-a3de-df4f64cdcbba"
+},
+"ss": 0.6,
+"maxdur": 2.89,
+"gain": 8.2
+},
+{
+"n": "39.3",
+"t": {
+"V": "20261008_155255_ceb67876-9d7a-4b4f-9d53-47b649cf15a5"
+},
+"ss": 0.82,
+"maxdur": 9.04,
+"gain": -1.0
+},
+{
+"n": "40.1",
+"t": {
+"V": "20261008_155255_d1adecfb-db76-4a18-8d07-a2e2a1c8ba9f"
+},
+"ss": 0,
+"maxdur": 2.37,
+"gain": 1.5
+}
+]

@@ -1,0 +1,569 @@
+{
+"1:1": {
+"stem": "20261008_154227_10e4f04b-1bf5-49a7-ae89-a2502a71dab3",
+"src": "vc",
+"spk": "V",
+"o": 3,
+"text": "Move! Are you blind?"
+},
+"1:2": {
+"stem": "20261008_154225_1cd5e7e2-7320-4669-824c-20ac74cd0338",
+"src": "vc",
+"spk": "G",
+"o": 3,
+"text": "I'm so sorry, ma'am."
+},
+"1:3": {
+"stem": "20261008_153959_dc001d62-13f3-453b-a6e8-6cab6060099c",
+"src": "vc",
+"spk": "V",
+"o": 3,
+"text": "Ugh. Let me guess. The new help."
+},
+"1:4": {
+"stem": "20261008_151840_269fdc17-ed93-484e-b901-14f1f4135b04",
+"src": "raw",
+"spk": "U",
+"o": 4,
+"text": "You Grace Miller?"
+},
+"1:5": {
+"stem": "20261008_154227_7ff9e66d-9290-494a-9068-0ec647684bc8",
+"src": "vc",
+"spk": "G",
+"o": 4,
+"text": "Yes, sir."
+},
+"1:6": {
+"stem": "20261008_151840_d3737986-916a-4d5f-b867-270461b2deaa",
+"src": "raw",
+"spk": "U",
+"o": 4,
+"text": "Follow me."
+},
+"1:7": {
+"stem": "20261008_154302_144e843d-e7c6-4d79-8a33-d01da72cdadc",
+"src": "vc",
+"spk": "G",
+"o": 5,
+"text": "How many cars does one man need?"
+},
+"1:8": {
+"stem": "20261008_151841_063fb8f6-0696-410e-8167-30fd0c6574af",
+"src": "raw",
+"spk": "U",
+"o": 5,
+"text": "You're staring at the Ferrari like it owes you money."
+},
+"1:9": {
+"stem": "20261008_155255_915fe6c1-16dc-451f-9f5a-fa119e04dbd3",
+"src": "vc",
+"spk": "H",
+"o": 7,
+"text": "You must be Grace."
+},
+"1:10": {
+"stem": "20261008_151841_93609faf-fa71-435a-bf9b-77f5c4c5898f",
+"src": "raw",
+"spk": "G",
+"o": 7,
+"text": "Yes, ma'am."
+},
+"1:11": {
+"stem": "20261008_155449_6740b5bf-72f7-4f6e-b8a4-a92b9150668a",
+"src": "vc",
+"spk": "H",
+"o": 7,
+"text": "I'm Mrs. Hayes. I run this house. Have you cleaned a house like this before?"
+},
+"1:12": {
+"stem": "20261008_154301_082e982c-3f15-4c14-83eb-e47199439ee6",
+"src": "vc",
+"spk": "G",
+"o": 7,
+"text": "No, ma'am. But I cleaned hospital rooms for two years. Nothing is dirtier than a hospital."
+},
+"1:13": {
+"stem": "20261008_155451_cf52a3b9-bf9d-436e-b14d-878f9841027b",
+"src": "vc",
+"spk": "H",
+"o": 8,
+"text": "We'll see. Your uniform is in the laundry room. You start today."
+},
+"1:14": {
+"stem": "20261008_154302_3a31ea19-f76a-4e72-96d3-82398447560d",
+"src": "vc",
+"spk": "H",
+"o": 9,
+"text": "Never enter Mr. Caldwell's study. Never touch his desk. And never, ever argue with Miss Pierce."
+},
+"1:15": {
+"stem": "20261008_154301_01c85ed8-b03e-42ec-a782-d12ba6704e35",
+"src": "vc",
+"spk": "G",
+"o": 9,
+"text": "Who's Miss Pierce?"
+},
+"1:16": {
+"stem": "20261008_154327_16ed3439-91b5-4cc1-8277-db31995ee50f",
+"src": "vc",
+"spk": "H",
+"o": 9,
+"text": "You'll know her when you hear her."
+},
+"1:17": {
+"stem": "20261008_154326_79f7ab4e-eab4-42e8-8eff-9cf464aaca79",
+"src": "vc",
+"spk": "G",
+"o": 9,
+"text": "I think I already met her."
+},
+"1:18": {
+"stem": "20261008_154301_107480cb-a5fd-4f0b-bcde-85546983c7cf",
+"src": "vc",
+"spk": "H",
+"o": 12,
+"text": "Good morning, Mr. Caldwell."
+},
+"1:19": {
+"stem": "20261008_154302_062e60e4-53c1-4381-949e-9d1a7433eadb",
+"src": "vc",
+"spk": "E",
+"o": 12,
+"text": "Good morning, Mrs. Hayes."
+},
+"1:20": {
+"stem": "20261008_154302_73eec289-12a3-4f44-a8a3-381f24f68018",
+"src": "vc",
+"spk": "H",
+"o": 12,
+"text": "This is Grace. New staff."
+},
+"1:21": {
+"stem": "20261008_154301_77b92121-db79-4e1c-90bd-1a68db54a30b",
+"src": "vc",
+"spk": "E",
+"o": 13,
+"text": "Ethan. Welcome, Grace."
+},
+"1:22": {
+"stem": "20261008_154327_6fa1fe31-8890-49fc-8951-22c076af11fc",
+"src": "vc",
+"spk": "G",
+"o": 13,
+"text": "Thank you, sir."
+},
+"1:23": {
+"stem": "20261008_154327_1173d3a4-3254-4796-b9f9-d37c8478a443",
+"src": "vc",
+"spk": "E",
+"o": 13,
+"text": "If Mrs. Hayes gives you a hard time, you're on your own."
+},
+"1:24": {
+"stem": "20261008_154327_460a375b-0909-46d8-af9c-d317106dcf3e",
+"src": "vc",
+"spk": "H",
+"o": 13,
+"text": "I heard that."
+},
+"1:25": {
+"stem": "20261008_154327_1b40932d-1f20-4770-a62c-f2c0ec060982",
+"src": "vc",
+"spk": "G",
+"o": 20,
+"text": "Try it now."
+},
+"1:26": {
+"stem": "20261008_154606_61715398-418e-4bcf-8a22-c84b6616a27b",
+"src": "vc",
+"spk": "E",
+"o": 20,
+"text": "That's perfect. How did you know?"
+},
+"1:27": {
+"stem": "20261008_154327_d1334ceb-31ef-467a-ab97-ec38a5251bf6",
+"src": "vc",
+"spk": "G",
+"o": 20,
+"text": "You've burned your tongue three mornings in a row, sir. A man who runs three hundred trucks can wait one minute for coffee."
+},
+"1:28": {
+"stem": "20261008_154327_f6b49899-b51e-46c4-b26b-aaf3776282fd",
+"src": "vc",
+"spk": "E",
+"o": 21,
+"text": "Nobody in this house talks to me like that."
+},
+"1:29": {
+"stem": "20261008_154327_0d41c1f3-edf2-45d8-b227-9da107cdce7f",
+"src": "vc",
+"spk": "G",
+"o": 21,
+"text": "I'm sorry, sir."
+},
+"1:30": {
+"stem": "20261008_154327_dbba0a79-2485-4e4a-a08e-cd5ee2aa3513",
+"src": "vc",
+"spk": "E",
+"o": 21,
+"text": "No. It's refreshing."
+},
+"1:31": {
+"stem": "20261008_154327_5eec6e44-78dd-4f17-a0e3-abe2f8c8086f",
+"src": "vc",
+"spk": "B",
+"o": 10,
+"text": "End of the month, Rick. You'll have every dollar."
+},
+"1:32": {
+"stem": "20261008_154426_12b2963c-7cd9-4b06-acbc-c66fcab5753f",
+"src": "vc",
+"spk": "B",
+"o": 10,
+"text": "Vitamins. For my brother. And you didn't hear any of that, sweetheart. Did you?"
+},
+"1:33": {
+"stem": "20261008_154606_66dfe9ca-eefd-4ffd-9481-4189244e5587",
+"src": "vc",
+"spk": "G",
+"o": 10,
+"text": "Hear what, sir?"
+},
+"1:34": {
+"stem": "20261008_154426_36c2f1ca-a878-4788-8bb9-aa86ad3c4113",
+"src": "vc",
+"spk": "B",
+"o": 10,
+"text": "Smart girl."
+},
+"1:35": {
+"stem": "20261008_154425_68283362-8bcd-453b-a55b-e90535c194a8",
+"src": "vc",
+"spk": "V",
+"o": 23,
+"text": "You again. The girl from the gate. Get these upstairs. Carefully. Some of these cost more than you make in a year."
+},
+"1:36": {
+"stem": "20261008_154426_412e7622-639f-440a-b92e-dcc6cf11088f",
+"src": "vc",
+"spk": "G",
+"o": 23,
+"text": "Yes, ma'am."
+},
+"1:37": {
+"stem": "20261008_154426_a06dbc37-e7f0-431f-8309-2d7d3648454b",
+"src": "vc",
+"spk": "V",
+"o": 24,
+"text": "Change these sheets."
+},
+"1:38": {
+"stem": "20261008_154605_fbf227fc-3536-476e-8971-bd1975e87fb7",
+"src": "vc",
+"spk": "G",
+"o": 24,
+"text": "I changed them this morning, ma'am."
+},
+"1:39": {
+"stem": "20261008_154426_751de745-6ad4-4e47-94e0-4cfefe94df8b",
+"src": "vc",
+"spk": "V",
+"o": 24,
+"text": "Did I ask for your opinion?"
+},
+"1:40": {
+"stem": "20261008_154425_f8876a53-52a8-47eb-89cc-7ab2d4f06398",
+"src": "vc",
+"spk": "G",
+"o": 24,
+"text": "No, ma'am."
+},
+"1:41": {
+"stem": "20261008_152000_179ebec0-b94f-43ea-ad6d-d98eb4397695",
+"src": "raw",
+"spk": "V",
+"o": 24,
+"text": "Then change them."
+},
+"1:42": {
+"stem": "20261008_154426_7717add8-f435-4b27-948c-f38a6267dd4f",
+"src": "vc",
+"spk": "V",
+"o": 25,
+"text": "People like you should be grateful to even be inside a house like this."
+},
+"1:43": {
+"stem": "20261008_152525_6ad54442-e777-4cbd-8bb6-49bfdef0bd42",
+"src": "raw",
+"spk": "V",
+"o": 27,
+"text": "This is dirty."
+},
+"1:44": {
+"stem": "20261008_154607_95011ef2-462a-499c-9a5c-6d8d3194819a",
+"src": "vc",
+"spk": "G",
+"o": 27,
+"text": "I cleaned it five minutes ago, ma'am."
+},
+"1:45": {
+"stem": "20261008_154606_edd73820-482b-456e-81be-b0da08bd919b",
+"src": "vc",
+"spk": "V",
+"o": 27,
+"text": "Then what's this?"
+},
+"1:46": {
+"stem": "20261008_154608_09155d19-f73b-4e3c-992c-f103a434be41",
+"src": "vc",
+"spk": "G",
+"o": 27,
+"text": "That's your fingerprint, ma'am."
+},
+"1:47": {
+"stem": "20261008_154607_ef4773f2-7e6b-4ddc-b9c1-e98935b176d8",
+"src": "vc",
+"spk": "V",
+"o": 28,
+"text": "Clean it again. Harder. And don't you ever forget your position in this house."
+},
+"1:48": {
+"stem": "20261008_154607_b241a3c8-1351-4745-b571-1a92f248de7d",
+"src": "vc",
+"spk": "E",
+"o": 29,
+"text": "What's going on?"
+},
+"1:49": {
+"stem": "20261008_154607_d4399d6c-6168-414c-987c-0aeb25f051ae",
+"src": "vc",
+"spk": "V",
+"o": 29,
+"text": "Baby! She just didn't clean the table properly."
+},
+"1:50": {
+"stem": "20261008_154607_e2d08d43-73c6-4559-81e0-27af3ec23bde",
+"src": "vc",
+"spk": "E",
+"o": 29,
+"text": "It looks clean to me."
+},
+"1:51": {
+"stem": "20261008_155039_8ed36318-d5c1-446e-8029-317c2cd4a35b",
+"src": "vc",
+"spk": "V",
+"o": 29,
+"text": "You men never notice anything. Come see the wedding flowers."
+},
+"1:52": {
+"stem": "20261008_155039_5f04a4c5-7022-4154-806c-eb38e2ae6a88",
+"src": "vc",
+"spk": "E",
+"o": 30,
+"text": "Grace. What really happened in there?"
+},
+"1:53": {
+"stem": "20261008_155039_169d4a2a-207d-4380-93ec-9070e3294770",
+"src": "vc",
+"spk": "G",
+"o": 30,
+"text": "It's nothing, sir."
+},
+"1:54": {
+"stem": "20261008_155038_eb8b273b-1511-4653-84d2-ea148ffbddfc",
+"src": "vc",
+"spk": "E",
+"o": 30,
+"text": "You don't have to let anybody disrespect you because you work here. Not even her."
+},
+"1:55": {
+"stem": "20261008_155039_4b613460-fbb6-4944-a20e-752618739cd1",
+"src": "vc",
+"spk": "G",
+"o": 31,
+"text": "With respect, sir, I need this job more than I need my pride."
+},
+"1:56": {
+"stem": "20261008_155038_fa58b3aa-d73f-4abc-9443-c283b4221c58",
+"src": "vc",
+"spk": "E",
+"o": 34,
+"text": "Neuromuscular rehabilitation. Light reading? You're studying physical therapy?"
+},
+"1:57": {
+"stem": "20261008_155039_031e9276-2a89-4428-9e1f-66caee3fae28",
+"src": "vc",
+"spk": "G",
+"o": 34,
+"text": "At night. Online."
+},
+"1:58": {
+"stem": "20261008_155256_48966bc3-db09-4741-8303-9fbf7433fb36",
+"src": "vc",
+"spk": "G",
+"o": 35,
+"text": "My daddy had a stroke when I was twelve. Nobody came to help him walk again. So I did. He walked me to the bus every day for six years after that."
+},
+"1:59": {
+"stem": "20261008_155039_5eca9ba0-24e3-4388-92e5-26d45de62e21",
+"src": "vc",
+"spk": "E",
+"o": 36,
+"text": "That's the best thing anybody's told me in a year."
+},
+"1:60": {
+"stem": "20261008_155255_0a978c62-a849-456a-8701-aed1e3b10f71",
+"src": "vc",
+"spk": "M",
+"o": 32,
+"text": "The inhaler went up again, baby. Three hundred and forty dollars."
+},
+"1:61": {
+"stem": "20261008_155255_cba07551-5d49-4ba1-82dd-9b301a8ce3d6",
+"src": "vc",
+"spk": "G",
+"o": 32,
+"text": "I'll have it Friday, Mama. Every penny."
+},
+"1:62": {
+"stem": "20261008_155038_6d208dca-1ee7-41d5-8f3b-f7e8930e59e7",
+"src": "vc",
+"spk": "M",
+"o": 33,
+"text": "And your exam?"
+},
+"1:63": {
+"stem": "20261008_152114_a7c258be-fc63-4da3-8b15-1947d01ddca4",
+"src": "raw",
+"spk": "G",
+"o": 33,
+"text": "Six months. Then I'm a licensed physical therapist, and nobody tells me to clean a clean table ever again."
+},
+"1:64": {
+"stem": "20261008_155256_ce022b68-657e-4b18-9759-5f2b56f65e83",
+"src": "vc",
+"spk": "V",
+"o": 39,
+"text": "You didn't see anything."
+},
+"1:65": {
+"stem": "20261008_155255_e5d60fc7-970a-45b1-a3de-df4f64cdcbba",
+"src": "vc",
+"spk": "G",
+"o": 39,
+"text": "Ma'am, I"
+},
+"1:66": {
+"stem": "20261008_155255_ceb67876-9d7a-4b4f-9d53-47b649cf15a5",
+"src": "vc",
+"spk": "V",
+"o": 39,
+"text": "Your little brother's inhaler. Three hundred and forty dollars. One word to Ethan and you'll never work in Nashville again."
+},
+"1:67": {
+"stem": "20261008_155255_d1adecfb-db76-4a18-8d07-a2e2a1c8ba9f",
+"src": "vc",
+"spk": "V",
+"o": 40,
+"text": "Good girl."
+},
+"2:1": {
+"stem": "20261008_155449_b537c13f-09a0-408a-84a7-53c77d34addd",
+"src": "vc",
+"spk": "E",
+"o": 7,
+"text": "Thanks, Brad."
+},
+"2:2": {
+"stem": "20261008_155450_1d32ce9e-da65-47aa-be7b-af9aba803f41",
+"src": "vc",
+"spk": "H",
+"o": 24,
+"text": "Where's Miss Pierce?"
+},
+"2:3": {
+"stem": "20261008_155450_b34df166-1ff3-42f3-92d0-efaacb0e99cb",
+"src": "vc",
+"spk": "G",
+"o": 25,
+"text": "She said she'd come in the morning. She was tired."
+},
+"2:4": {
+"stem": "20261008_155807_45161fc9-26db-43af-acdc-4e50b33e6e9a",
+"src": "vc",
+"spk": "E",
+"o": 27,
+"text": "Where... am I?"
+},
+"2:5": {
+"stem": "20261008_155448_c99aa21c-60f1-4dc1-95d8-a53f5f4d763a",
+"src": "vc",
+"spk": "E",
+"o": 29,
+"text": "I'm thirty-four."
+},
+"2:6": {
+"stem": "20261008_153746_d92bc948-9943-4e54-8939-3b7d28e9dad5",
+"src": "raw",
+"spk": "E",
+"o": 31,
+"text": "My legs. Why can't I... Why can't I move my legs?!"
+},
+"2:7": {
+"stem": "20261008_155449_53f284c5-7499-4f27-8873-30d998b78e7e",
+"src": "vc",
+"spk": "E",
+"o": 33,
+"text": "Doctor. Tell me the truth. Will I walk again?"
+},
+"2:8": {
+"stem": "20261008_155450_a1337f20-24b4-4cbe-9c9e-d59946c8e4f5",
+"src": "vc",
+"spk": "G",
+"o": 39,
+"text": "Mrs. Hayes sent soup. Real food. The hospital stuff could kill a healthy man."
+},
+"2:9": {
+"stem": "20261008_155813_0fe2e66f-b723-4bdd-bfa0-2cf6f5908084",
+"src": "vc",
+"spk": "E",
+"o": 40,
+"text": "I'm not hungry."
+},
+"2:10": {
+"stem": "20261008_155814_a6fdbadc-11a2-4256-828e-73810c3c9606",
+"src": "vc",
+"spk": "G",
+"o": 41,
+"text": "I didn't ask if you were hungry."
+},
+"2:11": {
+"stem": "20261008_155813_5762bc2c-c28d-4ff4-9b75-09447740a729",
+"src": "vc",
+"spk": "E",
+"o": 43,
+"text": "You know what's funny? When I had everything, I couldn't get a minute alone. Now nobody picks up."
+},
+"2:12": {
+"stem": "20261008_153746_830dbdcd-9bfb-4a1f-bde9-acd5e67df121",
+"src": "raw",
+"spk": "G",
+"o": 44,
+"text": "I picked up."
+},
+"2:13": {
+"stem": "20261008_155815_358771e5-5fff-471c-877d-925ffa07f202",
+"src": "vc",
+"spk": "E",
+"o": 45,
+"text": "You work for me."
+},
+"2:14": {
+"stem": "20261008_155814_d46e0bbd-549f-4097-9260-d7016fd69b71",
+"src": "vc",
+"spk": "G",
+"o": 46,
+"text": "Not today, sir. Today's my day off."
+}
+}
