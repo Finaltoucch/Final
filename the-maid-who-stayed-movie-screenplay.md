@@ -267,6 +267,14 @@ ever again.
 *Ethan looks at her like he's seeing her for the first time.*
 **ETHAN:** That's the best thing anybody's told me in a year.
 
+**15b. MANSION HALLWAY — NEXT NIGHT** (5:10)
+*Grace, still in uniform, whispers into her phone at the end of the upstairs hallway. Behind her a
+bedroom door stands half open. VANESSA has stopped in the doorway, listening. Grace never sees her.*
+
+**GRACE** *(whispering)*: I know, Mama. Three hundred and forty for Sam's inhaler. I'll have it Friday.
+
+*(This plants Vanessa's "I hear everything in this house" in scene 17.)*
+
 **16. POOL HOUSE — NIGHT** (5:15)
 *Grace carries fresh towels toward the pool house. Through the glass door she sees VANESSA
 kissing BRADLEY.*
