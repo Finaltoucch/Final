@@ -1,0 +1,670 @@
+{
+ "shots": [
+  {
+   "id": 1,
+   "dur": 3,
+   "refs": [
+    "AP6",
+    "G8"
+   ],
+   "frame": "Close-up of the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a soft lavender T-shirt and light-wash jeans in Grace's small cozy apartment in daylight (worn floral sofa, small wooden kitchen table with a laptop, family photos on the wall, peeling paint, front door), seated at the kitchen table reading an email on a silver laptop, her hand rising to her mouth, eyes widening. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "She reads the screen, freezes, and her eyes go wide with disbelief. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "SIX WEEKS LATER",
+   "master": "A1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 2,
+   "dur": 5,
+   "refs": [
+    "@A1",
+    "G8"
+   ],
+   "frame": "Medium shot of the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a soft lavender T-shirt and light-wash jeans in Grace's small cozy apartment in daylight (worn floral sofa, small wooden kitchen table with a laptop, family photos on the wall, peeling paint, front door), jumping up from the kitchen table, overjoyed, shouting toward the next room, facing the camera. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The young woman jumps up and shouts joyfully: \"Mama! Sam! I passed! I'm a licensed physical therapist!\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 3,
+   "dur": 4,
+   "refs": [
+    "@A1",
+    "MR",
+    "SAM"
+   ],
+   "frame": "Medium wide shot in Grace's small cozy apartment in daylight (worn floral sofa, small wooden kitchen table with a laptop, family photos on the wall, peeling paint, front door): Mama Ruth, a warm 52-year-old Black woman with short natural graying curly hair and tortoiseshell glasses, in a floral blouse and a cream cardigan and Sam, a 10-year-old Black boy with short curly hair, in a navy blue number 22 football jersey and jeans rush in and pile onto the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a soft lavender T-shirt and light-wash jeans in a big joyful three-way hug, laughing. Exactly THREE people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The mother and the boy rush in and wrap the young woman in a big laughing hug.",
+   "spk": "X1",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": "on",
+   "trim": null
+  },
+  {
+   "id": 4,
+   "dur": 3,
+   "refs": [
+    "@A1",
+    "E8"
+   ],
+   "frame": "Medium shot of the very handsome WHITE man, 34, with light skin, very dark brown short hair and a short full dark beard, in a light blue button-down shirt with the sleeves rolled up and dark chinos in Grace's small cozy apartment in daylight (worn floral sofa, small wooden kitchen table with a laptop, family photos on the wall, peeling paint, front door), leaning in the open front doorway holding a bouquet of sunflowers, grinning warmly. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The man in the doorway grins, holding the sunflowers, watching them. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": "A2",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 5,
+   "dur": 3,
+   "refs": [
+    "@A2"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, very dark brown short hair and a short full dark beard, in a light blue button-down shirt with the sleeves rolled up and dark chinos in Grace's small cozy apartment in daylight (worn floral sofa, small wooden kitchen table with a laptop, family photos on the wall, peeling paint, front door), in the doorway holding sunflowers, proud smile, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a lavender T-shirt, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The man smiles and says warmly: \"I'm proud of you.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": "A3",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 6,
+   "dur": 3,
+   "refs": [
+    "@A1",
+    "G8"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a soft lavender T-shirt and light-wash jeans in Grace's small cozy apartment in daylight (worn floral sofa, small wooden kitchen table with a laptop, family photos on the wall, peeling paint, front door), standing, surprised and delighted, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with very dark brown hair in a light blue shirt, in the doorway, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The young woman asks, surprised: \"You knew?\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": "A4",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 7,
+   "dur": 8,
+   "refs": [
+    "@A3"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, very dark brown short hair and a short full dark beard, in a light blue button-down shirt with the sleeves rolled up and dark chinos in Grace's small cozy apartment in daylight (worn floral sofa, small wooden kitchen table with a laptop, family photos on the wall, peeling paint, front door), in the doorway with the sunflowers, playful, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a lavender T-shirt, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The man says with a straight face: \"Harold has friends at the licensing board.\" He pauses one second, then grins and says: \"Kidding. I just refreshed the website forty times.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 8,
+   "dur": 9,
+   "refs": [
+    "@A1",
+    "SAM"
+   ],
+   "frame": "Medium shot of Sam, a 10-year-old Black boy with short curly hair, in a navy blue number 22 football jersey and jeans in Grace's small cozy apartment in daylight (worn floral sofa, small wooden kitchen table with a laptop, family photos on the wall, peeling paint, front door), bursting in excitedly waving a sheet of paper, facing the camera. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The boy waves the paper and says excitedly: \"Gracie! Gracie! The hospital called. Somebody paid my whole bill. And there's a fund for my inhalers. Until I'm eighteen!\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks. Each word is said exactly once.",
+   "spk": "X2",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 9,
+   "dur": 3,
+   "refs": [
+    "@A4"
+   ],
+   "frame": "Close-up of the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a soft lavender T-shirt and light-wash jeans in Grace's small cozy apartment in daylight (worn floral sofa, small wooden kitchen table with a laptop, family photos on the wall, peeling paint, front door), slowly turning her head toward someone, realization dawning, eyes narrowing with a smile. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The young woman slowly turns her head, realization dawning on her face. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 10,
+   "dur": 4,
+   "refs": [
+    "@A3"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, very dark brown short hair and a short full dark beard, in a light blue button-down shirt with the sleeves rolled up and dark chinos in Grace's small cozy apartment in daylight (worn floral sofa, small wooden kitchen table with a laptop, family photos on the wall, peeling paint, front door), in the doorway, shrugging innocently and looking up at the ceiling, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a lavender T-shirt, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The man shrugs, looks up at the ceiling and says innocently: \"Mrs. Hayes might have mentioned something.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 11,
+   "dur": 3,
+   "refs": [
+    "@A4"
+   ],
+   "frame": "Close-up of the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a soft lavender T-shirt and light-wash jeans in Grace's small cozy apartment in daylight (worn floral sofa, small wooden kitchen table with a laptop, family photos on the wall, peeling paint, front door), eyes filling with tears, moved, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with very dark brown hair in a light blue shirt, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "Her eyes fill with tears and she says softly: \"Ethan.\" Then she is silent. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 12,
+   "dur": 7,
+   "refs": [
+    "@A3"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, very dark brown short hair and a short full dark beard, in a light blue button-down shirt with the sleeves rolled up and dark chinos in Grace's small cozy apartment in daylight (worn floral sofa, small wooden kitchen table with a laptop, family photos on the wall, peeling paint, front door), tender and sincere, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a lavender T-shirt, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The man says gently: \"You held my hand on a garden floor, Grace. Let somebody hold yours for once.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 13,
+   "dur": 5,
+   "refs": [
+    "PORCH",
+    "E8",
+    "GGR"
+   ],
+   "frame": "Wide shot on the white-columned porch of a Southern mansion at night, dozens of candles, warm string lights, a small table for two with a white tablecloth: the very handsome WHITE man, 34, with light skin, very dark brown short hair and a short full dark beard, in a charcoal suit with a white open-collar shirt stands by the table for two, without a cane, as the beautiful curvy young Black woman with long box braids swept over one shoulder, dark brown eyes and a small gold cross necklace, in an elegant emerald-green dress with a modest neckline steps onto the porch, delighted by the candles. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The young woman steps onto the candlelit porch, taking in the lights; the man waits by the table, smiling. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "ONE MONTH LATER",
+   "master": "B1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 14,
+   "dur": 3,
+   "refs": [
+    "@B1"
+   ],
+   "frame": "Medium shot on the white-columned porch of a Southern mansion at night, dozens of candles, warm string lights, a small table for two with a white tablecloth: the very handsome WHITE man, 34, with light skin, very dark brown short hair and a short full dark beard, in a charcoal suit with a white open-collar shirt handing the beautiful curvy young Black woman with long box braids swept over one shoulder, dark brown eyes and a small gold cross necklace, in an elegant emerald-green dress with a modest neckline a small gift wrapped in brown paper and tied with string. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "He hands her the small brown-paper gift; she takes it, curious. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 15,
+   "dur": 3,
+   "refs": [
+    "@B1",
+    "GGR"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids swept over one shoulder, dark brown eyes and a small gold cross necklace, in an elegant emerald-green dress with a modest neckline on the white-columned porch of a Southern mansion at night, dozens of candles, warm string lights, a small table for two with a white tablecloth, holding a small brown-paper gift, curious smile, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with very dark brown hair in a charcoal suit, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The young woman asks with a curious smile: \"What's this?\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": "B2",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 16,
+   "dur": 9,
+   "refs": [
+    "@B1",
+    "E8"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, very dark brown short hair and a short full dark beard, in a charcoal suit with a white open-collar shirt on the white-columned porch of a Southern mansion at night, dozens of candles, warm string lights, a small table for two with a white tablecloth, warm and a little nervous, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with box braids in an emerald-green dress, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The man says softly: \"My mother's gardening gloves. Harold kept something in his safe for ten years, and told me to give it to the woman I wanted to marry.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": "B3",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 17,
+   "dur": 4,
+   "refs": [
+    "@B1"
+   ],
+   "frame": "Close-up on the white-columned porch of a Southern mansion at night, dozens of candles, warm string lights, a small table for two with a white tablecloth: a woman's hand sliding into an old worn tan leather gardening glove; a small gold ring and a folded yellowed note fall out of the glove into her open palm. Only hands visible, no faces. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "Her hand slides into the glove; a gold ring and a folded yellowed note drop out into her palm. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 18,
+   "dur": 12,
+   "refs": [
+    "@B2"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids swept over one shoulder, dark brown eyes and a small gold cross necklace, in an elegant emerald-green dress with a modest neckline on the white-columned porch of a Southern mansion at night, dozens of candles, warm string lights, a small table for two with a white tablecloth, holding an unfolded yellowed note in trembling hands, reading it, tears in her eyes, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with very dark brown hair in a charcoal suit, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "Reading the note aloud, her voice shaking with emotion, the young woman says: \"Ethan. If you're reading this, Harold says you finally found a woman who loves you and not your money. Took you long enough. Marry her. Love, Mom.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 185,
+   "dur": 4,
+   "refs": [
+    "@B2"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids swept over one shoulder, dark brown eyes and a small gold cross necklace, in an elegant emerald-green dress with a modest neckline on the white-columned porch of a Southern mansion at night, dozens of candles, warm string lights, a small table for two with a white tablecloth, holding an unfolded yellowed note in trembling hands, reading it, tears in her eyes, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with very dark brown hair in a charcoal suit, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "Still reading the note, her voice breaking: \"Marry her. Love, Mom.\"",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 19,
+   "dur": 3,
+   "refs": [
+    "@B2"
+   ],
+   "frame": "Close-up of the beautiful curvy young Black woman with long box braids swept over one shoulder, dark brown eyes and a small gold cross necklace, in an elegant emerald-green dress with a modest neckline on the white-columned porch of a Southern mansion at night, dozens of candles, warm string lights, a small table for two with a white tablecloth, looking up from the note, tears on her cheeks. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "She slowly lowers the note and looks up. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 20,
+   "dur": 4,
+   "refs": [
+    "@B1"
+   ],
+   "frame": "Medium wide shot on the white-columned porch of a Southern mansion at night, dozens of candles, warm string lights, a small table for two with a white tablecloth: the very handsome WHITE man, 34, with light skin, very dark brown short hair and a short full dark beard, in a charcoal suit with a white open-collar shirt slowly getting down on one knee on the porch floor without a cane, in front of the beautiful curvy young Black woman with long box braids swept over one shoulder, dark brown eyes and a small gold cross necklace, in an elegant emerald-green dress with a modest neckline, who covers her mouth. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The man slowly and steadily lowers himself onto one knee; she covers her mouth with her hand. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 21,
+   "dur": 12,
+   "refs": [
+    "@B3"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, very dark brown short hair and a short full dark beard, in a charcoal suit with a white open-collar shirt on the white-columned porch of a Southern mansion at night, dozens of candles, warm string lights, a small table for two with a white tablecloth, down on one knee, looking up at her, holding up a small gold ring, emotional, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with box braids in an emerald-green dress, standing, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "Kneeling, the man says with emotion: \"When I had everything, I thought I knew what love looked like. Then I lost everything, and you stayed. Grace Miller, will you stay for good?\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 22,
+   "dur": 4,
+   "refs": [
+    "@B2"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids swept over one shoulder, dark brown eyes and a small gold cross necklace, in an elegant emerald-green dress with a modest neckline on the white-columned porch of a Southern mansion at night, dozens of candles, warm string lights, a small table for two with a white tablecloth, crying and laughing at the same time, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with very dark brown hair in a charcoal suit, kneeling, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "Crying and laughing, the young woman says: \"Ethan Caldwell. Yes. Yes!\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 23,
+   "dur": 3,
+   "refs": [
+    "@B1"
+   ],
+   "frame": "Close-up on the white-columned porch of a Southern mansion at night, dozens of candles, warm string lights, a small table for two with a white tablecloth: a man's hand sliding a small gold ring onto a woman's ring finger, candlelight. Only hands visible. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "He slides the gold ring onto her finger. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 24,
+   "dur": 5,
+   "refs": [
+    "@B1"
+   ],
+   "frame": "Medium shot on the white-columned porch of a Southern mansion at night, dozens of candles, warm string lights, a small table for two with a white tablecloth: the very handsome WHITE man, 34, with light skin, very dark brown short hair and a short full dark beard, in a charcoal suit with a white open-collar shirt standing and the beautiful curvy young Black woman with long box braids swept over one shoulder, dark brown eyes and a small gold cross necklace, in an elegant emerald-green dress with a modest neckline sharing their first gentle kiss under the string lights, her hand on his cheek. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "They kiss tenderly under the string lights, then rest their foreheads together, smiling. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 25,
+   "dur": 6,
+   "refs": [
+    "DW",
+    "GBR",
+    "ETX"
+   ],
+   "frame": "Wide shot in the sunny garden of a white-columned Southern mansion on a wedding day (rows of white chairs, a white flower arch, roses, green lawn): under the flower arch stand the very handsome WHITE groom, 34, with very dark brown short hair and a short full dark beard, in a black tuxedo with a black bow tie and the beautiful young Black bride with her box braids in an elegant updo with small white flowers, a small gold cross necklace, in a white wedding gown with lace sleeves and a modest neckline; beside the bride stands the elegant 60-year-old Black woman Mrs. Hayes with silver hair in a neat bun and pearls, in an elegant lavender dress as maid of honor; at the front the heavy-set 62-year-old Black lawyer with a round full face, a short neat salt-and-pepper mustache, tortoiseshell glasses and a burgundy bow tie, in a navy suit and the pretty Latina woman, about 38, with a dark ponytail and a warm face, in a coral dress; in the front row Mama Ruth, a warm 52-year-old Black woman with short natural graying curly hair and tortoiseshell glasses, in a floral blouse and a cream cardigan wearing a giant purple church hat and a purple dress; a small boy ring bearer in a tiny black tuxedo; guests in the rows including the Latino man, about 35, with short black hair, in a dark gray suit. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "A gentle breeze moves the flowers; the guests smile; the bride and groom face each other under the arch. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "THE WEDDING",
+   "master": "C1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 26,
+   "dur": 3,
+   "refs": [
+    "@C1",
+    "MR"
+   ],
+   "frame": "Close-up of Mama Ruth, a warm 52-year-old Black woman with short natural graying curly hair and tortoiseshell glasses, in a purple dress and a giant purple church hat in the sunny garden of a white-columned Southern mansion on a wedding day (rows of white chairs, a white flower arch, roses, green lawn), seated in the front row, crying happy tears into a handkerchief. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "She dabs her happy tears with a handkerchief, beaming. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 27,
+   "dur": 3,
+   "refs": [
+    "@C1",
+    "SAM"
+   ],
+   "frame": "Medium close-up of Sam, a 10-year-old Black boy with short curly hair, in a tiny black tuxedo with a bow tie, proudly holding a small white ring pillow in the sunny garden of a white-columned Southern mansion on a wedding day (rows of white chairs, a white flower arch, roses, green lawn). Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The boy holds up the ring pillow proudly and grins. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 28,
+   "dur": 3,
+   "refs": [
+    "@C1",
+    "H"
+   ],
+   "frame": "Medium close-up of the elegant 60-year-old Black woman Mrs. Hayes with silver hair in a neat bun and pearls, in an elegant lavender dress in the sunny garden of a white-columned Southern mansion on a wedding day (rows of white chairs, a white flower arch, roses, green lawn), the maid of honor, holding a small bouquet, smiling and wiping a tear. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "She smiles warmly and wipes a single tear. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 29,
+   "dur": 10,
+   "refs": [
+    "@C1",
+    "GBR",
+    "ETX"
+   ],
+   "frame": "Wide shot on a wooden dance floor in the mansion garden at dusk, warm string lights overhead, guests watching from round tables: the very handsome WHITE groom, 34, with very dark brown short hair and a short full dark beard, in a black tuxedo with a black bow tie and the beautiful young Black bride with her box braids in an elegant updo with small white flowers, a small gold cross necklace, in a white wedding gown with lace sleeves and a modest neckline share their first dance; he spins her gracefully. Exactly TWO people dancing; guests softly blurred around the edges. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The groom spins the bride gracefully and steadily; they dance slowly, smiling; the guests watch. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": "D1",
+   "lt": null,
+   "raw": false,
+   "vo": "GVO",
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 30,
+   "dur": 4,
+   "refs": [
+    "@D1"
+   ],
+   "frame": "Close two-shot on a wooden dance floor in the mansion garden at dusk, warm string lights overhead, guests watching from round tables: the very handsome WHITE groom, 34, with very dark brown short hair and a short full dark beard, in a black tuxedo with a black bow tie and the beautiful young Black bride with her box braids in an elegant updo with small white flowers, a small gold cross necklace, in a white wedding gown with lace sleeves and a modest neckline dancing slowly, foreheads touching, eyes closed, smiling. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "They sway slowly with their foreheads together, smiling. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 31,
+   "dur": 5,
+   "refs": [
+    "PORCH"
+   ],
+   "frame": "Close-up of two white coffee cups side by side on a white wooden porch rail in soft morning light, garden blurred behind; one cup holds black coffee with a single ice cube floating in it. No people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "Morning light; the single ice cube slowly melts in the black coffee; a gentle breeze. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": "E1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 99,
+   "dur": 9,
+   "refs": [
+    "@C1",
+    "GBR"
+   ],
+   "frame": "Close-up of the beautiful young Black bride with her box braids in an elegant updo with small white flowers, a small gold cross necklace, in a white wedding gown with lace sleeves and a modest neckline in the sunny garden of a white-columned Southern mansion on a wedding day (rows of white chairs, a white flower arch, roses, green lawn), soft and reflective, facing the camera. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The bride says softly and warmly: \"My mama told me to be careful with my heart. I was. I gave it to the one man who knew what it cost.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  }
+ ],
+ "refs": {
+  "GD": "152a6fd3-1ac7-4225-9b1e-8e63a654012c",
+  "G8": "620fa36b-52c5-419a-ba93-50b4d9431fc0",
+  "GGR": "8acbb01c-2eb0-4566-a911-1bf987d6e215",
+  "GBR": "29fb2456-2395-4a78-b262-24dfc597814b",
+  "E6": "e5fff3d9-60fe-4ef7-9e92-58b8aaafec42",
+  "E8": "62f761f1-c1a4-422f-9550-bf59d87965a4",
+  "ETX": "b680952e-0b27-4645-9afb-ccfafc24447c",
+  "MR": "78b978ae-a3e3-4aee-957b-33ccf88aa5d7",
+  "SAM": "7f4a3e65-b525-43d5-890c-880817be583d",
+  "H": "a06cf4f3-5de6-4941-b406-0aed67147f7e",
+  "H5": "971f8a3f-3fcb-4776-b903-ff2cbc58f240",
+  "HJ": "7d7b513f-a9ea-4ddc-8cf8-4c7ae77cc5bf",
+  "DN": "5ca5c94d-b88b-4e9d-bd10-20e744935c07",
+  "RY": "84e70d95-f0b7-43bd-9376-84ebb5d0fbb7",
+  "AP": "547cc763-25e8-4f82-9936-3ead4ac5b666",
+  "AP6": "6f981b0d-2c17-4b98-8e8b-6529bd57690c",
+  "PORCH": "d5ec9247-02a1-45c1-b373-cf34fb7bcefc",
+  "DW": "7dd3b00d-aa14-4991-8b26-cf0b1b2627d8"
+ }
+}

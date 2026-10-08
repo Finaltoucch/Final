@@ -1,0 +1,7 @@
+[{"cue": "hope", "from": "c:PART 9 · THE PROPOSAL", "to": "n3", "gain": -3},
+ {"cue": "tender", "from": "n4", "to": "n12", "gain": -5},
+ {"cue": "tender", "from": "c:ONE MONTH LATER", "to": "n20", "gain": -4},
+ {"cue": "hope", "from": "n21", "to": "n24", "gain": -3},
+ {"cue": "elegant", "from": "c:THE WEDDING", "to": "n28", "gain": -2},
+ {"cue": "tender", "from": "n29", "to": "n31", "gain": -1},
+ {"cue": "hope", "from": "c:Some people love the life you have.", "to": "c:THE END", "gain": -1}]
