@@ -40,7 +40,7 @@ def card(text,i,sec=CS):
 rep=[];outs=[];wavs=[];TL=[];TPOS=0.0
 for i,c in enumerate(M,1):
   if 'card' in c:
-    outs.append(card(c['card'],i));wavs.append(np.zeros((int(round(CS*SR)),2),np.float32));TL.append(dict(key='c:'+c['card'],start=TPOS,dur=CS));TPOS+=CS;print('card',i,flush=True);continue
+    cs=c.get('sec',CS);outs.append(card(c['card'],i,cs));wavs.append(np.zeros((int(round(cs*SR)),2),np.float32));TL.append(dict(key='c:'+c['card'],start=TPOS,dur=cs));TPOS+=cs;print('card',i,flush=True);continue
   t=c['t'];ks=list(t);f0=dl(t[ks[0]]);D=vdur(f0)
   if 'vo' in c:
     au=rd(dl(c['vo']))
