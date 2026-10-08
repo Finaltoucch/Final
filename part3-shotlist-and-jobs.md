@@ -1,3 +1,5 @@
+**Interim (current): foyer conversation (shots 2–4) re-shot over-the-shoulder; the other 32 Part 3 lines have approved OTS frames (`tools/p34state.json`) and are waiting for credits to animate.** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/92a9553c-e2e1-4739-a1b3-8be9a7685c33.mp4 (media `92a9553c-e2e1-4739-a1b3-8be9a7685c33`).
+
 # Part 3 — Everyone Leaves: shot list and job IDs
 
 **Current cut (5:59), rebuilt with shot 44 Mama Ruth wardrobe and the speech fixes from the full re-check:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/2f381634-fd48-4a26-b678-73817dcd78f6.mp4
