@@ -1,6 +1,8 @@
 # Part 6 — The Rescue
 
-**v2 (3:37) — Harold replaced with an original face:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/8a922980-9067-45e6-8728-39299d1a4a6f.mp4
+**v3 (3:38) — speech errors fixed (shots 9, 10, 28, 32, 33), every line checked against the screenplay:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/d92aeed6-73df-4bb8-a5b7-8909d4ed75ab.mp4
+
+~~v2 (3:37) — Harold replaced with an original face:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/8a922980-9067-45e6-8728-39299d1a4a6f.mp4~~ (had speech errors)
 
 ~~v1 (3:38)~~ withdrawn (Harold resembled a real actor): https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/20369946-df87-4904-8798-46b3fe1d8ff2.mp4
 

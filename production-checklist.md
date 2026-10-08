@@ -65,3 +65,8 @@ Apply this checklist to every part.
 - Every character must be an ORIGINAL face. Harold v1 looked like Samuel L. Jackson and was replaced everywhere (Part 4 shots 16-21, Part 6 shots 1-3, 8-11, 32-33).
 - Generic "distinguished older man, white beard, round glasses, three-piece suit" prompts drift toward famous actors. Give specific, ordinary, unusual features and add "must not resemble any real actor or celebrity".
 - Before a new character reference is used, look at it specifically for celebrity resemblance and for names of real people / TV characters in any text on the sheet.
+
+## Speech accuracy (from Part 6 viewer notes)
+- Never put dramatic pauses ("My name... is Ethan...") or CAPS emphasis ("HIS choosing") inside a Kling dialogue line: Kling repeats or garbles words around them ("Ethan is Caldwell", "Hess choosing"). Write the line plainly and describe the delivery outside the quotes.
+- Before delivering, transcribe the FINAL cut with whisper medium.en and diff every line against the screenplay; re-check any mismatch on the isolated shot (full-mix transcripts can mishear "stop that" as "stopped that").
+- Voice change can also alter words ("going" -> "doing"); if two voice-change attempts alter a shouted line, use Kling's raw take.
