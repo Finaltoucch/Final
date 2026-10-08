@@ -48,6 +48,14 @@ Edit the clips together in this order. The teaser (0:00–0:30) is cut last, fro
 
 **Total:** ~6 min 23 s of video, about 735 credits.
 
+## Part 1 v5: screenplay-accurate cut (current)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/cc3f2e35-8eb2-47d2-a5ab-94ec29540a0c.mp4 (media `cc3f2e35-8eb2-47d2-a5ab-94ec29540a0c`), 6:20
+- **Re-shot word for word from the screenplay:** 18 lines (`tools/part1fix_shots.py`; stems in `tools/part1fix_stems.json`). These include the guard's "Is it that obvious you're new?" exchange, Mrs. Hayes's full rules, the full coffee and night-kitchen exchanges, and Vanessa's full lines.
+- **Pantry:** opens on Grace hiding in the hallway, seen from behind, while Bradley takes the phone call with his back to her (frame `4b9aab32`, clip `bc24b667`). He turns and sees her only after the call.
+- **Coffee:** a new burn shot ("Ah! Every single morning.", frame `2aca1477`) starts with the carafe already set down, so it can't refill. The ice cube goes into the same tall white mug (frame `8f19c89c`).
+- **Inhaler setup (screenplay scene 15b):** Grace is on the phone in the mansion hallway while Vanessa listens from a doorway (frame `1af29485`, clip `e1eb6716`). This sets up "I hear everything in this house."
+- **QA:** a full medium-whisper transcript of the cut matches the screenplay.
+
 ## Part 1 v4: over-the-shoulder remake (current)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/a63fa878-de7b-4f4d-973f-bc1069990cc3.mp4 (media `a63fa878-de7b-4f4d-973f-bc1069990cc3`), 5:44
 - **Every conversation is now OTS:** the speaker is sharp and the listener is blurred from behind. 35 OTS frames (`tools/part1r_shots.py`, approved ids in `tools/part1r_frames.json`) and 67 lines, one Kling clip per line. Lines 9, 11 and 13 use the retakes (109/111/113) made after the cross was removed from Grace's back in D1.
