@@ -1,7 +1,7 @@
 # Part 2 — The Collapse: shot list and jobs
 
 ## Part 2 v6: over-the-shoulder remake (current)
-- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/76b8c020-e11e-4571-9b1b-55d053aa577c.mp4 (media `76b8c020-e11e-4571-9b1b-55d053aa577c`), 4:27
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/76b8c020-e11e-4571-9b1b-55d053aa577c.mp4 (media `76b8c020-e11e-4571-9b1b-55d053aa577c`), 4:29
 - **OTS lines** (`tools/part2r_shots.py`) replace old shots 7, 24, 25, 27, 29, 31, 33 and 39–46:
   - party (Ethan / blond Bradley);
   - 3 a.m. waiting room (Mrs. Hayes / Grace);

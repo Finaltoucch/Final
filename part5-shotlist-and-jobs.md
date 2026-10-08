@@ -1,5 +1,7 @@
 # Part 5 — FRAMED (5:05)
 
+**Current cut (5:05), rebuilt with speech fixes from the full re-check:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/5e2325ae-fbb1-44e1-92e3-e521bdc2938f.mp4
+
 **Final (v2, blond Bradley):** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/c1a89b2d-c0eb-450f-9581-e5f4501a0baa.mp4
 
 (v1 had the old dark-haired Bradley in shots 21, 55, 56: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/684611f7-ccc8-4240-8cd4-f65aededbb14.mp4)

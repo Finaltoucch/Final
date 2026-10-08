@@ -1,5 +1,7 @@
 # Part 3 — Everyone Leaves: shot list and job IDs
 
+**Current cut (5:59), rebuilt with shot 44 Mama Ruth wardrobe and the speech fixes from the full re-check:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/2f381634-fd48-4a26-b678-73817dcd78f6.mp4
+
 59 shots. Frames: nano_banana_pro 2k. Clips: kling3_0 pro. Voices locked via voice_change except raw shots 11 (board chair), 25, 32. Level-match gains in tools/part3_gains.json. Crops (pre) on 3, 15, 50.
 
 | Shot | Spk | Dur | Frame job | Clip (raw) | Voice-locked |
