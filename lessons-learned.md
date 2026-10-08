@@ -168,3 +168,16 @@ Every mistake made so far, why it happened, and the rule that prevents it.
 | Kling added a spoken line ("I'll take over.") to a silent beat | `ss` past it | Transcribe silent shots too |
 | A kept old cutaway (uniform sleeve, daylight) no longer matched the remade scene (evening, sundress) | Two new shots from the remade frames | When a scene is remade, re-check every old shot left inside it for wardrobe and light |
 | Raw Kling lines run 1–2 s of dead air before the first word | `mkremake.py` trims each line to speech −0.3 s / +0.55 s and loudness-matches it to −25 LUFS | Measure (`meas.py`) and trim every dialogue clip; never cut on the clip's full length |
+
+## 9. Added after the viewer notes on the OTS remake
+| Mistake | Fix | Rule |
+|---|---|---|
+| Remade lines were copied from the old shot list, which had shortened the screenplay ("can wait" for "should be able to wait", missing "Don't be sorry.", "He works too hard.", the guard's "Is it that obvious?" exchange) | 18 lines re-shot word for word | Diff every line against the SCREENPLAY (`tools/script_check.py`, `tools/script_check_all.py`), never against an older shot list |
+| Pantry: Grace stood face-to-face with Bradley during his secret phone call | New first shot from behind Grace in the hallway, Bradley's back to her; he turns and sees her only after the call | Overheard moments are shot from the eavesdropper's hiding place, from behind them |
+| A peeking face pasted onto the door frame read as "inside the door" | Show the eavesdropper's back and shoulder at the door edge, clearly outside | Hiding = back of the head at the frame edge, never a face flattened against the wood |
+| Coffee carafe refilled itself after pouring; mug changed between shots | New burn shot starting with the carafe already set down; ice cube into the same tall white mug | Start a shot after the risky action, and reference the exact prop from the neighbouring frame |
+| Vanessa knew about the inhaler with no way of hearing it (plot hole in the screenplay itself) | New mansion-hallway shot: Grace on the phone about the inhaler, Vanessa listening in a doorway; screenplay scene 15b added | Every threat or reveal must be set up on screen where the character could learn it |
+| Part 4 lawyer delivered his lines straight into the lens | OTS: Harold talks to Grace (blurred from behind), plus her silent nod | No character addresses the camera; every line has a listener in frame |
+| Regenerating Harold from text drifted into a celebrity-like face | Edit from a still of the approved Harold (uploaded frame) instead of describing him | Recurring minor characters: always edit from an approved still, never re-describe |
+| Kling ad-libbed before scripted lines ("Train is manned", "Hey, it's me") | `ss` trim to the first scripted word | Read word timestamps of every take, not just the transcript text |
+| Voice change dropped "Ah!" from "Ah! Every single morning." | Raw take | Exclamations are dropped as often as short words |
