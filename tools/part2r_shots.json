@@ -1,0 +1,179 @@
+{
+ "frames": {
+  "P1": {
+   "refs": [
+    "7be55d14-f2b0-4b7c-b87f-e39ec46177ac",
+    "b680952e-0b27-4645-9afb-ccfafc24447c",
+    "e59ccf4f-99ae-4084-b9cc-9bd6a543d608"
+   ],
+   "prompt": "Medium close-up of the very handsome white man, 34, with short dark-brown hair and a neat short beard, in a black tuxedo with a black bow tie at a glamorous night garden party under warm string lights, holding two small pills in his palm and a glass of water, facing the camera, smiling gratefully. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the handsome blond man, 30, with short tousled blond hair in a white dinner jacket and black bow tie, seen only from behind (no face visible, no jewelry visible from behind). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos."
+  },
+  "W1": {
+   "refs": [
+    "a8a54c4a-b8fe-433c-950d-eb086cd6ab37",
+    "a06cf4f3-5de6-4941-b406-0aed67147f7e",
+    "27bbdbf4-09e9-4fae-be3b-ac06852635ed"
+   ],
+   "prompt": "Medium close-up of the elegant 60-year-old Black woman with silver hair in a neat bun, a pearl necklace and a black dress with a coat, sitting in a hospital waiting room at 3 a.m. under cool fluorescent light, rows of blue chairs, facing the camera, worried. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a navy maid uniform with a dark coat over her shoulders, sitting beside her, seen only from behind (no face visible, no jewelry visible from behind). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos."
+  },
+  "W2": {
+   "refs": [
+    "a8a54c4a-b8fe-433c-950d-eb086cd6ab37",
+    "27bbdbf4-09e9-4fae-be3b-ac06852635ed",
+    "a06cf4f3-5de6-4941-b406-0aed67147f7e"
+   ],
+   "prompt": "Medium close-up of the young Black woman with long box braids in a navy maid uniform with a dark coat over her shoulders, exhausted, sitting in a hospital waiting room at 3 a.m. under cool fluorescent light, rows of blue chairs, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the elegant 60-year-old Black woman with silver hair in a neat bun, a pearl necklace and a black dress with a coat, sitting beside her, seen only from behind (no face visible, no jewelry visible from behind). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos."
+  },
+  "D1": {
+   "refs": [
+    "9266e229-d068-4e36-b7bf-f9c3cf93e47d",
+    "2f1d3fe4-6dcd-4c55-a78e-c08c6ea69252"
+   ],
+   "prompt": "Same room and same people as the first reference image, reverse angle: medium close-up of the very handsome white man, 34, with short dark-brown hair and a neat short beard, in a light-blue hospital gown, lying propped up in a hospital bed, in a bright hospital room in daytime with a city skyline window, facing the camera, confused and frightened. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the female doctor with glasses and shoulder-length dark wavy hair in a white coat, standing beside the bed, seen only from behind (no face visible, no jewelry visible from behind). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos."
+  },
+  "V1": {
+   "refs": [
+    "47b37329-42cb-4f36-ae28-2670b5ca256a",
+    "152a6fd3-1ac7-4225-9b1e-8e63a654012c",
+    "2f1d3fe4-6dcd-4c55-a78e-c08c6ea69252"
+   ],
+   "prompt": "Medium close-up of the beautiful young Black woman with long box braids and a small gold cross necklace, in a casual yellow sundress, her day off, standing at the side of a hospital bed in the evening, warm lamp light and city lights in the window, holding a covered soup container, facing the camera, warm and determined. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the very handsome white man, 34, with short dark-brown hair and a neat short beard, in a light-blue hospital gown, lying propped up in a hospital bed, seen only from behind (no face visible, no jewelry visible from behind). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos."
+  },
+  "V2": {
+   "refs": [
+    "47b37329-42cb-4f36-ae28-2670b5ca256a",
+    "2f1d3fe4-6dcd-4c55-a78e-c08c6ea69252",
+    "152a6fd3-1ac7-4225-9b1e-8e63a654012c"
+   ],
+   "prompt": "Medium close-up of the very handsome white man, 34, with short dark-brown hair and a neat short beard, in a light-blue hospital gown, lying propped up in a hospital bed, in a hospital room in the evening, warm lamp light and city lights in the window, facing the camera, tired and bitter, holding his phone. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a yellow sundress, standing beside the bed, seen only from behind (no face visible, no jewelry visible from behind). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos."
+  }
+ },
+ "lines": [
+  {
+   "id": 1,
+   "o": 7,
+   "frame": "P1",
+   "spk": "E",
+   "text": "Thanks, Brad.",
+   "dur": 3,
+   "video": "The person facing the camera smiles and says: \"Thanks, Brad.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  },
+  {
+   "id": 2,
+   "o": 24,
+   "frame": "W1",
+   "spk": "H",
+   "text": "Where's Miss Pierce?",
+   "dur": 3,
+   "video": "The person facing the camera asks quietly: \"Where's Miss Pierce?\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  },
+  {
+   "id": 3,
+   "o": 25,
+   "frame": "W2",
+   "spk": "G",
+   "text": "She said she'd come in the morning. She was tired.",
+   "dur": 5,
+   "video": "The person facing the camera answers softly: \"She said she'd come in the morning. She was tired.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  },
+  {
+   "id": 4,
+   "o": 27,
+   "frame": "D1",
+   "spk": "E",
+   "text": "Where... am I?",
+   "dur": 3,
+   "video": "The person facing the camera mumbles, slightly slurred: \"Where... am I?\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  },
+  {
+   "id": 5,
+   "o": 29,
+   "frame": "D1",
+   "spk": "E",
+   "text": "I'm thirty-four.",
+   "dur": 3,
+   "video": "The person facing the camera says in disbelief: \"I'm thirty-four.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  },
+  {
+   "id": 6,
+   "o": 31,
+   "frame": "D1",
+   "spk": "E",
+   "text": "My legs. Why can't I... Why can't I move my legs?!",
+   "dur": 5,
+   "video": "The person facing the camera tries to move, panics and shouts: \"My legs. Why can't I... Why can't I move my legs?!\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  },
+  {
+   "id": 7,
+   "o": 33,
+   "frame": "D1",
+   "spk": "E",
+   "text": "Doctor. Tell me the truth. Will I walk again?",
+   "dur": 5,
+   "video": "The person facing the camera swallows hard and says: \"Doctor. Tell me the truth. Will I walk again?\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  },
+  {
+   "id": 8,
+   "o": 39,
+   "frame": "V1",
+   "spk": "G",
+   "text": "Mrs. Hayes sent soup. Real food. The hospital stuff could kill a healthy man.",
+   "dur": 7,
+   "video": "The person facing the camera smiles and says: \"Mrs. Hayes sent soup. Real food. The hospital stuff could kill a healthy man.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  },
+  {
+   "id": 9,
+   "o": 40,
+   "frame": "V2",
+   "spk": "E",
+   "text": "I'm not hungry.",
+   "dur": 3,
+   "video": "The person facing the camera says flatly: \"I'm not hungry.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  },
+  {
+   "id": 10,
+   "o": 41,
+   "frame": "V1",
+   "spk": "G",
+   "text": "I didn't ask if you were hungry.",
+   "dur": 4,
+   "video": "The person facing the camera says firmly with a small smile: \"I didn't ask if you were hungry.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  },
+  {
+   "id": 11,
+   "o": 43,
+   "frame": "V2",
+   "spk": "E",
+   "text": "You know what's funny? When I had everything, I couldn't get a minute alone. Now nobody picks up.",
+   "dur": 8,
+   "video": "The person facing the camera looks at his phone and says bitterly: \"You know what's funny? When I had everything, I couldn't get a minute alone. Now nobody picks up.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  },
+  {
+   "id": 12,
+   "o": 44,
+   "frame": "V1",
+   "spk": "G",
+   "text": "I picked up.",
+   "dur": 3,
+   "video": "The person facing the camera says softly: \"I picked up.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  },
+  {
+   "id": 13,
+   "o": 45,
+   "frame": "V2",
+   "spk": "E",
+   "text": "You work for me.",
+   "dur": 3,
+   "video": "The person facing the camera says: \"You work for me.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  },
+  {
+   "id": 14,
+   "o": 46,
+   "frame": "V1",
+   "spk": "G",
+   "text": "Not today, sir. Today's my day off.",
+   "dur": 4,
+   "video": "The person facing the camera smiles warmly and says: \"Not today, sir. Today's my day off.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  }
+ ]
+}
