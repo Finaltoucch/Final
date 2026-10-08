@@ -1,0 +1,402 @@
+{
+ "shots": [
+  {
+   "id": 1,
+   "dur": 5,
+   "refs": [
+    "E6",
+    "GD",
+    "DN"
+   ],
+   "frame": "Wide shot in a bright modern rehabilitation gym in daylight (large windows, pale wood floor, exercise mats, long metal parallel bars): the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt and gray sweatpants walks slowly between the long metal parallel bars, gripping them; the pretty Latina woman, about 38, with a dark ponytail and a warm face, in navy scrubs with a small blank white ID badge (no writing) walks beside him coaching with one hand near his back; on a bench in the background the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a plain white T-shirt, light-wash jeans and white sneakers sits holding a steel thermos, smiling. Exactly THREE people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The man takes slow careful steps between the parallel bars; the therapist walks beside him; the young woman on the bench watches, smiling. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "THREE WEEKS LATER \u00b7 CHATTANOOGA",
+   "master": "A1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 2,
+   "dur": 3,
+   "refs": [
+    "@A1"
+   ],
+   "frame": "Low close-up in a bright modern rehabilitation gym in daylight (large windows, pale wood floor, exercise mats, long metal parallel bars): a man's bare feet in gray sweatpants taking one slow step forward on the pale wood floor between the two metal parallel bars, his hands gripping the bars above. No faces. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "One foot slides forward and takes a step, then the other. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 3,
+   "dur": 5,
+   "refs": [
+    "@A1",
+    "E6"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt and gray sweatpants in a bright modern rehabilitation gym in daylight (large windows, pale wood floor, exercise mats, long metal parallel bars), between the metal parallel bars, gripping them, gritting his teeth, sweating, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a white T-shirt, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "Gritting his teeth as he walks, the man says: \"If you tell me one more Titans score, I'm going to fall on purpose.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": "A2",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 4,
+   "dur": 3,
+   "refs": [
+    "@A1",
+    "GD"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a plain white T-shirt, light-wash jeans and white sneakers in a bright modern rehabilitation gym in daylight (large windows, pale wood floor, exercise mats, long metal parallel bars), standing at the end of the parallel bars, a sly smile, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with short dark-brown hair in a gray T-shirt, between the parallel bars, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The young woman says casually, with a sly smile: \"They won last week.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": "A3",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 5,
+   "dur": 3,
+   "refs": [
+    "@A2"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt and gray sweatpants in a bright modern rehabilitation gym in daylight (large windows, pale wood floor, exercise mats, long metal parallel bars), standing still between the parallel bars, stopping in surprise, eyebrows raised, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a white T-shirt, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The man stops walking, surprised, and asks: \"They did?\" Then he waits in silence. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 6,
+   "dur": 5,
+   "refs": [
+    "@A3"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a plain white T-shirt, light-wash jeans and white sneakers in a bright modern rehabilitation gym in daylight (large windows, pale wood floor, exercise mats, long metal parallel bars), standing at the end of the parallel bars, grinning, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with short dark-brown hair in a gray T-shirt, between the parallel bars, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The young woman grins and says: \"No. But you just walked twelve steps without noticing.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 7,
+   "dur": 4,
+   "refs": [
+    "@A2"
+   ],
+   "frame": "Medium shot of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt and gray sweatpants in a bright modern rehabilitation gym in daylight (large windows, pale wood floor, exercise mats, long metal parallel bars), standing between the parallel bars, looking down at his own feet in wonder. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The man looks down at his feet, then up toward the camera, and bursts out laughing with joy.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": "on",
+   "trim": null
+  },
+  {
+   "id": 8,
+   "dur": 4,
+   "refs": [
+    "E6",
+    "GD"
+   ],
+   "frame": "Wide shot in a quiet rehabilitation center garden at night, warm string lights overhead, a wooden bench, dark hedges: the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, gray sweatpants and an open navy zip-up hoodie sits on the wooden bench with a wooden walking cane resting against it; beside him sits the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a plain white T-shirt, light-wash jeans and white sneakers with a soft mustard-yellow cardigan over it. Both seated side by side, talking quietly. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The two sit side by side on the bench under the string lights; a light breeze moves the hedges. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "THAT NIGHT",
+   "master": "B1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 9,
+   "dur": 8,
+   "refs": [
+    "@B1",
+    "E6"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, gray sweatpants and an open navy zip-up hoodie in a quiet rehabilitation center garden at night, warm string lights overhead, a wooden bench, dark hedges, seated on the bench, turned toward her, tender and serious, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a mustard-yellow cardigan, seated beside him, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The man says softly: \"That night in the storage room. I think I'm falling in love with you. I don't know which one scares me more.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": "B2",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 10,
+   "dur": 3,
+   "refs": [
+    "@B1",
+    "GD"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a plain white T-shirt, light-wash jeans and white sneakers with a soft mustard-yellow cardigan over it in a quiet rehabilitation center garden at night, warm string lights overhead, a wooden bench, dark hedges, seated on the bench, frozen in shock, eyes wide, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with short dark-brown hair in a navy hoodie, seated beside her, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The young woman freezes, then says in a stunned voice: \"You heard that.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": "B3",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 11,
+   "dur": 7,
+   "refs": [
+    "@B2"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, gray sweatpants and an open navy zip-up hoodie in a quiet rehabilitation center garden at night, warm string lights overhead, a wooden bench, dark hedges, seated on the bench, emotional, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a mustard-yellow cardigan, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The man says gently: \"Grace, I heard every word you said to me for two months. It's the only reason I kept fighting.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 12,
+   "dur": 4,
+   "refs": [
+    "@B3"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a plain white T-shirt, light-wash jeans and white sneakers with a soft mustard-yellow cardigan over it in a quiet rehabilitation center garden at night, warm string lights overhead, a wooden bench, dark hedges, seated on the bench, flustered, looking away, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with short dark-brown hair in a navy hoodie, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The young woman says quickly, flustered: \"Ethan, I was tired. I didn't mean\" and she breaks off mid-sentence and falls silent. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": "mean"
+  },
+  {
+   "id": 13,
+   "dur": 3,
+   "refs": [
+    "@B2"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, gray sweatpants and an open navy zip-up hoodie in a quiet rehabilitation center garden at night, warm string lights overhead, a wooden bench, dark hedges, seated on the bench, quiet and direct, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a mustard-yellow cardigan, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The man asks quietly: \"Did you mean it?\" Then he waits in silence. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 14,
+   "dur": 4,
+   "refs": [
+    "@B3"
+   ],
+   "frame": "Close-up of the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a plain white T-shirt, light-wash jeans and white sneakers with a soft mustard-yellow cardigan over it in a quiet rehabilitation center garden at night, warm string lights overhead, a wooden bench, dark hedges, seated on the bench, tears in her eyes, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with short dark-brown hair in a navy hoodie, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The young woman is silent for two seconds, then whispers: \"Yes.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 15,
+   "dur": 4,
+   "refs": [
+    "@B1"
+   ],
+   "frame": "Close profile two-shot in a quiet rehabilitation center garden at night, warm string lights overhead, a wooden bench, dark hedges: the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, gray sweatpants and an open navy zip-up hoodie and the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a plain white T-shirt, light-wash jeans and white sneakers with a soft mustard-yellow cardigan over it seated on the bench, leaning toward each other, their faces only a breath apart, eyes half closed; she has just stopped herself. Exactly TWO people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "They lean slowly toward each other; a breath away, she stops and pulls back slightly. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 16,
+   "dur": 8,
+   "refs": [
+    "@B3"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a plain white T-shirt, light-wash jeans and white sneakers with a soft mustard-yellow cardigan over it in a quiet rehabilitation center garden at night, warm string lights overhead, a wooden bench, dark hedges, seated on the bench, pulled back, tearful but firm, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with short dark-brown hair in a navy hoodie, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The young woman says softly but firmly: \"You're still engaged to her. I won't be what she called me in front of that whole street. Not even for you.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 17,
+   "dur": 4,
+   "refs": [
+    "@B2"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt, gray sweatpants and an open navy zip-up hoodie in a quiet rehabilitation center garden at night, warm string lights overhead, a wooden bench, dark hedges, seated on the bench, nodding slowly, resolved, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a mustard-yellow cardigan, seen only from behind (no face visible). Exactly TWO people: the speaker in sharp focus facing the camera, and the blurred listener from behind. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The man nods slowly and says: \"Then I'd better fix that.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 18,
+   "dur": 8,
+   "refs": [
+    "E6"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt and gray sweatpants in a bright tidy rehabilitation center room in the morning (single bed with white sheets, window with daylight, a wooden walking cane leaning on the bed), sitting on the edge of the bed holding a phone to his ear, determined, facing the camera. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "Holding the phone to his ear, the man says firmly: \"Harold. Call off the engagement. Officially. And find out when the board votes on the Atlas sale.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks. Each word is said exactly once.",
+   "spk": "E",
+   "card": "THE NEXT MORNING",
+   "master": "C1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 19,
+   "dur": 4,
+   "refs": [
+    "HJ",
+    "HJ6"
+   ],
+   "frame": "Medium close-up of the heavy-set 62-year-old Black lawyer with a round full face, a short neat salt-and-pepper mustache and no beard, close-cropped salt-and-pepper hair with a side part, thick tortoiseshell glasses, a navy pinstripe suit, white shirt and burgundy bow tie in a small wood-paneled law office with bookshelves, seated at his desk holding a phone to his ear, facing the camera. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "Holding the phone to his ear, the lawyer says: \"Monday, ten a.m. Bradley's presenting.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks. Each word is said exactly once.",
+   "spk": "HJ",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 20,
+   "dur": 3,
+   "refs": [
+    "@C1"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, short dark-brown hair and a short dark beard, in a gray T-shirt and gray sweatpants in a bright tidy rehabilitation center room in the morning (single bed with white sheets, window with daylight, a wooden walking cane leaning on the bed), sitting on the edge of the bed, phone to his ear, a small determined smile, facing the camera. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No text, no logos.",
+   "video": "The man says with quiet resolve: \"Good. I'll be there.\" Then he lowers the phone. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  }
+ ],
+ "refs": {
+  "GD": "152a6fd3-1ac7-4225-9b1e-8e63a654012c",
+  "G6": "63cc6fd8-ce19-45b2-ac13-9cff27ba3c5b",
+  "E": "ada7e801-a781-4694-9800-584fbcf5662a",
+  "E6": "e5fff3d9-60fe-4ef7-9e92-58b8aaafec42",
+  "DN": "01a5dd9b-85e4-4b2c-8975-88d5fa0e4e2f",
+  "DN6": "0eb51cdd-470f-4d14-9a31-7c316213bd12",
+  "HJ": "7d7b513f-a9ea-4ddc-8cf8-4c7ae77cc5bf",
+  "HJ6": "aeb51b7f-d406-4ebf-96a5-a6873ce2aea0"
+ }
+}
