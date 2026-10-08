@@ -91,6 +91,7 @@ for i,c in enumerate(M,1):
     if hits:D=min(D,hits[-1].end+0.35);rep.append(f"   trimmed at {D:.2f}s")
   if c.get('gain'):
     pk=float(np.abs(au).max())+1e-9;g=min(c['gain'],-1-20*np.log10(pk));au=au*10**(g/20);rep.append(f"   gain {g:+.1f} dB")
+  for a,b in c.get('mute',[]):au[int(a*SR):int(b*SR)]=0;rep.append(f"   muted {a:.2f}-{b:.2f}s")
   ss=c.get('ss',0)
   if ss:D-=ss;au=au[int(ss*SR):];rep.append(f"   skip first {ss:.2f}s")
   NF=int(D*24);D=NF/24;n=NF*2000;au=au[:n]
