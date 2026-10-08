@@ -124,3 +124,15 @@ Every mistake made so far, why it happened, and the rule that prevents it.
 | Denise, Reyes, clerk, attendants, Sam | library | raw Kling |
 
 **Retired — never use:** Harold v1 `9d1044f9…`, Detective v1 `9d45d4c2…`, old Bradley `8f021d31…`.
+
+---
+
+## 5. Added during Part 7
+| Mistake | Fix | Rule |
+|---|---|---|
+| Story beat contradicted: they kissed when the screenplay says she stops a breath away | Start frame with a visible gap + "their lips never touch" | Check every action against the screenplay's stage directions, not just dialogue |
+| Start frame too close → Kling closes the gap | Regenerate the start frame | Kling continues motion from the start frame; set up the frame so the wrong outcome is unlikely |
+| A character's face drifted (older, receding hair) when only the library sheet was used | Use the most recent approved close-up as the face reference | Always feed the latest approved close-up of each main character |
+| Reverse-angle OTS put the speaker alone mid-bench | Generate the reverse from the matching OTS frame ("reverse angle of reference") | Keep seating geometry consistent across OTS pairs |
+| Voice change dropped "'d" in "I'd better" | Raw take | Contractions like 'd and 've are fragile; check them in the voice-changed take |
+| Sandbox reset killed a build while I was busy elsewhere | Restart and poll continuously | Never leave a running build unpolled for more than ~10 s |
