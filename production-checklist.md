@@ -70,3 +70,6 @@ Apply this checklist to every part.
 - Never put dramatic pauses ("My name... is Ethan...") or CAPS emphasis ("HIS choosing") inside a Kling dialogue line: Kling repeats or garbles words around them ("Ethan is Caldwell", "Hess choosing"). Write the line plainly and describe the delivery outside the quotes.
 - Before delivering, transcribe the FINAL cut with whisper medium.en and diff every line against the screenplay; re-check any mismatch on the isolated shot (full-mix transcripts can mishear "stop that" as "stopped that").
 - Voice change can also alter words ("going" -> "doing"); if two voice-change attempts alter a shouted line, use Kling's raw take.
+
+## Over-the-shoulder listeners must be identifiable
+- A minor character seen only in a far wide shot must NOT appear alone in an OTS foreground: viewers read them as a random stranger. Show them in an identifying way (both attendants together, uniforms with patches, their prop such as the stretcher), or use a main character as the listener.

@@ -1,6 +1,8 @@
 # Part 6 — The Rescue
 
-**v3 (3:38) — speech errors fixed (shots 9, 10, 28, 32, 33), every line checked against the screenplay:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/d92aeed6-73df-4bb8-a5b7-8909d4ed75ab.mp4
+**v4 (3:38) — shots 21 & 24 re-framed: the listeners are clearly the two transport attendants with their stretcher:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/f4268f60-9184-4fda-bdca-a9a06f86b636.mp4
+
+~~v3 (3:38) — speech errors fixed (shots 9, 10, 28, 32, 33), every line checked against the screenplay:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/d92aeed6-73df-4bb8-a5b7-8909d4ed75ab.mp4
 
 ~~v2 (3:37) — Harold replaced with an original face:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/8a922980-9067-45e6-8728-39299d1a4a6f.mp4~~ (had speech errors)
 
