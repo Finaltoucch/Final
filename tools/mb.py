@@ -43,7 +43,9 @@ for i,c in enumerate(M,1):
     outs.append(card(c['card'],i));wavs.append(np.zeros((int(round(CS*SR)),2),np.float32));TL.append(dict(key='c:'+c['card'],start=TPOS,dur=CS));TPOS+=CS;print('card',i,flush=True);continue
   t=c['t'];ks=list(t);f0=dl(t[ks[0]]);D=vdur(f0)
   if 'vo' in c:
-    au=rd(dl(c['vo']));rep.append(f"#{c['n']}: VO")
+    au=rd(dl(c['vo']))
+    if c.get('vo_ss'):au=au[int(c['vo_ss']*SR):]
+    rep.append(f"#{c['n']}: VO")
   elif 'l' not in c:
     au=rd(f0);rep.append(f"#{c['n']}: single {ks[0]}")
   else:

@@ -1,0 +1,10 @@
+[{"cue": "elegant", "from": "c:PART 8 · THE BOARDROOM", "to": "n55", "gain": -4},
+ {"cue": "tension", "from": "c:THE BOARDROOM", "to": "n13", "gain": -5},
+ {"sfx": "stinger", "at": "n14", "off": 0.2, "db": -32},
+ {"cue": "dark", "from": "n15", "to": "n16", "gain": -6},
+ {"cue": "tension", "from": "n17", "to": "n21", "gain": -5},
+ {"cue": "hope", "from": "n22", "to": "n22", "gain": -3},
+ {"sfx": "impact", "at": "n23", "off": 0.0, "db": -31},
+ {"cue": "suspense", "from": "n23", "to": "n28", "gain": -5},
+ {"cue": "tender", "from": "n29", "to": "n29", "gain": -3},
+ {"cue": "hope", "from": "c:MOMENTS LATER", "to": "n32", "gain": -2}]

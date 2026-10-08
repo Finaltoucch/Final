@@ -1,0 +1,652 @@
+{
+ "shots": [
+  {
+   "id": 1,
+   "dur": 5,
+   "refs": [
+    "E6",
+    "GB",
+    "HJ"
+   ],
+   "frame": "Wide shot in the bright modern lobby of a freight company headquarters (glass walls, polished pale stone floor, a long white reception desk, potted plants, no logos or signs): the very handsome WHITE man, 34, with light skin, full short dark-brown hair and a short full dark beard, in a tailored navy suit, white shirt and no tie, holding a dark wooden walking cane walks in through the glass doors, slowly but upright, leaning on the cane; beside him walks the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a simple knee-length royal-blue dress with short sleeves and a modest neckline; one step behind follows the heavy-set 62-year-old Black lawyer with a round full face, a short neat salt-and-pepper mustache and no beard, close-cropped salt-and-pepper hair with a side part, thick tortoiseshell glasses, a navy pinstripe suit, white shirt and burgundy bow tie, carrying a leather briefcase. In the background several office employees (a young Black woman at the reception desk with a headset, a middle-aged white man with glasses holding a coffee cup, an Asian woman with a tablet) stop and stare. Exactly SIX people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The three walk slowly across the lobby; the employees in the background stop what they are doing and stare. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "MONDAY \u00b7 9:55 A.M.",
+   "master": "A1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 2,
+   "dur": 3,
+   "refs": [
+    "@A1"
+   ],
+   "frame": "Medium close-up in the bright modern lobby of a freight company headquarters (glass walls, polished pale stone floor, a long white reception desk, potted plants, no logos or signs): a young Black woman, about 25, with short natural curly hair and a phone headset, standing behind the white reception desk, astonished, facing the camera, pointing slightly. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The receptionist gasps and says excitedly: \"That's Mr. Caldwell!\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks. Each word is said exactly once.",
+   "spk": "X1",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 3,
+   "dur": 3,
+   "refs": [
+    "@A1"
+   ],
+   "frame": "Medium close-up in the bright modern lobby of a freight company headquarters (glass walls, polished pale stone floor, a long white reception desk, potted plants, no logos or signs): a middle-aged white office worker with thinning hair and wire glasses, in a light blue shirt and tie, holding a paper coffee cup, amazed, facing the camera. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The office worker says in amazement: \"He's walking!\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks. Each word is said exactly once.",
+   "spk": "X2",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 4,
+   "dur": 3,
+   "refs": [
+    "@A1",
+    "GB"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a simple knee-length royal-blue dress with short sleeves and a modest neckline in the bright modern lobby of a freight company headquarters (glass walls, polished pale stone floor, a long white reception desk, potted plants, no logos or signs), walking slowly beside him, glancing around, a little nervous, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with short dark-brown hair in a navy suit, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "Walking slowly, the young woman says quietly: \"Everyone's watching.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": "A2",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 5,
+   "dur": 7,
+   "refs": [
+    "@A1",
+    "E6"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, full short dark-brown hair and a short full dark beard, in a tailored navy suit, white shirt and no tie, holding a dark wooden walking cane in the bright modern lobby of a freight company headquarters (glass walls, polished pale stone floor, a long white reception desk, potted plants, no logos or signs), walking slowly with the cane, calm and certain, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a royal-blue dress, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "Walking slowly, the man says calmly: \"Let them. I already lost everything I was afraid to lose. Except you.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": "A3",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 6,
+   "dur": 5,
+   "refs": [
+    "B3",
+    "V5",
+    "BC"
+   ],
+   "frame": "Wide shot in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs): at the head of the table sits the handsome BLOND man, 30, with short tousled blond hair, light stubble and a gold watch, in a navy blazer over an open-collar white shirt; beside him sits the stunning woman with long light buttery-blonde hair and red lipstick, in a fitted long-sleeved red sheath dress with a modest high neckline and small gold earrings; along the table sit the silver-haired white board chairman in his 60s with a lined face, in a charcoal three-piece suit and red tie, two Atlas executives (a bald Black man in his 50s in a gray suit, and an East Asian woman in her 40s with a short bob and a black suit) with contracts in front of them, and two more board members (a white woman in her 50s with short gray hair, and a Latino man in his 40s with a mustache). Exactly SEVEN people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The blond man at the head of the table smiles and slides a contract toward the executives; everyone leans in. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": "THE BOARDROOM",
+   "master": "B1",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 7,
+   "dur": 4,
+   "refs": [
+    "@B1",
+    "E6",
+    "GB",
+    "HJ"
+   ],
+   "frame": "Wide shot in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), from inside the room toward the double doors: the glass double doors swing open and the very handsome WHITE man, 34, with light skin, full short dark-brown hair and a short full dark beard, in a tailored navy suit, white shirt and no tie, holding a dark wooden walking cane stands in the doorway, with the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a simple knee-length royal-blue dress with short sleeves and a modest neckline at his side and the heavy-set 62-year-old Black lawyer with a round full face, a short neat salt-and-pepper mustache and no beard, close-cropped salt-and-pepper hair with a side part, thick tortoiseshell glasses, a navy pinstripe suit, white shirt and burgundy bow tie behind them. Exactly THREE people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The double doors open; the man with the cane stands in the doorway and looks into the room. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 8,
+   "dur": 4,
+   "refs": [
+    "@B1",
+    "B3"
+   ],
+   "frame": "Medium close-up of the handsome BLOND man, 30, with short tousled blond hair, light stubble and a gold watch, in a navy blazer over an open-collar white shirt in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), seated at the head of the table, his face draining of color, shocked, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with short dark-brown hair in a navy suit, standing near the doors, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The blond man stammers in shock: \"Ethan. You should be resting.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "B",
+   "card": null,
+   "master": "B2",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 9,
+   "dur": 5,
+   "refs": [
+    "@7",
+    "E6"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, full short dark-brown hair and a short full dark beard, in a tailored navy suit, white shirt and no tie, holding a dark wooden walking cane in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), standing just inside the doorway, cold and calm, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the blond man in a navy blazer, seated at the head of the table, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The man with the cane says calmly: \"I've rested enough. I believe you're in my chair.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": "B3",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 10,
+   "dur": 5,
+   "refs": [
+    "@B1",
+    "E6",
+    "B3"
+   ],
+   "frame": "Medium wide shot in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs): the handsome BLOND man, 30, with short tousled blond hair, light stubble and a gold watch, in a navy blazer over an open-collar white shirt slowly standing up from the chair at the head of the table and stepping aside, while the very handsome WHITE man, 34, with light skin, full short dark-brown hair and a short full dark beard, in a tailored navy suit, white shirt and no tie, holding a dark wooden walking cane walks to the head of the table. Exactly TWO people in focus; others blurred at the table. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The blond man slowly rises and steps aside; the man with the cane walks to the head of the table and sits down in the chair. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 11,
+   "dur": 5,
+   "refs": [
+    "@B3",
+    "E6"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, full short dark-brown hair and a short full dark beard, in a tailored navy suit, white shirt and no tie, holding a dark wooden walking cane in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), now seated at the head of the table, hands folded, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the blond man in a navy blazer, seated at the side of the table, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The seated man says evenly: \"I understand decisions have been made without me.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": "B4",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 12,
+   "dur": 4,
+   "refs": [
+    "@B2",
+    "B3"
+   ],
+   "frame": "Medium close-up of the handsome BLOND man, 30, with short tousled blond hair, light stubble and a gold watch, in a navy blazer over an open-collar white shirt in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), now seated at the side of the table next to the blonde woman in red, defensive, forced smile, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with short dark-brown hair in a navy suit, seated at the head of the table, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The blond man says defensively: \"We were protecting the company.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "B",
+   "card": null,
+   "master": "B5",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 13,
+   "dur": 5,
+   "refs": [
+    "@B4"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, full short dark-brown hair and a short full dark beard, in a tailored navy suit, white shirt and no tie, holding a dark wooden walking cane in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), seated at the head of the table, cold, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the blond man in a navy blazer, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The seated man asks coldly: \"From me?\" Then he turns his head to the side and says: \"Play it.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 14,
+   "dur": 3,
+   "refs": [
+    "@B1",
+    "HJ"
+   ],
+   "frame": "Close-up in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs): the hand of the lawyer in a navy pinstripe sleeve with a white cuff setting a small black digital voice recorder on the dark walnut table and pressing play; a tiny red light comes on. No faces. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The hand sets down the small recorder and presses the button; the red light turns on. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 15,
+   "dur": 10,
+   "refs": [
+    "@B1"
+   ],
+   "frame": "Medium wide shot in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs): the board members and the two executives around the table slowly turning their heads to stare at the handsome BLOND man, 30, with short tousled blond hair, light stubble and a gold watch, in a navy blazer over an open-collar white shirt and the stunning woman with long light buttery-blonde hair and red lipstick, in a fitted long-sleeved red sheath dress with a modest high neckline and small gold earrings, who sit frozen. Exactly SIX people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "One by one, the people around the table turn to stare at the blond man and the blonde woman, who sit frozen. Slow push-in.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": "V6",
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 16,
+   "dur": 8,
+   "refs": [
+    "@B1",
+    "B3",
+    "V5"
+   ],
+   "frame": "Medium shot in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs): the handsome BLOND man, 30, with short tousled blond hair, light stubble and a gold watch, in a navy blazer over an open-collar white shirt sweating and swallowing, and the stunning woman with long light buttery-blonde hair and red lipstick, in a fitted long-sleeved red sheath dress with a modest high neckline and small gold earrings beside him going pale, both frozen. Exactly TWO people in focus. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The blond man sweats and swallows; the blonde woman beside him stares, frozen, her lips parted. Slow push-in.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": "B6",
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 17,
+   "dur": 5,
+   "refs": [
+    "@B1",
+    "V5"
+   ],
+   "frame": "Medium close-up of the stunning woman with long light buttery-blonde hair and red lipstick, in a fitted long-sleeved red sheath dress with a modest high neckline and small gold earrings in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), seated at the table, panicked, pleading sweetly, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with short dark-brown hair in a navy suit, seated at the head of the table, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The blonde woman says in a panicked, pleading voice: \"Ethan, baby, that was taken out of context. Bradley forced me.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "V",
+   "card": null,
+   "master": "B6",
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 18,
+   "dur": 4,
+   "refs": [
+    "@B2",
+    "B3"
+   ],
+   "frame": "Medium close-up of the handsome BLOND man, 30, with short tousled blond hair, light stubble and a gold watch, in a navy blazer over an open-collar white shirt in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), turning furiously toward the woman beside him, shouting, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the blonde woman in a red dress, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The blond man turns on her and shouts angrily: \"I forced you? It was your idea!\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "B",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 19,
+   "dur": 9,
+   "refs": [
+    "@B4"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, full short dark-brown hair and a short full dark beard, in a tailored navy suit, white shirt and no tie, holding a dark wooden walking cane in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), seated at the head of the table, raising one hand for silence, commanding, facing the camera; the board members are softly blurred in the background. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The seated man raises a hand and says firmly: \"Enough.\" Then he turns to the table and says: \"I move to cancel the Atlas sale and remove Bradley Caldwell as acting CEO.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 20,
+   "dur": 3,
+   "refs": [
+    "@B1",
+    "BC"
+   ],
+   "frame": "Medium close-up of the silver-haired white board chairman in his 60s with a lined face, in a charcoal three-piece suit and red tie in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), seated at the table, raising his hand, firm, facing the camera. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The silver-haired man raises his hand and says firmly: \"Seconded.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks. Each word is said exactly once.",
+   "spk": "X3",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 21,
+   "dur": 3,
+   "refs": [
+    "@B4"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, full short dark-brown hair and a short full dark beard, in a tailored navy suit, white shirt and no tie, holding a dark wooden walking cane in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), seated at the head of the table, looking around the table, facing the camera. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The seated man looks around the table and asks: \"All in favor?\" Then he waits in silence. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only this one person speaks. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 22,
+   "dur": 4,
+   "refs": [
+    "@15"
+   ],
+   "frame": "Wide shot in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), same seating as the reference image (the man with dark-brown hair and beard in a navy suit at the head of the table): around the long table, the board members and the two executives all raise their hands; only the handsome BLOND man, 30, with short tousled blond hair, light stubble and a gold watch, in a navy blazer over an open-collar white shirt and the stunning woman with long light buttery-blonde hair and red lipstick, in a fitted long-sleeved red sheath dress with a modest high neckline and small gold earrings, seated side by side, keep their hands down. No hands are raised by anyone else. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "One after another, every hand around the table goes up; the blond man and the blonde woman do not move. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 23,
+   "dur": 4,
+   "refs": [
+    "@7",
+    "DT",
+    "RY5"
+   ],
+   "frame": "Wide shot in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), toward the double doors: the doors open and in walk the Latino police officer, about 35, with short black hair, in a dark navy police uniform with a silver badge, the female police detective, 45, white, with a square jaw, short straight ash-brown hair in a low ponytail, light freckles and a small scar through her left eyebrow, in a navy blazer and white shirt with a gold badge on her belt, and a second detective (a tall Black man, 40s, with a shaved head in a gray suit). Exactly THREE people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The doors open and the officer and the two detectives walk briskly into the boardroom. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 24,
+   "dur": 9,
+   "refs": [
+    "@23",
+    "DT"
+   ],
+   "frame": "Medium close-up of the female police detective, 45, white, with a square jaw, short straight ash-brown hair in a low ponytail, light freckles and a small scar through her left eyebrow, in a navy blazer and white shirt with a gold badge on her belt in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), standing beside the table holding up her badge, stern, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the blond man in a navy blazer, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The detective says firmly and clearly: \"Bradley Caldwell, Vanessa Pierce, you're under arrest for attempted murder, fraud, and filing a false police report.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "DT",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 25,
+   "dur": 3,
+   "refs": [
+    "@B1",
+    "B3"
+   ],
+   "frame": "Close-up in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs): metal handcuffs closing around the wrists of a man wearing a navy blazer and a gold watch, held by hands in a dark navy police uniform sleeve. No faces. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The handcuffs click shut around the wrists. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 26,
+   "dur": 4,
+   "refs": [
+    "@B6",
+    "V5"
+   ],
+   "frame": "Medium close-up of the stunning woman with long light buttery-blonde hair and red lipstick, in a fitted long-sleeved red sheath dress with a modest high neckline and small gold earrings in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), standing, her hands cuffed in front of her, being led out, turning back, tearful, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with short dark-brown hair in a navy suit, seated at the head of the table, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The blonde woman turns back and says tearfully: \"Ethan, please. I loved you.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "V",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 27,
+   "dur": 7,
+   "refs": [
+    "@B4"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, full short dark-brown hair and a short full dark beard, in a tailored navy suit, white shirt and no tie, holding a dark wooden walking cane in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), seated at the head of the table, quiet and final, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the blonde woman in a red dress, standing, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The seated man says quietly and firmly: \"No. You loved my life. She loved me when I didn't have one.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 28,
+   "dur": 3,
+   "refs": [
+    "@B6"
+   ],
+   "frame": "Close-up of the stunning woman with long light buttery-blonde hair and red lipstick, in a fitted long-sleeved red sheath dress with a modest high neckline and small gold earrings in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), standing, glancing to the side toward someone, bitter and humiliated. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The blonde woman turns her eyes to the side and stares coldly. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 29,
+   "dur": 3,
+   "refs": [
+    "@A2",
+    "GB"
+   ],
+   "frame": "Close-up of the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a simple knee-length royal-blue dress with short sleeves and a modest neckline in a modern glass-walled boardroom on a high floor (long dark walnut table, black leather chairs, a city skyline beyond the windows, no logos or signs), standing near the wall, chin up, calmly meeting someone's gaze, unafraid. Only ONE person in the frame, no duplicates. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The young woman holds the gaze steadily, chin up, unafraid. Realistic natural motion, no dialogue.",
+   "spk": null,
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 30,
+   "dur": 5,
+   "refs": [
+    "@A1"
+   ],
+   "frame": "Wide shot in the bright modern lobby of a freight company headquarters (glass walls, polished pale stone floor, a long white reception desk, potted plants, no logos or signs): the very handsome WHITE man, 34, with light skin, full short dark-brown hair and a short full dark beard, in a tailored navy suit, white shirt and no tie, holding a dark wooden walking cane walks out across the lobby with the cane; the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a simple knee-length royal-blue dress with short sleeves and a modest neckline takes his free arm; the heavy-set 62-year-old Black lawyer with a round full face, a short neat salt-and-pepper mustache and no beard, close-cropped salt-and-pepper hair with a side part, thick tortoiseshell glasses, a navy pinstripe suit, white shirt and burgundy bow tie follows; around them office employees stand and applaud. Exactly SIX people. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "The employees stand and applaud as the man with the cane walks across the lobby; the young woman takes his arm.",
+   "spk": "X4",
+   "card": "MOMENTS LATER",
+   "master": null,
+   "lt": null,
+   "raw": true,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": "on",
+   "trim": null
+  },
+  {
+   "id": 31,
+   "dur": 3,
+   "refs": [
+    "@A2"
+   ],
+   "frame": "Medium close-up of the beautiful curvy young Black woman with long box braids worn down, dark brown eyes and a small gold cross necklace, in a simple knee-length royal-blue dress with short sleeves and a modest neckline in the bright modern lobby of a freight company headquarters (glass walls, polished pale stone floor, a long white reception desk, potted plants, no logos or signs), walking arm in arm with him, smiling, facing the camera. Over-the-shoulder shot: in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the white man with short dark-brown hair in a navy suit, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "Walking arm in arm, the young woman smiles and asks: \"How did it go?\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "G",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  },
+  {
+   "id": 32,
+   "dur": 4,
+   "refs": [
+    "@A3"
+   ],
+   "frame": "Medium close-up of the very handsome WHITE man, 34, with light skin, full short dark-brown hair and a short full dark beard, in a tailored navy suit, white shirt and no tie, holding a dark wooden walking cane in the bright modern lobby of a freight company headquarters (glass walls, polished pale stone floor, a long white reception desk, potted plants, no logos or signs), walking arm in arm with her, a warm small smile, facing the camera. Over-the-shoulder shot: in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a royal-blue dress, seen only from behind (no face visible). The speaker is in sharp focus facing the camera. Cinematic film still, 16:9, photorealistic, 35mm film look, shallow depth of field. Every person is an original fictional character who must not resemble any real actor or celebrity. No readable text, no logos.",
+   "video": "Walking arm in arm, the man smiles and says: \"I think you already know.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. Only the person facing the camera speaks; everyone else stays silent. Each word is said exactly once.",
+   "spk": "E",
+   "card": null,
+   "master": null,
+   "lt": null,
+   "raw": false,
+   "vo": null,
+   "pre": null,
+   "reuse": null,
+   "sound": null,
+   "trim": null
+  }
+ ],
+ "refs": {
+  "E6": "e5fff3d9-60fe-4ef7-9e92-58b8aaafec42",
+  "GB": "1f059989-0208-46dd-a350-e957a60af65b",
+  "GD": "152a6fd3-1ac7-4225-9b1e-8e63a654012c",
+  "HJ": "7d7b513f-a9ea-4ddc-8cf8-4c7ae77cc5bf",
+  "B3": "e59ccf4f-99ae-4084-b9cc-9bd6a543d608",
+  "V5": "ace27837-384e-4fde-96b7-400c71c758f5",
+  "VG": "6977815a-009f-4da0-9799-8a1c8daf4026",
+  "BC": "7cee2784-1c67-4ee8-9d7b-fdb71398ad79",
+  "DT": "9d7a04cc-bbfd-49a6-ad6e-59077f966591",
+  "RY": "ac5e0c43-ef4f-4228-920f-0bbcce106433",
+  "RY5": "84e70d95-f0b7-43bd-9376-84ebb5d0fbb7"
+ }
+}
