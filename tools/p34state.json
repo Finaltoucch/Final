@@ -1,126 +1,208 @@
 {
  "4002": {
   "clip": "4c61772a-4359-45c2-a22a-ffe1b331cf92",
-  "frame": "dc1f06d1-18a0-417e-8234-e60df6ba8827"
+  "frame": "dc1f06d1-18a0-417e-8234-e60df6ba8827",
+  "stem": "20261008_204536_4c61772a-4359-45c2-a22a-ffe1b331cf92",
+  "vc": "09541087-d97c-417a-8a7d-c731dfdaf251"
  },
  "4003": {
   "clip": "c69eaa3c-6700-4030-943d-da0c5d552619",
-  "frame": "141d38c8-5205-40ba-956f-3ba0effe570c"
+  "frame": "141d38c8-5205-40ba-956f-3ba0effe570c",
+  "stem": "20261008_204535_c69eaa3c-6700-4030-943d-da0c5d552619",
+  "vc": "7945fd0e-cef8-42f1-8b27-b76eefcfc182"
  },
  "4004": {
   "clip": "6e7d4b05-0c15-421b-bf6c-2b7100c619bd",
-  "frame": "d08b5554-1232-493a-b169-c243fd645836"
+  "frame": "d08b5554-1232-493a-b169-c243fd645836",
+  "stem": "20261008_204534_6e7d4b05-0c15-421b-bf6c-2b7100c619bd",
+  "vc": "04daec8e-8bc9-4388-b9b8-15758440a27b"
  },
  "4005": {
   "clip": "5f76d375-8a66-40f4-a4b4-a780a9eaee21",
-  "frame": "41b7abc7-e2cd-4acb-970a-e7907a15412a"
+  "frame": "41b7abc7-e2cd-4acb-970a-e7907a15412a",
+  "stem": "20261008_204534_5f76d375-8a66-40f4-a4b4-a780a9eaee21",
+  "vc": "e8bea235-3e17-444c-bda2-db6bad99b2c8",
+  "vcstem": "20261008_205644_e8bea235-3e17-444c-bda2-db6bad99b2c8"
  },
  "4006": {
   "clip": "bbb7b937-58e0-45d3-b044-66986f736595",
-  "frame": "63cfd15e-2544-408f-bdac-e7ddcfd20bcf"
+  "frame": "63cfd15e-2544-408f-bdac-e7ddcfd20bcf",
+  "stem": "20261008_204534_bbb7b937-58e0-45d3-b044-66986f736595",
+  "vc": "1b845d80-12b5-4b0a-956e-4d83aad918ad",
+  "vcstem": "20261008_205644_1b845d80-12b5-4b0a-956e-4d83aad918ad"
  },
  "4007": {
   "clip": "3f2a7f3c-0cbf-4cb2-9129-1f4c75f9d208",
-  "frame": "b96295b3-4a97-4b11-af54-65428f40a273"
+  "frame": "b96295b3-4a97-4b11-af54-65428f40a273",
+  "stem": "20261008_204535_3f2a7f3c-0cbf-4cb2-9129-1f4c75f9d208",
+  "vc": "c8a7046d-0944-4f67-ae2b-da92d6acf843"
  },
  "4008": {
   "clip": "0a066142-75e0-41f1-9157-df06999e90d3",
-  "frame": "e71928cc-5a52-4169-9c08-bec75d527a24"
+  "frame": "e71928cc-5a52-4169-9c08-bec75d527a24",
+  "stem": "20261008_204534_0a066142-75e0-41f1-9157-df06999e90d3",
+  "vc": "5cbf1df8-bbfb-452e-b207-4808a06ee526"
  },
  "4012": {
   "clip": "ef438c47-6244-4745-ad75-b5cb28cb2b91",
-  "frame": "a1c291d6-d21b-42ba-924d-a230ce86bf9d"
+  "frame": "a1c291d6-d21b-42ba-924d-a230ce86bf9d",
+  "stem": "20261008_204534_ef438c47-6244-4745-ad75-b5cb28cb2b91",
+  "vc": "afaca39f-60fc-4633-976a-a1e42926d9d8",
+  "vcstem": "20261008_205645_afaca39f-60fc-4633-976a-a1e42926d9d8"
  },
  "4013": {
   "clip": "29b91cf9-d08c-4e5b-894a-267a95b92f64",
-  "frame": "b0eaa41a-8ff7-44dc-a8af-a196b6aa61ea"
+  "frame": "b0eaa41a-8ff7-44dc-a8af-a196b6aa61ea",
+  "stem": "20261008_204535_29b91cf9-d08c-4e5b-894a-267a95b92f64",
+  "vc": "800e3069-626a-4bcd-8664-a319338365ee",
+  "vcstem": "20261008_205645_800e3069-626a-4bcd-8664-a319338365ee"
  },
  "4014": {
   "clip": "8b37b62c-1817-44c2-a415-b978dee6b0c0",
-  "frame": "bd377406-b8fc-4987-9a57-48423a5305df"
+  "frame": "bd377406-b8fc-4987-9a57-48423a5305df",
+  "stem": "20261008_204534_8b37b62c-1817-44c2-a415-b978dee6b0c0",
+  "vc": "169335a2-d96c-4de1-9d3b-00bfcf0a956c",
+  "vcstem": "20261008_205645_169335a2-d96c-4de1-9d3b-00bfcf0a956c"
  },
  "4015": {
   "clip": "93499fdd-0a29-4cda-83c1-1ded012a90a6",
-  "frame": "78fff406-3a17-45f6-a496-f6ff02c012df"
+  "frame": "78fff406-3a17-45f6-a496-f6ff02c012df",
+  "stem": "20261008_204534_93499fdd-0a29-4cda-83c1-1ded012a90a6",
+  "vc": "a33c6e67-5848-4dda-9197-4424242061dd",
+  "vcstem": "20261008_205645_a33c6e67-5848-4dda-9197-4424242061dd"
  },
  "4023": {
   "clip": "66cacadb-9dba-459f-9f36-1ac0b52582ad",
-  "frame": "8a105b5f-dcf6-45bf-8a69-6aed6426802d"
+  "frame": "8a105b5f-dcf6-45bf-8a69-6aed6426802d",
+  "stem": "20261008_204534_66cacadb-9dba-459f-9f36-1ac0b52582ad",
+  "vc": "62d577f8-e23f-4627-aaca-feabce113c04",
+  "vcstem": "20261008_205645_62d577f8-e23f-4627-aaca-feabce113c04"
  },
  "4024": {
-  "frame": "6909165c-f73b-444b-8bd5-a733fa222357"
+  "clip": "97e3b187-aa32-4b7d-a13a-8dfe19cb1278",
+  "frame": "dfa31c52-eeaa-465d-8658-f42c66be1e82",
+  "frame_bad": "broom-rails",
+  "stem": "20261008_204803_97e3b187-aa32-4b7d-a13a-8dfe19cb1278"
  },
  "4025": {
-  "frame": "a5835839-1642-4ded-92c8-1d6a1aed0533"
+  "clip": "172f8bfe-5d81-4cd9-9780-f45a61ade97f",
+  "frame": "a5835839-1642-4ded-92c8-1d6a1aed0533",
+  "stem": "20261008_204650_172f8bfe-5d81-4cd9-9780-f45a61ade97f",
+  "vc": "4309d2d6-ee3f-436e-b5e9-77a3dc4d986e"
  },
  "4027": {
-  "frame": "2623cc60-f0a6-4f79-9efb-7feeda960838"
+  "clip": "2915f778-03e3-40b6-b86a-b760d040c606",
+  "frame": "2623cc60-f0a6-4f79-9efb-7feeda960838",
+  "stem": "20261008_204650_2915f778-03e3-40b6-b86a-b760d040c606"
  },
  "4028": {
-  "frame": "242dbcd8-1b7b-422a-b3a3-fbae2369d859"
+  "clip": "87e99a01-0f90-41d6-9a74-c6194e62e5ed",
+  "frame": "d40ef191-01df-4b68-b068-69dbe3e41c04",
+  "frame_bad": "broom-rails",
+  "stem": "20261008_204856_87e99a01-0f90-41d6-9a74-c6194e62e5ed"
  },
  "4029": {
-  "frame": "8e9a8fa9-70f4-4cee-9d79-e02300873da5"
+  "clip": "97109130-9b1e-4e72-a367-918c0037ea26",
+  "frame": "8e9a8fa9-70f4-4cee-9d79-e02300873da5",
+  "stem": "20261008_204650_97109130-9b1e-4e72-a367-918c0037ea26"
  },
  "4031": {
-  "frame": "4e3764bb-3ad0-4514-b091-be763956cca6"
+  "clip": "7810c2ea-adcb-4383-93ca-9301925414c9",
+  "frame": "4e3764bb-3ad0-4514-b091-be763956cca6",
+  "stem": "20261008_204651_7810c2ea-adcb-4383-93ca-9301925414c9",
+  "vc": "84ae2faa-edf7-438b-81b1-7ae6d33a1a88"
  },
  "4032": {
-  "frame": "6da360be-e965-4a72-9509-0dfcc0092698"
+  "clip": "811ddc69-9c7e-480d-8bc3-58f18448b94a",
+  "frame": "6da360be-e965-4a72-9509-0dfcc0092698",
+  "stem": "20261008_204650_811ddc69-9c7e-480d-8bc3-58f18448b94a",
+  "vc": "4dafa48b-6bdf-4bbf-8862-5274ca0303f2"
  },
  "4033": {
-  "frame": "2c17476b-b0cf-428a-9fb1-c040310e9a86"
+  "clip": "b94671d5-c7f3-43f4-b626-efa9aa77b5f0",
+  "frame": "2c17476b-b0cf-428a-9fb1-c040310e9a86",
+  "stem": "20261008_204650_b94671d5-c7f3-43f4-b626-efa9aa77b5f0",
+  "vc": "f7441f54-676d-4e27-b2d1-07f0c6a84a69"
  },
  "4034": {
-  "frame": "6b44f110-27f3-4840-aad0-2524d0a1793d"
+  "clip": "2c922ab4-a2c9-4661-9a23-9d57c6d655ec",
+  "frame": "6b44f110-27f3-4840-aad0-2524d0a1793d",
+  "stem": "20261008_204651_2c922ab4-a2c9-4661-9a23-9d57c6d655ec"
  },
  "4035": {
-  "frame": "f2ca1f64-0f8b-473f-b0f7-24f56ccd898a"
+  "clip": "13546a58-2cf2-484e-970a-2de24f2384c4",
+  "frame": "f2ca1f64-0f8b-473f-b0f7-24f56ccd898a",
+  "stem": "20261008_204651_13546a58-2cf2-484e-970a-2de24f2384c4"
  },
  "4037": {
-  "frame": "7e0ecceb-6399-41ec-ac4b-28ddb1ded438"
+  "clip": "6f9d6527-2018-4840-8f13-6578570e25cf",
+  "frame": "7e0ecceb-6399-41ec-ac4b-28ddb1ded438",
+  "stem": "20261008_204650_6f9d6527-2018-4840-8f13-6578570e25cf"
  },
  "4038": {
+  "clip": "31ad5c9f-2fc0-458c-b72b-4a165dbff03a",
   "frame": "7db86d55-c169-44f3-8ebf-cbfb2a67ebe5"
  },
  "4039": {
-  "frame": "c3c0f951-a05e-417a-9932-c59731389518"
+  "clip": "c9278995-abbc-449d-8559-158bfc5d31d1",
+  "frame": "c3c0f951-a05e-417a-9932-c59731389518",
+  "stem": "20261008_204801_c9278995-abbc-449d-8559-158bfc5d31d1"
  },
  "4040": {
-  "frame": "ee03a81a-b2da-47d5-a04c-185303601279"
+  "clip": "e001cedb-5159-4c3a-8c61-f61878d62823",
+  "frame": "ee03a81a-b2da-47d5-a04c-185303601279",
+  "stem": "20261008_204801_e001cedb-5159-4c3a-8c61-f61878d62823"
  },
  "4041": {
-  "frame": "2be8590b-6583-4bb3-b5b9-a7ed9bdf6346"
+  "clip": "c292805d-17f7-4cb7-a589-e510382fa558",
+  "frame": "2be8590b-6583-4bb3-b5b9-a7ed9bdf6346",
+  "stem": "20261008_204801_c292805d-17f7-4cb7-a589-e510382fa558"
  },
  "4044": {
-  "frame": "28c37da3-8fd3-421f-8a25-ac4bcd73d006"
+  "clip": "910b58f9-82f0-4b03-b8b1-0cfb614cd4b7",
+  "frame": "28c37da3-8fd3-421f-8a25-ac4bcd73d006",
+  "stem": "20261008_204804_910b58f9-82f0-4b03-b8b1-0cfb614cd4b7"
  },
  "4046": {
-  "frame": "3eaf6b1d-bf35-4ec8-b90b-e3fcae0acbe6"
+  "clip": "e6883902-e395-4bf9-840b-5e8961ee174e",
+  "frame": "3eaf6b1d-bf35-4ec8-b90b-e3fcae0acbe6",
+  "stem": "20261008_204801_e6883902-e395-4bf9-840b-5e8961ee174e"
  },
  "4048": {
   "skip": "already-two-shot"
  },
  "4049": {
-  "frame": "1ce31529-863f-47b2-937b-2fc73fc856d6"
+  "clip": "52c9facb-a459-40bf-bbd2-adb6f85cf30e",
+  "frame": "1ce31529-863f-47b2-937b-2fc73fc856d6",
+  "stem": "20261008_204801_52c9facb-a459-40bf-bbd2-adb6f85cf30e"
  },
  "4050": {
-  "frame": "4b39da6c-d534-40c9-a570-a3619291970f"
+  "clip": "5414209c-3826-4dd0-9a1e-24f3aa6d66d5",
+  "frame": "4b39da6c-d534-40c9-a570-a3619291970f",
+  "stem": "20261008_204802_5414209c-3826-4dd0-9a1e-24f3aa6d66d5"
  },
  "4051": {
-  "frame": "94733891-cdd1-440f-a030-25f8cdf18ea9"
+  "clip": "32d93964-7787-4d73-b869-c5f2580ca22f",
+  "frame": "94733891-cdd1-440f-a030-25f8cdf18ea9",
+  "stem": "20261008_204801_32d93964-7787-4d73-b869-c5f2580ca22f"
  },
  "4053": {
-  "frame": "aacc3e50-43ba-4bf7-9b18-0c7ba4299d10"
+  "clip": "36ee3262-9906-4984-89b8-719032567e55",
+  "frame": "aacc3e50-43ba-4bf7-9b18-0c7ba4299d10",
+  "stem": "20261008_204801_36ee3262-9906-4984-89b8-719032567e55"
  },
  "4057": {
-  "frame": "296a5999-0372-4214-ad40-b2d3da184ada"
+  "clip": "c113c432-0f61-4eb6-9b08-d664fda047e7",
+  "frame": "296a5999-0372-4214-ad40-b2d3da184ada",
+  "stem": "20261008_204801_c113c432-0f61-4eb6-9b08-d664fda047e7"
  },
  "4058": {
   "skip": "already-OTS"
  },
  "4059": {
-  "frame": "bc8bae9c-6b64-4b72-845b-96c5256c80e6"
+  "clip": "b190f3fd-32db-4f99-8748-af03a1294c30",
+  "frame": "bc8bae9c-6b64-4b72-845b-96c5256c80e6",
+  "stem": "20261008_204801_b190f3fd-32db-4f99-8748-af03a1294c30"
  },
  "4060": {
   "skip": "already-OTS"
