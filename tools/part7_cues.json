@@ -1,0 +1,6 @@
+[{"cue": "hope", "from": "c:PART 7 · I HEARD YOU", "to": "n2", "gain": -2},
+ {"cue": "tender", "from": "n3", "to": "n7", "gain": -5},
+ {"cue": "tender", "from": "c:THAT NIGHT", "to": "n14", "gain": -3},
+ {"cue": "sad", "from": "n15", "to": "n16", "gain": -3},
+ {"cue": "hope", "from": "n17", "to": "n17", "gain": -3},
+ {"cue": "elegant", "from": "c:THE NEXT MORNING", "to": "n20", "gain": -4}]
