@@ -146,3 +146,13 @@ Every mistake made so far, why it happened, and the rule that prevents it.
 | A prop (cane) vanished three takes in a row because the start frame had a hand in a pocket | New start frame with the prop clearly gripped; cut away before it vanishes | Start frames must show props clearly held; if Kling still drops it, cut to a reaction shot and carry the dialogue as voice-over |
 | A character standing at the door also appeared seated in the background | Remove duplicates in the background | Check backgrounds for duplicates of main characters |
 | Kling adds speech to non-dialogue shots ("Thank you" over applause) | Mute that clip | Transcribe silent/ambient clips too |
+
+## 7. Added during Part 9 (the proposal & wedding)
+| Mistake | Fix | Rule |
+|---|---|---|
+| Kling dropped a key line from a long read ("Marry her." vanished; heard as "Love her, Mom") | Cut the shot after the last correct word and generate a short continuation from that exact frame saying only the missing words | For 12 s monologues, check the LAST sentence especially; patch with a continuation from the cut frame instead of re-rolling the whole take |
+| Kling inserted a hard camera cut (wide → close-up) inside a 3 s shot, and the prop vanished | `maxdur` before the cut (found with ffmpeg scene detection) | Run scene-change detection on every clip, not just eyeball 3 frames |
+| Voice change turned "Ethan." into "equal" | Raw take | One-word lines are the most fragile in voice change; always transcribe them |
+| Kling ad-libbed "You know," before a line | `ss` trim to just before the first scripted word | Whisper medium hears ad-libs that base misses; use medium for the check, base for timestamps |
+| Licensed songs in the screenplay (Johnny Cash, "I Walk the Line") | Replaced with the original procedural score | Never use a song named in the screenplay; the score carries the moment |
+| Voice change rate-limited (429) while Kling was still rendering | Submit voice changes only after the Kling batch drains, 3 at a time | Queue voice changes behind Kling, don't spam retries |
