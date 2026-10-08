@@ -48,6 +48,13 @@ Edit the clips together in this order. The teaser (0:00–0:30) is cut last, fro
 
 **Total:** ~6 min 23 s of video, about 735 credits.
 
+## Part 1 v4: over-the-shoulder remake (current)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/a63fa878-de7b-4f4d-973f-bc1069990cc3.mp4 (media `a63fa878-de7b-4f4d-973f-bc1069990cc3`), 5:30
+- **Every conversation is now OTS:** the speaker is sharp and the listener is blurred from behind. 35 OTS frames (`tools/part1r_shots.py`, approved ids in `tools/part1r_frames.json`) and 67 lines, one Kling clip per line. Lines 9, 11 and 13 use the retakes (109/111/113) made after the cross was removed from Grace's back in D1.
+- **Voices:** voice-changed takes, except raw for the gate guard and for lines 10, 41, 43 and 63, where voice change altered words. Final stems are listed in `tools/remake_stems.json`.
+- **Edit:** `tools/mkremake.py` swaps every old dialogue clip for its OTS lines and trims each to its speech (lead 0.4 s, tail 0.55 s; bounds from `meas_part1r.json` and `meas_medium_r.json`). It loudness-matches each line to -25 LUFS. Silent shots, cards, lower thirds and score cues are kept. The old list is `tools/part1_edit_list_pre_ots.json`.
+- **QA:** a medium-whisper transcript of the final cut matches the screenplay, and the contact sheet (1 frame per 2 s) was checked.
+
 ## Fix: clip 5 remade (Oct 6)
 The original clip 5 had Grace and the guard walking **backwards**. Use the remake instead:
 - **Clip 5 (remake, walking forward):** `ca4e6bb6-2283-4ce1-ba4e-2ac64cec4b23`. Old clip `92ced80e…` is ❌ don't use.

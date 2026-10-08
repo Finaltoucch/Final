@@ -1,5 +1,17 @@
 # Part 2 — The Collapse: shot list and jobs
 
+## Part 2 v6: over-the-shoulder remake (current)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/76b8c020-e11e-4571-9b1b-55d053aa577c.mp4 (media `76b8c020-e11e-4571-9b1b-55d053aa577c`), 4:27
+- **OTS lines** (`tools/part2r_shots.py`) replace old shots 7, 24, 25, 27, 29, 31, 33 and 39–46:
+  - party (Ethan / blond Bradley);
+  - 3 a.m. waiting room (Mrs. Hayes / Grace);
+  - next morning (Ethan / Dr. Patel's back);
+  - the soup and "day off" scene (Grace in the yellow sundress / Ethan).
+- **206 re-rolled:** in "My legs… why can't I move my legs?!" the first take turned into a grin. The new take is job `6dc93d37-80f3-4b87-aa08-12ce2dd8249d`, kept on raw audio.
+- **Old shot 42** (spoon feeding) showed a uniform sleeve, so it was replaced by `48fdb850-c811-4a4e-9929-e5ed35398059`, generated from frame `1805212e-6124-4542-8e4f-d34520084ddc` (sundress). The first second is skipped because Kling added a spoken line there.
+- **Old shot 47** ("he really looks at her") was daylight, so it was replaced by `7f551a25-a6fc-419e-a832-b4a21323cc8a` from frame `0945e1ae-9463-4e53-a8d9-7f9843692ecb` (evening).
+- **Raw audio** for 206 (shout) and 212 ("I picked up."); all other lines are voice-changed. The old list is `tools/part2_edit_list_pre_ots.json`.
+
 ## ✅ Part 2 v6 (current)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/d8e96d6b-9bce-4a45-9362-7d79e87da97b.mp4
 - Same content as v5, with the score 10 dB quieter. Measured: music in pauses about 15 dB below speech, up from 9 dB.
