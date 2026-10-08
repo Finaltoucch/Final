@@ -64,9 +64,9 @@
   "frame_src": "f69b7adb-a6cf-400e-bfff-8a468835e09a",
   "frame_refs": [
    "f69b7adb-a6cf-400e-bfff-8a468835e09a",
-   "27bbdbf4-09e9-4fae-be3b-ac06852635ed"
+   "54de5d14-a5c7-42e3-b87b-d5aa06618ced"
   ],
-  "frame_prompt": "Edit the first image into an over-the-shoulder shot. Keep the person facing the camera EXACTLY the same (same face, hair, wardrobe, expression), and keep the same room, background and lighting. Recompose slightly wider. Add in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a navy-and-white maid uniform, seen only from behind: no face visible, no jewelry visible from behind. The person facing the camera now looks at the person in the foreground, not into the lens. Exactly two people in frame. Cinematic film still, 16:9, photorealistic, shallow depth of field. No text, no logos.",
+  "frame_prompt": "Edit the first image into an over-the-shoulder shot. Keep the person facing the camera EXACTLY the same (same face, hair, wardrobe, expression), and keep the same room, background and lighting. Recompose slightly wider. Add in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the slim blonde woman with long straight light-blonde hair in a cream silk blouse, seen only from behind: no face visible, no jewelry visible from behind. The person facing the camera now looks at the person in the foreground, not into the lens. Exactly two people in frame. Cinematic film still, 16:9, photorealistic, shallow depth of field. No text, no logos.",
   "video": "The man in the wheelchair says flatly: \"That's the old storage room.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. The speaker looks at the person in the foreground, never into the camera. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
  },
  {
@@ -162,9 +162,9 @@
   "frame_src": "fbfb90de-9257-4568-8b17-00529a2cc776",
   "frame_refs": [
    "fbfb90de-9257-4568-8b17-00529a2cc776",
-   "27bbdbf4-09e9-4fae-be3b-ac06852635ed"
+   "a06cf4f3-5de6-4941-b406-0aed67147f7e"
   ],
-  "frame_prompt": "Edit the first image into an over-the-shoulder shot. Keep the person facing the camera EXACTLY the same (same face, hair, wardrobe, expression), and keep the same room, background and lighting. Recompose slightly wider. Add in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a navy-and-white maid uniform, seen only from behind: no face visible, no jewelry visible from behind. The person facing the camera now looks at the person in the foreground, not into the lens. Exactly two people in frame. Cinematic film still, 16:9, photorealistic, shallow depth of field. No text, no logos.",
+  "frame_prompt": "Edit the first image into an over-the-shoulder shot. Keep the person facing the camera EXACTLY the same (same face, hair, wardrobe, expression), and keep the same room, background and lighting. Recompose slightly wider. Add in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the elegant older Black woman with silver hair in a neat bun and a black dress, seen only from behind: no face visible, no jewelry visible from behind. The person facing the camera now looks at the person in the foreground, not into the lens. Exactly two people in frame. Cinematic film still, 16:9, photorealistic, shallow depth of field. No text, no logos.",
   "video": "The blonde woman cuts her off sharply: \"Mr. Caldwell can't sign his own name, Mrs. Hayes. I'm running this house now.\" Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. The speaker looks at the person in the foreground, never into the camera. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
  },
  {
@@ -501,7 +501,7 @@
    "27bbdbf4-09e9-4fae-be3b-ac06852635ed"
   ],
   "frame_prompt": "Edit the first image into an over-the-shoulder shot. Keep the person facing the camera EXACTLY the same (same face, hair, wardrobe, expression), and keep the same room, background and lighting. Recompose slightly wider. Add in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a navy-and-white maid uniform, seen only from behind: no face visible, no jewelry visible from behind. The person facing the camera now looks at the person in the foreground, not into the lens. Exactly two people in frame. Cinematic film still, 16:9, photorealistic, shallow depth of field. No text, no logos.",
-  "video": "The man in the bed says slowly and quietly: \"You heard them.\" The man stays in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. The speaker looks at the person in the foreground, never into the camera. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  "video": "The man lying in bed says slowly and quietly: \"You heard them.\" The man stays lying in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. The speaker looks at the person in the foreground, never into the camera. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
  },
  {
   "part": 4,
@@ -529,7 +529,7 @@
    "27bbdbf4-09e9-4fae-be3b-ac06852635ed"
   ],
   "frame_prompt": "Edit the first image into an over-the-shoulder shot. Keep the person facing the camera EXACTLY the same (same face, hair, wardrobe, expression), and keep the same room, background and lighting. Recompose slightly wider. Add in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a navy-and-white maid uniform, seen only from behind: no face visible, no jewelry visible from behind. The person facing the camera now looks at the person in the foreground, not into the lens. Exactly two people in frame. Cinematic film still, 16:9, photorealistic, shallow depth of field. No text, no logos.",
-  "video": "The man in the bed says slowly and deliberately: \"I can understand everything, Grace. My mouth is slow. My brain isn't.\" The man stays in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. The speaker looks at the person in the foreground, never into the camera. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  "video": "The man lying in bed says slowly and deliberately: \"I can understand everything, Grace. My mouth is slow. My brain isn't.\" The man stays lying in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. The speaker looks at the person in the foreground, never into the camera. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
  },
  {
   "part": 4,
@@ -543,7 +543,7 @@
    "27bbdbf4-09e9-4fae-be3b-ac06852635ed"
   ],
   "frame_prompt": "Edit the first image into an over-the-shoulder shot. Keep the person facing the camera EXACTLY the same (same face, hair, wardrobe, expression), and keep the same room, background and lighting. Recompose slightly wider. Add in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a navy-and-white maid uniform, seen only from behind: no face visible, no jewelry visible from behind. The person facing the camera now looks at the person in the foreground, not into the lens. Exactly two people in frame. Cinematic film still, 16:9, photorealistic, shallow depth of field. No text, no logos.",
-  "video": "The man in the bed says slowly, bitterly: \"I've been lying in this storage closet for six weeks, listening to my brother and my fianc\u00e9e plan my funeral.\" The man stays in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. The speaker looks at the person in the foreground, never into the camera. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  "video": "The man lying in bed says slowly, bitterly: \"I've been lying in this storage closet for six weeks, listening to my brother and my fianc\u00e9e plan my funeral.\" The man stays lying in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. The speaker looks at the person in the foreground, never into the camera. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
  },
  {
   "part": 4,
@@ -571,7 +571,7 @@
    "27bbdbf4-09e9-4fae-be3b-ac06852635ed"
   ],
   "frame_prompt": "Edit the first image into an over-the-shoulder shot. Keep the person facing the camera EXACTLY the same (same face, hair, wardrobe, expression), and keep the same room, background and lighting. Recompose slightly wider. Add in the left foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a navy-and-white maid uniform, seen only from behind: no face visible, no jewelry visible from behind. The person facing the camera now looks at the person in the foreground, not into the lens. Exactly two people in frame. Cinematic film still, 16:9, photorealistic, shallow depth of field. No text, no logos.",
-  "video": "The man in the bed says slowly: \"I know. I saw your face when you read the label.\" The man stays in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. The speaker looks at the person in the foreground, never into the camera. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  "video": "The man lying in bed says slowly: \"I know. I saw your face when you read the label.\" The man stays lying in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. The speaker looks at the person in the foreground, never into the camera. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
  },
  {
   "part": 4,
@@ -585,7 +585,7 @@
    "27bbdbf4-09e9-4fae-be3b-ac06852635ed"
   ],
   "frame_prompt": "Edit the first image into an over-the-shoulder shot. Keep the person facing the camera EXACTLY the same (same face, hair, wardrobe, expression), and keep the same room, background and lighting. Recompose slightly wider. Add in the right foreground, very close to the camera and softly out of focus, the back of the head and one shoulder of the young Black woman with long box braids in a navy-and-white maid uniform, seen only from behind: no face visible, no jewelry visible from behind. The person facing the camera now looks at the person in the foreground, not into the lens. Exactly two people in frame. Cinematic film still, 16:9, photorealistic, shallow depth of field. No text, no logos.",
-  "video": "The man in the bed says slowly and firmly: \"Call Harold Jennings. My lawyer. His number's in my desk. Don't trust anyone else.\" The man stays in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. The speaker looks at the person in the foreground, never into the camera. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
+  "video": "The man lying in bed says slowly and firmly: \"Call Harold Jennings. My lawyer. His number's in my desk. Don't trust anyone else.\" The man stays lying in the bed the whole time; he never gets up. Realistic facial acting and precise lip sync, natural conversational American accent, no music, clear dialogue. The speaker looks at the person in the foreground, never into the camera. Only the person facing the camera speaks; the blurred person in the foreground seen from behind stays still and silent. Each word is said exactly once."
  },
  {
   "part": 4,

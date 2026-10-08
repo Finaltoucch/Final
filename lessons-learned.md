@@ -181,3 +181,12 @@ Every mistake made so far, why it happened, and the rule that prevents it.
 | Regenerating Harold from text drifted into a celebrity-like face | Edit from a still of the approved Harold (uploaded frame) instead of describing him | Recurring minor characters: always edit from an approved still, never re-describe |
 | Kling ad-libbed before scripted lines ("Train is manned", "Hey, it's me") | `ss` trim to the first scripted word | Read word timestamps of every take, not just the transcript text |
 | Voice change dropped "Ah!" from "Ah! Every single morning." | Raw take | Exclamations are dropped as often as short words |
+
+## 10. Added during the Parts 3–4 over-the-shoulder pass
+
+| Problem | Fix | Rule |
+|---|---|---|
+| The listener was wrong for a line said to a third person (Ethan answering Vanessa with Grace's back in frame) | Re-edit with the person actually being addressed in the foreground | Map the listener from the screenplay line being answered, not from who stands nearest |
+| A back-of-head edit showed Mrs. Hayes's pearl necklace | Edit the frame again to remove it | Check every foreground back for jewelry before animating |
+| Mama's back views had gray hair and a cardigan she does not wear in her own close-ups | Edit the backs (and one close-up) to match her front shot | Use the speaker's own approved frame as the reference for their back |
+| The small whisper model "heard" a "What?" over silent score | Re-check the section with medium before cutting anything | Confirm any unexpected word with the medium model on that exact time range |

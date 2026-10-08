@@ -1,4 +1,6 @@
-**v6 (current): lawyer scene as a conversation.** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/0ff9df36-a0af-417e-8908-cafb2265c297.mp4 (media `0ff9df36-a0af-417e-8908-cafb2265c297`).
+**v7 (current): every two-person conversation shot over-the-shoulder (35 lines re-shot), "because" restored in shot 38.** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/d6ac53cd-d569-40b7-8893-4361504aca3b.mp4 (media `d6ac53cd-d569-40b7-8893-4361504aca3b`). Per-line jobs: `tools/p34state.json`.
+
+**v6: lawyer scene as a conversation.** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/0ff9df36-a0af-417e-8908-cafb2265c297.mp4 (media `0ff9df36-a0af-417e-8908-cafb2265c297`).
 - **Shots 18 and 21:** Harold now speaks to Grace over her shoulder, instead of to the lens. The frame `3cb5f506` was edited from a still of the approved Harold (upload `eff47b90`). The clips are `b812f096` and `45524ceb`, voice-locked with "Harold natural".
 - **Shot 19:** Grace's silent nod (`8e054b7f`). Shot 21 skips an ad-lib before 3.7 s. The patch is in `tools/part4_lawyer_fix.py`.
 

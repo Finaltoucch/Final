@@ -17,8 +17,8 @@ REF=dict(G='27bbdbf4-09e9-4fae-be3b-ac06852635ed',E='ada7e801-a781-4694-9800-584
 L={}
 def setl(p,ids,desc,ref):
   for i in ids:L[(p,i)]=(desc,ref)
-setl(3,[2,4,6],GRACE,'G');setl(3,[3,9],ETHAN_WC,'E');setl(3,[5,7],ETHAN_WC,'E')
-setl(3,[13,15,17],GRACE,'G');setl(3,[14],VAN,'V');setl(3,[16],VAN,'V')
+setl(3,[2,4],GRACE,'G');setl(3,[6],VAN,'V');setl(3,[3,9],ETHAN_WC,'E');setl(3,[5,7],ETHAN_WC,'E')
+setl(3,[13,15],GRACE,'G');setl(3,[17],HAYES,'H');setl(3,[14],VAN,'V');setl(3,[16],VAN,'V')
 setl(3,[19,21,23,25,28,30],GRACE,'G');setl(3,[20,22,24,29,31,32],ETHAN_WC,'E')
 setl(3,[38,40,42,44],GRACE,'G');setl(3,[39,41,43],MAMA,'M')
 setl(3,[54,56],VAN,'V');setl(3,[55,57],BRAD,'B')
