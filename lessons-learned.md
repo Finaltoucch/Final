@@ -156,3 +156,15 @@ Every mistake made so far, why it happened, and the rule that prevents it.
 | Kling ad-libbed "You know," before a line | `ss` trim to just before the first scripted word | Whisper medium hears ad-libs that base misses; use medium for the check, base for timestamps |
 | Licensed songs in the screenplay (Johnny Cash, "I Walk the Line") | Replaced with the original procedural score | Never use a song named in the screenplay; the score carries the moment |
 | Voice change rate-limited (429) while Kling was still rendering | Submit voice changes only after the Kling batch drains, 3 at a time | Queue voice changes behind Kling, don't spam retries |
+
+## 8. Added during the Parts 1–2 over-the-shoulder remake
+| Mistake | Fix | Rule |
+|---|---|---|
+| Parts 1 and 2 shot conversations as separate singles, never as speaker-sharp / listener-blurred OTS | Every conversation line re-shot from a two-person OTS frame (`part1r_shots.py`, `part2r_shots.py`), cut one clip per line | Every two-person exchange is OTS, both directions, from the first part on |
+| The model kept painting Grace's cross pendant on her BACK in OTS foregrounds (D1, I1, J1, L1) | Image edit: "remove the necklace from her back" | Add "no jewelry visible from behind" to every OTS prompt, and check the blurred shoulder in every frame |
+| Voice change swapped small words: "Then" → "And", "dirty" → "Dodie", "a clean table" → "the clean table", "nim" for "ma'am" | Raw take for those lines | Compare the voice-changed transcript word by word, articles included |
+| Voice change caps jobs in flight (429 after ~9) | Submit in batches of 9, collect, then submit the next | Batch of 9, never more |
+| Kling turned a panic shout into an excited grin (Part 2 "my legs") | Re-rolled with "terrified, never smiling, frightened to the very last frame" | Check the LAST second of every emotional shot, not just the middle |
+| Kling added a spoken line ("I'll take over.") to a silent beat | `ss` past it | Transcribe silent shots too |
+| A kept old cutaway (uniform sleeve, daylight) no longer matched the remade scene (evening, sundress) | Two new shots from the remade frames | When a scene is remade, re-check every old shot left inside it for wardrobe and light |
+| Raw Kling lines run 1–2 s of dead air before the first word | `mkremake.py` trims each line to speech −0.3 s / +0.55 s and loudness-matches it to −25 LUFS | Measure (`meas.py`) and trim every dialogue clip; never cut on the clip's full length |

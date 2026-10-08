@@ -1,13 +1,18 @@
 # Builds part1/part2 edit lists for the over-the-shoulder remake.
 # Every old dialogue clip is replaced by its remade OTS lines (one clip per line, trimmed to the
 # speech with a short lead-in and tail, loudness-matched); silent shots and cards stay.
-# usage: python3 mkremake.py <part> meas.json
+# usage: python3 mkremake.py <part> meas.json [meas_medium.json]
+# Speech bounds use the earlier start / later end of the small and medium whisper passes:
+# the small model alone placed some first words up to 2 s late and cut them.
 import json,sys
 part=sys.argv[1];MS={k:dict(zip(('s','e','dur','lufs'),v)) for k,v in json.load(open(sys.argv[2])).items()}
+MM=json.load(open(sys.argv[3])) if len(sys.argv)>3 else {}
+for k,v in MM.items():
+  if v and k in MS:MS[k]['s']=min(MS[k]['s'],v[0]);MS[k]['e']=max(MS[k]['e'],v[1])
 S=json.load(open('remake_stems.json'))
 OLD=json.load(open(f'part{part}_edit_list_pre_ots.json'));CUES=json.load(open(f'part{part}_cues_pre_ots.json'))
 TARGET=-25;LOUD={'2:6':-22}            # the leg-panic shout sits higher
-LEAD=0.3;TAIL=0.55
+LEAD=0.4;TAIL=0.55
 LT={'1:3':['VANESSA PIERCE',"Ethan Caldwell's fiancée"],'1:11':['MRS. HAYES','Head housekeeper'],
     '1:23':['ETHAN CALDWELL','CEO, Caldwell Freight'],'1:31':['BRADLEY CALDWELL',"Ethan's younger brother"],
     '1:60':['MAMA RUTH',"Grace's mother"]}
