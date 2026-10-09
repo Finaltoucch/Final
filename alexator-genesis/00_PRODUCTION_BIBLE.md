@@ -106,3 +106,23 @@ used swabs, each dirtier than the last.
 6. CHECK BOTH SIDES OF EVERY CUT before delivering, not just end frames.
 7. A light source asked for "just out of frame" gets put IN frame floating —
    say "WE DO NOT SEE THE LAMP".
+
+## REFERENCE PLATES — GENERATED 9 Oct 2026
+| Plate | Job ID |
+|---|---|
+| The conservator | `799e3a17-f679-4a4c-8fec-1fac91faa110` |
+| The chapel, empty, scaffolding | `929b96ae-09fd-4799-84be-fa7484c07e6e` |
+| The fresco, half cleaned (v2 FINAL) | `0ef264c5-2638-4916-9a71-2d9979a54095` |
+| The swab, dish and tools | `7caeffc3-4136-4145-8bef-2b1f8020cbf6` |
+
+SUPERSEDED: fresco v1 `34b7387f-2045-43ee-8d05-c6e054685f6b` came back as a
+Byzantine Christ icon with a halo and a blessing gesture, despite the prompt
+banning both. That is a recognisable existing artwork type and would breach the
+brief's no-third-party-visual-material clause. Rebuilt as an invented secular
+portrait of a young woman, cropped at the shoulders so no hands appear.
+
+SPEC AMENDMENT: THE FRESCO is now a painted portrait of a YOUNG WOMAN -- dark
+curling hair gathered back, large dark almond eyes looking slightly off to one
+side, a deep LAPIS BLUE cloth over one shoulder, flat deep red-brown background.
+NO halo, NO gold, NO hands, NO arms, NO symbol, NO lettering. Cropped at the
+shoulders. Every later prompt must carry this wording.

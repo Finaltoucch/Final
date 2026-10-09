@@ -107,3 +107,21 @@ harness lines" — phrase it as "unclips and lets the lines fall away".
 Same seven as the Genesis bible, plus: camera-locked motion kills large-object
 distortion, so lock the camera on the canopy shot. Check BOTH SIDES OF EVERY
 CUT before delivering.
+
+## REFERENCE PLATES — GENERATED 9 Oct 2026
+| Plate | Job ID |
+|---|---|
+| The smokejumper, full kit | `a6bc11b1-54ff-4f4a-8c84-586a75257fdc` |
+| The helmet and mesh cage, close | `c249db26-768d-4f03-af8f-e00f7c5963ca` |
+| The burning ridge from the air (v2 FINAL) | `77b551d5-ca82-4ead-887a-be7f4bb3f5ca` |
+| The black — burnt ground | `502b74e2-a88a-4356-872b-c4b23255280f` |
+| The canopy inflated | `f1c0db1e-e6d0-4392-a7fa-e536fb072a6c` |
+| The tool on burnt ground | `c0c27bbd-07a3-4771-b0e5-70b1aa21aeb7` |
+
+SUPERSEDED: aerial v1 `11062c45-6ff6-4b66-9510-938d22a95be9` was shot through an
+aircraft window with the oval frame in picture. Rebuilt with an explicit ban on
+any window, frame, glass, wing, strut or fuselage.
+
+## PLATE SPEND
+15 plates at 2.00 = 30.00, plus 2 redos at 2.00 = 4.00. Total 34.00 across all
+three films.

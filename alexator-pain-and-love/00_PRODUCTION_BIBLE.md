@@ -97,3 +97,18 @@ is the technique that rescued shot 05 on THE LAST GOODBYE.
 Same seven as the Genesis bible. In particular: check BOTH SIDES OF EVERY CUT
 before delivering, and no shot may introduce a character into a space the
 previous shot established as empty.
+
+## REFERENCE PLATES — GENERATED 9 Oct 2026
+| Plate | Job ID |
+|---|---|
+| The handler | `1d658ee2-99c3-45e7-8f9c-b6b701150560` |
+| The dog, full body in profile | `1e6efb64-8524-481a-8260-1e5d9a70c3d7` |
+| The dog, head close | `2defe8c9-5722-4392-b047-f6390850f947` |
+| The debris field at first light | `4d77ea79-2e48-499b-b99f-f69a23eeb72a` |
+| The red glove | `8653e49e-1232-480c-9c70-c57cb8bcd36b` |
+
+SPEC AMENDMENT — THE DOG'S KIT. The two dog plates disagree: the full-body plate
+gave an ORANGE WEBBING HARNESS across the chest and shoulders, the head plate
+gave an ORANGE COLLAR. The HARNESS is canonical. Every keyframe prompt must say:
+"a SIMPLE ORANGE WEBBING HARNESS across the chest and over the shoulders, and NO
+COLLAR". The head plate stays usable as a face and fur reference only.
