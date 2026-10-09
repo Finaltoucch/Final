@@ -125,3 +125,23 @@ any window, frame, glass, wing, strut or fuselage.
 ## PLATE SPEND
 15 plates at 2.00 = 30.00, plus 2 redos at 2.00 = 4.00. Total 34.00 across all
 three films.
+
+## KEYFRAMES — GENERATED 9 Oct 2026  (all twelve first time, no redos)
+| # | Job ID |
+|---|---|
+| 01 THE BOOT IN THE DOORFRAME | `4cf3b438-680d-45cf-9ca4-a3484db9d344` |
+| 02 HIS FACE IN THE CAGE | `200a6e54-191d-4f12-910c-ebb73a917dc6` |
+| 03 HE IS GONE (DROP) | `e2e69370-2741-44ec-8b0b-9bcbf0790bb8` |
+| 04 THE CANOPY CRACKS OPEN | `b27f6c6f-3078-4803-a3f5-4640e4d1a59d` |
+| 05 THE FIRE FRONT FAR BELOW | `67810f82-f456-4b6b-834b-5094453bf44e` |
+| 06 BOOTS OVER THE TREETOPS | `8f203e71-a291-4e74-87fb-7f4d17460810` |
+| 07 THE LANDING | `f668dd3c-c0c0-4a47-98e7-860e46b571d7` |
+| 08 LETTING THE LINES FALL AWAY | `4011ab02-c5fc-446d-a0c0-95ee2be16577` |
+| 09 WALKING INTO THE SMOKE | `f01f80f1-0a03-4897-843b-4a8003c98903` |
+| 10 THE TOOL BITES THE EARTH | `9069b055-70c1-41a2-8e58-7e79a152b138` |
+| 11 HIS FACE, SOOT AND ORANGE | `2cb39070-71ac-4321-b144-7765c26ffdf9` |
+| 12 THE LINE THAT HELD | `d7f9b730-be68-42c2-a1c0-9a8bdf5b46ff` |
+
+## SPEND TO DATE ACROSS ALL THREE FILMS
+plates 30.00 + plate redos 4.00 + 36 keyframes 72.00 + 3 keyframe redos 6.00
+= 112.00. Remaining: 36 clips at 312.00.

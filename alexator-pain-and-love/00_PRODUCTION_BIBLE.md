@@ -112,3 +112,24 @@ gave an ORANGE WEBBING HARNESS across the chest and shoulders, the head plate
 gave an ORANGE COLLAR. The HARNESS is canonical. Every keyframe prompt must say:
 "a SIMPLE ORANGE WEBBING HARNESS across the chest and over the shoulders, and NO
 COLLAR". The head plate stays usable as a face and fur reference only.
+
+## KEYFRAMES — GENERATED 9 Oct 2026
+| # | Job ID |
+|---|---|
+| 01 THE NOSE IN THE SNOW | `da53de66-ec7e-4f97-9c9b-2b289b7c87c1` |
+| 02 THE DEBRIS FIELD | `8c8a00b8-5ab2-4098-a6ab-08e6a5680e12` |
+| 03 HER FACE, SCANNING | `13ab3da3-cd4b-41d6-a5ea-a54aa3e57abb` |
+| 04 THE DOG QUARTERING | `dd5ee46d-cf8e-4be4-8088-8c936bebbaf7` |
+| 05 THE DOG DIGS (DROP) | `3e76760b-3ac2-4f28-94b8-bc4c70ae8af0` |
+| 06 SHE RUNS | `146edcef-55ab-44a0-b0b3-2a7e9928a65a` |
+| 07 CLAWING SNOW | `449f1def-1db4-464f-9b38-723d8c097f4c` |
+| 08 THE RED GLOVE EMERGES | `8d604f3b-e4a2-4615-8c35-ced9636b59d2` |
+| 09 THE DOG LOCKED ON (v2 FINAL) | `f5215224-2d8f-4b98-84e1-134747646266` |
+| 10 SHE REACHES DOWN (v2 FINAL) | `7e58a324-2e4b-4c45-9aca-919ec4097ed8` |
+| 11 A HAND CLOSES AROUND HERS | `a0f75b6c-12c7-4d24-a8c9-8e939acedc68` |
+| 12 FIRST SUN ON THE RIDGE | `ab9f53c7-678d-42c7-9758-39996f5fd59c` |
+SUPERSEDED: 09 v1 `2f33752a-a584-4073-83f0-b15fa6351ce9` put an ORANGE COLLAR on
+the dog instead of the harness -- the collar leaked in from the head reference
+plate. 10 v1 `766fbed5-642d-422f-8ae7-5e7b4fbe2077` had her crouching and
+looking into the lens with an almost cheerful expression instead of lying prone
+with her face turned down into the hole.

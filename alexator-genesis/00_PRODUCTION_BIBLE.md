@@ -126,3 +126,21 @@ curling hair gathered back, large dark almond eyes looking slightly off to one
 side, a deep LAPIS BLUE cloth over one shoulder, flat deep red-brown background.
 NO halo, NO gold, NO hands, NO arms, NO symbol, NO lettering. Cropped at the
 shoulders. Every later prompt must carry this wording.
+
+## KEYFRAMES — GENERATED 9 Oct 2026
+| # | Job ID |
+|---|---|
+| 01 THE SWAB | `ba2d07b4-399c-44df-9f5d-3b68f1aedb4c` |
+| 02 HER EYE BEHIND THE VISOR | `204f35fa-f118-48a2-a127-3a3530111a3a` |
+| 03 THE LAMPS STRIKE (DROP) | `f438034e-4ffb-42c7-b763-e208a3cb952e` |
+| 04 THE PAINTED EYE (v2 FINAL) | `e7f1217f-d0e8-43d5-9ec0-104e6041ed59` |
+| 05 MIXING THE SOLVENT | `1ef6a51a-cd29-49c6-93f0-73d6df8bc5b2` |
+| 06 THE CRACK AND THE FILL | `79f53b12-7319-424e-b551-0217dda899f6` |
+| 07 SHE STEPS BACK | `9488793a-7015-46e5-90bb-9974fce5a651` |
+| 08 THE DIVIDE | `69e3ab4c-0bbb-4f74-9025-632001116c99` |
+| 09 DUST IN THE LAMP BEAM | `dc7bff27-e085-442a-989c-e3bbc53db9c2` |
+| 10 HER FACE AND THE PAINTED FACE | `02790814-7618-42f4-89f8-ee6cb99cfbc5` |
+| 11 THE LAST STROKE | `71acc438-9c05-42c5-9c0f-f45d13a8cd90` |
+| 12 LAMPS OFF | `359a0432-f468-4d81-a91f-4b84a3532e18` |
+SUPERSEDED: 04 v1 `2665dc9c-0e2a-4a78-9f2a-c172ec6f6c93` had a BARE hand where
+every other shot has pale blue nitrile gloves.
