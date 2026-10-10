@@ -193,3 +193,5 @@ Every mistake made so far, why it happened, and the rule that prevents it.
 | Vanessa (3057) looked almost into the lens with a toothy grin | New frame: head turned three-quarters to the listener, closed-mouth thin smile; prompt "subtle, restrained, never looks toward the camera" | Check the speaker's eyeline in the start frame; a near-frontal face drifts into the lens when animated |
 | Kling ran "nice, sir" together ("nicer") | Re-roll with "nice... sir" and a stated pause | Short words after commas need an explicit pause in the prompt |
 | Voice change turned "He needs help" into "She needs help" | Second voice-change pass was correct | Re-run a garbled voice change once before falling back to the raw take |
+| Kling filled a crowd shot with guests who had Ethan's and Bradley's faces | Re-shot in Seedance 2.5 with "he is the only man with dark hair and a beard; every guest looks clearly different" | Zoom into every crowd frame for lead lookalikes before animating; generic "guests" inherit the lead's face |
+| Seedance draft finalize costs the full price | Draft at 480p to judge, then finalize once | Budget a draft plus a full-price final |

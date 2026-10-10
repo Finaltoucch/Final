@@ -1,6 +1,11 @@
 # Part 2 — The Collapse: shot list and jobs
 
-## Part 2 v7: new toast and collapse (current)
+## Part 2 v8: Seedance 2.5 toast and collapse (current)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/8ebfa451-853b-4ea4-ac0f-99835a1a30cd.mp4 (media `8ebfa451-853b-4ea4-ac0f-99835a1a30cd`), 4:26
+- Shots 9-11 are one Seedance 2.5 clip (`4dadf1b8`, finalized from draft `5ee5e96f`): toast close-up with push-in (first 8.7 s, voice-changed to Ethan's voice, `56d0da41`), slow-motion collapse, glass shattering, aftermath with a gray-haired guest kneeling. v7 was withdrawn: its Kling aftermath had guests with Ethan's and Bradley's faces.
+- **Hook:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/59339d07-5a1b-4c8b-9f1b-721417206cb4.mp4 (media `59339d07-5a1b-4c8b-9f1b-721417206cb4`), 0:28: the Seedance clip, the gurney rush (shot 20), title, "A FEW WEEKS EARLIER".
+
+## ~~Part 2 v7~~ (withdrawn: lookalike guests)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/2b941949-b76b-499f-84e0-38b0c13cbb9f.mp4 (media `2b941949-b76b-499f-84e0-38b0c13cbb9f`), 4:29
 - Old shots 9-11 replaced (job log `tools/toastfall.json`): toast with visible stroke signs and a slow push-in (clip `70b5454c`, voice `a36cb009`, cut off at "every—"); slow-motion collapse (clip `60a84d29`, first 1.8 s at half speed); glass shattering on the dance floor (`519658b9`, first 2 s); aftermath wide (`00aefce1`). The same shots open the movie as the hook.
 - **Hook:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/f4408451-0722-419d-b8a1-8e2b7aaaeaf4.mp4 (media `f4408451-0722-419d-b8a1-8e2b7aaaeaf4`): toast, collapse, glass, aftermath, gurney rush into the hospital, title, "A FEW WEEKS EARLIER". Edit list `tools/hook_edit_list.json`.
