@@ -76,37 +76,17 @@
 {
 "n": 9,
 "t": {
-"E": "https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/3deccdfe-8aba-4776-99c1-1b98a227fd8c.mp4"
+"E": "20261010_214556_56d0da41-71e2-47bd-86fb-a012995cdc59"
 },
-"gain": -4.4,
-"mute": [
-[
-7.42,
-8.2
-]
-]
+"gain": 3.7
 },
 {
-"n": "10a",
+"n": 10,
 "t": {
-"X": "https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/3f782317-2246-4aa2-81fc-73893b2eb930.mp4"
-}
+"X": "20261010_214053_4dadf1b8-804b-465f-b622-22d2c8b53975"
 },
-{
-"n": "10b",
-"t": {
-"X": "20261010_210828_519658b9-a554-46f7-aa9f-a9e0e0f079bb"
-},
-"maxdur": 2.0,
-"gain": -6
-},
-{
-"n": "11",
-"t": {
-"X": "20261010_210829_00aefce1-39c4-4cde-8129-4f4450c67721"
-},
-"maxdur": 5.0,
-"gain": -6
+"ss": 8.7,
+"gain": -1.4
 },
 {
 "n": 12,
