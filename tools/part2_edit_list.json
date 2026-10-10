@@ -1,6 +1,6 @@
 [
 {
-"card": "PART 2 · THE COLLAPSE"
+"card": "PART 2 \u00b7 THE COLLAPSE"
 },
 {
 "card": "THE ENGAGEMENT PARTY"
@@ -76,20 +76,37 @@
 {
 "n": 9,
 "t": {
-"E": "20261006_204350_94ad9652-e55d-462c-9a4e-9298b34e434b"
+"E": "https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/3deccdfe-8aba-4776-99c1-1b98a227fd8c.mp4"
+},
+"gain": -4.4,
+"mute": [
+[
+7.42,
+8.2
+]
+]
+},
+{
+"n": "10a",
+"t": {
+"X": "https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/3f782317-2246-4aa2-81fc-73893b2eb930.mp4"
 }
 },
 {
-"n": 10,
+"n": "10b",
 "t": {
-"X": "20261006_234859_ded6279f-7e33-4e85-95ec-f9cf3d051a7d"
-}
+"X": "20261010_210828_519658b9-a554-46f7-aa9f-a9e0e0f079bb"
+},
+"maxdur": 2.0,
+"gain": -6
 },
 {
-"n": 11,
+"n": "11",
 "t": {
-"X": "20261006_202642_425f7626-a85a-4ec2-9493-cd4a3ff4022c"
-}
+"X": "20261010_210829_00aefce1-39c4-4cde-8129-4f4450c67721"
+},
+"maxdur": 5.0,
+"gain": -6
 },
 {
 "n": 12,

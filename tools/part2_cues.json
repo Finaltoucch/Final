@@ -1,7 +1,7 @@
 [
 {
 "cue": "elegant",
-"from": "c:PART 2 · THE COLLAPSE",
+"from": "c:PART 2 \u00b7 THE COLLAPSE",
 "to": "n5"
 },
 {
@@ -22,14 +22,14 @@
 },
 {
 "sfx": "riser",
-"at": "n10",
-"len": 5,
-"off": 2.0
+"at": "n10a",
+"len": 3.6,
+"off": 0.0
 },
 {
 "sfx": "impact",
-"at": "n10",
-"off": 2.0
+"at": "n10b",
+"off": 0.25
 },
 {
 "cue": "panic",
