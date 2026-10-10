@@ -1,0 +1,25 @@
+{
+ "note": "Toast + collapse redo for hook and Part 2: 9 toast (locked waist-up), 101 slow-mo drop out of frame, 10 glass insert, 12x aftermath wide. Old 10/11 dropped.",
+ "still": "03fefd72-0034-47f7-95b1-9dcbae4f6ab6",
+ "9": {
+  "frame": "59115271-ff64-433a-bc1d-8c6da161d91f",
+  "take1": "ffc8001c-e3c6-438d-969e-84cb40ab3776",
+  "clip": "70b5454c-bd5f-4c53-8de3-49a86fb60756"
+ },
+ "11": {
+  "frame": "26b04a07-117b-4edb-ba18-54d8d2d9090f",
+  "take1_rejected": "79bbc510-a241-44cb-95ba-9f7ce91b6dba"
+ },
+ "101": {
+  "frame": "26b04a07-117b-4edb-ba18-54d8d2d9090f",
+  "clip": "60a84d29-318b-44f6-8364-d607166ff151"
+ },
+ "10": {
+  "frame": "aa812bd3-2d60-4363-b9c1-c7c74900d7cf",
+  "clip": "519658b9-a554-46f7-aa9f-a9e0e0f079bb"
+ },
+ "12x": {
+  "frame": "e95ff442-bc69-4dae-a83c-0135b08b6080",
+  "clip": "00aefce1-39c4-4cde-8129-4f4450c67721"
+ }
+}
