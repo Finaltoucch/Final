@@ -12,7 +12,7 @@
 - **Old shot 47** ("he really looks at her") was daylight, so it was replaced by `7f551a25-a6fc-419e-a832-b4a21323cc8a` from frame `0945e1ae-9463-4e53-a8d9-7f9843692ecb` (evening).
 - **Raw audio** for 206 (shout) and 212 ("I picked up."); all other lines are voice-changed. The old list is `tools/part2_edit_list_pre_ots.json`.
 
-## ✅ Part 2 v6 (current)
+## Part 2 v6, score level (superseded by the OTS remake)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/d8e96d6b-9bce-4a45-9362-7d79e87da97b.mp4
 - Same content as v5, with the score 10 dB quieter. Measured: music in pauses about 15 dB below speech, up from 9 dB.
 
