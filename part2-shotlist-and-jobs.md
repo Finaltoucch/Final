@@ -1,6 +1,11 @@
 # Part 2 — The Collapse: shot list and jobs
 
-## Part 2 v8: Seedance 2.5 toast and collapse (current)
+## Part 2 v9: Seedance gurney rush (current)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/c5749c59-6524-493d-8fa9-b7a3a6ecffa8.mp4 (media `c5749c59-6524-493d-8fa9-b7a3a6ecffa8`), 4:26
+- Shot 20 is now Seedance 2.5 (`1bd67198`, finalized from draft `27b6dcd1`): two women nurses, Dr. Patel in profile, Ethan in his tux with an oxygen mask. Raw voice kept (Voice Change turned "stroke" into "strobe"). Draft `3da48542` rejected: male nurse resembled Ethan and Dr. Patel faced the lens.
+- **Hook:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/5282a160-29e1-4265-ad02-2c885b58b592.mp4 (media `5282a160-29e1-4265-ad02-2c885b58b592`), 0:28, all Seedance.
+
+## Part 2 v8: Seedance 2.5 toast and collapse (superseded)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/8ebfa451-853b-4ea4-ac0f-99835a1a30cd.mp4 (media `8ebfa451-853b-4ea4-ac0f-99835a1a30cd`), 4:26
 - Shots 9-11 are one Seedance 2.5 clip (`4dadf1b8`, finalized from draft `5ee5e96f`): toast close-up with push-in (first 8.7 s, voice-changed to Ethan's voice, `56d0da41`), slow-motion collapse, glass shattering, aftermath with a gray-haired guest kneeling. v7 was withdrawn: its Kling aftermath had guests with Ethan's and Bradley's faces.
 - **Hook:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/59339d07-5a1b-4c8b-9f1b-721417206cb4.mp4 (media `59339d07-5a1b-4c8b-9f1b-721417206cb4`), 0:28: the Seedance clip, the gurney rush (shot 20), title, "A FEW WEEKS EARLIER".
