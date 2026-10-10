@@ -56,7 +56,7 @@ Edit the clips together in this order. The teaser (0:00–0:30) is cut last, fro
 - **Inhaler setup (screenplay scene 15b):** Grace is on the phone in the mansion hallway while Vanessa listens from a doorway (frame `1af29485`, clip `e1eb6716`). This sets up "I hear everything in this house."
 - **QA:** a full medium-whisper transcript of the cut matches the screenplay.
 
-## Part 1 v4: over-the-shoulder remake (current)
+## Part 1 v4: over-the-shoulder remake (superseded)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/a63fa878-de7b-4f4d-973f-bc1069990cc3.mp4 (media `a63fa878-de7b-4f4d-973f-bc1069990cc3`), 5:44
 - **Every conversation is now OTS:** the speaker is sharp and the listener is blurred from behind. 35 OTS frames (`tools/part1r_shots.py`, approved ids in `tools/part1r_frames.json`) and 67 lines, one Kling clip per line. Lines 9, 11 and 13 use the retakes (109/111/113) made after the cross was removed from Grace's back in D1.
 - **Voices:** voice-changed takes, except raw for the gate guard and for lines 10, 41, 43 and 63, where voice change altered words. Final stems are listed in `tools/remake_stems.json`.
@@ -119,7 +119,7 @@ Voices: Grace = Naomi, Vanessa = Celine, Ethan = Holden, Mrs. Hayes = Helena, Gu
 | 3 | Vanessa's "Move! Are you blind?" was never spoken | Optional: fine as is |
 | 6 | The guard's "Wait here" was never spoken | Optional: fine as is |
 
-## ✅ Part 1 v7 (current)
+## Part 1 v7, score level (superseded by v5)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/e997566f-d9de-42e3-a5c2-e9a60368abfd.mp4
 - The score is 10 dB quieter again, and it ducks by 12 dB under dialogue.
 
