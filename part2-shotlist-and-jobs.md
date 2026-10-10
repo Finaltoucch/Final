@@ -1,6 +1,11 @@
 # Part 2 — The Collapse: shot list and jobs
 
-## Part 2 v6: over-the-shoulder remake (current)
+## Part 2 v7: new toast and collapse (current)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/2b941949-b76b-499f-84e0-38b0c13cbb9f.mp4 (media `2b941949-b76b-499f-84e0-38b0c13cbb9f`), 4:29
+- Old shots 9-11 replaced (job log `tools/toastfall.json`): toast with visible stroke signs and a slow push-in (clip `70b5454c`, voice `a36cb009`, cut off at "every—"); slow-motion collapse (clip `60a84d29`, first 1.8 s at half speed); glass shattering on the dance floor (`519658b9`, first 2 s); aftermath wide (`00aefce1`). The same shots open the movie as the hook.
+- **Hook:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/f4408451-0722-419d-b8a1-8e2b7aaaeaf4.mp4 (media `f4408451-0722-419d-b8a1-8e2b7aaaeaf4`): toast, collapse, glass, aftermath, gurney rush into the hospital, title, "A FEW WEEKS EARLIER". Edit list `tools/hook_edit_list.json`.
+
+## Part 2 v6: over-the-shoulder remake (superseded)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/76b8c020-e11e-4571-9b1b-55d053aa577c.mp4 (media `76b8c020-e11e-4571-9b1b-55d053aa577c`), 4:29
 - **OTS lines** (`tools/part2r_shots.py`) replace old shots 7, 24, 25, 27, 29, 31, 33 and 39–46:
   - party (Ethan / blond Bradley);
