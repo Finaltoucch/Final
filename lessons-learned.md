@@ -190,3 +190,6 @@ Every mistake made so far, why it happened, and the rule that prevents it.
 | A back-of-head edit showed Mrs. Hayes's pearl necklace | Edit the frame again to remove it | Check every foreground back for jewelry before animating |
 | Mama's back views had gray hair and a cardigan she does not wear in her own close-ups | Edit the backs (and one close-up) to match her front shot | Use the speaker's own approved frame as the reference for their back |
 | The small whisper model "heard" a "What?" over silent score | Re-check the section with medium before cutting anything | Confirm any unexpected word with the medium model on that exact time range |
+| Vanessa (3057) looked almost into the lens with a toothy grin | New frame: head turned three-quarters to the listener, closed-mouth thin smile; prompt "subtle, restrained, never looks toward the camera" | Check the speaker's eyeline in the start frame; a near-frontal face drifts into the lens when animated |
+| Kling ran "nice, sir" together ("nicer") | Re-roll with "nice... sir" and a stated pause | Short words after commas need an explicit pause in the prompt |
+| Voice change turned "He needs help" into "She needs help" | Second voice-change pass was correct | Re-run a garbled voice change once before falling back to the raw take |

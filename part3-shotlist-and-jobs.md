@@ -1,4 +1,6 @@
-**Interim (current): foyer conversation (shots 2–4) re-shot over-the-shoulder; the other 32 Part 3 lines have approved OTS frames (`tools/p34state.json`) and are waiting for credits to animate.** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/92a9553c-e2e1-4739-a1b3-8be9a7685c33.mp4 (media `92a9553c-e2e1-4739-a1b3-8be9a7685c33`).
+**v-OTS (current): every two-person conversation shot over-the-shoulder (35 lines re-shot), all lines word-exact to the screenplay; 3057 redone after viewer note (Vanessa looked into the lens).** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/2af22f75-f8fc-40e2-adb0-95a29ad1bd2a.mp4 (media `2af22f75-f8fc-40e2-adb0-95a29ad1bd2a`). Per-line jobs: `tools/p34state.json`.
+
+**Interim: foyer conversation (shots 2–4) re-shot over-the-shoulder; the other 32 Part 3 lines have approved OTS frames (`tools/p34state.json`) and are waiting for credits to animate.** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/92a9553c-e2e1-4739-a1b3-8be9a7685c33.mp4 (media `92a9553c-e2e1-4739-a1b3-8be9a7685c33`).
 
 # Part 3 — Everyone Leaves: shot list and job IDs
 
