@@ -6,8 +6,8 @@ os.makedirs('d',exist_ok=True)
 SR=48000
 def run(c,**k):return sp.run(c,check=True,**k)
 def dl(u):
-  f='d/'+u.split('_')[-1]+'.mp4'
-  if not os.path.exists(f):run(['curl','-sf','--retry','3','-o',f,P+u+'.mp4'])
+  f='d/'+u.split('/')[-1].split('_')[-1].removesuffix('.mp4')+'.mp4'
+  if not os.path.exists(f):run(['curl','-sf','--retry','3','-o',f,u if u.startswith('http') else P+u+'.mp4'])
   return f
 with ThreadPoolExecutor(16) as ex:list(ex.map(dl,[u for c in M if 't' in c for u in list(c['t'].values())+([c['vo']] if 'vo' in c else [])]))
 print('downloaded',flush=True)
