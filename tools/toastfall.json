@@ -21,5 +21,15 @@
  "12x": {
   "frame": "e95ff442-bc69-4dae-a83c-0135b08b6080",
   "clip": "00aefce1-39c4-4cde-8129-4f4450c67721"
+ },
+ "seedance_hook": {
+  "draft": "59f82e62-0c25-4584-b8ee-5d2c9c1a5ba2",
+  "refs": [
+   "59115271",
+   "b680952e",
+   "69a576f5",
+   "c786f50d"
+  ],
+  "note": "user asked to redo the hook with Seedance 2.5; Kling aftermath frame had Ethan/Bradley lookalike guests"
  }
 }
