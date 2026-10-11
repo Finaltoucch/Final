@@ -34,12 +34,12 @@
 {
 "cue": "panic",
 "from": "n10",
-"to": "n18"
+"to": "n12"
 },
 {
 "cue": "sad",
-"from": "n19",
-"to": "n19",
+"from": "n18",
+"to": "n18",
 "gain": 2
 },
 {
