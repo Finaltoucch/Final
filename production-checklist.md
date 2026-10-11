@@ -76,7 +76,7 @@ Apply this checklist to every part.
 
 ## Final cut: the full movie (2026-10-11)
 
-**Current: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/5a92cbdd-79a0-44fb-be3b-d3893922f80c.mp4** (media `5a92cbdd-79a0-44fb-be3b-d3893922f80c`). Runtime 36:23 (2183.4 s), 1080p24, 452 MB.
+**Current (v2): https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/dc702e42-0351-419f-a0d9-84dfa9e93a08.mp4** (media `dc702e42-0351-419f-a0d9-84dfa9e93a08`). v2 fixes Part 8: the boardroom entrances now come through wooden doors from a corridor, and the stray hand in the lobby shot is gone. Part 8 alone is `65558aec-8293-4a63-b981-d5a72a3f9a5a`. v1 was `5a92cbdd-79a0-44fb-be3b-d3893922f80c`. Runtime 36:23 (2183.4 s), 1080p24, 452 MB.
 
 - **Order:** hook, then parts 1–9, each built from `tools/*_edit_list.json` and `*_cues.json` at commit 320dd8c. The pieces were joined end to end with no gaps.
 - **Hook (0:00–0:34), all Seedance 2.5:** the toast, the slow-motion fall with the glass shattering, Grace on the ground calling the ambulance, the ER gurney rush with Dr. Patel, then the title card and "A FEW WEEKS EARLIER".
@@ -109,3 +109,5 @@ These were made with the locked character references (Grace in uniform, Ethan in
 **Photoreal, no-text version of A (pick):** `8b475c70-6a36-41c0-b5a7-683c242c7795`, 5504×3072, [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261011_124954_8b475c70-6a36-41c0-b5a7-683c242c7795.png). Runner-up, closer to A's exact layout: `19063f99-fce3-4646-b875-2e741f80095f`.
 - **Feeding the cartoon thumbnail back as a reference** carried its painted look over (`0c47cda8…`, `50ecb8b8…`). Describe the layout in words and pass only the real character references.
 - **Warning:** the library's `BRADLEY` reference (`8f021d31…`) shows a dark-haired, stubbled man, but Bradley is blond. That reference can produce an Ethan lookalike, so prompt "BLOND, clean-shaven" explicitly. The `35dad300…` render put a different man beside Vanessa, and `8b475c70` fixes that.
+
+**Real-face thumbnail (2026-10-11):** the user rejected the library-reference faces. The face references now come from frames of the film itself: Ethan `088f8942-4ba9-4495-b49f-36bc07eee98f` (P3 at 0:13), Grace `8fd096ad-2e43-4ce9-9f1a-b305e26eddc6` (P3 at 3:31), Vanessa `8c192f1d-5557-4aa6-bd96-765c6dc6a71f` (P5 at 0:15) and Bradley `bdd97d62-5d4c-427d-b05e-120682a5c374` (P3 at 0:58). Best result so far: `bb9fcf52-a4dd-45cd-8314-16bd1e721714`. Vanessa and Bradley match closely; Ethan's head is bowed, so his face is hard to read.
