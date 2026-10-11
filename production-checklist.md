@@ -105,3 +105,7 @@ These were made with the locked character references (Grace in uniform, Ethan in
 | **A (pick)** | Rainy mansion steps. Grace kneels and holds Ethan's hand in the wheelchair while Vanessa and Bradley leave with a suitcase. "EVERYONE LEFT HIM... / ONLY THE MAID STAYED" | `00e12ad5-1f2b-465a-82ba-c60968c862d5` |
 | B | Split frame: the toast collapse with shattering glass, then Grace at the hospital bed, with a Vanessa ring inset. "HIS FIANCEE LEFT... / THE MAID STAYED" | `8caa009f-225b-4c15-9400-2d967fd3be44` |
 | C | Close-up of Grace crying. Ethan in the wheelchair reaches toward Vanessa leaving through the doorway. "EVERYONE LEFT THE CEO... / SHE STAYED" | `0d889765-232f-46eb-8ca6-29afcc40bb75` |
+
+**Photoreal, no-text version of A (pick):** `8b475c70-6a36-41c0-b5a7-683c242c7795`, 5504×3072, [open](https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/hf_20261011_124954_8b475c70-6a36-41c0-b5a7-683c242c7795.png). Runner-up, closer to A's exact layout: `19063f99-fce3-4646-b875-2e741f80095f`.
+- **Feeding the cartoon thumbnail back as a reference** carried its painted look over (`0c47cda8…`, `50ecb8b8…`). Describe the layout in words and pass only the real character references.
+- **Warning:** the library's `BRADLEY` reference (`8f021d31…`) shows a dark-haired, stubbled man, but Bradley is blond. That reference can produce an Ethan lookalike, so prompt "BLOND, clean-shaven" explicitly. The `35dad300…` render put a different man beside Vanessa, and `8b475c70` fixes that.
