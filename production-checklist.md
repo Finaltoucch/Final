@@ -95,3 +95,13 @@ Apply this checklist to every part.
 | Part 7 | 29:14 | 251bf439-af65-4039-8897-2e56d3a8d8e0 |
 | Part 8 | 30:51 | 42e91533-a5c7-4f3b-8d75-0344651440f0 |
 | Part 9 | 33:27 | a4954065-8447-4e50-93d8-e1a06cdc0efa |
+
+## Thumbnails (2026-10-11)
+
+These were made with the locked character references (Grace in uniform, Ethan in the wheelchair or tux, Vanessa in the red gown, Bradley). Each prompt said only the named people appear and nobody looks at the camera.
+
+| # | Concept | Job ID |
+|---|---|---|
+| **A (pick)** | Rainy mansion steps. Grace kneels and holds Ethan's hand in the wheelchair while Vanessa and Bradley leave with a suitcase. "EVERYONE LEFT HIM... / ONLY THE MAID STAYED" | `00e12ad5-1f2b-465a-82ba-c60968c862d5` |
+| B | Split frame: the toast collapse with shattering glass, then Grace at the hospital bed, with a Vanessa ring inset. "HIS FIANCEE LEFT... / THE MAID STAYED" | `8caa009f-225b-4c15-9400-2d967fd3be44` |
+| C | Close-up of Grace crying. Ethan in the wheelchair reaches toward Vanessa leaving through the doorway. "EVERYONE LEFT THE CEO... / SHE STAYED" | `0d889765-232f-46eb-8ca6-29afcc40bb75` |
