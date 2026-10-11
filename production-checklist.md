@@ -73,3 +73,25 @@ Apply this checklist to every part.
 
 ## Over-the-shoulder listeners must be identifiable
 - A minor character seen only in a far wide shot must NOT appear alone in an OTS foreground: viewers read them as a random stranger. Show them in an identifying way (both attendants together, uniforms with patches, their prop such as the stretcher), or use a main character as the listener.
+
+## Final cut: the full movie (2026-10-11)
+
+**Current: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/5a92cbdd-79a0-44fb-be3b-d3893922f80c.mp4** (media `5a92cbdd-79a0-44fb-be3b-d3893922f80c`). Runtime 36:23 (2183.4 s), 1080p24, 452 MB.
+
+- **Order:** hook, then parts 1–9, each built from `tools/*_edit_list.json` and `*_cues.json` at commit 320dd8c. The pieces were joined end to end with no gaps.
+- **Hook (0:00–0:34), all Seedance 2.5:** the toast, the slow-motion fall with the glass shattering, Grace on the ground calling the ambulance, the ER gurney rush with Dr. Patel, then the title card and "A FEW WEEKS EARLIER".
+- **No "PART N" cards anywhere.** Time and place cards (e.g. "THREE WEEKS LATER") are kept.
+- **Upload limit:** the plain copy-concat was 690 MB and was rejected with HTTP 413. A 499 MB test upload passed. The pieces were re-encoded in parallel (x264 veryfast, 1.5 Mbps video, 160 kbps AAC audio) and then concatenated.
+
+| Piece | Starts at | Media (pre-recompress) |
+|---|---|---|
+| Hook | 0:00 | 2b0ba6e5-aa04-457f-b4e0-df475e2f7f2e |
+| Part 1 | 0:34 | c8dc7d41-0e70-4f02-8328-d2ecd2761756 |
+| Part 2 | 6:55 | f51eab93-8823-40ba-87a1-43d2d9626f6a |
+| Part 3 | 10:54 | 284e831d-b08d-451a-a0d3-1195f57462b3 |
+| Part 4 | 16:00 | 87f0bd22-c748-4cfa-a9b4-ae6137da6e2b |
+| Part 5 | 20:36 | 4084a3e2-d2eb-484d-97c2-15fe8fec83a6 |
+| Part 6 | 25:38 | dd396c03-1000-4d29-8f2f-3bf493ab9d5c |
+| Part 7 | 29:14 | 251bf439-af65-4039-8897-2e56d3a8d8e0 |
+| Part 8 | 30:51 | 42e91533-a5c7-4f3b-8d75-0344651440f0 |
+| Part 9 | 33:27 | a4954065-8447-4e50-93d8-e1a06cdc0efa |
