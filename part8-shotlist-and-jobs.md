@@ -72,3 +72,10 @@ Shots: `tools/part8_shots.json`. The "Play it" recording reuses the real Part 6 
 32 hf_20261008_104353_4e0675c3-24b5-4c24-a5e8-479bd631dfb7
 --- reaction 55: 20261008_104818_61d4b894-5aa2-412b-8293-8d04f26f6a79
 ```
+
+## v-doors fix (2026-10-11)
+The user flagged two problems: people walked into the boardroom through glass doors that opened onto the sky, and a disembodied hand rested on Ethan's arm in the lobby.
+- **Shot 7 (Ethan, Grace and Harold enter):** new frame `585dea04-f9c5-4ce8-ac62-6842df60a678` shows a wood-paneled wall with walnut double doors opening onto an interior corridor. New Kling clip `20261011_131321_6be3bc4b-5239-4d4d-b8e6-f0bddf2fc9f6`.
+- **Shot 23 (police enter):** new frame `714d65e3-56d6-4271-ae17-145c47ff0b3e` uses the same doorway. New clip `20261011_131641_05f45284-8811-4256-b426-0234a32ce32a`.
+- **Shot 32 (Ethan, "I think you already know."):** new frame `44248185-152e-4a53-adb2-26b9ef9db16f` removes the stray hand. The new Kling clip `b2b698c7…` was voice-changed to Benji as `20261011_131625_ecf0df4a-2573-40c1-a8a3-65ed9c293f07`, and Whisper confirms the line is word-exact.
+- The previous edit list is backed up as `tools/part8_edit_list_pre_doors.json`.
