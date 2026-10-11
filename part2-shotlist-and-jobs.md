@@ -1,6 +1,10 @@
 # Part 2 — The Collapse: shot list and jobs
 
-## Part 2 v9: Seedance gurney rush (current)
+## Part 2 v10: Seedance ground scene (current)
+- **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/043431f9-a6d3-47ea-99ec-00443303ee2d.mp4 (media `043431f9-a6d3-47ea-99ec-00443303ee2d`), 4:02
+- Old shots 12-19 replaced by two Seedance 2.5 clips (job log `tools/toastfall.json`): `2fa9cdd0` (Grace drops her tray and runs to Ethan, "Mr. Caldwell! Ethan! Look at me. Smile for me. He's having a stroke! Someone call 911!", Vanessa grabs her arm over the shoulder, "He doesn't have time for quietly!") and `9ce19f91` (the ambulance call, "Stay with me", ambulance lights). Raw voices, as before for this shouted scene. Draft `d30eb7ac` rejected: said "Belle Meade Avenue".
+
+## Part 2 v9: Seedance gurney rush (superseded)
 - **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/c5749c59-6524-493d-8fa9-b7a3a6ecffa8.mp4 (media `c5749c59-6524-493d-8fa9-b7a3a6ecffa8`), 4:26
 - Shot 20 is now Seedance 2.5 (`1bd67198`, finalized from draft `27b6dcd1`): two women nurses, Dr. Patel in profile, Ethan in his tux with an oxygen mask. Raw voice kept (Voice Change turned "stroke" into "strobe"). Draft `3da48542` rejected: male nurse resembled Ethan and Dr. Patel faced the lens.
 - **Hook:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/5282a160-29e1-4265-ad02-2c885b58b592.mp4 (media `5282a160-29e1-4265-ad02-2c885b58b592`), 0:28, all Seedance.
