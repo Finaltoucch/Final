@@ -41,7 +41,7 @@ This is a fictional story. All characters are original and any resemblance to re
 
 ## Tags (paste into the Tags box; about 480 characters)
 ```
-the maid who stayed, full movie, drama movie, maid movie, ceo drama, paralyzed ceo, billionaire ceo, fiancee betrayal, betrayal movie, revenge drama, love story movie, loyal maid, housekeeper story, rags to riches, wheelchair love story, moral story, life lesson movie, family drama, romance drama, ai movie, inspirational movie, emotional story, short film, cinematic drama, kindness story
+the maid who stayed, full movie, drama movie, maid movie, ceo drama, paralyzed ceo, billionaire ceo, fiancee betrayal, betrayal movie, revenge drama, love story movie, loyal maid, housekeeper story, rags to riches, wheelchair love story, moral story, life lesson movie, family drama, romance drama, inspirational movie, emotional story, short film, cinematic drama, kindness story
 ```
 
 ## Hashtags
@@ -51,7 +51,7 @@ YouTube shows the first three above the title:
 
 More hashtags for Shorts, TikTok and Instagram clips:
 
-`#CEOdrama #BetrayalStory #LoveStory #LoyaltyTest #MaidStory #EmotionalStory #MoralStory #RagsToRiches #WheelchairLove #AIMovie #ShortFilm #KarmaStory #TrueLove #Faith #Drama`
+`#CEOdrama #BetrayalStory #LoveStory #LoyaltyTest #MaidStory #EmotionalStory #MoralStory #RagsToRiches #WheelchairLove #ShortFilm #KarmaStory #TrueLove #Faith #Drama`
 
 ## Pinned comment
 ```
