@@ -19,24 +19,62 @@ the local masters, then against every project bible in this repo.
 | 021 Adrenaline | `baccf609-2701-4098-af88-8029b29c8185` | THE SMOKEJUMPER |
 | 025 Pain and Love | `438106cc-75e2-4403-afa2-f1857d5a1dd1` | THE AVALANCHE DOG |
 | Rise Again | `05ea62db-e06d-4976-8e53-51a53b3ac6c6` | RISE AGAIN |
-| *(title unknown)* | `af3c1bb9-3da2-48c9-87e8-5ee5e9f58fa3` | **THE LONGEST DINNER** |
-| *(title unknown)* | `1f92398f-6444-47d9-ab0c-781361547229` | **WHAT SHE PUT IN HIS HAND** |
-| *(one of these four)* | `41fddf73` `729f5631` `decb7898` | Through the Fire / Just Relax / Endless Sands |
+| 006 Towards the Dream | `af3c1bb9-3da2-48c9-87e8-5ee5e9f58fa3` | **THE LONGEST DINNER** |
+| 004 Through the Fire | `1f92398f-6444-47d9-ab0c-781361547229` | **WHAT SHE PUT IN HIS HAND** |
+| *(one of these three)* | `41fddf73` `729f5631` `decb7898` | Just Relax / Endless Sands / one other — Through the Fire is now accounted for |
 
 The last two were found by elimination: every one of the seventeen
 previously-used tracks accounts for exactly one distinct file size on the
 account, and these two matched none of them. Both carry the ALEXATOR master
 fingerprint — 48 kHz stereo mp3 at ~337 kbps with an attached MJPEG cover that
 is the generic ALEXATOR.COM artwork — so they are genuine masters that had
-never been cut. **Neither carries an ID3 title tag. The client must supply the
-two release names before the deliverables can be given their final filenames.**
+never been cut.
+
+## CORRECTION — THEY WERE TAGGED ALL ALONG
+This register previously said both files carried **no ID3 title tag** and that
+the client had to supply the names. That was wrong, and the mistake is worth
+keeping because it is a trap anyone would fall into twice.
+
+Every ALEXATOR master carries a full tag set — `title`, `track`, `album`,
+`artist`, `genre`, `date`. The reason the probe came back empty is that the
+**ID3v2 tag on these files is 516,417 bytes**, because the cover art is embedded
+inside it. Step 3 of the procedure below fetched only the first 300,000 bytes,
+which cuts the tag in half; ffprobe then fails with
+
+```
+Failed to read frame size: Could not seek to 1026
+```
+
+and that failure reads as "no tags" if you are not watching for it. A 600 KB
+range request parses the same file perfectly:
+
+| range | result |
+|---|---|
+| `curl -r 0-300000` | parse error, looks untagged |
+| `curl -r 0-600000` | `Towards the Dream, 6` |
+| whole file | `Towards the Dream, 6` |
+
+**Never conclude a tag is absent from a truncated file.** Check the declared
+ID3v2 size first — bytes 6–9 of the header, seven bits per byte — and fetch at
+least that much before deciding anything.
+
+A second trap caught the same day: the sandbox held files called `A.mp3` and
+`B.mp3` that were *not* the masters these two films were cut from. They are
+017 All for You and 019 Never Let Go, left over from earlier projects. **Always
+identify a master by the MD5 recorded in its own origin proof**, not by a
+filename sitting in a working directory. Confirmed here: `20a0f894…` = 006
+Towards the Dream (243.960 s), `4a476984…` = 004 Through the Fire (233.520 s),
+`5184c875…` = 015 Break New Ground.
 
 ## HOW TO IDENTIFY AN UNKNOWN AUDIO MEDIA WITHOUT SPENDING ANYTHING
 1. `show_medias type=audio` for the id list.
 2. In the sandbox, `curl -sI` each URL and read `content-length`. Sizes are
    distinctive enough to identify a master outright.
-3. `curl -s -r 0-300000` the head of the file and `ffprobe` it for
-   `format_tags=title,artist`. ALEXATOR masters have none, but other audio on
-   the account does, which separates music from generated speech at a glance.
+3. `curl -s -r 0-600000` the head of the file and `ffprobe` it for
+   `format_tags=title,track,album,artist,date`. **600 KB, not 300 KB** — the
+   embedded cover pushes the ID3v2 tag past half a megabyte and a short range
+   truncates it into a parse error that looks like an absent tag. This alone
+   gives the release number and the exact title, so it should be the *first*
+   step, not a fallback.
 4. Extract the attached picture with `-map 0:v:0 -frames:v 1` and look at it.
 5. Fingerprint check: 48 kHz, stereo, ~337 kbps, an MJPEG stream, 190–250 s.

@@ -241,3 +241,14 @@ media_id `c63018e7-6ac2-4294-b145-5ad80d8e14eb`
 
 Correction spend: 2 keyframes 4.00 + 1 clip 7.50 = 11.50
 (one of the two keyframes was the failed text-only attempt).
+
+## TRACK — identified from the master's own ID3 tags
+**004 — Through the Fire** · album ALEXATOR.COM · artist ALEXATOR · 2026
+
+Delivered as `01_FINAL_ALEXATOR_004_Through_the_Fire.mp4`.
+
+The client asked on 12 October 2026 that every Origin Proof carry the release
+number and the exact title together, in the form `006 — Towards the Dream`.
+That is now in all three PDFs and applies to every future delivery. An earlier
+version of this bible said the master carried no title tag — it always did;
+`TRACK_REGISTER.md` records why the probe said otherwise.
