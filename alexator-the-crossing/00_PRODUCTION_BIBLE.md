@@ -132,10 +132,69 @@ were checked frame by frame and are false positives: frame 1 is the opening
 fade, the rest are double-triggers one or two frames after a cut into a
 high-motion shot.
 
+## CORRECTION ROUND 3 — SHOT 04, THE HEAD OF THE SHOT
+The client came back with a screenshot at 0:12: the cat still fused into the
+back of a car. **They were right, and the reason I missed it is the whole
+lesson of this round.**
+
+Round 1 re-rolled shot 04 and I pronounced it fixed after checking frames 340,
+380, 410 and 428 — the middle and the end of the shot. The overlap is at frames
+300 to 319. **I checked the tail because the last failure had been in a tail,
+and so I looked where I had last been burned instead of looking everywhere.**
+
+Two rules now, not one:
+- **Check the head, the middle AND the tail of every shot.** A defect sits
+  wherever it sits; it does not care which part of the previous shot was wrong.
+- **Sweep the whole film before declaring any shot fixed.** Before this rebuild
+  the entire film was sampled at ten-frame intervals across all 1198 frames —
+  twenty contact sheets, every one looked at. Shot 04 was the only defect in the
+  film. That sweep costs minutes and would have caught this two rounds ago.
+
+### The fix cost nothing
+The Kling generation is 145 frames and only the first 129 had been used.
+Inspected frame by frame, the cat–car overlap occupies **source frames 2 to 17**
+and everything from frame 20 on is clear, including the 16 tail frames that had
+never been used. So the shot was rebuilt from **source frames 20–144** (125
+frames) and re-timed by `setpts` ×1.040 to fill the same 129-frame slot.
+
+```
+trim=start_frame=20,setpts=1.040*(PTS-STARTPTS),scale=1080:-2:flags=lanczos,
+crop=1080:1920,fps=24,setsar=1    -frames:v 129
+```
+
+Every cut stays exactly on its bar line, the duration is unchanged, and **no
+generation was commissioned — 0.00 credits.** The clip in the sources archive is
+the same unaltered file, so `02_USED_AI_SOURCES.zip` is untouched and was not
+re-uploaded. Only the master and the PDF changed.
+
+**Before reaching for a re-roll, check whether the source clip is longer than
+the slot.** Kling returns 145 frames for a 6 s job and a 129-frame shot uses 129
+of them. A defect in the first or last few frames is often a re-time, not a
+re-roll.
+
+## DELIVERY — verified (round 3, supersedes the figures above)
+```
+1198 frames · 49.921 s · 1080x1920 · 9:16 · 24 fps · AAC 48k stereo 320k
+121,485,636 B   MD5 6a6af1c5eb13be4559d1eec699a69fa3
+black 0 · freeze 0 at d=0.5, 0.4 AND 0.3 · cropdetect 1080:1920:0:0
+-14.9 LUFS · LRA 1.9 LU · peak -5.0 dBFS
+cuts 86 171 300 429 558 686 814 942 1070 — 9/9 exact
+served file byte-identical to the local build
+```
+master  media_id `9a0c82dc-b079-4837-acee-532f4c35c7e5`
+proof   media_id `ff8f71fc-c9ea-4638-9ba4-dca74d08ee3a`  (7 pp, MD5 f982426577fb1dcf0211faf96a05e00d)
+sources media_id `5ae3c1f3-8c92-472c-9a9d-c070f734af84`  (unchanged)
+
+The extra scene-detect hits are now frames 1, 173, **314** and 559 — all checked
+frame by frame, all false positives. 314 replaces the old 301: it is the fast
+traffic at the top of the re-timed shot 04 crossing the 0.10 threshold, and
+frames 308–318 run perfectly smooth with the cat clear of every vehicle.
+
 ## SPEND
 | Item | Credits |
 |---|---|
 | Original build (3 plates, 10 keyframes, 2 keyframe redos, 10 clips, 1 clip redo) | 126.00 |
 | Correction round 1: shots 04 and 08 re-rolled @ 9.00 | 18.00 |
 | Correction round 2: shot 08 keyframe 2.00 + clip 9.00 | 11.00 |
+| Correction round 3: shot 04 re-timed from the unused tail of its own clip | 0.00 |
 | **total** | **155.00** |
