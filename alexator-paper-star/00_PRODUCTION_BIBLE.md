@@ -175,3 +175,69 @@ this film.
 | 4 clips @ 7.50 | 30.00 |
 | 8 clips @ 9.00 | 72.00 |
 | **total** | **138.00** |
+
+---
+
+# CORRECTION ROUND — the opening shot was meaningless
+
+The client's words were "this is meaningless", and they were right.
+
+**Shot 01 rendered an ADULT WOMAN'S legs and bare feet standing on the boots,
+not a five-year-old's.** The opening two seconds therefore read as a couple
+standing close together, and because the opening sets the relationship, nothing
+that followed was a father and a daughter. The paper star, the collar, the
+walk into the mist — all of it was left without a premise.
+
+The fault was in the KEYFRAME, which I approved at 290 px wide. At full
+resolution the foot is nearly as long as the boot. Same failure as the GENESIS
+blink: reviewed too small.
+
+## THE FIX THAT WORKED — AND THE ONE THAT DID NOT
+First attempt: keep the tight feet-on-boots framing and SAY the words — "a
+five-year-old", "tiny", "roughly HALF THE LENGTH of the man's boot", "NOT a
+woman, NOT an adult". **It came back adult again.** Text could not override it,
+exactly like Kling settling a galloping cat into a walk and nano_banana
+refusing to crop an eye.
+
+**The fix was to change the construction, not the words.** The tight crop had
+removed every age cue: with no head, no torso and no proportion to reason
+from, the model defaults to adult anatomy. The replacement keyframe puts the
+WHOLE CHILD in frame, head to foot, standing on his boots and holding his
+trouser leg, with the man cropped at the chest — and states the one
+relationship that settles scale: **the top of her head reaches only the middle
+of his thigh.** With a whole body present the proportions are forced, and it
+came back correct first time.
+
+It is also a better shot than the original: you can see her face looking up.
+
+| # | keyframe | clip |
+|---|---|---|
+| 01 | `0e18faea-27df-4c7b-96f3-12fdbc5ff322` | `108e3de0-8dea-4ff5-9f1e-d77af78b6219` |
+
+Discarded: keyframes `874edc6b-…` (original, adult) and
+`915c48b2-46c0-4def-93ed-a7b0db15f90b` (first fix attempt, still adult).
+
+## RULE EARNED
+**When a subject's AGE or SCALE matters, never crop the body away.** Show
+enough of the figure that proportion is forced, and anchor it to another
+object in frame — a height relationship the model can measure against. Adding
+adjectives to a tight crop does not work.
+
+Every other shot in this film was re-checked at native resolution and is
+correct: the child reads as a child in shots 04, 09 and 11, the paper star is
+present and legible at the drop, the hands in shots 05, 07 and 12 are
+anatomically sound, and no weapon appears anywhere.
+
+## CORRECTED DELIVERY — verified
+```
+1358 frames · 56.588 s · 1080x1920 · 9:16 · 24 fps · AAC 48k stereo 320k
+99,052,463 B   MD5 6a14818655029db6fd15775b66123f20
+black 0 · freeze 0 at d=0.5, 0.4 AND 0.3 · cropdetect 1080:1920:0:0
+-13.3 LUFS · LRA 2.7 LU · peak -4.4 dBFS
+cuts 85 170 255 339 467 595 723 850 977 1104 1231 — 11/11 exact
+served file byte-identical to the local build
+```
+media_id `c63018e7-6ac2-4294-b145-5ad80d8e14eb`
+
+Correction spend: 2 keyframes 4.00 + 1 clip 7.50 = 11.50
+(one of the two keyframes was the failed text-only attempt).

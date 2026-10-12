@@ -169,3 +169,73 @@ is applied identically to all eleven shots.
 | 7 clips @ 9.00 | 63.00 |
 | 1 clip re-roll (freeze) @ 9.00 | 9.00 |
 | **total** | **132.00** |
+
+---
+
+# CORRECTION ROUND — client rejected shots 04, 05 and 10
+
+The client flagged three frames. All three were real defects, and **two of them
+originated in keyframes I approved** — reviewed at 290 px wide, where the fault
+was invisible. At full resolution it is obvious in both. This is the same
+failure that shipped the blinking painting on GENESIS: **a keyframe is not
+approved until it has been looked at at native resolution.**
+
+| Shot | Defect | Where it came from |
+|---|---|---|
+| 04 | A malformed second hand merged under the first | the KEYFRAME |
+| 05 | The box tips and balances on an edge; both background figures rendered as men, the woman absent | the KEYFRAME (background) + the clip (tipping) |
+| 10 | Hands deformed, ring box floating unsupported at frame top | the clip |
+
+A fourth fault was found during the fix and corrected before delivery: the
+first replacement clip for shot 04 LOST THE CANDLE — it vanished from its brass
+holder between frames 60 and 118, and the wine emptied from the glass. Cause
+was the slow camera push forcing the model to re-draw the background. Same
+mechanism as the GENESIS painting. Fixed by locking the camera off completely
+and stating object permanence explicitly.
+
+That in turn caused shot 05 to go static in its last 9 frames once its camera
+was locked too (freeze_start 19.584, duration 0.375 at d=0.3). Rather than
+spend another 9.00 re-rolling, a 2% post zoompan push was applied to shot 05
+alone. **This crops shot 05 by 2% and the client was told.**
+
+## REPLACEMENT ASSET IDS
+| # | keyframe | clip |
+|---|---|---|
+| 04 | `d52eb0fc-8f23-470c-a10a-9b6ec02fdb59` | `12856bc5-5588-4e49-b0fe-c24177ce7cbf` |
+| 05 | `c12b36ad-f28f-4faf-9401-7903a629c936` | `f903de3b-80ff-4b8e-8f32-86a4eae67385` |
+| 10 | (unchanged `63465fc0-…`) | `9cacf101-6b97-42b3-a647-feffb79aa189` |
+
+Discarded: clip `1f18c784-abdf-4a93-81cb-f7d66eaa2d2e` (lost the candle) and
+clip `ddfaf329-dc22-48a6-8c2f-8b036ce284f6` (rolled from the faulty keyframe
+background before the background fault was found — 9.00 wasted, my error).
+
+## WHAT ACTUALLY WORKED
+1. **Look at every keyframe at NATIVE RESOLUTION before approving it.** Crop
+   the region that carries the story — the hands, the face, the object — and
+   view that crop. Contact sheets and 290 px thumbnails hide deformed hands,
+   wrong-sex background figures and wrong-scale limbs.
+2. **For an insert shot, lock the camera off.** Every object-permanence failure
+   in this engagement — the GENESIS painting, this film's candle — happened
+   under a camera push. A push forces the model to re-draw, and what it
+   re-draws it can lose.
+3. **A locked camera then needs motion from somewhere else** or freezedetect
+   fires. Candle flame and rain on glass were not enough at d=0.3 on shot 05.
+4. **Do not describe a background person you cannot afford to have redrawn.**
+   Shot 05's new keyframe gives the model a green sleeve and a charcoal
+   shoulder cropped at the frame edges, with no head and no face anywhere. A
+   face that does not exist cannot be rendered as the wrong person.
+
+## CORRECTED DELIVERY — verified
+```
+1342 frames · 55.917 s · 1080x1920 · 9:16 · 24 fps · AAC 48k stereo 320k
+73,513,733 B   MD5 e111e87df7bbb9ef5ae07bb42ddd8265
+black 0 · freeze 0 at d=0.5, 0.4 AND 0.3 · cropdetect 1080:1920:0:0
+-14.4 LUFS · LRA 1.8 LU · peak -5.1 dBFS
+cuts 84 168 252 335 479 623 767 911 1055 1199 — 10/10 exact
+served file byte-identical to the local build
+```
+media_id `cb98a540-d138-4cd3-a1ba-3a1338998e4a`
+
+Correction spend: 3 keyframes 6.00 + 5 clips 42.00 = 48.00
+(of which 9.00 was wasted on a clip rolled from a keyframe whose background
+fault I had not yet found).
