@@ -239,3 +239,56 @@ media_id `cb98a540-d138-4cd3-a1ba-3a1338998e4a`
 Correction spend: 3 keyframes 6.00 + 5 clips 42.00 = 48.00
 (of which 9.00 was wasted on a clip rolled from a keyframe whose background
 fault I had not yet found).
+
+---
+
+# SECOND CORRECTION — shot 10, the floating ring box
+
+The client had to flag shot 10 a SECOND time. In the first correction round I
+re-rolled its clip, inspected two frames of the result, saw the box sitting
+high in frame near the hands, and decided it was "resting on the table
+behind them". It was not. It was hovering in mid-air, unsupported and tilted,
+for the whole shot. I had the evidence in front of me and reasoned past it.
+
+**Root cause, which neither re-roll of the clip could ever have fixed:** the
+original keyframe `63465fc0-…` framed the box BEHIND and ABOVE the joined
+hands, near the top edge, where no table surface is visible underneath it and
+it casts no contact shadow. Nothing in that image says the box is supported by
+anything. Given a free-floating object, the model animated it as one.
+
+**The fix was compositional.** The new keyframe looks DOWN at the table at
+about 45 degrees so the cloth reads unmistakably as a solid horizontal plane,
+puts the box ON that cloth BESIDE the hands rather than behind them, and gives
+it a dark soft contact shadow with the linen dimpled under its weight. Once
+the image states "this object is supported", the clip keeps it supported.
+
+| # | keyframe | clip |
+|---|---|---|
+| 10 | `3fb62915-9a29-4e1e-8d6f-77f16189d159` | `b4bdcf28-c08b-4808-bf0e-f838a4601297` |
+
+Discarded: keyframe `63465fc0-…` and clips `05998202-…` and `9cacf101-…`.
+
+## TWO RULES EARNED HERE
+1. **An object with no visible means of support in the keyframe will float in
+   the clip.** Give every object a contact shadow and a visible surface under
+   it. Do not rely on the prompt saying "resting on the table" — say it with
+   the composition: surface plane visible, contact shadow present, object in
+   the same depth plane as whatever else is touching that surface.
+2. **Do not reason a defect away.** On the first pass I saw the box in an odd
+   position and constructed an explanation for why it was acceptable. The
+   check is not "can I explain this" — it is "would a viewer see something
+   wrong". If a frame makes me reach for an explanation, that is the defect
+   announcing itself.
+
+## CORRECTED DELIVERY — verified
+```
+1342 frames · 55.917 s · 1080x1920 · 9:16 · 24 fps · AAC 48k stereo 320k
+70,286,373 B   MD5 508ec88231f6711eecedf920713b1a61
+black 0 · freeze 0 at d=0.5, 0.4 AND 0.3 · cropdetect 1080:1920:0:0
+-14.4 LUFS · LRA 1.8 LU · peak -5.1 dBFS
+cuts 84 168 252 335 479 623 767 911 1055 1199 — 10/10 exact
+served file byte-identical to the local build
+```
+media_id `4a614bb9-a316-4324-857d-b7c1fce12e67`
+
+Second correction spend: 1 keyframe 2.00 + 1 clip 9.00 = 11.00.
