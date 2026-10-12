@@ -61,7 +61,7 @@ Keep the formula and change the signature pieces, so the page reads as **yours**
 
 | Rourke | @finaltoucch |
 |---|---|
-| Vans cap | **Your black thick-frame glasses + black shirt.** It's already your look in every reference photo, and it reads instantly. |
+| Vans cap | **Your black thick-frame glasses.** They stay in every post. Clothes change with each scene (stylish outfits; see the wardrobe guide in `thumbnail-playbook.md`). |
 | Neon yellow text | **Electric lime `#C6FF00`.** Already your brand colour, close enough to pop and different enough to own. |
 | "Create 100,000 jobs for creatives" | Suggested mission: **"Helping African creatives earn in dollars with AI."** It ties AI video to Upwork, Contra and remote work, which is a niche he doesn't own. |
 | GenHQ community | Later: your own community, course or service, once the audience exists |

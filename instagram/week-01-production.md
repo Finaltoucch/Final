@@ -4,6 +4,7 @@ Everything needed to produce Week 1. Generation runs in Higgsfield with your `ok
 (`16f2a137-e826-4f98-ace2-112924a73993`).
 
 **Models:** covers and frames use **Nano Banana Pro 4K** (4 credits each). Video uses **Seedance 2.5, 1080p, 9:16** (12 credits per second), starting from the approved cover as the first frame.
+**Wardrobe:** every prompt names a specific outfit, so Higgsfield doesn't copy the black shirt from your reference photos. Glasses stay on in every shot.
 **Course placeholders:** `[COURSE NAME]` and `[COURSE LINK]` get filled in once you send them.
 **Draft covers already generated (1K, for approval):** Mon `df58bc4c`, Tue `a50e50b7`, Wed `fbcbdefb`, Thu `10b3efe9`, Fri `2ca11acd`.
 
@@ -12,6 +13,7 @@ Everything needed to produce Week 1. Generation runs in Higgsfield with your `ok
 ## MON — 🎬 "Higgsfield / Camera ×3" Reel (15s)
 
 **Hook text on screen 0:00:** `This shot cost me $0`
+**Outfit:** olive bomber jacket over a white tee, black cargo pants, white chunky sneakers.
 **Cover:** you mid-air jumping off a Lagos rooftop at sunset, drone orbiting. Text: **Higgsfield** / *Camera* ×3 (lime echo stack).
 
 | Shot | Time | Seedance 2.5 prompt (start frame noted) | On-screen text |
@@ -39,6 +41,7 @@ Everything needed to produce Week 1. Generation runs in Higgsfield with your `ok
 
 ## TUE — 🖼️ "Upwork vs Contra" carousel (8 slides)
 
+**Outfit:** costume (referee shirt and black bow tie).
 **Cover (slide 1):** you as a boxing referee raising both fighters' arms (green vs black). Text: **Upwork** vs **Contra**.
 **Slides 2–8:** already designed (`week-01/tue-upwork-vs-contra/`). Last slide updated with the comment CTA.
 
@@ -58,6 +61,7 @@ Everything needed to produce Week 1. Generation runs in Higgsfield with your `ok
 
 ## WED — 🗣️ "Day 1" UGC (15s, you talking to camera)
 
+**Outfit:** cream knit overshirt over a white tee, tan tailored trousers, minimal watch.
 **Cover:** you on the Lagos balcony, phone in hand, mic clipped. Text: **Day 1** / *Building* ×3.
 
 | Shot | Time | Seedance 2.5 prompt |
@@ -84,6 +88,7 @@ Everything needed to produce Week 1. Generation runs in Higgsfield with your `ok
 ## THU — 🎬 "AI Ads / $0 Budget" Reel (15s)
 
 **Hook text 0:00:** `Brands pay $1,000 for this. I made it with AI.`
+**Outfit:** tailored burgundy suit, black turtleneck, gold watch.
 **Cover:** you pushing an amber perfume bottle at the lens, smoke and light beams. Text: **AI Ads** / *$0 Budget* ×3.
 
 | Shot | Time | Seedance 2.5 prompt | On-screen text |
@@ -112,6 +117,7 @@ Everything needed to produce Week 1. Generation runs in Higgsfield with your `ok
 
 ## FRI — 🖼️ "Faceless Stories" carousel (9 slides)
 
+**Outfit:** costume (dark wool hooded cloak over an earth-tone kaftan).
 **Cover (slide 1):** you as a hooded storyteller by a campfire in ruins. Text: **Faceless** / *Stories* ×3.
 **Slides 2–9:** already designed (`week-01/thu-faceless-niches/`). Last slide updated with the comment CTA.
 
@@ -132,7 +138,7 @@ Everything needed to produce Week 1. Generation runs in Higgsfield with your `ok
 
 | Step | What | Credits |
 |---|---|---|
-| 1 | Re-make the 5 approved covers in Nano Banana Pro 4K | 20 |
+| 1 | Re-make the 5 covers in Nano Banana Pro 4K with the new outfits | 20 |
 | 2 | 4 new start frames (Mon ×2, Thu ×2) | 16 |
 | 3 | Mon: 3 × 5s Seedance clips | 180 |
 | 4 | Thu: 3 × 5s Seedance clips | 180 |

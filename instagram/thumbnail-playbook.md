@@ -106,13 +106,15 @@ These break up the face rhythm so the grid doesn't feel repetitive.
 ## Part 2 — Your version
 
 ### Your constant: the black thick-frame glasses
-Wear them in **every** generated image, even with costumes (a Roman soldier in glasses is funnier and more recognisable). Your black shirt is your "default" outfit for UGC and authority frames.
+Wear them in **every** generated image, even with costumes (a Roman soldier in glasses is funnier and more recognisable).
+
+**Clothes change every post.** Use stylish, well-fitted outfits that match the scene. Your reference photos all show one black shirt, so **every prompt must name a specific outfit**; otherwise Higgsfield copies the black shirt. See the wardrobe guide below.
 
 ### Prompt formula (Higgsfield, Nano Banana Pro or Cinema Studio Image 2.5, 4:5 or 9:16)
 
 ```
 Photorealistic cinematic photograph of <<<16f2a137-e826-4f98-ace2-112924a73993>>>
-wearing his black thick-frame glasses, [ROLE / COSTUME],
+wearing his black thick-frame glasses and [SPECIFIC OUTFIT — never leave blank], [ROLE / COSTUME],
 [ACTION frozen mid-motion], [EXPRESSION],
 in [SETTING], [SUPPORTING CAST / PROPS].
 Shot on [LENS] from a [ANGLE], [LIGHTING] with the light colour falling on his skin,
@@ -121,6 +123,16 @@ contact shadows, candid moment, not posed.
 Leave clean empty space in the [TOP/BOTTOM] third for a headline.
 Vertical [4:5 / 9:16].
 ```
+
+### Wardrobe guide (rotate, never repeat back-to-back)
+| Vibe | Outfit ideas | Use for |
+|---|---|---|
+| Smart creator | Cream or olive overshirt over a white tee, tailored trousers, clean sneakers | Tutorials, UGC |
+| Luxury | Tailored suit in navy, burgundy or camel, open collar or turtleneck | Money, clients, ads, mission posts |
+| Streetwear | Oversized graphic tee, cargo pants, bomber jacket, chunky sneakers | AI video tricks, action scenes |
+| Afro-modern | Contemporary agbada, kaftan or patterned Ankara shirt, modern cut | Mission and Africa posts, standout covers |
+| Studio | Knit polo, chinos, minimal watch | Desk, setup and Q&A posts |
+| Costume | Whatever the role needs (referee, explorer, cloak) | Role-play covers |
 
 ### Cover finishing (done in code with the `design/` templates)
 1. Generated photo as the full background.
@@ -157,7 +169,7 @@ Vertical [4:5 / 9:16].
 | 13 | **Contra** / *Portfolio* ×3 | Role-play | You as an art-gallery owner in a black suit, your designs framed on white walls, spotlights |
 | 14 | **First Client** / *Upwork* ×3 | Story | You celebrating at a desk, laptop showing a "Hired" notification, confetti frozen mid-air |
 | 15 | **Remote** / *Work* ×3 | Physics | You working on a laptop on a tiny floating island above clouds, golden hour |
-| 16 | **Dollars** / *From Africa* ×3 | Role-play | You walking out of a private jet in a black shirt and glasses, laptop bag, Lagos skyline behind |
+| 16 | **Dollars** / *From Africa* ×3 | Role-play | You stepping off a private jet in a cream linen two-piece and glasses, leather laptop bag, Lagos skyline behind |
 | 17 | **Pricing** / *Your Work* ×3 | Prop | You holding a giant price tag toward the lens, auctioneer's gavel in the other hand |
 
 ### ▶️ Faceless YouTube / Storytelling

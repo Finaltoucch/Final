@@ -1,6 +1,7 @@
 # @finaltoucch — 3-Week Content Plan (DRAFT)
 
 **Goal:** a @rourke-level feed starring **you**. Every cover puts your real face, with your black glasses, into a creative AI scene, with big lime text layered in.
+**Wardrobe:** stylish outfits that change every post (see `thumbnail-playbook.md`). Only the glasses stay constant.
 **Formats alternate:** 🎬 **AI Video** (cinematic Reel) · 🗣️ **UGC** (you talking to camera) · 🖼️ **Static** (carousel or single image)
 **Cadence:** 5 posts a week (Mon–Fri) plus daily Stories. 15 posts in total: 6 video, 4 UGC, 5 static.
 **Mission line (bio and sign-off):** *Helping African creatives earn in dollars with AI.*
@@ -15,7 +16,7 @@ Cover concepts come from `thumbnail-playbook.md`. Each one is generated in Higgs
 |---|---|---|---|---|---|
 | **Mon** | 🎬 Video | **Higgsfield** / *Camera* ×3 | Frozen mid-air jumping off a Lagos rooftop at sunset, fisheye from below, drone orbiting you | 5 camera moves that make AI video look expensive, each shown as a clip of you | Comment **CAMERA** |
 | **Tue** | 🖼️ Static carousel | **Upwork** vs **Contra** | You as a boxing referee raising the arms of two fighters in Upwork green and Contra black | Head-to-head in 4 rounds, then "use both" (redesign of the existing carousel) | Save + share |
-| **Wed** | 🗣️ UGC | **Day 1** / *Building* ×3 | You on a balcony in your black shirt, phone in hand, talking to camera | Who you are, what the page teaches, the mission | Follow |
+| **Wed** | 🗣️ UGC | **Day 1** / *Building* ×3 | You on a balcony in a cream overshirt over a white tee, phone in hand, talking to camera | Who you are, what the page teaches, the mission | Follow |
 | **Thu** | 🎬 Video | **AI Ads** / *$0 Budget* ×3 | You pushing a luxury perfume bottle at the lens, light beams and smoke | Making a product ad in 10 minutes with Higgsfield | Comment **AD** |
 | **Fri** | 🖼️ Static carousel | **Faceless** / *Stories* ×3 | Hooded storyteller by a campfire in ancient ruins, embers rising | 6 faceless YouTube niches built for AI | Save |
 
@@ -27,7 +28,7 @@ Cover concepts come from `thumbnail-playbook.md`. Each one is generated in Higgs
 | **Tue** | 🎬 Video | **AI Clones** / *Services* ×3 | Three of you: designer in a beret, freelancer with laptop, director with megaphone | 3 AI services clients are paying for right now | Comment **SERVICES** |
 | **Wed** | 🖼️ Static carousel | **Pricing** / *Your Work* ×3 | You holding a giant price tag toward the lens, auctioneer's gavel in hand | How to price AI video and design work: hourly vs project vs packages | Save |
 | **Thu** | 🎬 Video | **Design** / *Fixes* ×3 | You holding a huge poster, left half ugly and right half beautiful, paint splashes | Before/after: 3 fixes that turn a boring design into a scroll-stopper | Send me your design |
-| **Fri** | 🗣️ UGC | **Contra** / *Portfolio* ×3 | You as an art-gallery owner in black, your designs framed, spotlights | Contra profile walkthrough: getting found by clients | Comment **CONTRA** |
+| **Fri** | 🗣️ UGC | **Contra** / *Portfolio* ×3 | You as an art-gallery owner in a tailored charcoal suit and turtleneck, your designs framed, spotlights | Contra profile walkthrough: getting found by clients | Comment **CONTRA** |
 
 ## WEEK 3 — "Build a faceless channel with AI"
 
@@ -37,7 +38,7 @@ Cover concepts come from `thumbnail-playbook.md`. Each one is generated in Higgs
 | **Tue** | 🗣️ UGC | **YouTube** / *Monetized?* | You at your desk, lav mic on, pointing at a monitor | YouTube monetization rules: why mass-produced AI content doesn't get paid, and what does | Follow |
 | **Wed** | 🖼️ Static carousel | **Story** / *Hooks* ×3 | You surfing a giant red play button through a sea of view counters | The first-15-seconds hook formula, with 5 examples | Save |
 | **Thu** | 🎬 Video | **Horror** / *Niche* ×3 | You calmly sipping coffee while a shadow creature looms behind you | Full workflow: script → voice → Higgsfield visuals → edit | Comment **WORKFLOW** |
-| **Fri** | 🖼️ Static single | **Dollars** / *From Africa* ×3 | You stepping off a private jet in black shirt and glasses, laptop bag, Lagos skyline | Mission post: what this page is building, and an invite to follow the journey | Share |
+| **Fri** | 🖼️ Static single | **Dollars** / *From Africa* ×3 | You stepping off a private jet in a cream linen two-piece and glasses, leather laptop bag, Lagos skyline | Mission post: what this page is building, and an invite to follow the journey | Share |
 
 ---
 
