@@ -23,3 +23,13 @@ Final 4K images (Nano Banana Pro 4K with the `okoye` element, new outfits). Open
 | Mon shot 3: FPV dive | 24212452-dce2-43d9-8c96-a859ba85e366 |
 
 Earlier 1K drafts (superseded): df58bc4c, a50e50b7, fbcbdefb, 10b3efe9, 2ca11acd.
+
+## Finished thumbnails (4K, with lime echo-stack titles)
+
+| Post | Title | Job ID |
+|---|---|---|
+| Mon | Higgsfield / Camera ×3 | 081dce1c-6129-466e-9faa-4eba7c814b4e |
+| Tue | Upwork vs Contra | bfe88bfc-a3d3-43a5-aceb-ec63882e2406 |
+| Wed | Day 1 / Building ×3 | 36489a7f-39d6-43bd-b845-0ac1aa930a64 |
+| Thu | AI Ads / $0 Budget ×3 | 36009880-9d25-4539-a2c6-1e56be048e6a |
+| Fri | Faceless / Stories ×3 | 7140b816-2e75-4ad2-bff7-0e94620eaf15 |
