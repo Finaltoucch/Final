@@ -2,6 +2,12 @@
 
 **Theme:** *"AI tools that actually pay."* Introduce the page's mix of design, AI video and remote work.
 
+**Ready-to-post designs** (rendered PNGs, upload in order):
+- Tue carousel → `week-01/tue-upwork-vs-contra/01.png … 08.png`
+- Thu carousel → `week-01/thu-faceless-niches/01.png … 09.png`
+- Reel covers → `week-01/covers/` (mon, wed, fri)
+- Profile picture + highlight covers → `brand/`
+
 Specs for everything: Reels 9:16 (1080×1920), carousels 4:5 (1080×1350). Captions burned in.
 Keep text out of the bottom ~250px and right ~120px. Watermark `@finaltoucch` top-left.
 

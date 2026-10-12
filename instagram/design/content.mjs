@@ -1,0 +1,102 @@
+// Content for every rendered asset. Add a new week by appending carousels and covers here.
+// `hl` spans render in the brand lime.
+
+export const assets = {
+  carousels: [
+    // ---------------- Week 01 · TUE · Freelance ----------------
+    {
+      dir: "week-01/tue-upwork-vs-contra",
+      pillar: "freelance",
+      slides: [
+        { layout: "cover", kicker: "Freelancer guide", size: 150,
+          title: `Upwork <span class="hl">vs</span><br>Contra`,
+          sub: `Where should a new freelancer start?<br><b>The answer is on slide 7.</b>` },
+        { layout: "vs", kicker: "Round 1", title: "How you get work",
+          left: { name: "Upwork", color: "#14A800", text: `You <b>apply to job posts</b> using Connects, which are paid credits.` },
+          right: { name: "Contra", color: "#FFFFFF", text: `<b>Portfolio-first.</b> Clients find you, or you share your profile link.` } },
+        { layout: "vs", kicker: "Round 2", title: "Fees",
+          left: { name: "Upwork", color: "#14A800", text: `Takes a <b>service fee</b> from what you earn.` },
+          right: { name: "Contra", color: "#FFFFFF", text: `<b>Commission-free</b> for freelancers.` },
+          note: "Fees change. Check both platforms' current terms before you sign up." },
+        { layout: "vs", kicker: "Round 3", title: "Competition",
+          left: { name: "Upwork", color: "#14A800", text: `<b>Huge job volume</b>, but many applicants on every post.` },
+          right: { name: "Contra", color: "#FFFFFF", text: `<b>Smaller</b>, but more creative and tech-focused clients.` } },
+        { layout: "vs", kicker: "Round 4", title: "Best for",
+          left: { name: "Upwork", color: "#14A800", text: `Writing, dev, VA, video editing: <b>steady-demand skills.</b>` },
+          right: { name: "Contra", color: "#FFFFFF", text: `Designers, AI creatives, <b>brand & product work.</b>` } },
+        { layout: "callout", kicker: "The mistake everyone makes", color: "var(--design)",
+          title: `Picking <span style="color:var(--design)">one.</span>`,
+          text: `Your Contra profile is a <b>ready-made portfolio link</b> to drop inside every Upwork proposal.` },
+        { layout: "steps", kicker: "My answer", title: `Use <span class="hl">both.</span>`,
+          steps: [
+            `Build your portfolio on <b>Contra</b>`,
+            `Apply to jobs on <b>Upwork</b>`,
+            `Link your Contra profile in every proposal`,
+            `<b>Two pipelines. One portfolio.</b>`,
+          ] },
+        { layout: "cta", title: `Save this<br>before you<br><span class="hl">sign up.</span>`,
+          text: `Next week: the Upwork proposal structure that <b>actually gets replies.</b>` },
+      ],
+    },
+
+    // ---------------- Week 01 · THU · Faceless YouTube ----------------
+    {
+      dir: "week-01/thu-faceless-niches",
+      pillar: "youtube",
+      slides: [
+        { layout: "cover", kicker: "Faceless YouTube", size: 118,
+          title: `6 storytelling niches built for <span class="hl">AI</span>`,
+          sub: `No face. No camera. Just stories.<br><b>#4 is seriously underrated.</b>` },
+        { layout: "item", num: "01", color: "var(--youtube)", glow: "#7C3AED",
+          title: "History's strangest mysteries",
+          text: `Lost cities, unsolved disappearances, forgotten empires. <b>Evergreen and binge-able.</b>` },
+        { layout: "item", num: "02", color: "var(--youtube)", glow: "#2563EB",
+          title: `"What if…" scenarios`,
+          text: `What if the Moon disappeared? What if you lived in ancient Rome? <b>Endless topics, big curiosity.</b>` },
+        { layout: "item", num: "03", color: "var(--youtube)", glow: "#991B1B",
+          title: "Creepy & unsettling stories",
+          text: `Narrated horror and eerie tales. <b>Long watch times and a loyal audience.</b>` },
+        { layout: "item", num: "04", color: "var(--youtube)", glow: "#B45309",
+          title: "Life stories of forgotten people",
+          text: `Inventors, rulers and rebels nobody talks about. <b>Emotional and educational.</b>` },
+        { layout: "item", num: "05", color: "var(--youtube)", glow: "#047857",
+          title: "Animal & nature survival stories",
+          text: `"The octopus that outsmarted scientists." <b>This is where AI visuals really shine.</b>` },
+        { layout: "item", num: "06", color: "var(--youtube)", glow: "#DB2777",
+          title: "Short parables & life lessons",
+          text: `60-second stories built for Shorts. <b>The fastest way to grow a new channel.</b>` },
+        { layout: "steps", kicker: "The AI workflow", title: "From idea to upload",
+          steps: [
+            `Script with AI, then <b>rewrite it in your voice</b>`,
+            `Voiceover: human pacing and pauses`,
+            `Visuals: Higgsfield stills + camera motion`,
+            `Edit, sound design, thumbnail`,
+          ] },
+        { layout: "callout", kicker: "The rule most people miss", color: "var(--youtube)",
+          title: `Mass-produced <span style="color:var(--youtube)">≠</span> monetized`,
+          text: `YouTube doesn't pay for repetitive, mass-produced content. <b>Your storytelling is what makes it yours.</b> Save this, follow for the full workflow.` },
+      ],
+    },
+  ],
+
+  reelCovers: [
+    { file: "week-01/covers/mon-ai-product-ad.png", pillar: "ai", kicker: "AI video workflow",
+      title: `This ad cost me <span class="hl">$0</span> and 10 minutes`,
+      sub: "No camera. No studio. Here's the exact workflow." },
+    { file: "week-01/covers/wed-design-fixes.png", pillar: "design", kicker: "Design before / after", size: 160,
+      title: `3 fixes. <span class="hl">Scroll-stopper.</span>`,
+      sub: "Hierarchy · Contrast · Space" },
+    { file: "week-01/covers/fri-remote-pov.png", pillar: "proof", kicker: "Day in the life",
+      title: `POV: your office is <span class="hl">wherever</span> your laptop is`,
+      sub: "Design + AI video + remote clients" },
+  ],
+
+  highlights: [
+    { name: "ai-video", color: "#8B5CF6", icon: `<rect x="2" y="5" width="15" height="14" rx="3"/><path d="M17 10l5-3v10l-5-3z"/>` },
+    { name: "design", color: "#FF4D8D", icon: `<path d="M12 19l7-7 3 3-7 7-3-3z"/><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"/><path d="M2 2l7.6 7.6"/><circle cx="11" cy="11" r="2"/>` },
+    { name: "upwork", color: "#14A800", icon: `<rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/><path d="M2 13h20"/>` },
+    { name: "contra", color: "#C6FF00", icon: `<path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>` },
+    { name: "faceless-yt", color: "#FF3B30", icon: `<rect x="2" y="4" width="20" height="16" rx="4"/><path d="M10 9l5 3-5 3z"/>` },
+    { name: "results", color: "#22D3EE", icon: `<path d="M3 3v18h18"/><path d="M7 15l4-4 3 3 6-7"/>` },
+  ],
+};

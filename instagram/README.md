@@ -89,9 +89,22 @@ in comments and DMs, which the algorithm rewards. Automate it with ManyChat, or 
 
 ---
 
+## Branded Templates
+
+All slides and covers are generated from code, so every post looks consistent:
+
+- `design/brand.css`: colors, fonts, logo mark, layout pieces
+- `design/content.mjs`: the text for each slide and cover. Edit this to make a new week.
+- `design/build.mjs`: renders everything to PNG (1080×1350 carousels, 1080×1920 covers)
+
+Rebuild: `npm i playwright-core` in `design/`, then `node design/build.mjs`.
+Slide layouts available: `cover`, `vs`, `item`, `callout`, `steps`, `cta`.
+
 ## Files
 
 - `README.md`: this strategy
 - `topic-bank.md`: 60 post ideas across the pillars, enough for 12 weeks
 - `week-01.md`: first full week, ready to produce
+- `week-01/`: rendered carousels and Reel covers for week 1
+- `brand/`: profile picture and 6 highlight covers
 - `../instagram-content-pack-01.md`: earlier general-facts pack, now off-niche. Keep it as a format reference.
