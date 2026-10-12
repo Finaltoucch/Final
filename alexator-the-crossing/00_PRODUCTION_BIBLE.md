@@ -70,13 +70,14 @@ Measured cuts: `86 171 300 429 558 686 814 942 1070` — 9/9 exact.
 | 05 | `f210776b-cf62-44d6-bd5b-36661c52c64f` | `9a7e6527-5904-4fa0-ad0d-1d4dff9e2ed6` |
 | 06 | `73b8aa78-9b54-431d-a17b-83058292be1e` | `e4dd2928-d660-4516-8dd3-d36c84d8884c` |
 | 07 | `6b70a300-8cd9-4481-a3de-cddc33898089` | `53160007-3ea0-4a82-a4e7-6f2ffc8fc7fb` |
-| 08 | `82440343-8f14-46a0-b1da-b4a91680b6b1` | `04e9b602-f4d1-4f2a-9ebd-f030406e4996` |
+| 08 | `e527e8d0-97f2-42d6-9583-040ee7ff2132` | `7c6bce9e-e748-42b2-a27e-f1cd4effefa2` |
 | 09 | `d07f5f11-2d3c-4351-a542-16fd7d855678` | `e7841309-bf40-4cb7-a03e-883654098b37` |
 | 10 | `38d5f3a1-5d55-458f-b392-82383db079d5` | `0c4f6d69-4d3c-41b5-a49d-bd84e3424263` |
 
 Superseded: keyframes `b347bf9f-…` and `11c0bf4e-…` (the first sprint and glare
 frames); clips `587fd8fc-…` (shot 03, the gallop that settled into a walk),
-`3d70c3dc-…` (shot 04, the collision) and `e576780a-…` (shot 08, the crater).
+`3d70c3dc-…` (shot 04, the collision), and for shot 08 keyframe `82440343-…`
+with clips `e576780a-…` and `04e9b602-…`, both of which opened a pit in the road.
 
 ## CLIENT-FLAGGED FAULTS AND WHAT THEY TAUGHT
 **Shot 03, twice.** A perfect airborne gallop keyframe produced a clip of a cat
@@ -93,11 +94,20 @@ the nearest vehicle in every frame, plus an explicit ban on the cat flattening
 or smearing. **An animal and a vehicle in one frame need the gap specified as a
 hard rule, not implied by "it is in a clear gap".**
 
-**Shot 08 — the road opened into a crater** and the cat appeared to fall in. The
-re-roll declares the surface flat, solid and unbroken, bans hole, pit, crater,
-trench, manhole, sinkhole, dip and depression by name, and states that dark wet
-patches are flat reflections only. **Name the artefact you do not want; "wet
-tarmac" alone lets the model read a dark patch as an opening.**
+**Shot 08 — the road opened into a pit, twice.** The cat appeared to fall into
+it. The first re-roll declared the surface flat and unbroken and banned hole,
+pit, crater, trench, manhole, sinkhole, dip and depression **by name** — and the
+pit came back anyway, which I only caught because I checked a single frame of
+the raw clip instead of the assembled film. **Naming the artefact was not
+enough.** The real cause was structural: the shot let the cat recede down a wide,
+dark, reflective road, and the model reinterpreted that dark zone as an opening
+and let the animal vanish into it. The fix was to remove the dark zone and the
+recession together — a new keyframe on brightly lit, evenly textured tarmac with
+visible grain and a crisp lane line, the far distance held as bright bokeh so
+there is no dark vanishing point, and a camera that tracks with the cat so it
+stays large and never shrinks into the distance. **When a ban word fails, the
+artefact is being produced by the composition, not the wording: remove the
+conditions that let the model invent it.**
 
 ## COLOUR GRADE — disclosed
 Shot 03's replacement came back colour-neutral against the other nine (measured
@@ -109,13 +119,13 @@ graded and nothing was cropped.
 ## DELIVERY — verified
 ```
 1198 frames · 49.920 s · 1080x1920 · 9:16 · 24 fps · AAC 48k stereo 320k
-121,832,151 B   MD5 7cabc9efee9edddcace952f3c4f75802
+122,504,141 B   MD5 977b5b92b2b030486d5ab521a5d62caa
 black 0 · freeze 0 at d=0.5, 0.4 AND 0.3 · cropdetect 1080:1920:0:0
 -14.9 LUFS · LRA 1.9 LU · peak -5.0 dBFS
 cuts 86 171 300 429 558 686 814 942 1070 — 9/9 exact
 served file byte-identical to the local build
 ```
-media_id `2e9ef500-284d-4dd5-bcaf-cf8fc32d0f11`
+media_id `82c6f67c-92fb-4ad6-bdab-1f0951a4e3b3`
 
 Scene detection also returns four extra hits at frames 1, 301, 173 and 559. All
 were checked frame by frame and are false positives: frame 1 is the opening
@@ -126,5 +136,6 @@ high-motion shot.
 | Item | Credits |
 |---|---|
 | Original build (3 plates, 10 keyframes, 2 keyframe redos, 10 clips, 1 clip redo) | 126.00 |
-| Correction: shots 04 and 08 re-rolled @ 9.00 | 18.00 |
-| **total** | **144.00** |
+| Correction round 1: shots 04 and 08 re-rolled @ 9.00 | 18.00 |
+| Correction round 2: shot 08 keyframe 2.00 + clip 9.00 | 11.00 |
+| **total** | **155.00** |
