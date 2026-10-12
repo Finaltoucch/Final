@@ -1,7 +1,22 @@
-# Instagram Content Pack #1
+# Instagram Content Pack #1 — @finaltoucch
 
+**Account:** [instagram.com/finaltoucch](https://www.instagram.com/finaltoucch/)
 Faceless explainer page, same voice as the Bright Side–style YouTube scripts:
 upbeat, curious, second-person ("you"), soft claims, no diagnosis.
+
+---
+
+## Brand Kit — Final Touch
+
+- **Display name:** `Final Touch | Daily Facts 🧠`. The name field is searchable, so the keyword helps people find you.
+- **Bio options:**
+  - `Facts you didn't know you needed 🤯 | New Reel daily | Full videos ⬇️`
+  - `The final touch your feed was missing ✨ Science • Body • Psychology`
+  - `Learn one wild thing a day 🧠 Save it, share it, sound smart 😏`
+- **Watermark:** small `@finaltoucch` in the top-left of every Reel and carousel slide, at about 60% opacity, so reposts still credit you.
+- **Signature sign-off** for the end card of every Reel: *"That's your final touch for today ✨ Follow @finaltoucch for more."*
+- **Look:** use one bold accent color (e.g. electric yellow `#FFD60A`) with black and white text everywhere. Keeping the same color makes the grid recognizable.
+- **Highlights:** `Body 🫀` · `Space 🌍` · `Mind 🧠` · `Quizzes ❓` · `YouTube ▶️`
 
 **This pack:** 3 Reels · 2 Carousels · 1 Story sequence · captions, hashtags, and a 7-day schedule.
 
@@ -30,14 +45,14 @@ upbeat, curious, second-person ("you"), soft claims, no diagnosis.
 | 0:09–0:15 | Person reading a book, eyes drifting to a phone | "That's why it's so hard to focus on one thing. Your attention gets trained to expect a new ping every few minutes." |
 | 0:15–0:22 | Phone face-down, then a clock fast-forwarding | "The fix is weirdly simple: put it face-down, or in another room, for just 25 minutes." |
 | 0:22–0:28 | Character smiling, checkmark | "Most people say focus gets easier within a few days." |
-| 0:28–0:30 | Text card | "Try it today. Then tell me how long you lasted 👇" |
+| 0:28–0:30 | Text card | "Try it today. Then tell me how long you lasted 👇 Follow @finaltoucch for more." |
 
 **Caption:**
 > You don't have a focus problem — your phone has a you problem 😅
 > Try the 25-minute face-down challenge today and drop your time in the comments. 👇
 > Save this so you remember to try it tonight.
 
-**Hashtags:** `#brainfacts #focus #productivitytips #digitaldetox #psychologyfacts #didyouknow #selfimprovement #funfacts`
+**Hashtags:** `#finaltoucch #brainfacts #focus #productivitytips #digitaldetox #psychologyfacts #didyouknow #selfimprovement #funfacts`
 
 ---
 
@@ -60,7 +75,7 @@ upbeat, curious, second-person ("you"), soft claims, no diagnosis.
 > The craziest part isn't the stop — it's the restart. Full breakdown on YouTube (link in bio).
 > Would you survive? YES or NO 👇
 
-**Hashtags:** `#whatif #science #space #earth #mindblown #sciencefacts #physics #didyouknow`
+**Hashtags:** `#finaltoucch #whatif #science #space #earth #mindblown #sciencefacts #physics #didyouknow`
 
 ---
 
@@ -76,14 +91,14 @@ upbeat, curious, second-person ("you"), soft claims, no diagnosis.
 | 0:03–0:10 | `#1` — twitching eye, coffee cups stacking | "One: eye twitching? Usually too little sleep or too much caffeine." |
 | 0:10–0:17 | `#2` — cracked lips, glass of water | "Two: lips that won't stop cracking? You might just need more water." |
 | 0:17–0:25 | `#3` — person drinking water, still thirsty | "Three: always thirsty, even after drinking? Worth mentioning at your next check-up." |
-| 0:25–0:30 | Text card | "Which one do you have? 👇 (Not medical advice — just listen to your body.)" |
+| 0:25–0:30 | Text card | "Which one do you have? 👇 (Not medical advice — just listen to your body.) That's your final touch for today ✨" |
 
 **Caption:**
 > Your body talks. Are you listening? 👂
 > Which number are you? Tell me in the comments 👇
 > ⚠️ For info only — not medical advice. Talk to a doctor if something feels off.
 
-**Hashtags:** `#healthtips #bodyfacts #wellness #selfcare #healthylifestyle #didyouknow #healthfacts #learnontiktok`
+**Hashtags:** `#finaltoucch #healthtips #bodyfacts #wellness #selfcare #healthylifestyle #didyouknow #healthfacts #learnontiktok`
 
 ---
 
@@ -101,14 +116,14 @@ upbeat, curious, second-person ("you"), soft claims, no diagnosis.
 | 6 | **5. Notice their eye color** | Not literally — it just keeps your eye contact natural and warm. |
 | 7 | **6. Remember one small detail** | "How did your sister's wedding go?" beats any compliment. |
 | 8 | **7. Leave on a high note** | People remember how a conversation *ends*. End with a laugh or a kind word. |
-| 9 | **Save this for your next first meeting 📌** | Send it to the friend who needs it most 👀 |
+| 9 | **Save this for your next first meeting 📌** | Send it to the friend who needs it most 👀 · Follow @finaltoucch |
 
 **Caption:**
 > Social skills are just skills — you can practice them 🧠
 > Which one are you trying first? 👇
 > 📌 Save this before your next interview, date, or first day.
 
-**Hashtags:** `#psychology #psychologyfacts #socialskills #selfgrowth #confidence #communication #lifehacks #mindset`
+**Hashtags:** `#finaltoucch #psychology #psychologyfacts #socialskills #selfgrowth #confidence #communication #lifehacks #mindset`
 
 ---
 
@@ -125,14 +140,14 @@ upbeat, curious, second-person ("you"), soft claims, no diagnosis.
 | 5 | **A day on Venus is longer than its year** | It spins so slowly it orbits the Sun before finishing one rotation. |
 | 6 | **Sharks are older than trees** | Sharks have been around for over 400 million years. Trees showed up later. |
 | 7 | **Wombat poop is cube-shaped** | Scientists think it helps the droppings stay put as territory markers. |
-| 8 | **Which one broke your brain? 👇** | Share this with someone who thinks they know everything 😏 |
+| 8 | **Which one broke your brain? 👇** | Share this with someone who thinks they know everything 😏 · Follow @finaltoucch |
 
 **Caption:**
 > Nature said "plot twist" 🤯
 > Comment the number that surprised you most 👇
 > Share with your most know-it-all friend.
 
-**Hashtags:** `#funfacts #didyouknow #sciencefacts #mindblown #nature #animalfacts #space #learnsomethingnew`
+**Hashtags:** `#finaltoucch #funfacts #didyouknow #sciencefacts #mindblown #nature #animalfacts #space #learnsomethingnew`
 
 ---
 
