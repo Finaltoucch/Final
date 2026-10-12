@@ -83,3 +83,8 @@ Use the "1 video + subscribe" template, starting at 36:13 for 10 seconds. The cl
 | Everyone leaves him | 10:53–15:59 (pick the Vanessa scene) | "She left the day he couldn't walk" |
 | The boardroom return | 30:50–33:27 | "They took his company. He walked back in." |
 | The proposal | 34:22–35:32 | "The maid who stayed became his wife" |
+
+## Thumbnail v3: in the style of "The Billionaire Maid" (2026-10-12)
+Both versions use a gold serif title with a crown, a red ribbon and a lightning split. Faces come from frames of the movie.
+- **A: Grace, Bradley and Vanessa.** 1280×720: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/b9f7ef60-13e0-44b6-95e4-554315cf40d6.jpg (4K source job `06683ca3-a43c-433a-9bf4-de8cb2ff7655`)
+- **B: Grace, Ethan and Vanessa.** 1280×720: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/a0be7d2c-76c2-4d7b-84ea-302d675e677f.jpg (4K source job `a50992d7-380d-4fc5-b6f6-10a2f1ad5772`)
