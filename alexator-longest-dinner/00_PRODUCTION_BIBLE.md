@@ -292,3 +292,72 @@ served file byte-identical to the local build
 media_id `4a614bb9-a316-4324-857d-b7c1fce12e67`
 
 Second correction spend: 1 keyframe 2.00 + 1 clip 9.00 = 11.00.
+
+---
+
+# THIRD CORRECTION — shot 05, the seating geometry
+
+The client: *"they are sitting opposite each other not like this."* Correct.
+
+Every version of shot 05 up to this point put both people on the FAR side of
+the table, side by side, at the SAME DISTANCE from the lens. On a round table
+for two that reads as two people sitting next to each other, which contradicts
+every other shot in the film — shots 02, 03 and 11 all show them facing each
+other across the table. The original keyframe did it, and so did my first
+"fix", because I was busy checking who the figures were and never checked
+WHERE they were.
+
+**A low across-the-table lens can only say "opposite each other" with DEPTH.**
+Two blurred shapes at equal distance, left and right, will always read as side
+by side no matter what the prompt says. The corrected keyframe puts:
+- her FOREST-GREEN sleeve and forearm in the NEAR foreground, very large,
+  heavily blurred, cropped by the bottom-left of frame — she is on THIS side;
+- him FAR across the table, noticeably SMALLER because of the distance, softly
+  out of focus, facing back toward the lens.
+
+The size difference between the two of them is what carries the geometry.
+
+**A headless man on the way.** The first attempt at this keyframe asked for his
+head to be "above the top edge of the frame". There was open wall above his
+shoulders, so the model did not crop the head — **it deleted it**, leaving a
+jacket with a black void above the collar. Asking for a body part to be out of
+frame, when the frame plainly has room for it, invites the model to remove it
+instead. The fix was to let him be whole: full head, neck and white collar,
+just distant, dim and out of focus. One distant face is a far smaller risk
+than a headless figure.
+
+| # | keyframe | clip |
+|---|---|---|
+| 05 | `627e4942-d38c-4636-9e7a-6e7b7cbd8792` | `e82d8b9c-a11a-4e3e-bc1d-1c9d28833fc5` |
+
+Discarded: keyframes `cfcd680a-…`, `c12b36ad-…` (both side-by-side) and
+`3ec48992-e650-47f8-980f-3c5b8689821f` (headless), clips `4dd5823f-…`,
+`ddfaf329-…` and `f903de3b-…`.
+
+## RULES EARNED
+1. **Check WHERE people are, not just WHO they are.** Blocking is a continuity
+   property exactly like costume and casting, and it has to agree across every
+   shot in the film. Verify it shot by shot against the other shots.
+2. **Depth, not left-and-right, communicates "across from each other."** Put
+   one subject near the lens and large, the other far and small.
+3. **Never ask for a body part to be outside the frame when the frame has room
+   for it.** The model deletes it rather than reframing. Either tighten the
+   composition so it genuinely cannot fit, or let the part be present and hide
+   it with distance, shadow and defocus.
+
+## CORRECTED DELIVERY — verified
+```
+1342 frames · 55.917 s · 1080x1920 · 9:16 · 24 fps · AAC 48k stereo 320k
+70,124,578 B   MD5 54dc52c95b571d7140f3eb07322c8a9e
+black 0 · freeze 0 at d=0.5, 0.4 AND 0.3 · cropdetect 1080:1920:0:0
+-14.4 LUFS · LRA 1.8 LU · peak -5.1 dBFS
+cuts 84 168 252 335 479 623 767 911 1055 1199 — 10/10 exact
+served file byte-identical to the local build
+```
+media_id `dc3dcad8-2b94-4e13-bfff-6212a5ae6aae`
+
+Note: shot 05 no longer carries the 2% post zoompan push. The new clip has a
+living person in it who breathes and blinks, so it passes freezedetect at
+d=0.3 on its own and is delivered uncropped.
+
+Third correction spend: 2 keyframes 4.00 + 1 clip 9.00 = 13.00.
