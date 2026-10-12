@@ -88,3 +88,4 @@ Use the "1 video + subscribe" template, starting at 36:13 for 10 seconds. The cl
 Both versions use a gold serif title with a crown, a red ribbon and a lightning split. Faces come from frames of the movie.
 - **A: Grace, Bradley and Vanessa.** 1280×720: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/b9f7ef60-13e0-44b6-95e4-554315cf40d6.jpg (4K source job `06683ca3-a43c-433a-9bf4-de8cb2ff7655`)
 - **B: Grace, Ethan and Vanessa.** 1280×720: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/a0be7d2c-76c2-4d7b-84ea-302d675e677f.jpg (4K source job `a50992d7-380d-4fc5-b6f6-10a2f1ad5772`)
+- **B without text:** 1280×720: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/7e4f97d8-8d34-4fa2-a039-d7d43bfa77d6.jpg (4K source job `330b287e-0a4c-42a9-9339-3423f7ab3f28`)
