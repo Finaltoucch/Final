@@ -63,3 +63,11 @@ Photoreal, 35 mm, shallow depth of field.
   every keyframe at NATIVE RESOLUTION before ordering any clip.
 - The framed photograph in shot 02 must stay abstract and out of focus — no
   reference to any real person, per the brief.
+
+## CASTING — client direction, 13 October 2026
+All characters in this round are **white**. The client's note: Black characters
+have been used a lot across the engagement and they want this set different.
+Four reference plates generated before that direction arrived (the man, the
+wife and both schoolgirls) were discarded and re-rolled; 4.00 credits were lost
+on the two already inspected. Henry and Elsie were specified white from the
+start and were not affected, and no location plate was affected.

@@ -15,19 +15,20 @@ to have almost none of it.
 
 ## SUBJECTS — PASTE VERBATIM INTO EVERY PROMPT
 
-**ADE — the man, 44.** A West African man of forty-four, warm deep-brown skin,
-close-cropped black hair greying clearly at both temples, a short beard with
-grey through it, heavy tired eyelids, a narrow face with high cheekbones, and a
-small vertical scar through the outer end of his left eyebrow. Build: tall and
+**TOM — the man, 44.** A white British man of forty-four, pale weathered skin,
+short mid-brown hair greying clearly at both temples, close-trimmed greying
+stubble, heavy tired eyelids, a narrow face with high cheekbones, and a small
+vertical scar through the outer end of his left eyebrow. Build: tall and
 slightly stooped at the shoulders. WARDROBE, UNCHANGING: a pale blue cotton
 dress shirt worn thin and slightly frayed at the collar, a plain navy tie, dark
 grey trousers, black shoes, and a brown leather briefcase with one scuffed
 corner. A plain gold wedding band on the fourth finger of his left hand.
 
-**NGOZI — his wife, 42.** A West African woman of forty-two, deep-brown skin,
-hair in short neat twists, a round face, calm steady eyes, small gold hoop
-earrings. WARDROBE, UNCHANGING: a mustard-yellow wrap cardigan over a cream top.
-A plain gold wedding band on the fourth finger of her left hand.
+**CLAIRE — his wife, 42.** A white British woman of forty-two, fair skin, dark
+blonde hair to the shoulders tied back loosely, a round face, calm steady eyes,
+small gold hoop earrings. WARDROBE, UNCHANGING: a mustard-yellow wrap cardigan
+over a cream top. A plain gold wedding band on the fourth finger of her left
+hand.
 
 **WORLD.** A rainy northern European city in late autumn. Overcast daylight,
 wet pavement, low warm interior lamps. Photoreal, 35 mm, shallow depth of field.
@@ -54,3 +55,11 @@ wet pavement, low warm interior lamps. Photoreal, 35 mm, shallow depth of field.
 - Every shot must contain a living, breathing subject or a moving element, or
   freezedetect fires at d=0.3.
 - Inspect every keyframe at NATIVE RESOLUTION before any clip is ordered.
+
+## CASTING — client direction, 13 October 2026
+All characters in this round are **white**. The client's note: Black characters
+have been used a lot across the engagement and they want this set different.
+Four reference plates generated before that direction arrived (the man, the
+wife and both schoolgirls) were discarded and re-rolled; 4.00 credits were lost
+on the two already inspected. Henry and Elsie were specified white from the
+start and were not affected, and no location plate was affected.
