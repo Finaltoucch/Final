@@ -1,9 +1,17 @@
 # THE SONG SHE STILL KNOWS
-ALEXATOR **019 — Never Let Go** · vertical 9:16 AI music video · 10 shots
+ALEXATOR **024 — Words Unsaid** · vertical 9:16 AI music video · 10 shots
 
-> **Track note.** 019 Never Let Go has been used twice before in this engagement
-> (WHERE THE SOUND IS, project 7; RAID, project 13). The client supplied it
-> again on 13 October 2026 and was told of the repeat before the build started.
+> **Track note.** This film was first assigned 019 Never Let Go. That release had
+> already been used twice in this engagement (WHERE THE SOUND IS, project 7;
+> RAID, project 13) — byte-identical file, MD5 `34a58330…`. The client was told
+> of the repeat before any build started and replaced it the same day with
+> **024 Words Unsaid** (268.80 s, MD5 `e1df4a72…`), which appears nowhere in the
+> register. The rotation rule holds. No work was lost: the replacement arrived
+> while the reference plates were generating, and the track drives only the music
+> grid, the shot lengths and the origin proof — none of which existed yet.
+>
+> The new title is also the better one. The film is about a man who cannot say
+> anything to his wife that she will keep, and a song that reaches her anyway.
 
 ## CONCEPT
 An old man visits his wife in a care home. She does not know who he is any more.

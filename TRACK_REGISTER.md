@@ -17,6 +17,9 @@ the local masters, then against every project bible in this repo.
 | 017 All for You | `d19c43a2-50d2-480a-999a-fce08773e1a6` | THE KITE |
 | 019 Never Let Go | `eb157740-dffd-485a-b93d-a2d987d3de31` | WHERE THE SOUND IS |
 | 021 Adrenaline | `baccf609-2701-4098-af88-8029b29c8185` | THE SMOKEJUMPER |
+| 022 Kindred Soul | *(client-supplied 13 Oct 2026)* | **THE LUNCH TABLE** |
+| 024 Words Unsaid | *(client-supplied 13 Oct 2026)* | **THE SONG SHE STILL KNOWS** |
+| 010 New Horizon | *(client-supplied 13 Oct 2026)* | **THE GOOD SHIRT** |
 | 025 Pain and Love | `438106cc-75e2-4403-afa2-f1857d5a1dd1` | THE AVALANCHE DOG |
 | Rise Again | `05ea62db-e06d-4976-8e53-51a53b3ac6c6` | RISE AGAIN |
 | 006 Towards the Dream | `af3c1bb9-3da2-48c9-87e8-5ee5e9f58fa3` | **THE LONGEST DINNER** |
