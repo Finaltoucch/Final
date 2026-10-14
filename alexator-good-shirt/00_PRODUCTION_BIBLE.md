@@ -63,3 +63,45 @@ Four reference plates generated before that direction arrived (the man, the
 wife and both schoolgirls) were discarded and re-rolled; 4.00 credits were lost
 on the two already inspected. Henry and Elsie were specified white from the
 start and were not affected, and no location plate was affected.
+
+## KEYFRAMES — generated and verified 14 October 2026
+All ten inspected at native resolution 1536 × 2752.
+
+| # | Job id | Shot |
+|---|---|---|
+| 01 | `282e1637-f32d-440a-acad-9892e2a7b203` | hands knotting the tie — HOOK |
+| 02 | `1e50a72e-e5f4-4fa5-95f7-1a9afba06606` | the briefcase: a letter and a sandwich |
+| 03 | `cc9a021c-dbfb-4820-9e9d-a928a7ec0f1a` | the doorway, she straightens his tie |
+| 04 | `4b3169d9-b97c-4339-9b96-1ed3743a9930` | the commute, one of the crowd |
+| 05 | `2ba90cb5-a0ea-4813-8fc7-b856d2ca3726` | the old office reflected over his face |
+| 06 | `c014f905-4a1c-4294-91ea-0f4d5a29a1f6` | the bench, the tie comes off |
+| 07 | `74a6c20e-2624-41bf-b83d-b2a22b50f67d` | the library screen |
+| 08 | `fbed6413-649c-4557-9fac-eaa378890a81` | eating alone, bench half empty |
+| 09 | `58f96310-98f7-457d-9a4e-a41b72b1030b` | **DROP** — she sits down with the tea *(v2)* |
+| 10 | `aa316c44-bf16-44bd-b6d7-609395c0e8ed` | the closing wide, shoulders touching |
+
+### SHOT 09 FAILED FIRST TIME — THE FLOATING-SUBJECT FAULT, AGAIN
+The client spotted it immediately: both figures were **floating in front of the
+bench**, not sitting on it. No seat surface under them, feet too far forward,
+bench slats passing behind with no contact anywhere.
+
+This is the same mechanism as the floating ring box on THE LONGEST DINNER.
+**It was the camera angle, not the wording.** Shot 09 was specified as a
+straight-on front two-shot, which hides the seat plane completely, so the model
+had no visible surface to rest them on. Shots 06, 08 and 10 were specified as
+three-quarter views, the seat plane is visible in all three, and all three
+rendered correct seating first time.
+
+The fix was to copy the geometry that already worked:
+- three-quarter view from the front-left, from standing height looking slightly
+  down, so **the horizontal seat slats read as a flat surface** running under
+  both figures and continuing past them;
+- explicit contact described — thighs flat along the slats, weight pressing on
+  the wood, backs against the backrest, lower legs hanging from the front edge,
+  shoes on the tarmac directly below it.
+
+**Rule, now twice earned: a subject will float wherever the camera angle hides
+the surface it is meant to rest on. Show the supporting plane, do not describe
+it.** Adding the word "sitting" a second time would have changed nothing.
+
+**Cost:** 10 keyframes + 1 re-roll = 11 × 2.00 = 22.00.
