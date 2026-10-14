@@ -61,3 +61,52 @@ Four reference plates generated before that direction arrived (the man, the
 wife and both schoolgirls) were discarded and re-rolled; 4.00 credits were lost
 on the two already inspected. Henry and Elsie were specified white from the
 start and were not affected, and no location plate was affected.
+
+## KEYFRAMES — generated and verified 14 October 2026
+All ten inspected at native resolution 1536 × 2752.
+
+| # | Job id | Shot |
+|---|---|---|
+| 01 | `c19e1e82-52d2-4925-bd14-9107f6693d34` | the tray lands on an empty table — HOOK |
+| 02 | `5b5ce948-0442-4bfb-84db-23b2060fc628` | alone at a table for eight |
+| 03 | `5589cef5-2504-4142-94e8-f0b9f91baee0` | hands arranging the food too neatly |
+| 04 | `2cea6fdf-1d66-4a2c-b10b-54c46e0bfac5` | her POV — nobody looking at her |
+| 05 | `5f01e995-c8e9-4b24-8c82-c29ebe6705f4` | the book as a shield, eyes not moving |
+| 06 | `3c67dc85-bf68-4125-ae04-20c762452bca` | counting the clock down |
+| 07 | `596f1afb-f642-4c97-a840-a8621a733f32` | still in the glass while the room moves *(v2)* |
+| 08 | `d7109a76-0b0c-4cf5-bd11-68d59f891dae` | the empty chair *(v2)* |
+| 09 | `e4d18a74-786e-492b-851b-a3f0ba4c7fa6` | **DROP** — the second tray lands *(v2)* |
+| 10 | `6e54a9db-f035-4387-a28f-5322b2f6e61e` | the laugh with her mouth full *(v2)* |
+
+### FOUR SHOTS FAILED INSPECTION — THREE SEPARATE LESSONS
+
+**1. When the subject is absence, the model empties the whole frame.**
+Shots 07 and 08 both came back with the dining hall deserted — bare tables,
+dirty trays, lunch clearly over. Both prompts had leaned on emptiness ("alone",
+"completely empty", "the ABSENCE of a person"), and the model generalised that
+from the one chair to the entire room. That breaks the story: the hall must be
+full and loud or she is not being ignored, she is just late.
+**Rule: when a shot is about one absence, state explicitly that everything
+around it is full, occupied and in motion.** Both re-rolls carry a CRITICAL
+line to that effect and both came back correct.
+
+**2. Wardrobe continuity has to be restated in every single prompt.**
+Shot 10 lost both girls' navy jumpers — they came back in shirtsleeves, the
+background uniform changed to maroon blazers, and both girls read about fifteen
+rather than twelve. Shot 10 happens *seconds* after shot 09. The fix was to say
+so in the prompt — "this happens seconds after the previous shot, nothing about
+the clothing, the ages or the room may change" — plus restating the jumper and
+the age as CRITICAL lines.
+
+**3. Props invent brand labels unless you ban them by name.**
+The water bottle in shot 09 came back with a printed commercial label and a
+barcode. That is third-party material in a paid deliverable and it cannot ship.
+Re-prompted as "PLAIN COLOURED STICKERS ONLY — no printed label, no brand name,
+no barcode, no readable writing of any kind", which produced clean stars and
+circles.
+
+The seating rule carried over from THE GOOD SHIRT worked first time: every
+seated shot was framed three-quarter with the table top and chair seat visible
+as flat planes, and not one girl floated.
+
+**Cost:** 10 keyframes + 4 re-rolls = 14 × 2.00 = 28.00.

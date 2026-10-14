@@ -71,3 +71,46 @@ Four reference plates generated before that direction arrived (the man, the
 wife and both schoolgirls) were discarded and re-rolled; 4.00 credits were lost
 on the two already inspected. Henry and Elsie were specified white from the
 start and were not affected, and no location plate was affected.
+
+## KEYFRAMES — generated and verified 14 October 2026
+All ten inspected at native resolution 1536 × 2752. **Zero re-rolls.**
+
+| # | Job id | Shot |
+|---|---|---|
+| 01 | `e1d19794-7df6-4716-a97f-ea1bc792d8c2` | old hands, the top button, the loose band — HOOK |
+| 02 | `190a72b8-3330-46c9-91a9-c0e839571ae7` | combing his hair, taking trouble |
+| 03 | `6f6d4bd5-a44f-4808-ac65-62972e5ef560` | the corridor, bars of window light |
+| 04 | `faf00b29-a0b5-4d7c-93b1-f15e68f9c12d` | she looks out of the window, far away |
+| 05 | `a5290e67-1cc5-40d3-b2e0-6a28d14e651a` | she smiles at him like a pleasant stranger |
+| 06 | `3b1fb96f-2a19-45d3-a52a-07678e616948` | his face taking it, again |
+| 07 | `1279fb09-e038-4d92-b8a0-b8a4e3abdeae` | the speaker, his thumb on play |
+| 08 | `d8d47070-8afc-4bec-b383-79aa14d9efba` | her fingers begin to move on the blanket |
+| 09 | `eb24572f-6f01-4424-b95e-25282cafbc27` | **DROP** — she hums, her eyes come back |
+| 10 | `08556a30-fbad-4ff5-be52-1822fc32b7ad` | he takes her hand and she lets him |
+
+### WHY THIS FILM NEEDED NO CORRECTIONS
+Every lesson from the previous two films was applied up front rather than after
+a failure:
+
+- **Seating.** Shots 04, 05 and 10 were framed three-quarter from standing
+  height looking slightly down, so the chair seat and arms read as solid
+  surfaces, with contact described explicitly. Nobody floated.
+- **Object insert.** Shot 07 is the speaker on the side table — the exact shape
+  that produced the floating ring box on THE LONGEST DINNER. It was specified
+  locked-off, angled down so the table top reads as a flat plane, with the
+  speaker's whole base touching the wood and casting a dark contact shadow. It
+  came back resting correctly first time.
+- **Freeze risk.** Shot 07 is locked-off, which is what made the candle shot
+  fail freezedetect at d=0.3. She was kept in frame, out of focus but alive and
+  breathing, so there is always motion.
+- **Hands.** The highest-risk element in a film about two people in their
+  late seventies. Every prompt specified five naturally separated fingers and
+  correct old-hand anatomy. All twenty hands are correct.
+
+**Disclosed deviation:** shot 02 was specified with the framed photograph so
+blurred that no face would be discernible. A soft face does read in it. It is an
+invented, AI-generated face belonging to no real person, and it earns its place
+narratively — you sense a wife before you meet her — so it was kept rather than
+re-rolled. Recorded here so it appears in the origin proof.
+
+**Cost:** 10 × 2.00 = 20.00.
