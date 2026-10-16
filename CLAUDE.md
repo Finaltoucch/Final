@@ -6,3 +6,4 @@ Follow `instagram/brand/BRAND-RULES.md` for every piece of content. Key rules:
 - No cropping, bands or boxes on thumbnails.
 - Always use the owner's real photos for the face, and his Higgsfield voice at +30 speed with music and sound effects.
 - Never name a city ("right here from my home").
+- **Always blend images into the background:** a soft gradient fade into the text area, never a hard edge, panel or box.
