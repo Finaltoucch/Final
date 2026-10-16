@@ -82,3 +82,6 @@ Posting board: instagram/week-02-board.html (published as an artifact)
 
 ## v5 thumbnails: centered block, no repeated words (16 Oct)
 Mon 3b505fb5-ab6a-4288-837e-a2929e1cbfaf · Tue 98b2d989-26f8-4e3a-b375-6bd613fc6616 · Wed b051d70e-1706-4b64-b77f-fd2ff0f35121 · Thu b16e811d-b98a-47a5-b217-93e8a0efd1c0 · Fri 53c75295-d6b5-4cfe-ad30-374c937f7e33
+
+## v6 thumbnails: copied from the AI ADS master (16 Oct)
+Mon 027f892c-f87e-4b41-a2a5-e79b9d53153e · Tue bb579bef-ac5b-4a30-ae42-50f7c6c085a2 · Wed 91e8e140-9e20-4083-b565-eece9a6cc0f1 · Thu 0a9b363e-dc8b-4f70-b270-45d9d51584fc · Fri d6fa6d90-3cc3-43a7-8e7a-b76010189276

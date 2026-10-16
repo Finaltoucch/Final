@@ -104,3 +104,6 @@ Thumbnail master = Mon HIGGSFIELD / CAMERA (bd818442, imported as media c371f486
 
 ## v5 thumbnails: centered block, no repeated words (16 Oct)
 Mon c30b2853-0f09-4769-bf30-8eaa192d0806 · Tue 315c9da4-54f8-4a18-8e0c-99a6ba9fe178 · Wed a527a900-362b-4af1-a5ee-beef1381dd16 · Thu 2f4b1926-9f86-45ff-bb82-04aa5122501b · Fri 36a825a4-3e21-4a8c-ad41-912548f65ab2
+
+## v6 thumbnails: copied from the AI ADS master (16 Oct)
+Mon e02140bb-c700-4ba0-a841-babc2ae3c78f · Tue 66330fbf-8e6d-4493-870a-43377548b931 · Wed 1b97695f-cfdb-454a-b6ad-9e230f773081 · Thu (master) 45faca0c-280f-44b0-94a2-6701e14b52a7 · Fri 5a5a66f8-df8c-447e-bf45-7b35ea77d82a
