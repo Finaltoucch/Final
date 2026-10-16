@@ -55,3 +55,27 @@ Earlier 1K drafts (superseded): df58bc4c, a50e50b7, fbcbdefb, 10b3efe9, 2ca11acd
 | Thumb Fri FACELESS / STORIES | f2b4108d-fe16-44ba-8c6a-17e65c414156 |
 
 Superseded (12 Oct, element-only faces): all earlier Week 1 covers, thumbnails and the 3 Monday clips.
+
+## HD image carousel slides (16 Oct), each slide rendered complete with text
+### Fri: Faceless Stories (slide 1 = thumbnail f2b4108d)
+| Slide | Job ID |
+|---|---|
+| 02 History mysteries | 428e0031-615d-476f-bc4a-e148467547fe |
+| 03 What if | c58ddd26-e3b0-4d56-8ff6-4f6d3e3b31bd |
+| 04 Creepy stories | 1a087ef8-5bb7-44cf-9f38-60e09a3f25bf |
+| 05 Forgotten people | 12da65de-3819-4c1d-9955-6696988bd2cd |
+| 06 Animal survival | 627fdbc7-d368-4fbf-b1fc-af69ff68f5d9 |
+| 07 Parables | f6e06c47-9572-4b58-a0ec-fb0c7c99ce3b |
+| 08 AI workflow | f501fd09-5b03-42b7-a81d-19290e64c444 |
+| 09 Mass-produced rule | bd727769-20a2-4cca-be2f-1e3c4bbcda11 |
+| 10 Comment STORY | e1af847d-bd9f-4026-a4a7-95eb5f931d42 |
+### Tue: Upwork vs Contra (slide 1 = thumbnail 6a348c2c)
+| Slide | Job ID |
+|---|---|
+| 02 How you get work | 52c01d58-2104-4d76-a517-af80ac8d8010 |
+| 03 Fees | 26c3032f-38dd-4682-b500-147a3b39e0e6 |
+| 04 Competition | 0beefa6a-3c25-4e59-ba00-a081d23b6fed |
+| 05 Best for | 65611e4c-1aea-4ac7-9685-d28d7697bcbf |
+| 06 The mistake | caa18288-5ee2-4f94-a187-ae4af588bc12 |
+| 07 Use both | ff000cc5-dc69-47eb-995c-bbb95a1efbb4 |
+| 08 Comment CLIENT | e1749ba7-d967-4a6f-b7c6-f6298842f356 |
