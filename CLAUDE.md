@@ -8,3 +8,4 @@ Follow `instagram/brand/BRAND-RULES.md` for every piece of content. Key rules:
 - Never name a city ("right here from my home").
 - **Always blend images into the background:** a soft gradient fade into the text area, never a hard edge, panel or box.
 - **Never change the photo** when adding a title: same background, lighting and framing. Text only, with comfortable side margins (never edge to edge). Don't use AI to draw the text, because it rewrites the photo; set the text in code on the original image instead.
+- **THUMBNAIL MASTER (latest):** `instagram/brand/MASTER-thumbnail.webp` (AI ADS / $0 BUDGET). Heavy wide bold caps; the title, then the second line ×3 fading (100/70/40%); a justified block centered with equal margins; the SAME top margin on every thumbnail; head in front. This overrides the earlier thumbnail notes.

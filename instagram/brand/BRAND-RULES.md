@@ -20,3 +20,11 @@
 ## Never touch the photo
 - Adding a title must not change the background, lighting, colours or framing. Keep comfortable side margins (about 8% each side); never run text edge to edge.
 - Set titles in code on the original image (Anton font file + a cutout of him for the head-in-front layer). Do NOT ask AI image models to draw titles: they repaint the photo and drift the font.
+
+## THUMBNAIL MASTER (latest, overrides earlier thumbnail rules): `brand/MASTER-thumbnail.webp` ("AI ADS / $0 BUDGET", job 45faca0c-280f-44b0-94a2-6701e14b52a7)
+- Font: heavy, wide, bold geometric sans (Inter Black / Helvetica Black style), all caps. Not condensed.
+- Line 1 = big title. Then line 2 written 3 times stacked: 100%, ~70%, ~40% opacity (slight fade).
+- Every line is stretched to the SAME width, forming a justified block centered horizontally, with side margins of about 7.5% each.
+- The top margin is the SAME on every thumbnail (the top of the text sits about 6% from the top). Tight line spacing.
+- His head sits in front of the lower faded lines. The photo is otherwise untouched.
+- Colour: lime #C6FF00 with glow on dark backgrounds, black #0A0A0A on light.
