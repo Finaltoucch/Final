@@ -1,0 +1,224 @@
+<title>Final Touch Week 1</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Manrope:wght@400;600;800&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: a posting board. One row per day: 9:16 cover preview on the left, everything you paste into Instagram on the right. */
+:root{
+  --bg:#0d0f0a; --panel:#161a12; --line:#2a3121; --fg:#eef3e4; --muted:#9aa58b;
+  --lime:#c6ff00; --lime-ink:#0d0f0a; --warn:#ffb547;
+  --display:"Archivo Black","Arial Black",Impact,sans-serif;
+  --body:"Manrope",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:15px/1.55 var(--body);margin:0}
+.wrap{max-width:1060px;margin:0 auto;padding-block:28px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header{display:flex;flex-wrap:wrap;align-items:end;justify-content:space-between;gap:12px 24px;border-bottom:1px solid var(--line);padding-bottom:18px;margin-bottom:22px}
+.brand{display:flex;align-items:center;gap:12px}
+.mark{width:44px;height:44px;border-radius:12px;background:var(--lime);color:var(--lime-ink);display:grid;place-items:center;font:20px var(--display);letter-spacing:-.04em}
+h1{font:clamp(26px,4vw,38px)/1.05 var(--display);margin:0;letter-spacing:-.01em;text-wrap:balance}
+h1 span{color:var(--lime)}
+.sub{color:var(--muted);font-size:14px;margin:4px 0 0}
+.legend{display:flex;gap:8px;flex-wrap:wrap}
+.chip{font:600 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:7px 10px;border-radius:999px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.chip.ok{color:var(--lime);border-color:color-mix(in srgb,var(--lime) 45%,transparent)}
+.chip.wait{color:var(--warn);border-color:color-mix(in srgb,var(--warn) 45%,transparent)}
+.days{display:grid;gap:18px}
+.day{display:grid;grid-template-columns:200px minmax(0,1fr);gap:22px;background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:18px}
+@media (max-width:720px){.day{grid-template-columns:1fr}.cover{max-width:240px}}
+.cover{position:relative;aspect-ratio:9/16;max-width:100%;border-radius:12px;overflow:hidden;background:
+  radial-gradient(120% 70% at 70% 15%,color-mix(in srgb,var(--lime) 22%,transparent),transparent 60%),
+  linear-gradient(170deg,#23291b,#0f120c 70%);border:1px solid var(--line);padding:16px 14px;display:flex;flex-direction:column}
+.cover{container-type:inline-size}
+.cover .t{font:min(28px,12cqi)/0.95 var(--display);overflow-wrap:anywhere;color:var(--lime);text-shadow:0 0 18px color-mix(in srgb,var(--lime) 55%,transparent);text-transform:uppercase;letter-spacing:-.01em}
+.cover .e{font:15px/1.05 var(--display);color:var(--lime);text-transform:uppercase;margin-top:6px}
+.cover .e:nth-child(3){opacity:.6}.cover .e:nth-child(4){opacity:.25}
+.cover .scene{margin-top:auto;font-size:12px;color:var(--muted);line-height:1.4}
+.links{display:flex;flex-direction:column;gap:8px;margin-top:12px}
+.btn{display:flex;align-items:center;justify-content:center;gap:8px;font:800 13px var(--body);padding:10px 12px;border-radius:10px;text-decoration:none;border:1px solid var(--line);color:var(--fg);background:transparent;cursor:pointer}
+.btn.primary{background:var(--lime);color:var(--lime-ink);border-color:var(--lime)}
+.btn[aria-disabled="true"]{opacity:.45;pointer-events:none}
+.btn:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
+.meta{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin-bottom:10px}
+.dayname{font:13px var(--mono);color:var(--lime);letter-spacing:.1em;text-transform:uppercase}
+h2{font:22px/1.15 var(--display);margin:0;text-wrap:balance}
+.fmt{color:var(--muted);font-size:14px;margin:0 0 14px}
+.block{border-top:1px solid var(--line);padding-top:12px;margin-top:12px}
+.block h3{display:flex;justify-content:space-between;align-items:center;gap:10px;margin:0 0 6px;font:600 11px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.copy{font:600 11px var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--lime);background:transparent;border:1px solid color-mix(in srgb,var(--lime) 40%,transparent);border-radius:8px;padding:5px 9px;cursor:pointer}
+.copy:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
+.text{white-space:pre-wrap;margin:0;max-width:65ch;overflow-wrap:anywhere}
+.tags{font:13px var(--mono);color:var(--muted);overflow-wrap:anywhere}
+.kw{display:inline-block;font:13px var(--mono);background:var(--lime);color:var(--lime-ink);padding:2px 8px;border-radius:6px;font-weight:700}
+.vo{font-style:italic;color:#cfd8bf}
+footer{margin-top:26px;color:var(--muted);font-size:13px;max-width:70ch}
+@media (prefers-reduced-motion:no-preference){.btn,.copy{transition:transform .12s}.btn:active,.copy:active{transform:scale(.97)}}
+.strip{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px;scroll-snap-type:x mandatory}
+.strip img{flex:0 0 auto;width:150px;aspect-ratio:4/5;object-fit:cover;border-radius:8px;border:1px solid var(--line);scroll-snap-align:start}
+.clips{display:flex;flex-direction:column;gap:6px}
+.warn{color:var(--warn);font-size:13px;margin:6px 0 0}
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <div class="brand"><div class="mark">FT</div><h1>Week 1 <span>posting board</span></h1></div>
+      <p class="sub">@finaltoucch · AI tools that actually pay · you in every cover</p>
+    </div>
+    <div class="legend"><span class="chip ok">Ready to post</span><span class="chip wait">Needs work</span></div>
+  </header>
+  <div class="days" id="days"></div>
+  <footer>Videos and thumbnails open in a new tab from your Higgsfield account. If a video will not play in your browser, open higgsfield.ai, go to History, and download it there. Turn on Instagram's “AI info” label on every post, and fill in your course link in the DM replies.</footer>
+</div>
+
+<script>
+const CDN="https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/";
+const POSTS=[
+ {
+  "day": "Monday",
+  "title": "This Shot Cost Me $0",
+  "format": "AI video Reel · 3 × 5s clips · join in CapCut",
+  "t": "Higgsfield",
+  "e": "Camera",
+  "scene": "You leap off a rooftop at sunset while a camera drone orbits you.",
+  "thumb": "hf_20261012_123130_081dce1c-6129-466e-9faa-4eba7c814b4e.png",
+  "videos": [
+   {
+    "label": "Clip 1: Orbit",
+    "f": "hf_20261012_111446_af2bb274-581b-4b56-9510-515fdee9dac7.mp4"
+   },
+   {
+    "label": "Clip 2: Crash zoom",
+    "f": "hf_20261012_111446_81ade830-3baa-477c-8940-8673453dc516.mp4"
+   },
+   {
+    "label": "Clip 3: FPV dive",
+    "f": "hf_20261012_111447_24212452-dce2-43d9-8c96-a859ba85e366.mp4"
+   }
+  ],
+  "status": "wait",
+  "note": "Join the 3 clips, add your voiceover and the on-screen text: ORBIT → CRASH ZOOM → FPV DIVE.",
+  "warn": "Clip 2 (crash zoom) does not show your face correctly. Redo it with your real photos before posting.",
+  "vo": "This shot cost me zero dollars. No drone, no camera crew. Just AI. Three camera moves make any AI video look expensive: orbit, crash zoom, FPV dive. Comment CAMERA and I'll send you all my prompts.",
+  "caption": "No drone. No crew. No budget. 🎬\nThree camera moves that make AI video look like a movie: orbit, crash zoom, FPV dive.\n💬 Comment CAMERA and I'll DM you my exact prompts.\n📌 Save this for your next project.",
+  "kw": "CAMERA",
+  "dm": "Hey! 🎬 Here are my 3 camera-move prompts: [PROMPT PACK LINK]\nThese come from the camera module of my course, where I show the full workflow: making the shots, editing, and selling AI videos to clients 👉 [COURSE LINK]",
+  "tags": "#finaltoucch #higgsfield #aivideo #seedance #aifilm #cinematic #aitools"
+ },
+ {
+  "day": "Tuesday",
+  "title": "Upwork vs Contra",
+  "format": "Carousel · 8 slides",
+  "t": "Upwork",
+  "e": "vs Contra",
+  "scene": "You as a boxing referee raising the arms of two fighters, green vs black.",
+  "thumb": "hf_20261012_123129_bfe88bfc-a3d3-43a5-aceb-ec63882e2406.png",
+  "status": "ok",
+  "note": "Slide 1 is the thumbnail; slides 2–8 are below.",
+  "slides": [
+   "week-01/tue-upwork-vs-contra/02.png",
+   "week-01/tue-upwork-vs-contra/03.png",
+   "week-01/tue-upwork-vs-contra/04.png",
+   "week-01/tue-upwork-vs-contra/05.png",
+   "week-01/tue-upwork-vs-contra/06.png",
+   "week-01/tue-upwork-vs-contra/07.png",
+   "week-01/tue-upwork-vs-contra/08.png"
+  ],
+  "caption": "Upwork or Contra? Wrong question. Use both 🥊\nContra = your portfolio. Upwork = your job board.\n💬 Comment CLIENT and I'll send you my Upwork proposal template.\n📌 Save this before you sign up.",
+  "kw": "CLIENT",
+  "dm": "Here's my proposal template 💼 [TEMPLATE LINK]\nGetting the client is step one. Pricing AI video work and delivering it is all inside my course 👉 [COURSE LINK]",
+  "tags": "#finaltoucch #upwork #contra #freelancing #remotework #freelancetips #aiservices"
+ },
+ {
+  "day": "Wednesday",
+  "title": "Day 1: Building in Public",
+  "format": "UGC talking to camera · 15s · film on your phone",
+  "t": "Day 1",
+  "e": "Building",
+  "scene": "You on a sunny balcony, phone in hand, talking to camera.",
+  "thumb": "hf_20261012_123129_36489a7f-39d6-43bd-b845-0ac1aa930a64.png",
+  "videoNote": "Video: film this one yourself",
+  "status": "wait",
+  "note": "Record the script below on your phone; real you, real voice builds the most trust.",
+  "vo": "I'm Okoye. I use AI to make videos, design brands, and land remote clients, right here from my home, paid in dollars. Every day on this page I'll show you exactly how. If that's what you want too, follow. Day one starts now.",
+  "caption": "Day 1 of building @finaltoucch in public 🌍\nAI videos. Design. Remote clients. Paid in dollars.\nI'll show you everything I learn. Follow along.\n(Want the full roadmap? It's in my course → link in bio.)",
+  "kw": "—",
+  "dm": "No keyword on this one. It's a trust post. Your bio link carries the course.",
+  "tags": "#finaltoucch #buildinpublic #aicreator #remotework #africancreatives #aivideo"
+ },
+ {
+  "day": "Thursday",
+  "title": "AI Ads on a $0 Budget",
+  "format": "AI video Reel · 15s",
+  "t": "AI Ads",
+  "e": "$0 Budget",
+  "scene": "You in a burgundy suit pushing an amber perfume bottle at the lens.",
+  "thumb": "hf_20261012_123129_36009880-9d25-4539-a2c6-1e56be048e6a.png",
+  "videoNote": "Video: not generated yet",
+  "status": "wait",
+  "note": "Start images are ready; the 3 clips still need to be generated.",
+  "vo": "Brands pay a thousand dollars for an ad like this. I made it with AI, no studio. Product shot, add a human, hero ending. Comment AD and I'll send you the exact prompt.",
+  "caption": "No studio. No photographer. No budget. 🎬\nBrands pay real money for product ads like this, and AI just made it accessible.\n💬 Comment AD and I'll DM you the exact prompt.",
+  "kw": "AD",
+  "dm": "Here's the exact prompt 🎬 [PROMPT LINK]\nMaking the ad is half of it. How I find brands and charge for these is inside my course 👉 [COURSE LINK]",
+  "tags": "#finaltoucch #aiads #productvideo #higgsfield #seedance #aivideo #freelancing"
+ },
+ {
+  "day": "Friday",
+  "title": "Faceless Stories",
+  "format": "Carousel · 10 slides",
+  "t": "Faceless",
+  "e": "Stories",
+  "scene": "You as a hooded storyteller by a campfire in ancient ruins.",
+  "thumb": "hf_20261012_123129_7140b816-2e75-4ad2-bff7-0e94620eaf15.png",
+  "status": "ok",
+  "note": "Slide 1 is the thumbnail; slides 2–10 are below.",
+  "slides": [
+   "week-01/thu-faceless-niches/02.png",
+   "week-01/thu-faceless-niches/03.png",
+   "week-01/thu-faceless-niches/04.png",
+   "week-01/thu-faceless-niches/05.png",
+   "week-01/thu-faceless-niches/06.png",
+   "week-01/thu-faceless-niches/07.png",
+   "week-01/thu-faceless-niches/08.png",
+   "week-01/thu-faceless-niches/09.png",
+   "week-01/thu-faceless-niches/10.png"
+  ],
+  "caption": "Faceless doesn't mean effortless, but AI makes it 10x faster ▶️\n6 storytelling niches built for AI. Which one would you start?\n💬 Comment STORY and I'll send you the niche list plus a starter script.",
+  "kw": "STORY",
+  "dm": "Here's the niche list and a starter script ▶️ [LINK]\nThe full faceless channel workflow (script, voice, visuals, monetization) is inside my course 👉 [COURSE LINK]",
+  "tags": "#finaltoucch #facelessyoutube #aistorytelling #youtubetips #aivideo #contentcreator"
+ }
+];
+const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const link=(f,label,primary)=>f?`<a class="btn${primary?" primary":""}" href="${CDN+f}" target="_blank" rel="noopener">${label}</a>`:`<span class="btn" aria-disabled="true">${label} · rendering</span>`;
+const block=(name,text,cls)=>`<div class="block"><h3>${name}<button class="copy" type="button" data-copy="${esc(text)}">Copy</button></h3><p class="text ${cls||""}">${esc(text)}</p></div>`;
+document.getElementById("days").innerHTML=POSTS.map(p=>`
+ <article class="day">
+  <div>
+   <div class="cover" aria-label="Thumbnail layout for ${esc(p.title)}">
+     <div class="t">${esc(p.t)}</div><div class="e">${esc(p.e)}</div><div class="e">${esc(p.e)}</div><div class="e">${esc(p.e)}</div>
+     <div class="scene">${esc(p.scene)}</div>
+   </div>
+   <div class="links">${(p.videos||[]).map((v,i)=>link(v.f,"▶ "+v.label,i===0)).join("")}${p.videoNote?`<span class="btn" aria-disabled="true">${esc(p.videoNote)}</span>`:""}${link(p.thumb,"Open thumbnail")}</div>
+  </div>
+  <div style="min-width:0">
+   <div class="meta"><span class="dayname">${p.day}</span><span class="chip ${p.status}">${p.status==="ok"?"Ready to post":"Needs work"}</span></div>
+   <h2>${esc(p.title)}</h2>
+   <p class="fmt">${esc(p.format)} · ${esc(p.note)}</p>${p.warn?`<p class="warn">⚠ ${esc(p.warn)}</p>`:""}${p.slides?`<div class="block"><h3>Carousel slides (post in this order)</h3><div class="strip">${p.slides.map((s,i)=>`<img src="${s}" alt="Slide ${i+1}" loading="lazy">`).join("")}</div></div>`:""}
+   ${p.vo?block("Voiceover (your voice)",p.vo,"vo"):""}
+   ${block("Caption",p.caption)}
+   ${block("Hashtags",p.tags,"tags")}
+   <div class="block"><h3>Comment keyword → auto DM<button class="copy" type="button" data-copy="${esc(p.dm)}">Copy DM</button></h3><p class="text"><span class="kw">${esc(p.kw)}</span>  ${esc(p.dm)}</p></div>
+  </div>
+ </article>`).join("");
+document.addEventListener("click",async ev=>{
+  const b=ev.target.closest(".copy"); if(!b) return;
+  const t=b.dataset.copy, label=b.dataset.label||(b.dataset.label=b.textContent);
+  try{await navigator.clipboard.writeText(t);b.textContent="Copied";}
+  catch(e){const p=b.closest(".block").querySelector(".text");const r=document.createRange();r.selectNodeContents(p);const s=getSelection();s.removeAllRanges();s.addRange(r);b.textContent="Selected";}
+  setTimeout(()=>{b.textContent=label},1600);
+});
+</script>
