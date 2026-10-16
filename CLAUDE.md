@@ -7,3 +7,4 @@ Follow `instagram/brand/BRAND-RULES.md` for every piece of content. Key rules:
 - Always use the owner's real photos for the face, and his Higgsfield voice at +30 speed with music and sound effects.
 - Never name a city ("right here from my home").
 - **Always blend images into the background:** a soft gradient fade into the text area, never a hard edge, panel or box.
+- **Never change the photo** when adding a title: same background, lighting and framing. Text only, with comfortable side margins (never edge to edge). Don't use AI to draw the text, because it rewrites the photo; set the text in code on the original image instead.

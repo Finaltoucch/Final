@@ -16,3 +16,7 @@
 - Always pass the owner's real reference photos so the face matches him. Black thick-frame glasses in every shot; a different nice outfit per scene.
 - Voice: Higgsfield element "Finaltouch-" `f20af7a3-2416-4cb8-b394-688e71bcc43d`, speech_rate +30, loudness +10, with a music bed and sound effects.
 - Never name a city; say "right here from my home".
+
+## Never touch the photo
+- Adding a title must not change the background, lighting, colours or framing. Keep comfortable side margins (about 8% each side); never run text edge to edge.
+- Set titles in code on the original image (Anton font file + a cutout of him for the head-in-front layer). Do NOT ask AI image models to draw titles: they repaint the photo and drift the font.
