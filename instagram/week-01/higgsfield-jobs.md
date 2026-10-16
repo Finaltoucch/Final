@@ -90,3 +90,14 @@ Font reference media: 21efca1d-695a-4695-856c-48d5c4e24990 (`brand/font-referenc
 | Thu AI ADS / $0 BUDGET | b4aeb65e-512f-480b-a7c9-471edc0b40d0 |
 | Fri FACELESS / STORIES | 2e01b441-569b-4ca5-bc32-d9101e870d9b |
 Carousel inner slides keep their original font (owner's choice).
+
+## v4: matched to the masters (16 Oct)
+Thumbnail master = Mon HIGGSFIELD / CAMERA (bd818442, imported as media c371f486). Slide master = Faceless 02 (428e0031).
+| Item | Job ID |
+|---|---|
+| Thumb Tue UPWORK / VS CONTRA | 897e8e97-b360-4295-9384-21a52d32c5fc |
+| Thumb Wed DAY 1 / BUILDING | b1c59502-60d3-492d-aedd-1c7e8201ac4e |
+| Thumb Thu AI ADS / $0 BUDGET | efaf5cce-b974-40f4-b170-155f66a70906 |
+| Thumb Fri FACELESS / STORIES | 05b1d3e2-2673-42b9-a8a8-b41a5945b17c |
+| Faceless 03–10 | 0a8fb8e6, 98cd325b, b861a023, 506397a1, 55e148f7, 639e047c, 21c3733f, 99f6c1e5 |
+| Upwork 02–08 | ce4fbb96, 7288ca9b, 91a2f76a, b0e14259, bbc084bf, c81fdb5c, c5037650 |

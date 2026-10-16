@@ -70,3 +70,12 @@ Posting board: instagram/week-02-board.html (published as an artifact)
 | Wed 1999 / AI DREAMS | 6628ef84-aca5-4de6-9509-d03163e26871 |
 | Thu HOLLYWOOD / FROM HOME | e05082fe-71c4-448c-a850-7a69a2f932f7 |
 | Fri MY COURSE / AI VIDEOS | 29429882-4859-49bf-b38a-e429b5f913be |
+
+## v4 thumbnails, matched to the HIGGSFIELD / CAMERA master (16 Oct)
+| Thumb | Job ID |
+|---|---|
+| Mon AI CLONE | c562e42f-9abd-4680-ac1e-c52d3e898a59 |
+| Tue 1 PHOTO | 785ee493-6869-44ef-95ae-5e2d2525c91c |
+| Wed 1999 | 3f1955c4-dcd6-4c12-84af-0d1594c47c17 |
+| Thu HOLLYWOOD | 7c732a60-a17f-40a8-b052-431b182d9d8f |
+| Fri MY COURSE | 2b312812-56fc-49de-bed8-db5edbcde600 |
