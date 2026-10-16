@@ -35,3 +35,16 @@ Every video: Seedance 2.5 · omni_reference · 1080p · 9:16. Inputs: a 4K start
 | Wed | 1999 / AI Dreams | 12df1a1e-fc96-4d3f-8c13-5172a85f8346 |
 | Thu | Hollywood / From Lagos | 7eee1db0-44b7-4b89-9552-c673280c6219 |
 | Fri | My Course / AI Videos | d54e7881-0cad-4daf-a319-40ea10525a85 |
+
+## v2 re-renders (faster voice, speech_rate +30; music bed + SFX; no city named)
+| Item | Job ID |
+|---|---|
+| Voice Mon (fast) | 5c939e5e-8021-4703-bd5c-0026f2bf86d0 |
+| Voice Wed (fast, "from my home") | 51d79a94-e4c7-4834-bb06-5b7459106d70 |
+| Voice Fri (fast, "from my home") | 3f2a8046-4f6f-4c99-b20f-f48d6cbac09d |
+| Video Mon v2: AI clone, 12s | cd741f1c-b6ff-44ec-be28-9a10ba1da114 |
+| Video Wed v2: VHS 1999, 10s | 705e54f8-4e30-4c87-a3c1-b6a6a43d4eef |
+| Video Fri v2: course pitch, 10s | 0fba54b4-f88c-486e-beff-0bb6aafb5d67 |
+| Thumbnail Thu v2: Hollywood / From Home | 3b005267-769f-4269-97a2-86849f5481b2 |
+
+Superseded (slow voice / said "Lagos"; do not post): Mon c8626abe, Wed 8655163a, Fri f06f9eb3, Fri df1cee25, Thu thumbnail 7eee1db0.

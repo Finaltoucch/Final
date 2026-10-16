@@ -2,7 +2,8 @@
 
 Every video is made with **Seedance 2.5, 1080p, 9:16**.
 **Face:** your real reference photos are passed to every video, alongside a 4K start frame made with your `okoye` element.
-**Voice:** every speaking part uses **your own Higgsfield voice** ("Finaltouch-", `f20af7a3-2416-4cb8-b394-688e71bcc43d`), lip-synced inside the video.
+**Voice:** never name a city; say "right here from my home". Speech rate +30 (faster), with a music bed and sound effects under every video.
+**Voice source:** every speaking part uses **your own Higgsfield voice** ("Finaltouch-", `f20af7a3-2416-4cb8-b394-688e71bcc43d`), lip-synced inside the video.
 **Course link placeholder:** `[COURSE LINK]`
 
 ## Why these formats (research, 16 Oct 2026)
@@ -38,7 +39,7 @@ Sources: Anijam Reels trends · SocialPilot Reels trends · Crowdstar Kling tren
 
 ## TUE — 🎬 "1 Photo, 5 Outfits" (15s, music only)
 **Format:** outfit-change transition
-**Video:** you walking down a Lagos street at golden hour. Your outfit snaps on every beat: linen two-piece → navy suit → olive streetwear → Ankara print → all-black luxury, ending on a smirk.
+**Video:** you walking down a city street at golden hour. Your outfit snaps on every beat: linen two-piece → navy suit → olive streetwear → Ankara print → all-black luxury, ending on a smirk.
 **When posting:** add a **trending afrobeat or fashion sound** from the Reels audio library, and line the cuts up with the beat.
 **Thumbnail text:** **1 Photo** / *5 Outfits* ×3
 
@@ -50,14 +51,14 @@ Sources: Anijam Reels trends · SocialPilot Reels trends · Crowdstar Kling tren
 **DM (STYLE):**
 > Here's the outfit-change workflow 👗 I teach the full process (and how brands pay for this) in my course 👉 [COURSE LINK]
 
-**Hashtags:** `#finaltoucch #outfitchange #aifashion #aivideo #lagos #transition #seedance`
+**Hashtags:** `#finaltoucch #outfitchange #aifashion #aivideo #transition #seedance`
 
 ---
 
 ## WED — 📼 "If AI Existed in 1999" (12s, your voice)
 **Format:** VHS nostalgia restyle
 **Video:** camcorder footage of you in a 90s windbreaker and bucket hat next to a beige CRT computer, with tape noise and a "DEC 31 1999" date stamp.
-**Voiceover (your voice):** "It's 1999. They say one day, a computer will make my videos for me. From Lagos. And people will pay me in dollars. Imagine that."
+**Voiceover (your voice):** "It's 1999! They say one day, a computer will make my videos for me, right here from my home. And people will pay me in dollars. Imagine that!"
 **Thumbnail text:** **1999** / *AI Dreams* ×3
 
 **Caption:**
@@ -75,16 +76,16 @@ Sources: Anijam Reels trends · SocialPilot Reels trends · Crowdstar Kling tren
 ## THU — 🎬 "I Put Myself in a Hollywood Movie" (15s, cinematic sound)
 **Format:** "Me in a movie / action trailer"
 **Video:** a 3-shot trailer:
-1. You sprint across a rain-soaked Lagos bridge as it explodes behind you.
+1. You sprint across a rain-soaked city bridge as it explodes behind you.
 2. A slow-motion leap over a burning car.
 3. A close-up where you adjust your glasses and stare into the lens.
 
 **On-screen text (add in IG):** `No studio. No crew. No budget.` → `Just AI.` → `Comment MOVIE 👇`
-**Thumbnail text:** **Hollywood** / *From Lagos* ×3
+**Thumbnail text:** **Hollywood** / *From Home* ×3
 
 **Caption:**
 > Hollywood budget: $0 🎬💥
-> I put myself in an action movie with Seedance 2.5, from my laptop in Lagos.
+> I put myself in an action movie with Seedance 2.5, from my laptop at home.
 > 💬 Comment **MOVIE** and I'll send you the exact workflow.
 
 **DM (MOVIE):**
@@ -97,12 +98,12 @@ Sources: Anijam Reels trends · SocialPilot Reels trends · Crowdstar Kling tren
 ## FRI — 🗣️ "I Made All of This With AI" (12s, your voice): COURSE PITCH
 **Format:** UGC creator to camera (direct offer)
 **Video:** you in your creator studio, mic in front of you and an AI timeline on the monitor, talking warmly to camera.
-**Voiceover (your voice):** "Everything on my page this week, I made with AI, right here from Lagos. I teach the whole process in my course. Comment COURSE and I'll send you the link."
+**Voiceover (your voice):** "Everything on my page this week, I made with AI, right here from my home! I teach the whole process in my course. Comment COURSE and I'll send you the link!"
 **Thumbnail text:** **My Course** / *AI Videos* ×3
 
 **Caption:**
 > The clone. The outfits. The 1999 tape. The movie trailer.
-> All made with AI, from Lagos. 🌍
+> All made with AI, right here from my home. 🏠
 > I teach the whole process (creating AND getting paid) in my course.
 > 💬 Comment **COURSE** and I'll send you the link.
 
