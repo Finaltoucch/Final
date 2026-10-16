@@ -1,0 +1,140 @@
+<title>Final Touch Week 2</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Manrope:wght@400;600;800&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: a posting board. One row per day: 9:16 cover preview on the left, everything you paste into Instagram on the right. */
+:root{
+  --bg:#0d0f0a; --panel:#161a12; --line:#2a3121; --fg:#eef3e4; --muted:#9aa58b;
+  --lime:#c6ff00; --lime-ink:#0d0f0a; --warn:#ffb547;
+  --display:"Archivo Black","Arial Black",Impact,sans-serif;
+  --body:"Manrope",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:15px/1.55 var(--body);margin:0}
+.wrap{max-width:1060px;margin:0 auto;padding-block:28px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header{display:flex;flex-wrap:wrap;align-items:end;justify-content:space-between;gap:12px 24px;border-bottom:1px solid var(--line);padding-bottom:18px;margin-bottom:22px}
+.brand{display:flex;align-items:center;gap:12px}
+.mark{width:44px;height:44px;border-radius:12px;background:var(--lime);color:var(--lime-ink);display:grid;place-items:center;font:20px var(--display);letter-spacing:-.04em}
+h1{font:clamp(26px,4vw,38px)/1.05 var(--display);margin:0;letter-spacing:-.01em;text-wrap:balance}
+h1 span{color:var(--lime)}
+.sub{color:var(--muted);font-size:14px;margin:4px 0 0}
+.legend{display:flex;gap:8px;flex-wrap:wrap}
+.chip{font:600 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:7px 10px;border-radius:999px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.chip.ok{color:var(--lime);border-color:color-mix(in srgb,var(--lime) 45%,transparent)}
+.chip.wait{color:var(--warn);border-color:color-mix(in srgb,var(--warn) 45%,transparent)}
+.days{display:grid;gap:18px}
+.day{display:grid;grid-template-columns:200px minmax(0,1fr);gap:22px;background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:18px}
+@media (max-width:720px){.day{grid-template-columns:1fr}.cover{max-width:240px}}
+.cover{position:relative;aspect-ratio:9/16;max-width:100%;border-radius:12px;overflow:hidden;background:
+  radial-gradient(120% 70% at 70% 15%,color-mix(in srgb,var(--lime) 22%,transparent),transparent 60%),
+  linear-gradient(170deg,#23291b,#0f120c 70%);border:1px solid var(--line);padding:16px 14px;display:flex;flex-direction:column}
+.cover .t{font:28px/0.95 var(--display);color:var(--lime);text-shadow:0 0 18px color-mix(in srgb,var(--lime) 55%,transparent);text-transform:uppercase;letter-spacing:-.01em}
+.cover .e{font:15px/1.05 var(--display);color:var(--lime);text-transform:uppercase;margin-top:6px}
+.cover .e:nth-child(3){opacity:.6}.cover .e:nth-child(4){opacity:.25}
+.cover .scene{margin-top:auto;font-size:12px;color:var(--muted);line-height:1.4}
+.links{display:flex;flex-direction:column;gap:8px;margin-top:12px}
+.btn{display:flex;align-items:center;justify-content:center;gap:8px;font:800 13px var(--body);padding:10px 12px;border-radius:10px;text-decoration:none;border:1px solid var(--line);color:var(--fg);background:transparent;cursor:pointer}
+.btn.primary{background:var(--lime);color:var(--lime-ink);border-color:var(--lime)}
+.btn[aria-disabled="true"]{opacity:.45;pointer-events:none}
+.btn:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
+.meta{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin-bottom:10px}
+.dayname{font:13px var(--mono);color:var(--lime);letter-spacing:.1em;text-transform:uppercase}
+h2{font:22px/1.15 var(--display);margin:0;text-wrap:balance}
+.fmt{color:var(--muted);font-size:14px;margin:0 0 14px}
+.block{border-top:1px solid var(--line);padding-top:12px;margin-top:12px}
+.block h3{display:flex;justify-content:space-between;align-items:center;gap:10px;margin:0 0 6px;font:600 11px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.copy{font:600 11px var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--lime);background:transparent;border:1px solid color-mix(in srgb,var(--lime) 40%,transparent);border-radius:8px;padding:5px 9px;cursor:pointer}
+.copy:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
+.text{white-space:pre-wrap;margin:0;max-width:65ch;overflow-wrap:anywhere}
+.tags{font:13px var(--mono);color:var(--muted);overflow-wrap:anywhere}
+.kw{display:inline-block;font:13px var(--mono);background:var(--lime);color:var(--lime-ink);padding:2px 8px;border-radius:6px;font-weight:700}
+.vo{font-style:italic;color:#cfd8bf}
+footer{margin-top:26px;color:var(--muted);font-size:13px;max-width:70ch}
+@media (prefers-reduced-motion:no-preference){.btn,.copy{transition:transform .12s}.btn:active,.copy:active{transform:scale(.97)}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <div class="brand"><div class="mark">FT</div><h1>Week 2 <span>posting board</span></h1></div>
+      <p class="sub">@finaltoucch · trending AI formats starring you · every post sells the course</p>
+    </div>
+    <div class="legend"><span class="chip ok">Ready to post</span><span class="chip wait">Rendering</span></div>
+  </header>
+  <div class="days" id="days"></div>
+  <footer>Videos and thumbnails open in a new tab from your Higgsfield account. If a video will not play in your browser, open higgsfield.ai, go to History, and download it there. Turn on Instagram's “AI info” label on every post, and fill in your course link in the DM replies.</footer>
+</div>
+
+<script>
+const CDN="https://d8j0ntlcm91z4.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/";
+const POSTS=[
+ {day:"Monday",title:"My AI Clone",format:"AI clone of yourself · 12s · your voice + afrobeat bed",
+  t:"AI Clone",e:"Me x2",scene:"You talk to camera while your identical clone types on your laptop behind you.",
+  thumb:null,video:null,status:"wait",note:"Being redone: your real face, even lighting, cleaner voiceover.",
+  vo:"This is me. And that's my AI clone behind me. He's doing my client work while I talk to you. Everything in this video is AI. Even him. Want to learn how? Comment, clone.",
+  caption:"I cloned myself with AI 😳 He works. I record.\nEverything in this video, me included, is AI.\n💬 Comment CLONE and I'll send you how I did it.",
+  kw:"CLONE",dm:"Here's how I made my AI clone 🤖 The full step-by-step (face, voice, video) is inside my course 👉 [COURSE LINK]",
+  tags:"#finaltoucch #aiclone #aivideo #seedance #higgsfield #aitools #digitaltwin"},
+ {day:"Tuesday",title:"1 Photo, 5 Outfits",format:"Outfit-change transition · 15s · music only",
+  t:"1 Photo",e:"5 Outfits",scene:"You walk down a street at golden hour; your outfit snaps on every beat.",
+  thumb:"hf_20261016_095826_f2be70ed-bab8-4723-97ac-eefbba63c662.png",video:"hf_20261016_095714_1626bfab-ef08-4db6-8b44-ace793246247.mp4",status:"ok",
+  note:"Add a trending sound from the Reels library when posting.",
+  caption:"No stylist. No photoshoot. One photo + AI. 🔥\nWhich look is the winner? 1–5 👇\n💬 Comment STYLE and I'll show you how.",
+  kw:"STYLE",dm:"Here's the outfit-change workflow 👗 I teach the full process (and how brands pay for this) in my course 👉 [COURSE LINK]",
+  tags:"#finaltoucch #outfitchange #aifashion #aivideo #transition #seedance"},
+ {day:"Wednesday",title:"If AI Existed in 1999",format:"VHS nostalgia · 10s · your voice + 90s beat",
+  t:"1999",e:"AI Dreams",scene:"Camcorder tape of you in a 90s windbreaker next to a beige CRT computer.",
+  thumb:"hf_20261016_095827_12df1a1e-fc96-4d3f-8c13-5172a85f8346.png",video:null,status:"wait",note:"Video still rendering.",
+  vo:"It's 1999! They say one day, a computer will make my videos for me, right here from my home. And people will pay me in dollars. Imagine that!",
+  caption:"1999 me had no idea 📼😂\nNow a computer really does make my videos, and clients really do pay in dollars.\n💬 Comment 1999 and I'll send you the prompt for this VHS look.",
+  kw:"1999",dm:"Here's the VHS prompt 📼 Turning AI videos into paid client work is what my course teaches 👉 [COURSE LINK]",
+  tags:"#finaltoucch #vhs #nostalgia #aivideo #throwback #naija #seedance"},
+ {day:"Thursday",title:"I Put Myself in a Hollywood Movie",format:"Me in a movie · 15s · trailer sound",
+  t:"Hollywood",e:"From Home",scene:"Three-shot action trailer: bridge explosion, slow-motion leap, close-up.",
+  thumb:"hf_20261016_101632_3b005267-769f-4269-97a2-86849f5481b2.png",video:"hf_20261016_095723_8c8a0627-2a32-405f-b310-cd61d200c132.mp4",status:"ok",
+  note:"On-screen text to add: No studio. No crew. No budget. → Just AI. → Comment MOVIE 👇",
+  caption:"Hollywood budget: $0 🎬💥\nI put myself in an action movie with Seedance 2.5, from my laptop at home.\n💬 Comment MOVIE and I'll send you the exact workflow.",
+  kw:"MOVIE",dm:"Here's my movie-trailer workflow 🎬 The full system (prompts, face consistency, editing, selling it) is in my course 👉 [COURSE LINK]",
+  tags:"#finaltoucch #aimovie #aifilm #seedance #higgsfield #actionmovie #aivideo"},
+ {day:"Friday",title:"I Made All of This With AI",format:"Course pitch to camera · 10s · your voice + music",
+  t:"My Course",e:"AI Videos",scene:"You in your home studio with a mic and an AI timeline on the monitor.",
+  thumb:"hf_20261016_095826_d54e7881-0cad-4daf-a319-40ea10525a85.png",video:"hf_20261016_101624_0fba54b4-f88c-486e-beff-0bb6aafb5d67.mp4",status:"ok",
+  note:"Pin this post to the top of your profile.",
+  vo:"Everything on my page this week, I made with AI, right here from my home! I teach the whole process in my course. Comment COURSE and I'll send you the link!",
+  caption:"The clone. The outfits. The 1999 tape. The movie trailer.\nAll made with AI, right here from my home. 🏠\nI teach the whole process (creating AND getting paid) in my course.\n💬 Comment COURSE and I'll send you the link.",
+  kw:"COURSE",dm:"Here's the link 🎓 [COURSE LINK]\nInside: face and voice cloning, Seedance and Higgsfield workflows, and how to find clients and charge in dollars. Any questions, reply here.",
+  tags:"#finaltoucch #aicourse #learnai #aivideo #remotework #africancreatives #higgsfield"}
+];
+const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const link=(f,label,primary)=>f?`<a class="btn${primary?" primary":""}" href="${CDN+f}" target="_blank" rel="noopener">${label}</a>`:`<span class="btn" aria-disabled="true">${label} · rendering</span>`;
+const block=(name,text,cls)=>`<div class="block"><h3>${name}<button class="copy" type="button" data-copy="${esc(text)}">Copy</button></h3><p class="text ${cls||""}">${esc(text)}</p></div>`;
+document.getElementById("days").innerHTML=POSTS.map(p=>`
+ <article class="day">
+  <div>
+   <div class="cover" aria-label="Thumbnail layout for ${esc(p.title)}">
+     <div class="t">${esc(p.t)}</div><div class="e">${esc(p.e)}</div><div class="e">${esc(p.e)}</div><div class="e">${esc(p.e)}</div>
+     <div class="scene">${esc(p.scene)}</div>
+   </div>
+   <div class="links">${link(p.video,"▶ Open video",true)}${link(p.thumb,"Open thumbnail")}</div>
+  </div>
+  <div style="min-width:0">
+   <div class="meta"><span class="dayname">${p.day}</span><span class="chip ${p.status}">${p.status==="ok"?"Ready to post":"Rendering"}</span></div>
+   <h2>${esc(p.title)}</h2>
+   <p class="fmt">${esc(p.format)} · ${esc(p.note)}</p>
+   ${p.vo?block("Voiceover (your voice)",p.vo,"vo"):""}
+   ${block("Caption",p.caption)}
+   ${block("Hashtags",p.tags,"tags")}
+   <div class="block"><h3>Comment keyword → auto DM<button class="copy" type="button" data-copy="${esc(p.dm)}">Copy DM</button></h3><p class="text"><span class="kw">${esc(p.kw)}</span>  ${esc(p.dm)}</p></div>
+  </div>
+ </article>`).join("");
+document.addEventListener("click",async ev=>{
+  const b=ev.target.closest(".copy"); if(!b) return;
+  const t=b.dataset.copy, label=b.dataset.label||(b.dataset.label=b.textContent);
+  try{await navigator.clipboard.writeText(t);b.textContent="Copied";}
+  catch(e){const p=b.closest(".block").querySelector(".text");const r=document.createRange();r.selectNodeContents(p);const s=getSelection();s.removeAllRanges();s.addRange(r);b.textContent="Selected";}
+  setTimeout(()=>{b.textContent=label},1600);
+});
+</script>

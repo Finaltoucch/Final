@@ -48,3 +48,16 @@ Every video: Seedance 2.5 · omni_reference · 1080p · 9:16. Inputs: a 4K start
 | Thumbnail Thu v2: Hollywood / From Home | 3b005267-769f-4269-97a2-86849f5481b2 |
 
 Superseded (slow voice / said "Lagos"; do not post): Mon c8626abe, Wed 8655163a, Fri f06f9eb3, Fri df1cee25, Thu thumbnail 7eee1db0.
+
+## v3 Monday redo (real-photo face, even lighting, cleaner script)
+| Item | Job ID |
+|---|---|
+| Start frame (lighting fixed) | 5883d71a-4625-40a7-948c-6896db584a2a |
+| Start frame (first try, not used) | 32818812-2051-4f66-b38f-d6e48118d093 |
+| Voice Mon v3 (speech_rate +18) | b56bc4cf-b666-440e-8ffd-2fc017275763 |
+| Video Mon v3 | 8313be3d-f544-4d68-8a26-4aa309fa820a |
+| Thumbnail Mon v3 | 8331520b-a789-404c-aea1-a11b503f5096 |
+
+Superseded: Mon v2 cd741f1c (face did not match, lighting off), Mon thumbnail afc25155.
+
+Posting board: instagram/week-02-board.html (published as an artifact)
