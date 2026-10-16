@@ -79,3 +79,14 @@ Superseded (12 Oct, element-only faces): all earlier Week 1 covers, thumbnails a
 | 06 The mistake | caa18288-5ee2-4f94-a187-ae4af588bc12 |
 | 07 Use both | ff000cc5-dc69-47eb-995c-bbb95a1efbb4 |
 | 08 Comment CLIENT | e1749ba7-d967-4a6f-b7c6-f6298842f356 |
+
+## v3 thumbnails, brand font Anton (16 Oct): black text on light, lime on dark, full uncropped photo
+Font reference media: 21efca1d-695a-4695-856c-48d5c4e24990 (`brand/font-reference-anton.png`)
+| Thumb | Job ID |
+|---|---|
+| Mon HIGGSFIELD / CAMERA | bd818442-3f59-42cf-a8ef-69b73ace6efa |
+| Tue UPWORK VS CONTRA (rebuilt, no band) | bcd00a64-c94f-4402-b5d5-58c8b934ae74 |
+| Wed DAY 1 / BUILDING | 2020eeda-5a2c-4a1e-b4e9-8a4dfcdf7a09 |
+| Thu AI ADS / $0 BUDGET | b4aeb65e-512f-480b-a7c9-471edc0b40d0 |
+| Fri FACELESS / STORIES | 2e01b441-569b-4ca5-bc32-d9101e870d9b |
+Carousel inner slides keep their original font (owner's choice).

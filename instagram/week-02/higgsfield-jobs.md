@@ -61,3 +61,12 @@ Superseded (slow voice / said "Lagos"; do not post): Mon c8626abe, Wed 8655163a,
 Superseded: Mon v2 cd741f1c (face did not match, lighting off), Mon thumbnail afc25155.
 
 Posting board: instagram/week-02-board.html (published as an artifact)
+
+## v3 thumbnails, brand font Anton (16 Oct): black text on light, lime on dark
+| Thumb | Job ID |
+|---|---|
+| Mon AI CLONE / ME X2 | 8012f5e3-7ea0-4066-86e5-b140032cc102 |
+| Tue 1 PHOTO / 5 OUTFITS | 1c4d1f30-dc38-4f86-b4c7-bd4a17c61af3 |
+| Wed 1999 / AI DREAMS | 6628ef84-aca5-4de6-9509-d03163e26871 |
+| Thu HOLLYWOOD / FROM HOME | e05082fe-71c4-448c-a850-7a69a2f932f7 |
+| Fri MY COURSE / AI VIDEOS | 29429882-4859-49bf-b38a-e429b5f913be |
