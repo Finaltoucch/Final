@@ -33,3 +33,25 @@ Earlier 1K drafts (superseded): df58bc4c, a50e50b7, fbcbdefb, 10b3efe9, 2ca11acd
 | Wed | Day 1 / Building ×3 | 36489a7f-39d6-43bd-b845-0ac1aa930a64 |
 | Thu | AI Ads / $0 Budget ×3 | 36009880-9d25-4539-a2c6-1e56be048e6a |
 | Fri | Faceless / Stories ×3 | 7140b816-2e75-4ad2-bff7-0e94620eaf15 |
+
+## v2 fix (16 Oct): real-photo faces, even lighting, your Higgsfield voice (Finaltouch-, speech +30, loudness +10), music bed
+| Item | Job ID |
+|---|---|
+| Photo Mon rooftop | 8738bca8-35b5-4963-9c98-d42895094fc0 |
+| Photo Tue referee | af2aae35-5773-4a9b-912a-fb2e2d2e08fc |
+| Photo Wed balcony | b7dd08c9-abb2-4833-955c-52ee9e8cf0a7 |
+| Photo Thu perfume | e5c66799-a327-49f2-8dec-7f02386a55b6 |
+| Photo Fri campfire | 3acc8b4e-2900-4fcb-aadf-61200e420035 |
+| Voice Mon | 1059fdc3-b5df-431a-aad3-366f3280c83d |
+| Voice Wed | 20d5838b-b24b-433e-af67-4074d1b2c4db |
+| Voice Thu | d649afce-cad9-4f29-a045-72d719736310 |
+| Video Mon (15s, 3 camera moves) | 95f3d0b9-bec4-4b89-87f3-5e7934946474 |
+| Video Wed (13s, Day 1 talking) | 158fa9cc-927b-4058-bf2f-438ff3ed8180 |
+| Video Thu (12s, perfume ad) | d7945fff-6f1d-4526-b51a-a7b1a7f28bf5 |
+| Thumb Mon HIGGSFIELD / CAMERA | d3ed8f03-df32-48e7-a747-756db0d9b959 |
+| Thumb Tue UPWORK VS CONTRA | 6a348c2c-da2e-4fff-a3dd-843468d660d0 |
+| Thumb Wed DAY 1 / BUILDING | cd0ea528-1e8d-440c-8658-94f61a731955 |
+| Thumb Thu AI ADS / $0 BUDGET | 0252409d-fea4-42da-a16a-a8467fbf31e3 |
+| Thumb Fri FACELESS / STORIES | f2b4108d-fe16-44ba-8c6a-17e65c414156 |
+
+Superseded (12 Oct, element-only faces): all earlier Week 1 covers, thumbnails and the 3 Monday clips.
