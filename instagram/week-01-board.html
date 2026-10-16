@@ -55,7 +55,7 @@ h2{font:22px/1.15 var(--display);margin:0;text-wrap:balance}
 .vo{font-style:italic;color:#cfd8bf}
 footer{margin-top:26px;color:var(--muted);font-size:13px;max-width:70ch}
 @media (prefers-reduced-motion:no-preference){.btn,.copy{transition:transform .12s}.btn:active,.copy:active{transform:scale(.97)}}
-.strip{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px;scroll-snap-type:x mandatory}
+.strip{display:flex;flex-wrap:wrap;gap:8px;padding-bottom:6px;scroll-snap-type:x mandatory}
 .strip img{flex:0 0 auto;width:150px;aspect-ratio:4/5;object-fit:cover;border-radius:8px;border:1px solid var(--line);scroll-snap-align:start}
 .clips{display:flex;flex-direction:column;gap:6px}
 .warn{color:var(--warn);font-size:13px;margin:6px 0 0}
@@ -79,33 +79,20 @@ const POSTS=[
  {
   "day": "Monday",
   "title": "This Shot Cost Me $0",
-  "format": "AI video Reel · 3 × 5s clips · join in CapCut",
+  "format": "AI video Reel · 15s · your voice + afrobeat bed",
   "t": "Higgsfield",
   "e": "Camera",
   "scene": "You leap off a rooftop at sunset while a camera drone orbits you.",
-  "thumb": "hf_20261012_123130_081dce1c-6129-466e-9faa-4eba7c814b4e.png",
-  "videos": [
-   {
-    "label": "Clip 1: Orbit",
-    "f": "hf_20261012_111446_af2bb274-581b-4b56-9510-515fdee9dac7.mp4"
-   },
-   {
-    "label": "Clip 2: Crash zoom",
-    "f": "hf_20261012_111446_81ade830-3baa-477c-8940-8673453dc516.mp4"
-   },
-   {
-    "label": "Clip 3: FPV dive",
-    "f": "hf_20261012_111447_24212452-dce2-43d9-8c96-a859ba85e366.mp4"
-   }
-  ],
+  "thumb": "hf_20261016_110234_d3ed8f03-df32-48e7-a747-756db0d9b959.png",
+  "videos": [],
   "status": "wait",
-  "note": "Join the 3 clips, add your voiceover and the on-screen text: ORBIT → CRASH ZOOM → FPV DIVE.",
-  "warn": "Clip 2 (crash zoom) does not show your face correctly. Redo it with your real photos before posting.",
-  "vo": "This shot cost me zero dollars. No drone, no camera crew. Just AI. Three camera moves make any AI video look expensive: orbit, crash zoom, FPV dive. Comment CAMERA and I'll send you all my prompts.",
+  "note": "One 15s Reel: orbit → crash zoom → drone dive, with your voice.",
+  "vo": "This shot cost me zero dollars. No drone. No camera crew. Just AI! Three camera moves make any AI video look expensive. Orbit. Crash zoom. Drone dive. Comment CAMERA and I'll send you my prompts!",
   "caption": "No drone. No crew. No budget. 🎬\nThree camera moves that make AI video look like a movie: orbit, crash zoom, FPV dive.\n💬 Comment CAMERA and I'll DM you my exact prompts.\n📌 Save this for your next project.",
   "kw": "CAMERA",
   "dm": "Hey! 🎬 Here are my 3 camera-move prompts: [PROMPT PACK LINK]\nThese come from the camera module of my course, where I show the full workflow: making the shots, editing, and selling AI videos to clients 👉 [COURSE LINK]",
-  "tags": "#finaltoucch #higgsfield #aivideo #seedance #aifilm #cinematic #aitools"
+  "tags": "#finaltoucch #higgsfield #aivideo #seedance #aifilm #cinematic #aitools",
+  "videoNote": "Video: rendering"
  },
  {
   "day": "Tuesday",
@@ -114,17 +101,17 @@ const POSTS=[
   "t": "Upwork",
   "e": "vs Contra",
   "scene": "You as a boxing referee raising the arms of two fighters, green vs black.",
-  "thumb": "hf_20261012_123129_bfe88bfc-a3d3-43a5-aceb-ec63882e2406.png",
+  "thumb": "hf_20261016_110236_6a348c2c-da2e-4fff-a3dd-843468d660d0.png",
   "status": "ok",
-  "note": "Slide 1 is the thumbnail; slides 2–8 are below.",
+  "note": "Slide 1 is the thumbnail; slides 2–8 are HD image slides (open each below).",
   "slides": [
-   "week-01/tue-upwork-vs-contra/02.png",
-   "week-01/tue-upwork-vs-contra/03.png",
-   "week-01/tue-upwork-vs-contra/04.png",
-   "week-01/tue-upwork-vs-contra/05.png",
-   "week-01/tue-upwork-vs-contra/06.png",
-   "week-01/tue-upwork-vs-contra/07.png",
-   "week-01/tue-upwork-vs-contra/08.png"
+   "hf_20261016_110630_52c01d58-2104-4d76-a517-af80ac8d8010.png",
+   "hf_20261016_110630_26c3032f-38dd-4682-b500-147a3b39e0e6.png",
+   "hf_20261016_110630_0beefa6a-3c25-4e59-ba00-a081d23b6fed.png",
+   "hf_20261016_110630_65611e4c-1aea-4ac7-9685-d28d7697bcbf.png",
+   "hf_20261016_110630_caa18288-5ee2-4f94-a187-ae4af588bc12.png",
+   "hf_20261016_110632_ff000cc5-dc69-47eb-995c-bbb95a1efbb4.png",
+   "hf_20261016_110629_e1749ba7-d967-4a6f-b7c6-f6298842f356.png"
   ],
   "caption": "Upwork or Contra? Wrong question. Use both 🥊\nContra = your portfolio. Upwork = your job board.\n💬 Comment CLIENT and I'll send you my Upwork proposal template.\n📌 Save this before you sign up.",
   "kw": "CLIENT",
@@ -134,36 +121,46 @@ const POSTS=[
  {
   "day": "Wednesday",
   "title": "Day 1: Building in Public",
-  "format": "UGC talking to camera · 15s · film on your phone",
+  "format": "Talking to camera · 13s · your voice + afrobeat bed",
   "t": "Day 1",
   "e": "Building",
   "scene": "You on a sunny balcony, phone in hand, talking to camera.",
-  "thumb": "hf_20261012_123129_36489a7f-39d6-43bd-b845-0ac1aa930a64.png",
-  "videoNote": "Video: film this one yourself",
-  "status": "wait",
-  "note": "Record the script below on your phone; real you, real voice builds the most trust.",
-  "vo": "I'm Okoye. I use AI to make videos, design brands, and land remote clients, right here from my home, paid in dollars. Every day on this page I'll show you exactly how. If that's what you want too, follow. Day one starts now.",
+  "thumb": "hf_20261016_110304_cd0ea528-1e8d-440c-8658-94f61a731955.png",
+  "status": "ok",
+  "note": "Made with your real face and your Higgsfield voice.",
+  "vo": "I'm Okoye. I use AI to make videos, design brands, and land remote clients, right here from my home, paid in dollars. Every day on this page, I'll show you exactly how. Follow along. Day one starts now!",
   "caption": "Day 1 of building @finaltoucch in public 🌍\nAI videos. Design. Remote clients. Paid in dollars.\nI'll show you everything I learn. Follow along.\n(Want the full roadmap? It's in my course → link in bio.)",
   "kw": "—",
   "dm": "No keyword on this one. It's a trust post. Your bio link carries the course.",
-  "tags": "#finaltoucch #buildinpublic #aicreator #remotework #africancreatives #aivideo"
+  "tags": "#finaltoucch #buildinpublic #aicreator #remotework #africancreatives #aivideo",
+  "videos": [
+   {
+    "label": "Open video",
+    "f": "hf_20261016_110258_158fa9cc-927b-4058-bf2f-438ff3ed8180.mp4"
+   }
+  ]
  },
  {
   "day": "Thursday",
   "title": "AI Ads on a $0 Budget",
-  "format": "AI video Reel · 15s",
+  "format": "AI video Reel · 12s · your voice + luxury music bed",
   "t": "AI Ads",
   "e": "$0 Budget",
   "scene": "You in a burgundy suit pushing an amber perfume bottle at the lens.",
-  "thumb": "hf_20261012_123129_36009880-9d25-4539-a2c6-1e56be048e6a.png",
-  "videoNote": "Video: not generated yet",
-  "status": "wait",
-  "note": "Start images are ready; the 3 clips still need to be generated.",
-  "vo": "Brands pay a thousand dollars for an ad like this. I made it with AI, no studio. Product shot, add a human, hero ending. Comment AD and I'll send you the exact prompt.",
+  "thumb": "hf_20261016_110305_0252409d-fea4-42da-a16a-a8467fbf31e3.png",
+  "status": "ok",
+  "note": "Product shot → add a human → hero ending.",
+  "vo": "Brands pay big money for ads like this. I made it with AI. No studio! Product shot. Add a human. Hero ending. Comment AD and I'll send you the exact prompt!",
   "caption": "No studio. No photographer. No budget. 🎬\nBrands pay real money for product ads like this, and AI just made it accessible.\n💬 Comment AD and I'll DM you the exact prompt.",
   "kw": "AD",
   "dm": "Here's the exact prompt 🎬 [PROMPT LINK]\nMaking the ad is half of it. How I find brands and charge for these is inside my course 👉 [COURSE LINK]",
-  "tags": "#finaltoucch #aiads #productvideo #higgsfield #seedance #aivideo #freelancing"
+  "tags": "#finaltoucch #aiads #productvideo #higgsfield #seedance #aivideo #freelancing",
+  "videos": [
+   {
+    "label": "Open video",
+    "f": "hf_20261016_110259_d7945fff-6f1d-4526-b51a-a7b1a7f28bf5.mp4"
+   }
+  ]
  },
  {
   "day": "Friday",
@@ -172,19 +169,19 @@ const POSTS=[
   "t": "Faceless",
   "e": "Stories",
   "scene": "You as a hooded storyteller by a campfire in ancient ruins.",
-  "thumb": "hf_20261012_123129_7140b816-2e75-4ad2-bff7-0e94620eaf15.png",
+  "thumb": "hf_20261016_110305_f2b4108d-fe16-44ba-8c6a-17e65c414156.png",
   "status": "ok",
-  "note": "Slide 1 is the thumbnail; slides 2–10 are below.",
+  "note": "Slide 1 is the thumbnail; slides 2–10 are HD image slides (open each below).",
   "slides": [
-   "week-01/thu-faceless-niches/02.png",
-   "week-01/thu-faceless-niches/03.png",
-   "week-01/thu-faceless-niches/04.png",
-   "week-01/thu-faceless-niches/05.png",
-   "week-01/thu-faceless-niches/06.png",
-   "week-01/thu-faceless-niches/07.png",
-   "week-01/thu-faceless-niches/08.png",
-   "week-01/thu-faceless-niches/09.png",
-   "week-01/thu-faceless-niches/10.png"
+   "hf_20261016_110604_428e0031-615d-476f-bc4a-e148467547fe.png",
+   "hf_20261016_110604_c58ddd26-e3b0-4d56-8ff6-4f6d3e3b31bd.png",
+   "hf_20261016_110604_1a087ef8-5bb7-44cf-9f38-60e09a3f25bf.png",
+   "hf_20261016_110604_12da65de-3819-4c1d-9955-6696988bd2cd.png",
+   "hf_20261016_110605_627fdbc7-d368-4fbf-b1fc-af69ff68f5d9.png",
+   "hf_20261016_110604_f6e06c47-9572-4b58-a0ec-fb0c7c99ce3b.png",
+   "hf_20261016_110604_f501fd09-5b03-42b7-a81d-19290e64c444.png",
+   "hf_20261016_110604_bd727769-20a2-4cca-be2f-1e3c4bbcda11.png",
+   "hf_20261016_110604_e1af847d-bd9f-4026-a4a7-95eb5f931d42.png"
   ],
   "caption": "Faceless doesn't mean effortless, but AI makes it 10x faster ▶️\n6 storytelling niches built for AI. Which one would you start?\n💬 Comment STORY and I'll send you the niche list plus a starter script.",
   "kw": "STORY",
@@ -207,7 +204,7 @@ document.getElementById("days").innerHTML=POSTS.map(p=>`
   <div style="min-width:0">
    <div class="meta"><span class="dayname">${p.day}</span><span class="chip ${p.status}">${p.status==="ok"?"Ready to post":"Needs work"}</span></div>
    <h2>${esc(p.title)}</h2>
-   <p class="fmt">${esc(p.format)} · ${esc(p.note)}</p>${p.warn?`<p class="warn">⚠ ${esc(p.warn)}</p>`:""}${p.slides?`<div class="block"><h3>Carousel slides (post in this order)</h3><div class="strip">${p.slides.map((s,i)=>`<img src="${s}" alt="Slide ${i+1}" loading="lazy">`).join("")}</div></div>`:""}
+   <p class="fmt">${esc(p.format)} · ${esc(p.note)}</p>${p.warn?`<p class="warn">⚠ ${esc(p.warn)}</p>`:""}${p.slides?`<div class="block"><h3>Carousel slides (post in this order)</h3><div class="strip">${p.slides.map((s,i)=>`<a class="btn" href="${CDN+s}" target="_blank" rel="noopener">Slide ${i+2}</a>`).join("")}</div></div>`:""}
    ${p.vo?block("Voiceover (your voice)",p.vo,"vo"):""}
    ${block("Caption",p.caption)}
    ${block("Hashtags",p.tags,"tags")}
