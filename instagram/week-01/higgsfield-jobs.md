@@ -101,3 +101,6 @@ Thumbnail master = Mon HIGGSFIELD / CAMERA (bd818442, imported as media c371f486
 | Thumb Fri FACELESS / STORIES | 05b1d3e2-2673-42b9-a8a8-b41a5945b17c |
 | Faceless 03–10 | 0a8fb8e6, 98cd325b, b861a023, 506397a1, 55e148f7, 639e047c, 21c3733f, 99f6c1e5 |
 | Upwork 02–08 | ce4fbb96, 7288ca9b, 91a2f76a, b0e14259, bbc084bf, c81fdb5c, c5037650 |
+
+## v5 thumbnails: centered block, no repeated words (16 Oct)
+Mon c30b2853-0f09-4769-bf30-8eaa192d0806 · Tue 315c9da4-54f8-4a18-8e0c-99a6ba9fe178 · Wed a527a900-362b-4af1-a5ee-beef1381dd16 · Thu 2f4b1926-9f86-45ff-bb82-04aa5122501b · Fri 36a825a4-3e21-4a8c-ad41-912548f65ab2

@@ -79,3 +79,6 @@ Posting board: instagram/week-02-board.html (published as an artifact)
 | Wed 1999 | 3f1955c4-dcd6-4c12-84af-0d1594c47c17 |
 | Thu HOLLYWOOD | 7c732a60-a17f-40a8-b052-431b182d9d8f |
 | Fri MY COURSE | 2b312812-56fc-49de-bed8-db5edbcde600 |
+
+## v5 thumbnails: centered block, no repeated words (16 Oct)
+Mon 3b505fb5-ab6a-4288-837e-a2929e1cbfaf · Tue 98b2d989-26f8-4e3a-b375-6bd613fc6616 · Wed b051d70e-1706-4b64-b77f-fd2ff0f35121 · Thu b16e811d-b98a-47a5-b217-93e8a0efd1c0 · Fri 53c75295-d6b5-4cfe-ad30-374c937f7e33
