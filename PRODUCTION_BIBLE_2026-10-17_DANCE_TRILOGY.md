@@ -201,3 +201,58 @@ the 4.00 that appeared in the 16 Oct transaction log.
 3. Measure per-bar loudness and place each film's payoff shot on the drop.
 4. Re-fit each grid against the exact file that ships.
 5. Assign tracks to films on the evidence, then generate clips.
+
+---
+
+## Delivery record — 17 Oct 2026
+
+| Film | Track | Frames | Duration | Grid z | File MD5 |
+|---|---|---|---|---|---|
+| THE WINDOW | 023 — To the Stars | 1002 | 41.750 s | +4.29 | `d9384c3cb8f7d352e5336c9503f02b4e` |
+| NIGHT SHIFT | 013 — Rise Again | 974 | 40.583 s | +3.97 | `9f47f5be7bfc2dee5028db7f7dc6eda5` |
+| THE CONNECTION | 005 — Ever Forward | 1002 | 41.750 s | +5.00 | `364444920d00c5d8460c1dac08c26c12` |
+
+All three: 1080×1920, 24 fps constant, yuv420p, AAC 320 kbps 48 kHz stereo.
+Freeze 0 at d=0.5/0.4/0.3, black 0, cropdetect 1080:1920:0:0, scene cuts
+matching the plan exactly on every film.
+
+---
+
+## Corrections made after the client looked at the films
+
+These were all caught on review and re-shot. Recording them because each one
+is a repeatable failure mode, not a one-off.
+
+| What was wrong | Why it happened | Fix |
+|---|---|---|
+| Opening shot read as if she were **inside** a corridor | I put the camera indoors looking out; the viewer cannot tell who is shut out from which side | Reverse the camera to the outside and keep the rain on the camera side of the glass |
+| Entrance doors stood **open** behind her | Nothing in the prompt forced the leaves shut | State the two leaves meet flush with no gap, and add a drawn security shutter behind the glass |
+| She **walked back toward** the doors twice | The model is drawn to the brightest area of frame | Framing fix, not a wording fix: shoot the beat as a close-up so there is nowhere to walk |
+| She appeared to be **lying on a car roof** | Camera at roof height with no ground in frame | Show the supporting plane — pull back and low so her feet and the tarmac are visible |
+| Guard carried a **burning torch** | "Torch" is British English for flashlight; the model read it as fire | Say "modern electric flashlight", describe the housing, and ban fire by name |
+| Departure board rendered **gibberish text** twice | The model will not leave a display surface blank while it is in frame | Reframe the shot so the display is not in frame at all |
+| Rucksack showed a **manufacturer's logo** | Props invent branding unless banned | Ban logo, emblem, badge, patch, roundel and lettering by name |
+| Payoff window **never blinked** | Kling ignores discrete lighting changes described in text | Use start_image + end_image so the model interpolates between two lighting states |
+
+### Two method errors of mine, both worth keeping
+
+**freezedetect's `n` is noise tolerance, not duration.** I ran
+`freezedetect=n=0.5:d=0.5`, a 50 % tolerance, and it reported a freeze on all
+30 clips. The playbook's 0.5/0.4/0.3 are the **duration** values; use
+`freezedetect=d=0.5` and let the noise default stand.
+
+**Fit the quantity you intend to test.** The first grid pass maximised beat
+energy via a DFT at the beat period, then z-tested *bar* lines. Different
+objectives, so z swung between pass and fail on 0.005 BPM changes and one
+track looked unusable. Fitting the bar grid directly — scoring onset energy
+at bar positions over (bpm, phase) and testing that same score against 400
+random phases — made every result stable and lifted the scores to +4 and
+above. A z-score that moves when the search step changes is not measuring
+what you think it is.
+
+### Verifying an effect actually happened
+
+Do not accept a described effect because the prompt asked for it. For the
+window blink I sampled the brightest pixel across all 145 frames: it moved
+243 → 250, so nothing had happened. After the start/end rebuild the lit-pixel
+count climbed in steps from 3145 to 6500. Measure the thing, don't trust it.
