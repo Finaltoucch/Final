@@ -256,3 +256,41 @@ Do not accept a described effect because the prompt asked for it. For the
 window blink I sampled the brightest pixel across all 145 frames: it moved
 243 → 250, so nothing had happened. After the start/end rebuild the lit-pixel
 count climbed in steps from 3145 to 6500. Measure the thing, don't trust it.
+
+---
+
+## Further correction — NIGHT SHIFT shot 02
+
+**Caught by the client: the character appeared in position without an arrival.**
+Shot 01 ends with her mid-hall walking towards camera; shot 02 opened with her
+already planted at a side door, hand on the handle. The scale changed, which
+satisfied the scale-and-angle rule, but she teleported across the room.
+
+This is the rule already recorded from the video 23 review — *nobody may appear
+in position without an arrival or a cutaway* — and I had applied it only to
+seats. It applies to **any** position change, not just sitting down.
+
+Fixed by re-shooting the keyframe so she is caught mid-stride two paces short
+of the door with her hand nowhere near the handle, and clear floor still to
+cover. The clip then plays the arrival: she walks the last steps in, reaches,
+grips, pushes, it does not give, she releases and turns away.
+
+**Audit of every other cut in the three films.** Each remaining position change
+is covered by an insert or a motivated look, so none of them teleport:
+
+| Cut | What covers the move |
+|---|---|
+| NIGHT SHIFT 03 → 04 | the dust close-up is the cutaway to the stereo |
+| NIGHT SHIFT 06 → 07 | the switch close-up covers her stepping into the light |
+| THE WINDOW 05 → 06 | her point-of-view shot of the window covers crossing to the car |
+| THE CONNECTION 04 → 05 | the dropped-bag close-up covers her sitting, and the bag stays at her feet |
+| THE CONNECTION 07 → 08 | her close-up covers standing up |
+| THE CONNECTION 09 → 10 | the train arriving motivates the move, and is the joke |
+
+Rule restated for future films: **a cut that changes where a character is
+standing needs either the arrival on screen or an insert between the two
+positions. "The scale changed" is not sufficient on its own.**
+
+NIGHT SHIFT rebuilt and re-verified: 974 frames, freeze 0 at d=0.5/0.4/0.3,
+black 0, cropdetect 1080:1920:0:0, cuts 85 169 254 339 423 508 593 720 847,
+−13.3 LUFS, peak −4.5 dBFS, MD5 `fe449dbf24d77fc4b00a3ae744a5f6cc`.
