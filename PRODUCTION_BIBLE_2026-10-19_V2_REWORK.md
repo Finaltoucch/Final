@@ -277,3 +277,56 @@ at least 0.30 s clear of any run.
   **by MD5**, not by filename; all three matched the recorded fingerprints
   and durations exactly.
 
+
+---
+
+## Delivery record — 19 October 2026
+
+All nine files uploaded and then **re-downloaded and MD5-verified byte for byte**.
+All three archives additionally passed a zip integrity test after download.
+
+### Video 26 — THE FUSE — 005 Ever Forward
+- `01_FINAL_ALEXATOR_EVER_FORWARD.mp4` — 72,638,541 bytes — md5 `91522a938760d8f551d1e9f81c802281`
+  <https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/01b80f37-5d1c-4e6b-aaa0-7c1a89a10731.mp4>
+- `02_USED_AI_SOURCES.zip` — 214,379,423 bytes — md5 `cf02356161f3e59fdedbefcac738d8fc`
+  <https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/987de0c4-6da2-4655-9ab7-d78e3f1365c4.zip>
+- `03_ORIGIN_PROOF.pdf` — 53,772 bytes — md5 `0711c2fd04db4acf353cab9691ac7265`
+  <https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/d011b247-fab1-45d2-9496-c0d987485822.pdf>
+
+### Video 27 — LIFT — 023 To the Stars
+- `01_FINAL_ALEXATOR_TO_THE_STARS.mp4` — 68,061,643 bytes — md5 `97fcc67a301f9d07e4a4bbf21e64d5ce`
+  <https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/0bb54f16-8e96-4615-b554-53dd7f114ec7.mp4>
+- `02_USED_AI_SOURCES.zip` — 220,661,383 bytes — md5 `fabdef0830f955c57974b88b9891daa9`
+  <https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/8e13780e-9cfa-4647-b774-060707e24b5f.zip>
+- `03_ORIGIN_PROOF.pdf` — 53,395 bytes — md5 `ec74b398bf7b003c077b1f2b065acfc7`
+  <https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/ddaa4737-448c-4439-8c83-1e93006a1970.pdf>
+
+### Video 28 — THE LINE — 013 Rise Again
+- `01_FINAL_ALEXATOR_RISE_AGAIN.mp4` — 87,674,745 bytes — md5 `11564e3e1cbf82524ae5b81b8a19602b`
+  <https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/ab1b0723-454f-4e04-ae47-50401437f8cd.mp4>
+- `02_USED_AI_SOURCES.zip` — 251,818,427 bytes — md5 `06902f7822a24c34514007b10a4eef86`
+  <https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/7edc3dc6-da5b-4850-9c24-9a31114fa7be.zip>
+- `03_ORIGIN_PROOF.pdf` — 53,509 bytes — md5 `3234c8d2c6c334378a3fe10bf38dc982`
+  <https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/2e397fb2-854f-4af5-aafe-7fe8b9e46816.pdf>
+
+### Verification run on each delivered film
+
+| Check | 26 THE FUSE | 27 LIFT | 28 THE LINE |
+|---|---|---|---|
+| Frame | 1080×1920 | 1080×1920 | 1080×1920 |
+| Rate / frames | 24 fps / 1027 | 24 fps / 961 | 24 fps / 972 |
+| Duration | 42.796 s | 40.045 s | 40.503 s |
+| Audio | AAC 48 kHz stereo | AAC 48 kHz stereo | AAC 48 kHz stereo |
+| Freeze @ 0.5 / 0.4 / 0.3 s | 0 / 0 / 0 | 0 / 0 / 0 | 0 / 0 / 0 |
+| Black frames | 0 | 0 | 0 |
+| Active picture (cropdetect) | 1080:1920:0:0 | 1080:1920:0:0 | 1080:1920:0:0 |
+| Cuts detected vs planned | 9 / 9 exact | 9 / 9 exact | 9 / 9 exact |
+| Integrated loudness | −12.6 LUFS | −14.9 LUFS | −13.9 LUFS |
+| True peak | −4.3 dBFS | −3.8 dBFS | −4.9 dBFS |
+
+### Still outstanding on the Origin Proofs
+
+Each PDF carries a signature line and a date line that need Okoye's own
+signature, and the four account screenshots the client asked for in earlier
+deliveries are not embedded. Those are supplied by hand before the files go to
+the client, along with the freelancer confirmation message in the Contra chat.
