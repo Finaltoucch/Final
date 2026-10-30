@@ -85,3 +85,6 @@ Mon 3b505fb5-ab6a-4288-837e-a2929e1cbfaf · Tue 98b2d989-26f8-4e3a-b375-6bd613fc
 
 ## v6 thumbnails: copied from the AI ADS master (16 Oct)
 Mon 027f892c-f87e-4b41-a2a5-e79b9d53153e · Tue bb579bef-ac5b-4a30-ae42-50f7c6c085a2 · Wed 91e8e140-9e20-4083-b565-eece9a6cc0f1 · Thu 0a9b363e-dc8b-4f70-b270-45d9d51584fc · Fri d6fa6d90-3cc3-43a7-8e7a-b76010189276
+
+## Fri redo (30 Oct), approved spend ~125 credits
+Start frame eb12221e-8717-4990-a44a-51b5da7b44d4 · Voice b0480c5f-f027-45c0-bf22-160e2148c44d · Video (Seedance 2.5, 1080p, 10s) e106e051-5b0c-4f23-9baf-9885a2a8544f
