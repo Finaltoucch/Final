@@ -1,6 +1,6 @@
 # DM messages for ManyChat
 
-Each keyword: message 1 (the freebie), message 2 (course), then a **Join Here** button linking to https://t.co/aCrZurf0sP
+Two messages per keyword: message 1 = the freebie, message 2 = course pitch with the link inside.
 
 ## Week 1 Monday: This Shot Cost Me $0 (keyword CAMERA)
 
@@ -25,11 +25,8 @@ Hey, thanks for stopping by! 🙌
 
 I teach all the tools and strategies you need to make cinematic AI videos like this one – right from your home, and get paid in dollars.
 
-If you want to learn the full process step by step, click the button below to join.
-
-👇
-
-**Button:** Join Here → https://t.co/aCrZurf0sP
+Join the full course here 👇
+https://t.co/aCrZurf0sP
 
 ## Week 1 Tuesday: Upwork vs Contra (keyword CLIENT)
 
@@ -58,11 +55,8 @@ Hey, thanks for stopping by! 🙌
 
 I teach all the tools and strategies you need to land remote clients on Upwork and Contra – right from your home, and get paid in dollars.
 
-If you want to learn the full process step by step, click the button below to join.
-
-👇
-
-**Button:** Join Here → https://t.co/aCrZurf0sP
+Join the full course here 👇
+https://t.co/aCrZurf0sP
 
 ## Week 1 Thursday: AI Ads on a $0 Budget (keyword AD)
 
@@ -87,11 +81,8 @@ Hey, thanks for stopping by! 🙌
 
 I teach all the tools and strategies you need to make AI ads that brands pay for – right from your home, and get paid in dollars.
 
-If you want to learn the full process step by step, click the button below to join.
-
-👇
-
-**Button:** Join Here → https://t.co/aCrZurf0sP
+Join the full course here 👇
+https://t.co/aCrZurf0sP
 
 ## Week 1 Friday: Faceless Stories (keyword STORY)
 
@@ -118,11 +109,8 @@ Hey, thanks for stopping by! 🙌
 
 I teach all the tools and strategies you need to build a faceless YouTube channel with AI – right from your home, and get paid in dollars.
 
-If you want to learn the full process step by step, click the button below to join.
-
-👇
-
-**Button:** Join Here → https://t.co/aCrZurf0sP
+Join the full course here 👇
+https://t.co/aCrZurf0sP
 
 ## Week 2 Monday: My AI Clone (keyword CLONE)
 
@@ -144,11 +132,8 @@ Hey, thanks for stopping by! 🙌
 
 I teach all the tools and strategies you need to clone your face and voice with AI – right from your home, and get paid in dollars.
 
-If you want to learn the full process step by step, click the button below to join.
-
-👇
-
-**Button:** Join Here → https://t.co/aCrZurf0sP
+Join the full course here 👇
+https://t.co/aCrZurf0sP
 
 ## Week 2 Tuesday: 1 Photo, 5 Outfits (keyword STYLE)
 
@@ -170,11 +155,8 @@ Hey, thanks for stopping by! 🙌
 
 I teach all the tools and strategies you need to create viral AI fashion videos – right from your home, and get paid in dollars.
 
-If you want to learn the full process step by step, click the button below to join.
-
-👇
-
-**Button:** Join Here → https://t.co/aCrZurf0sP
+Join the full course here 👇
+https://t.co/aCrZurf0sP
 
 ## Week 2 Wednesday: If AI Existed in 1999 (keyword 1999)
 
@@ -192,11 +174,8 @@ Hey, thanks for stopping by! 🙌
 
 I teach all the tools and strategies you need to turn AI videos into paid client work – right from your home, and get paid in dollars.
 
-If you want to learn the full process step by step, click the button below to join.
-
-👇
-
-**Button:** Join Here → https://t.co/aCrZurf0sP
+Join the full course here 👇
+https://t.co/aCrZurf0sP
 
 ## Week 2 Thursday: I Put Myself in a Hollywood Movie (keyword MOVIE)
 
@@ -218,11 +197,8 @@ Hey, thanks for stopping by! 🙌
 
 I teach all the tools and strategies you need to put yourself in movie-quality AI videos – right from your home, and get paid in dollars.
 
-If you want to learn the full process step by step, click the button below to join.
-
-👇
-
-**Button:** Join Here → https://t.co/aCrZurf0sP
+Join the full course here 👇
+https://t.co/aCrZurf0sP
 
 ## Week 2 Friday: I Made All of This With AI (keyword COURSE)
 
@@ -230,8 +206,15 @@ If you want to learn the full process step by step, click the button below to jo
 
 Hi! Thanks for commenting 🎓
 
-My course shows you the same AI tools I used for every video on my page: face and voice cloning, Seedance and Higgsfield workflows, and how to find clients and charge in dollars.
+Everything on my page – the AI clone, the outfit changes, the 1999 tape, the movie trailer – I made with AI, right here from my home.
 
-Click the "Join Here" button to get in. Any questions, just reply here.
+My course shows you the exact same tools: face and voice cloning, Seedance and Higgsfield workflows, and how to find clients and charge in dollars.
 
-**Button:** Join Here → https://t.co/aCrZurf0sP
+**Message 2**
+
+Hey, thanks for stopping by! 🙌
+
+I teach all the tools and strategies you need to create AI videos and get paid for them – right from your home, and get paid in dollars.
+
+Join the full course here 👇
+https://t.co/aCrZurf0sP
