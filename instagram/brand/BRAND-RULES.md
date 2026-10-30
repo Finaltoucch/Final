@@ -28,3 +28,8 @@
 - The top margin is the SAME on every thumbnail (the top of the text sits about 6% from the top). Tight line spacing.
 - His head sits in front of the lower faded lines. The photo is otherwise untouched.
 - Colour: lime #C6FF00 with glow on dark backgrounds, black #0A0A0A on light.
+
+## Thumbnails v7 (30 Oct): typeset in code on the original photos (Higgsfield sandbox, Montserrat ExtraBold)
+Rendered from the clean base photos with `render.py` logic (top 6%, sides 7.5%, line 2 ×3 at 100/70/40%, head in front via rembg). Hosted as Higgsfield media:
+105eea11 (W1 Mon) · d22c6e05 (W1 Wed) · 1c175f52 (W1 Thu) · 72eca286 (W1 Fri) · 07c87dbd (W2 Mon) · 32da27ef (W2 Tue) · 0421d51e (W2 Wed) · 808faf51 (W2 Thu) · cc1f7620 (W2 Fri) · ZIP 8aa47a9c
+W1 Tue keeps the face-swapped cover in week-01/tue-upwork-vs-contra/final/.
