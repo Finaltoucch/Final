@@ -1,4 +1,6 @@
-# DM freebies (copy into ManyChat)
+# DM messages for ManyChat
+
+Each keyword: message 1 (the freebie), message 2 (course), then a **Join Here** button linking to https://t.co/aCrZurf0sP
 
 ## Week 1 Monday: This Shot Cost Me $0 (keyword CAMERA)
 
@@ -19,7 +21,15 @@ Tip: keep each clip 5 seconds and always add a reference photo of yourself so th
 
 **Message 2**
 
-These come from my course, where I show the full workflow: making the shots, editing, and selling AI videos to clients 👉 https://t.co/aCrZurf0sP
+Hey, thanks for stopping by! 🙌
+
+I teach all the tools and strategies you need to make cinematic AI videos like this one – right from your home, and get paid in dollars.
+
+If you want to learn the full process step by step, click the button below to join.
+
+👇
+
+**Button:** Join Here → https://t.co/aCrZurf0sP
 
 ## Week 1 Tuesday: Upwork vs Contra (keyword CLIENT)
 
@@ -44,7 +54,15 @@ Why it works: it opens with THEIR need, proves it with one link, shows a clear p
 
 **Message 2**
 
-Getting the client is step one. Pricing AI video work and delivering it is all inside my course 👉 https://t.co/aCrZurf0sP
+Hey, thanks for stopping by! 🙌
+
+I teach all the tools and strategies you need to land remote clients on Upwork and Contra – right from your home, and get paid in dollars.
+
+If you want to learn the full process step by step, click the button below to join.
+
+👇
+
+**Button:** Join Here → https://t.co/aCrZurf0sP
 
 ## Week 1 Thursday: AI Ads on a $0 Budget (keyword AD)
 
@@ -65,7 +83,15 @@ Swap [product] for any brand's product and you have a full ad.
 
 **Message 2**
 
-Making the ad is half of it. How I find brands and charge for these is inside my course 👉 https://t.co/aCrZurf0sP
+Hey, thanks for stopping by! 🙌
+
+I teach all the tools and strategies you need to make AI ads that brands pay for – right from your home, and get paid in dollars.
+
+If you want to learn the full process step by step, click the button below to join.
+
+👇
+
+**Button:** Join Here → https://t.co/aCrZurf0sP
 
 ## Week 1 Friday: Faceless Stories (keyword STORY)
 
@@ -88,7 +114,15 @@ Formula: shocking fact → mystery → promise of an answer.
 
 **Message 2**
 
-The full faceless channel workflow (script, voice, visuals, monetization) is inside my course 👉 https://t.co/aCrZurf0sP
+Hey, thanks for stopping by! 🙌
+
+I teach all the tools and strategies you need to build a faceless YouTube channel with AI – right from your home, and get paid in dollars.
+
+If you want to learn the full process step by step, click the button below to join.
+
+👇
+
+**Button:** Join Here → https://t.co/aCrZurf0sP
 
 ## Week 2 Monday: My AI Clone (keyword CLONE)
 
@@ -106,7 +140,15 @@ Tip: always attach your real photos to EVERY generation, or the face drifts.
 
 **Message 2**
 
-The full step-by-step with screen recordings is inside my course 👉 https://t.co/aCrZurf0sP
+Hey, thanks for stopping by! 🙌
+
+I teach all the tools and strategies you need to clone your face and voice with AI – right from your home, and get paid in dollars.
+
+If you want to learn the full process step by step, click the button below to join.
+
+👇
+
+**Button:** Join Here → https://t.co/aCrZurf0sP
 
 ## Week 2 Tuesday: 1 Photo, 5 Outfits (keyword STYLE)
 
@@ -124,7 +166,15 @@ Same pose + same framing = the snap looks magic.
 
 **Message 2**
 
-I teach the full process (and how brands pay for this) in my course 👉 https://t.co/aCrZurf0sP
+Hey, thanks for stopping by! 🙌
+
+I teach all the tools and strategies you need to create viral AI fashion videos – right from your home, and get paid in dollars.
+
+If you want to learn the full process step by step, click the button below to join.
+
+👇
+
+**Button:** Join Here → https://t.co/aCrZurf0sP
 
 ## Week 2 Wednesday: If AI Existed in 1999 (keyword 1999)
 
@@ -138,7 +188,15 @@ Tip: add a 90s beat and a little tape hiss in the edit to sell it.
 
 **Message 2**
 
-Turning AI videos into paid client work is what my course teaches 👉 https://t.co/aCrZurf0sP
+Hey, thanks for stopping by! 🙌
+
+I teach all the tools and strategies you need to turn AI videos into paid client work – right from your home, and get paid in dollars.
+
+If you want to learn the full process step by step, click the button below to join.
+
+👇
+
+**Button:** Join Here → https://t.co/aCrZurf0sP
 
 ## Week 2 Thursday: I Put Myself in a Hollywood Movie (keyword MOVIE)
 
@@ -156,16 +214,24 @@ Join them in CapCut, add trailer music and three text cards: No studio. → No c
 
 **Message 2**
 
-The full system (prompts, face consistency, editing, selling it) is in my course 👉 https://t.co/aCrZurf0sP
+Hey, thanks for stopping by! 🙌
+
+I teach all the tools and strategies you need to put yourself in movie-quality AI videos – right from your home, and get paid in dollars.
+
+If you want to learn the full process step by step, click the button below to join.
+
+👇
+
+**Button:** Join Here → https://t.co/aCrZurf0sP
 
 ## Week 2 Friday: I Made All of This With AI (keyword COURSE)
 
 **Message 1**
 
-Here's the link 🎓 https://t.co/aCrZurf0sP
+Hi! Thanks for commenting 🎓
 
-Inside: face and voice cloning, Seedance and Higgsfield workflows, and how to find clients and charge in dollars. Any questions, reply here and I'll help you.
+My course shows you the same AI tools I used for every video on my page: face and voice cloning, Seedance and Higgsfield workflows, and how to find clients and charge in dollars.
 
-**Message 2**
+Click the "Join Here" button to get in. Any questions, just reply here.
 
-
+**Button:** Join Here → https://t.co/aCrZurf0sP
