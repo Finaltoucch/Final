@@ -5,7 +5,7 @@ Everything needed to produce Week 1. Generation runs in Higgsfield with your `ok
 
 **Models:** covers and frames use **Nano Banana Pro 4K** (4 credits each). Video uses **Seedance 2.5, 1080p, 9:16** (12 credits per second), starting from the approved cover as the first frame.
 **Wardrobe:** every prompt names a specific outfit, so Higgsfield doesn't copy the black shirt from your reference photos. Glasses stay on in every shot.
-**Course placeholders:** `[COURSE NAME]` and `[COURSE LINK]` get filled in once you send them.
+**Course placeholders:** Course link: https://t.co/aCrZurf0sP
 **Draft covers already generated (1K, for approval):** Mon `df58bc4c`, Tue `a50e50b7`, Wed `fbcbdefb`, Thu `10b3efe9`, Fri `2ca11acd`.
 
 ---
@@ -35,7 +35,7 @@ Everything needed to produce Week 1. Generation runs in Higgsfield with your `ok
 
 **DM sent to commenters (ManyChat, keyword CAMERA):**
 > Hey! 🎬 Here are my 3 camera-move prompts: [PROMPT PACK LINK]
-> These come from the camera module of **[COURSE NAME]**, where I show the full workflow: making the shots, editing, and selling AI videos to clients. Have a look 👉 [COURSE LINK]
+> These come from the camera module of my course, where I show the full workflow: making the shots, editing, and selling AI videos to clients. Have a look 👉 https://t.co/aCrZurf0sP
 
 ---
 
@@ -55,7 +55,7 @@ Everything needed to produce Week 1. Generation runs in Higgsfield with your `ok
 
 **DM (keyword CLIENT):**
 > Here's my proposal template 💼 [TEMPLATE LINK]
-> Getting the client is step one. Pricing AI video work and delivering it is all inside **[COURSE NAME]** 👉 [COURSE LINK]
+> Getting the client is step one. Pricing AI video work and delivering it is all inside my course 👉 https://t.co/aCrZurf0sP
 
 ---
 
@@ -109,7 +109,7 @@ Everything needed to produce Week 1. Generation runs in Higgsfield with your `ok
 
 **DM (keyword AD):**
 > Here's the exact prompt 🎬 [PROMPT LINK]
-> Making the ad is half of it. How I find brands and charge for these is inside **[COURSE NAME]** 👉 [COURSE LINK]
+> Making the ad is half of it. How I find brands and charge for these is inside my course 👉 https://t.co/aCrZurf0sP
 
 ⚠️ The "$1,000" figure is a typical asking price for short-form product ads. Change it to what you've actually charged or seen on job posts.
 
@@ -130,7 +130,7 @@ Everything needed to produce Week 1. Generation runs in Higgsfield with your `ok
 
 **DM (keyword STORY):**
 > Here's the niche list and a starter script ▶️ [LINK]
-> The full faceless channel workflow (script, voice, visuals, monetization) is inside **[COURSE NAME]** 👉 [COURSE LINK]
+> The full faceless channel workflow (script, voice, visuals, monetization) is inside my course 👉 https://t.co/aCrZurf0sP
 
 ---
 

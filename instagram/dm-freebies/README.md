@@ -19,7 +19,7 @@ Tip: keep each clip 5 seconds and always add a reference photo of yourself so th
 
 **Message 2**
 
-These come from my course, where I show the full workflow: making the shots, editing, and selling AI videos to clients 👉 [COURSE LINK]
+These come from my course, where I show the full workflow: making the shots, editing, and selling AI videos to clients 👉 https://t.co/aCrZurf0sP
 
 ## Week 1 Tuesday: Upwork vs Contra (keyword CLIENT)
 
@@ -44,7 +44,7 @@ Why it works: it opens with THEIR need, proves it with one link, shows a clear p
 
 **Message 2**
 
-Getting the client is step one. Pricing AI video work and delivering it is all inside my course 👉 [COURSE LINK]
+Getting the client is step one. Pricing AI video work and delivering it is all inside my course 👉 https://t.co/aCrZurf0sP
 
 ## Week 1 Thursday: AI Ads on a $0 Budget (keyword AD)
 
@@ -65,7 +65,7 @@ Swap [product] for any brand's product and you have a full ad.
 
 **Message 2**
 
-Making the ad is half of it. How I find brands and charge for these is inside my course 👉 [COURSE LINK]
+Making the ad is half of it. How I find brands and charge for these is inside my course 👉 https://t.co/aCrZurf0sP
 
 ## Week 1 Friday: Faceless Stories (keyword STORY)
 
@@ -88,7 +88,7 @@ Formula: shocking fact → mystery → promise of an answer.
 
 **Message 2**
 
-The full faceless channel workflow (script, voice, visuals, monetization) is inside my course 👉 [COURSE LINK]
+The full faceless channel workflow (script, voice, visuals, monetization) is inside my course 👉 https://t.co/aCrZurf0sP
 
 ## Week 2 Monday: My AI Clone (keyword CLONE)
 
@@ -106,7 +106,7 @@ Tip: always attach your real photos to EVERY generation, or the face drifts.
 
 **Message 2**
 
-The full step-by-step with screen recordings is inside my course 👉 [COURSE LINK]
+The full step-by-step with screen recordings is inside my course 👉 https://t.co/aCrZurf0sP
 
 ## Week 2 Tuesday: 1 Photo, 5 Outfits (keyword STYLE)
 
@@ -124,7 +124,7 @@ Same pose + same framing = the snap looks magic.
 
 **Message 2**
 
-I teach the full process (and how brands pay for this) in my course 👉 [COURSE LINK]
+I teach the full process (and how brands pay for this) in my course 👉 https://t.co/aCrZurf0sP
 
 ## Week 2 Wednesday: If AI Existed in 1999 (keyword 1999)
 
@@ -138,7 +138,7 @@ Tip: add a 90s beat and a little tape hiss in the edit to sell it.
 
 **Message 2**
 
-Turning AI videos into paid client work is what my course teaches 👉 [COURSE LINK]
+Turning AI videos into paid client work is what my course teaches 👉 https://t.co/aCrZurf0sP
 
 ## Week 2 Thursday: I Put Myself in a Hollywood Movie (keyword MOVIE)
 
@@ -156,13 +156,13 @@ Join them in CapCut, add trailer music and three text cards: No studio. → No c
 
 **Message 2**
 
-The full system (prompts, face consistency, editing, selling it) is in my course 👉 [COURSE LINK]
+The full system (prompts, face consistency, editing, selling it) is in my course 👉 https://t.co/aCrZurf0sP
 
 ## Week 2 Friday: I Made All of This With AI (keyword COURSE)
 
 **Message 1**
 
-Here's the link 🎓 [COURSE LINK]
+Here's the link 🎓 https://t.co/aCrZurf0sP
 
 Inside: face and voice cloning, Seedance and Higgsfield workflows, and how to find clients and charge in dollars. Any questions, reply here and I'll help you.
 

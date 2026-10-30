@@ -4,7 +4,7 @@ Every video is made with **Seedance 2.5, 1080p, 9:16**.
 **Face:** your real reference photos are passed to every video, alongside a 4K start frame made with your `okoye` element.
 **Voice:** never name a city; say "right here from my home". Speech rate +30 (faster), with a music bed and sound effects under every video.
 **Voice source:** every speaking part uses **your own Higgsfield voice** ("Finaltouch-", `f20af7a3-2416-4cb8-b394-688e71bcc43d`), lip-synced inside the video.
-**Course link placeholder:** `[COURSE LINK]`
+**Course link placeholder:** `https://t.co/aCrZurf0sP`
 
 ## Why these formats (research, 16 Oct 2026)
 - **AI versions of yourself / digital twins** are one of 2026's biggest creator trends.
@@ -31,7 +31,7 @@ Sources: Anijam Reels trends · SocialPilot Reels trends · Crowdstar Kling tren
 > 💬 Comment **CLONE** and I'll send you how I did it.
 
 **DM (CLONE):**
-> Here's how I made my AI clone 🤖 The full step-by-step (face, voice, video) is inside my course 👉 [COURSE LINK]
+> Here's how I made my AI clone 🤖 The full step-by-step (face, voice, video) is inside my course 👉 https://t.co/aCrZurf0sP
 
 **Hashtags:** `#finaltoucch #aiclone #aivideo #seedance #higgsfield #aitools #digitaltwin`
 
@@ -49,7 +49,7 @@ Sources: Anijam Reels trends · SocialPilot Reels trends · Crowdstar Kling tren
 > 💬 Comment **STYLE** and I'll show you how.
 
 **DM (STYLE):**
-> Here's the outfit-change workflow 👗 I teach the full process (and how brands pay for this) in my course 👉 [COURSE LINK]
+> Here's the outfit-change workflow 👗 I teach the full process (and how brands pay for this) in my course 👉 https://t.co/aCrZurf0sP
 
 **Hashtags:** `#finaltoucch #outfitchange #aifashion #aivideo #transition #seedance`
 
@@ -67,7 +67,7 @@ Sources: Anijam Reels trends · SocialPilot Reels trends · Crowdstar Kling tren
 > 💬 Comment **1999** and I'll send you the prompt for this VHS look.
 
 **DM (1999):**
-> Here's the VHS prompt 📼 Turning AI videos into paid client work is what my course teaches 👉 [COURSE LINK]
+> Here's the VHS prompt 📼 Turning AI videos into paid client work is what my course teaches 👉 https://t.co/aCrZurf0sP
 
 **Hashtags:** `#finaltoucch #vhs #nostalgia #aivideo #throwback #naija #seedance`
 
@@ -89,7 +89,7 @@ Sources: Anijam Reels trends · SocialPilot Reels trends · Crowdstar Kling tren
 > 💬 Comment **MOVIE** and I'll send you the exact workflow.
 
 **DM (MOVIE):**
-> Here's my movie-trailer workflow 🎬 The full system (prompts, face consistency, editing, selling it) is in my course 👉 [COURSE LINK]
+> Here's my movie-trailer workflow 🎬 The full system (prompts, face consistency, editing, selling it) is in my course 👉 https://t.co/aCrZurf0sP
 
 **Hashtags:** `#finaltoucch #aimovie #aifilm #seedance #higgsfield #actionmovie #aivideo`
 
@@ -108,7 +108,7 @@ Sources: Anijam Reels trends · SocialPilot Reels trends · Crowdstar Kling tren
 > 💬 Comment **COURSE** and I'll send you the link.
 
 **DM (COURSE):**
-> Here's the link 🎓 [COURSE LINK]
+> Here's the link 🎓 https://t.co/aCrZurf0sP
 > Inside: face and voice cloning, Seedance and Higgsfield workflows, and how to find clients and charge in dollars. Any questions, reply here.
 
 **Hashtags:** `#finaltoucch #aicourse #learnai #aivideo #remotework #africancreatives #higgsfield`
