@@ -10,11 +10,12 @@ Start a new Claude Code session on **finaltoucch/final**. Either continue on bra
 We're starting a NEW full-length AI drama movie, using the same studio process as "The Maid Who Stayed".
 
 Before doing anything, read these files in the repo, in this order:
-1. STUDIO-PLAYBOOK.md (rules, camera language, models, voices, music, QA, pipeline and YouTube packaging)
-2. lessons-learned.md (every mistake made so far and the rule it produced)
-3. voices-and-sound.md and tools/score.py (voice IDs and the original score)
-4. the-maid-who-stayed-movie-screenplay.md (screenplay format) and tools/part9_shots.py (shot-list format)
-5. youtube-upload-kit.md (upload template)
+1. STORY-BLUEPRINT.md (the proven story formula: 38K views in 2 weeks. Follow its six roles and beat sheet)
+2. STUDIO-PLAYBOOK.md (rules, camera language, models, voices, music, QA, pipeline and YouTube packaging)
+3. lessons-learned.md (every mistake made so far and the rule it produced)
+4. voices-and-sound.md and tools/score.py (voice IDs and the original score)
+5. the-maid-who-stayed-movie-screenplay.md (screenplay format) and tools/part9_shots.py (shot-list format)
+6. youtube-upload-kit.md (upload template)
 
 Follow every standing rule in STUDIO-PLAYBOOK.md section 1, without exception:
 - no licensed music or ambience
@@ -30,7 +31,7 @@ Follow every standing rule in STUDIO-PLAYBOOK.md section 1, without exception:
 - entrances through real doors
 - check your work before showing me
 
-First deliverable: the screenplay (a hook plus 9 parts, about 36–40 min) and a cast sheet with a unique look for each lead. Show them to me for approval before generating anything.
+First, give me 3 story pitches that follow STORY-BLUEPRINT.md, each with its one-sentence promise, title and hook moment. After I pick one, the next deliverable is the screenplay (a hook plus 9 parts, about 36–40 min) and a cast sheet with a unique look for each lead. Show them to me for approval before generating anything.
 
 Story idea: <WRITE YOUR NEW STORY IDEA HERE: who the hero is, the setting, the betrayal, the twist, the ending>
 ```
