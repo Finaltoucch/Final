@@ -1,4 +1,4 @@
-# Starting a new story in a new chat
+# Starting a new chat (continuing the studio)
 
 ## Step 1: open the new chat on this repo
 Start a new Claude Code session on **finaltoucch/final**. Either continue on branch `claude/brave-allen-oc95k1` or let the new session make its own branch; everything below is already pushed. Connect the Higgsfield connector as before.
@@ -7,33 +7,20 @@ Start a new Claude Code session on **finaltoucch/final**. Either continue on bra
 (Fill in the story idea at the end.)
 
 ```
-We're starting a NEW full-length AI drama movie, using the same studio process as "The Maid Who Stayed".
+Continue my AI drama movie studio from the previous chat. Everything is saved in this repo (finaltoucch/final, branch claude/brave-allen-oc95k1).
 
-Before doing anything, read these files in the repo, in this order:
-1. STORY-BLUEPRINT.md (the proven story formula: 38K views in 2 weeks. Follow its six roles and beat sheet)
-2. STUDIO-PLAYBOOK.md (rules, camera language, models, voices, music, QA, pipeline and YouTube packaging)
-3. lessons-learned.md (every mistake made so far and the rule it produced)
-4. voices-and-sound.md and tools/score.py (voice IDs and the original score)
-5. the-maid-who-stayed-movie-screenplay.md (screenplay format) and tools/part9_shots.py (shot-list format)
-6. youtube-upload-kit.md (upload template)
+Before doing anything, read these files in this order:
+1. SESSION-MEMORY.md (where we left off, who I am, and what's next)
+2. STORY-BLUEPRINT.md (the proven formula: The Maid Who Stayed got 38K views in 2 weeks)
+3. NEXT-STORY-PITCHES.md (9 pitches for the next 50-minute story, with your ranking)
+4. STUDIO-PLAYBOOK.md (rules, camera angles and shot recipes, models, voices, music, QA, pipeline, YouTube packaging)
+5. lessons-learned.md (every past mistake and its rule)
+6. voices-and-sound.md and tools/score.py, the-maid-who-stayed-movie-screenplay.md, tools/part9_shots.py and youtube-upload-kit.md
 
-Follow every standing rule in STUDIO-PLAYBOOK.md section 1, without exception:
-- no licensed music or ambience
-- original faces only
-- over-the-shoulder dialogue
-- nobody looks into the camera
-- natural voices
-- every line word for word from the screenplay
-- strict continuity, and no jewelry visible from behind
-- no lookalikes
-- the hook is the real story
-- no PART cards or black gaps in the final cut
-- entrances through real doors
-- check your work before showing me
+Follow every standing rule in STUDIO-PLAYBOOK.md section 1 without exception, and check your work before showing me anything.
 
-First, give me 3 story pitches that follow STORY-BLUEPRINT.md, each with its one-sentence promise, title and hook moment. After I pick one, the next deliverable is the screenplay (a hook plus 9 parts, about 36–40 min) and a cast sheet with a unique look for each lead. Show them to me for approval before generating anything.
-
-Story idea: <WRITE YOUR NEW STORY IDEA HERE: who the hero is, the setting, the betrayal, the twist, the ending>
+Next step: the new story is 50 minutes long and aims for 1M views. My pick is: <WRITE THE PITCH NAME HERE, or "help me choose">.
+Write the full screenplay (a hook plus about 11 parts) and the cast sheet, and show them to me for approval before generating anything.
 ```
 
 ## What carries over automatically
