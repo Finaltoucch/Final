@@ -63,7 +63,43 @@ All Nano Banana Pro, 2k, 16:9.
 
 **Retired:** Whitmore winter `3ca937c6…`, hospital with steam `774c6880…`, Hannah night (wrong house) `03ffbdae…`.
 
-## Still to make
+## Interiors and sets (batch 2, all checked)
+
+| Location | Job ID |
+|---|---|
+| Clinic consult room (2018) | `c945b218-c225-4a6a-bdf2-ce702429aea4` |
+| Clinic recovery room (2018) | `d1f7f31a-3656-42db-a938-6b2e491fea43` |
+| Bank counter | `1e515235-fba3-4b67-a829-67cd98e41f71` |
+| Public library, night | `2d658d9d-7df4-4d5b-b9c5-e67b8da82038` |
+| Elijah's bedroom 2018 (tin box, crayon drawing) | `3ce984cf-db86-4a73-b3ea-ded1dc2691b1` |
+| Hannah's bedroom | `acb29c85-bcd7-44f3-82e4-5ead777df1be` |
+| Hannah's side gate, night (gap in boards) | `07800383-7b3a-4fcf-abd0-ada8594e0a0b` |
+| Hale open-plan office, night | `3fc3eb15-ab15-48d6-ad26-6626232d02e8` |
+| Whitmore terrace, lunch | `23434e9c-c12d-4fe2-b7a3-2d0f666ae011` |
+| Whitmore iron side gate | `65fd3c0f-4833-49c4-b744-30a74432f454` |
+| Whitmore service corridor | `44262110-abe6-45c6-8c44-d62b3c796862` |
+| Potting shed | `06a30c36-4786-4089-8e5f-9e3b64cbc707` |
+| Whitmore drawing room | `bf25bd76-532b-4ba1-b247-1474465edd45` |
+| ER corridor | `413cb297-da61-4964-a7c3-58733167a679` |
+| Hospital consult room | `a19ff046-8fd7-42b5-acc3-d70f8931e78d` |
+| Hospital lab | `c72837e9-d3b9-4002-89dd-8a7cc70a0fb7` |
+| Pre-op | `8db0e739-5a49-424b-ad7c-0d3ec819ea20` |
+| Waiting area | `6095ef0c-2955-4cde-ab8f-5a7d7c898eb9` |
+| Two-bed recovery room | `fcb4d1b6-90a3-4ba0-9c80-226a0dd26068` |
+| Whitmore Holdings boardroom | `7317dce2-c59a-44bd-97dc-5fc71c978ebe` |
+| Whitmore Holdings corridor | `038e666c-cce9-4200-b048-587b4d191c4a` |
+| Wedding: arch in bloom + chairs | `0ffd5538-9e02-4646-975b-df7a746ef660` |
+| Arch finished at dawn (lantern) | `cf7cf772-cc73-4a4c-abca-9cc771c90b6b` |
+| Reception terrace + dance floor | `9a212516-caa1-4950-b763-2da43384fcd5` |
+
+Not yet made: Hannah's car interior, officiant.
+
+## Hook frames
+| Shot | Job ID |
+|---|---|
+| H1 Hannah OTS over Celeste ("just our old gardener") | `48e4ae94-2852-4429-a20a-1eeeed90a800` (Celeste hair fixed to silver-blonde) |
+
+## Still to make (old list, mostly done)
 Interiors: clinic consult + recovery, bank, library, Elijah's 2018 bedroom, Hannah's bedroom, side gates, Hale open-plan office, Whitmore terrace / driveway / service corridor / potting shed / drawing room, ER corridor, hospital consult / lab / pre-op / waiting / recovery, boardroom + corridor, wedding arch in bloom, reception terrace, dance floor. Officiant.
 
 ## Voices (seed_audio / voice_change presets)
