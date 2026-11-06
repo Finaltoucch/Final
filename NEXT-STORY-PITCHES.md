@@ -64,3 +64,69 @@ A 12-year-old girl raises her baby brother on the streets, selling water and ski
 ---
 
 **Next step:** pick one. Pitch 1 is recommended. Then comes the full screenplay (a hook plus 11 parts, about 50 min) and the cast sheet, before anything is generated.
+
+---
+
+# Round 2: six more pitches with very strong emotional hooks
+
+Each pitch gives you:
+- **The first 60 seconds**, which decide whether a viewer stays.
+- **The secret**, which the viewer knows and the characters don't.
+- **The gut punch**, the midpoint scene that makes people cry or comment.
+- **The mirror ending**, where the hook's humiliation is reversed in the same place.
+
+## ⭐ Pitch 4: "Just Our Old Gardener"
+**Title:** *She Called Her Father "Just the Gardener" at Her Engagement Dinner… He Smiled and Kept Serving*
+- **First 60 s:** At a glittering engagement dinner, her rich future in-laws ask about the old man pouring the wine. The bride, now a successful lawyer, says, "Oh, he's just our old gardener." He smiles, bows and keeps serving. In the kitchen he takes off his apron, and there is a long surgical scar across his side. Title card, then "15 YEARS EARLIER".
+- **The secret:** He sold a kidney to pay for her law school, and told her the money was a scholarship.
+- **The gut punch:** His last kidney fails, and she is the only match. In the hospital she sees the scar, and the doctor says, "He's had a kidney removed before… years ago." She opens his old tin box and finds the clinic receipt dated the week her "scholarship" arrived.
+- **Mirror ending:** At her wedding, in front of the same in-laws, she walks him to the head table: "This is not our gardener. This is my father, and everything I am is his."
+- **Why it hits:** shame and sacrifice between a parent and child, which is the most-shared emotion there is. Everybody has felt ashamed of a parent once.
+
+## Pitch 5: "Grandma at the Bus Stop"
+**Title:** *Her Son Left Her at a Bus Stop in the Rain… He Didn't Know She Owned the Company*
+- **First 60 s:** A luxury car stops at a rainy bus stop. The son's wife says, "Wait here, Mama, the car to the home is coming." They drive away. The old woman, holding one small suitcase, keeps waving until the car is gone. Nobody comes.
+- **The secret:** She quietly holds 51 % of the company her son "built". She was testing whether anyone would stay.
+- **The gut punch:** A homeless teenage girl shares her only bread with her and walks her to a shelter. The grandmother teaches her to read the newspaper's business page.
+- **Mirror ending:** At the shareholders' meeting, the son walks in to be named chairman, and the grandmother is in the chair, with the girl beside her: "The company goes to the one who stayed with me in the rain."
+
+## Pitch 6: "The Boy Who Sold Water"
+**Title:** *Boy Sold Water in Traffic for His Mother's Surgery… The Billionaire in the Car Was His Father*
+- **First 60 s:** A 10-year-old runs between cars in the heat selling water, with a hospital bill folded in his pocket. A black SUV splashes him with mud, and the driver laughs. In the back seat, a CEO sees the boy's face and **freezes**: the boy has his eyes.
+- **The secret:** Ten years ago the CEO's mother paid the boy's mother to disappear while she was pregnant, and told her son that she had left him.
+- **The gut punch:** The boy counts his coins in the hospital corridor, still short, and whispers to his sleeping mother, "I'll sell more tomorrow, Mama. Don't go."
+- **Mirror ending:** In the same traffic jam, the CEO steps out of the SUV, kneels in the road and buys every bottle, then the surgery, then signs the adoption papers. He tells his mother, "You took ten years from me."
+
+## Pitch 7: "The Blind Wife's Anniversary"
+**Title:** *He Announced the Divorce at Their Anniversary… His Blind Wife Didn't See Who Was Standing Next to Him*
+- **First 60 s:** At their anniversary party, the husband taps his glass and announces the divorce. His new woman stands beside him: **her best friend**. The blind wife smiles politely at the wrong side of the room. Only her driver steps forward to hold her hand.
+- **The secret:** The driver has been reading to her every night for two years, and he sold his late mother's house to pay for her eye surgery, anonymously.
+- **The gut punch:** When the bandages come off, the first face she sees is his, and she doesn't know who he is until he speaks. "You're the voice."
+- **Mirror ending:** At a gala, the ex-husband, now broke because she inherited the company he was hiding, sees her arrive on the driver's arm, and she recognises the best friend's face at last.
+
+## Pitch 8: "The Soldier in the Garden"
+**Title:** *Everyone Thought He Died in the War… He Came Back as the Gardener to Watch His Son Grow Up*
+- **First 60 s:** A scarred man in a worn coat stands at the gate of a mansion holding a photo of a baby. Through the window he sees his wife, remarried to a rich man, and a 7-year-old boy who has his eyes. He takes the gardener job that's on offer.
+- **The secret:** His face was burned, so nobody recognises him, and he chooses never to tell anyone, to protect their new life.
+- **The gut punch:** The boy, bullied at school for "having no real dad", builds a treehouse with the gardener. "I wish you were my dad." The man has to turn away.
+- **Mirror ending:** The rich stepfather's fraud is exposed. The wife hears the gardener humming their wedding song and drops her cup. He finally says the boy's name the way only his father would.
+- **Production note:** no war scenes are needed. Use one old photo and the scars only.
+
+## Pitch 9: "The Twin Who Was Given Away"
+**Title:** *The Poor Girl Worked as a Maid in Her Own Twin Sister's Mansion… Neither of Them Knew*
+- **First 60 s:** A hospital nursery, 25 years ago: a nurse hands one of two newborn twins to a crying poor woman whose baby died. Present day: a maid kneels to clean the shoes of a rich bride who looks exactly like her.
+- **The secret:** They are twins, separated at birth.
+- **The gut punch:** The rich twin needs a bone-marrow donor, and the maid matches perfectly.
+- **Mirror ending:** Their real mother sees them side by side for the first time.
+- **⚠ Production note:** this breaks our **no lookalikes** rule on purpose, and it's hard for AI to keep two identical faces consistent. Only choose this one if you accept the extra checking work.
+
+---
+
+## My ranking for the 1M target
+1. **"Just Our Old Gardener"** (Pitch 4). It has the strongest shame-to-sacrifice punch, a small cast and simple locations.
+2. **"The Cleaner Was His Mother"** (Pitch 1).
+3. **"The Boy Who Sold Water"** (Pitch 6).
+4. **"Grandma at the Bus Stop"** (Pitch 5).
+5. **"The Blind Wife's Anniversary"** (Pitch 7).
+6. **"The Soldier in the Garden"** (Pitch 8).
+7. **"The Twin Who Was Given Away"** (Pitch 9), because of the production risk.
