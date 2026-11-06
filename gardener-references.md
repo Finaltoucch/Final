@@ -71,7 +71,7 @@ Interiors: clinic consult + recovery, bank, library, Elijah's 2018 bedroom, Hann
 | Character | Voice | voice_id | Status |
 |---|---|---|---|
 | Elijah | **Bob** | `ca12fd00-218c-5198-b10c-7d36e768c12c` | LOCKED (owner, Nov 6) |
-| Hannah | Sienna / Liza / Maya | | auditioned |
+| Hannah | **Maya** | `b0f766b7-8703-4bd1-b973-f857c36837b6` | LOCKED (owner, Nov 6) |
 | Julian | Xavier / Cillian / Callan | | auditioned |
 | Celeste | Sloane / Vesper / Nora | | auditioned |
 | Marcus | Mark / Callum / Grady | | auditioned |
