@@ -27,7 +27,7 @@ All Nano Banana Pro, 2k, 16:9.
 | ER nurses | `7624d1a1-08f8-4ca9-8ef0-48237efd5d0f` | |
 | Police officers | `b61eb962-d6c5-4bf7-ab0a-9f81c7ef8acd` | |
 | Blair | `41003aa5-d147-42a8-9445-63090c585058` | Also the gown reference. |
-| Kyle | **open** | Current `a25ca400…` has black hair like Julian; proposed: change to red hair. |
+| Kyle | `a25ca400-4ad9-48ea-95c6-1f0d31898c1f` | Black curly hair, stocky. Owner kept this look; tell him apart from Julian by build, curls and no jacket. |
 
 **Retired:** Julian sandy `4f2ef972…`, Julian red `c63de880…`, Julian black v1 `7f1ab2dc…`, Hannah slim `f3e885c5…`, Hannah 22 old `a8e29d6a…`, Hannah gown old `8d10a0bd…`, Kyle blond `5facb8c3…`.
 
