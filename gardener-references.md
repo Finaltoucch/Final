@@ -66,5 +66,17 @@ All Nano Banana Pro, 2k, 16:9.
 ## Still to make
 Interiors: clinic consult + recovery, bank, library, Elijah's 2018 bedroom, Hannah's bedroom, side gates, Hale open-plan office, Whitmore terrace / driveway / service corridor / potting shed / drawing room, ER corridor, hospital consult / lab / pre-op / waiting / recovery, boardroom + corridor, wedding arch in bloom, reception terrace, dance floor. Officiant.
 
-## Voices
-Not chosen yet. Higgsfield has ~125 presets (no descriptions); the owner picks by ear.
+## Voices (seed_audio / voice_change presets)
+
+| Character | Voice | voice_id | Status |
+|---|---|---|---|
+| Elijah | **Bob** | `ca12fd00-218c-5198-b10c-7d36e768c12c` | LOCKED (owner, Nov 6) |
+| Hannah | Sienna / Liza / Maya | | auditioned |
+| Julian | Xavier / Cillian / Callan | | auditioned |
+| Celeste | Sloane / Vesper / Nora | | auditioned |
+| Marcus | Mark / Callum / Grady | | auditioned |
+| Walter | Arthur / Emmett / Alden | | auditioned |
+| Richard | Fraser / Jasper / Barrett | | auditioned |
+| Dr. Nair | Anika / Anush / Imogen | | auditioned |
+
+Never reuse Maid voices (Naomi, Benji, Celine, Reid, Helena, Opal, Elena, Desmond).
