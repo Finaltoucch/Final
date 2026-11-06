@@ -4,7 +4,7 @@
 Start a new Claude Code session on **finaltoucch/final**. Either continue on branch `claude/brave-allen-oc95k1` or let the new session make its own branch; everything below is already pushed. Connect the Higgsfield connector as before.
 
 ## Step 2: paste this as your first message
-(Fill in the story idea at the end.)
+(Fill in your pitch choice in the last part.)
 
 ```
 Continue my AI drama movie studio from the previous chat. Everything is saved in this repo (finaltoucch/final, branch claude/brave-allen-oc95k1).
