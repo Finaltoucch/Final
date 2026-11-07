@@ -14,3 +14,9 @@
 | — | TITLE CARD: JUST OUR OLD GARDENER [braam] / CARD: EIGHT YEARS EARLIER | | | | |
 
 Notes: Celeste's hair renders pale platinum, matching her approved sheet; keep it consistent. Maya VC is ~3 dB quieter than raw → gain +3 in the edit.
+
+## Hook v1 built (Nov 7)
+- Final: media `272705b6-b5d2-4756-a7f0-1debdccd24f7` — https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/272705b6-b5d2-4756-a7f0-1debdccd24f7.mp4 (55.3 s, about -16 LUFS)
+- Voice change used: 2 Vesper `d7d24dec…`, 3 Maya `f4759b9c…`, 4 Vesper `8216d520…`, 6 Bob `3218981f…` (all transcribed word-perfect).
+- Shot 9 ("Gardener."): Bob voice change garbled the word twice ("Good idea", "Go ahead, you know") → RAW Seedance take kept (made with Bob's voice as a reference).
+- Score: tools/score.py from claude/brave-allen-oc95k1 (elegant n1–n7, braam on title). Edit list and cues in the Higgsfield sandbox at /home/user/hook.
