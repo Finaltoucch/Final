@@ -26,3 +26,9 @@ Wardrobe: Elijah faded olive work shirt (no cap, to protect identity); Hannah gr
 | 420 | Corridor OTS Elijah → Hannah | `60872663-6507-40c7-8375-4decdeeef437` |
 | 421 | Corridor OTS Hannah → Elijah | `9915a2d6-2bd0-4c03-8a71-d4ba9b2d91a6` |
 | 422 | Hannah alone in corridor | `73d6e710-475c-4bff-b653-36b6a6f71859` |
+
+## PAUSED by owner ("stop and wait") — state at pause (Nov 7)
+- Credits: 603 at last check.
+- All 44 Kling clips submitted (some still rendering; can't be cancelled). QA done for 1-29, 31, 33: words correct (clip 8 to be muted; 28 is background chatter).
+- Kling drifted Elijah's face again (5, 7, 9, 11 checked). Planned fix NOT submitted: Seedance 720p + sheet reference for Elijah clips 5, 7, 9, 11, 14, 16, 18, 20, 30, 32, 34, 37, 41, 43 (about 61 s, about 430 credits). The Seedance batch was rejected by the rate limit, so nothing was charged for it.
+- No voice changes done for Part 4 yet. Sandbox work dir: /home/user/p4 (src.txt, qa.txt, c/).
