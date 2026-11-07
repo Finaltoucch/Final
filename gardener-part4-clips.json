@@ -228,11 +228,24 @@
 ]
 },
 "vc": {},
-"seedance": {},
+"seedance": {
+"5": "e067c73b-6615-401e-ad4b-9f0bb675a52d",
+"7": "fecf9447-cae7-4a8d-907e-ec5d1f113db6",
+"9": "8e0361b8-fabe-4e41-9a14-e40ea9575b4a",
+"11": "b6a99f85-57ad-4052-9f3b-fdc560fe6da4",
+"14": "256adf11-2c08-4552-a260-8cdc53293711",
+"16": "27b08aaf-dde3-4c8d-9fe0-5800e55a9748",
+"18": "3e7e85e2-c83a-4cb0-8364-46c996604e63",
+"20": "b2d46aa5-f130-45c4-9b13-5560357c82db"
+},
 "frames_fixed": {
 "410": "0deb9b0c-edfd-46f3-8dd5-241770beaadd (smooth rails)",
 "420": "47bfc732-7bfc-40b7-a671-d879fbbdc15f (cream blouse)",
-"422": "47327bc1-86d7-4c13-ba4d-d6a78ae05729 (no black bar)"
+"422": "47327bc1-86d7-4c13-ba4d-d6a78ae05729 (no black bar)",
+"403": "pending 697505d9 (Celeste at the arch, from master 400)",
+"416": "f2df6c33-90b9-4277-b9a4-bf2a34aee408 (same table/women as wide 415)",
+"417": "b6b795d6-dd76-4f42-b7a7-bfe4e26e7b26 (same terrace/table as 415)",
+"418": "596fccb3-ce79-4c61-b400-b9d999f5c366 (same luncheon behind Hannah)"
 },
 "order": [
 1,

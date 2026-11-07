@@ -32,3 +32,6 @@ Wardrobe: Elijah faded olive work shirt (no cap, to protect identity); Hannah gr
 - All 44 Kling clips submitted (some still rendering; can't be cancelled). QA done for 1-29, 31, 33: words correct (clip 8 to be muted; 28 is background chatter).
 - Kling drifted Elijah's face again (5, 7, 9, 11 checked). Planned fix NOT submitted: Seedance 720p + sheet reference for Elijah clips 5, 7, 9, 11, 14, 16, 18, 20, 30, 32, 34, 37, 41, 43 (about 61 s, about 430 credits). The Seedance batch was rejected by the rate limit, so nothing was charged for it.
 - No voice changes done for Part 4 yet. Sandbox work dir: /home/user/p4 (src.txt, qa.txt, c/).
+
+## Continuity rule (owner, Nov 7): reference images must carry continuity
+Every frame in a scene is now derived from that scene's master shot (and the shot it cuts against), not just from character sheets. Fixed in Part 4: 403 (Celeste kept at the arch), 416/417/418 (same luncheon table, same four friends and sun hats as wide 415). Clips from the old frames (Celeste 4, 6, 8, 10, 12; terrace 29, 31, 33, 35; Hannah 36, 38) are re-animated from the new frames.
