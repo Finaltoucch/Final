@@ -24,3 +24,9 @@ Hedge coverage from 500b: 501 phone-in-gap insert `f3d3dcd8-e2a3-4175-b4ef-8bfc2
 Coverage review: approved 512, 533, 537, 541, 544. Rejected 511 & 542 (Elijah face drift), 531 (Elijah standing on the ground instead of up the ladder), 532 (ladder lying flat). Redos: 511 `c1727246-81a8-4615-b852-496b14c02bb4`, 542 `fd409f19-bfc8-4b99-a1fb-304a8748cef1`, 531 `1b8f9b7b-f792-42e4-8b6e-330ec21f2b6b`, 532 `032f16f8-7028-433c-ba5a-0cc82709e729`.
 Approved final frames: 500b 43a8b3c3 · 501 f3d3dcd8 · 502b f3a6e7d4 · 503b b6b6c3fd (glasses fixed) · 504 4fa75b9c · 505 1a0a0d30 · 506 5f69612a · 507 05da6d2d · 510 526b275b · 511d c7ba3e8d · 512 20a1707a · 520e 68c7c1da · 530 3221a695 · 531c 8cfdfd1a · 532b 032f16f8 · 533 982c36ec · 537 2b8f3950 · 540 aad5e396 · 541 2739e512 · 542b fd409f19 · 543 6786da60 · 544 63a8c468. Pending: 521, 534, 535, 536.
 Clip map: gardener-part5-clips.json (53 shots planned; Elijah's 19 in Seedance).
+
+## Delivered
+Part 5 final: media `bb66fb78-3c11-449d-8e45-7cca3fd01d85` — https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/bb66fb78-3c11-449d-8e45-7cca3fd01d85.mp4
+4:10, -14.1 LUFS, no black gaps, dialogue track = picture length (249.96 s). Full-film transcript checked line by line against the screenplay (two whole-file mishearings re-checked on the mix itself: "Who's there?" and "careless with those" are correct).
+Raw takes kept after two failed voice changes: 19 ("Okay."), 28 ("I didn't mean—"), 34 ("Two more ties."), 50 ("Night, Dad.").
+Credits after Part 5: 2,992.
