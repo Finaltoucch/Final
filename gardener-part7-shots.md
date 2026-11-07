@@ -18,3 +18,7 @@ Approved frames: 701 `fd7576bf` · 702 `054e8020` · 703 `60ea0230` · 710 `641b
 - 28 first job stalled → resubmitted `7af47b33` (OK); 14 VC trimmed from 1.5 s → d/c14 "Are you family?"; 19 VC garbled twice ("Now, she only has wire") → Dr. Nair's line generated in her voice (Imogen, seed_audio) and laid over the raw take to her lips → d/c19 "No. He only has one."
 - All other VCs checked word for word (Walter, Julian, Hannah, Dr. Nair, Nurse/Mabel, Marcus).
 Edit: 38 shots. Captions: SAINT MARY'S HOSPITAL / Emergency (12), DR. PRIYA NAIR / Attending physician (17). Cues: panic 1-5, suspense (low) 6-11, panic 12-16, sad 17-29, sad 30-32, dark 33-38.
+
+## Delivered
+Part 7 final: media `13e324a2-0419-43be-8386-2b6413759639` — https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/13e324a2-0419-43be-8386-2b6413759639.mp4
+3:08, -14.0 LUFS, no black gaps, dialogue = picture length (187.9 s). Full transcript checked; three line-opening "Hannah." words the whole-file pass dropped were re-checked on the mix (present). Credits after Part 7: ~1,095.
