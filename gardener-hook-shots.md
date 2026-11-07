@@ -20,3 +20,21 @@ Notes: Celeste's hair renders pale platinum, matching her approved sheet; keep i
 - Voice change used: 2 Vesper `d7d24dec…`, 3 Maya `f4759b9c…`, 4 Vesper `8216d520…`, 6 Bob `3218981f…` (all transcribed word-perfect).
 - Shot 9 ("Gardener."): Bob voice change garbled the word twice ("Good idea", "Go ahead, you know") → RAW Seedance take kept (made with Bob's voice as a reference).
 - Score: tools/score.py from claude/brave-allen-oc95k1 (elegant n1–n7, braam on title). Edit list and cues in the Higgsfield sandbox at /home/user/hook.
+
+## Hook v2 — 1080p reshoot after owner notes (Nov 7)
+Owner notes on v1: (1) use Seedance 1080p for the hook; (2) Elijah drifted to a celebrity lookalike in the kitchen; (3) dining room/house too small and ordinary; (4) Richard looked pasted-in.
+Fixes: new grand house — dining `cade3d42-1c41-4b23-8d76-bb0f1be1af75`, kitchen `ea7e3808-adaf-4716-b570-aa0fcd147673`, exterior night `094ee923-b9e2-47fa-8db4-85ce54969c64` (day exterior `d432fb53…` is a different house → redo). All frames regenerated fresh (no edit-patching of faces). Every Seedance clip now gets the character sheets as image_references (identity lock), not just a start frame. Elijah frames compared side by side with his sheet.
+
+| # | Frame | 1080p clip |
+|---|---|---|
+| 1 | `052acad1-96a5-4f0f-949e-d526e6f3df63` | `371d32d9-2d6e-4379-8449-847d10a7f268` |
+| 2 | `f2abebcb-dd0d-4a08-9d90-426de9182beb` | `293a63c2-8c18-4cb0-995e-5015611055a9` |
+| 3 | `654ca7f5-e95c-4eb4-b303-8197731aa91f` | `cf5f834a-5082-4ef5-ac14-ddc9fcc193c5` |
+| 4 | `f2abebcb…` | `bb427a94-8b5e-40f7-b353-cc4cb5a90dbf` |
+| 5 | `61c79a50-109c-4fa1-9079-d02fdd5b4bbc` | `5f32d066-2135-4e29-89d3-8194b203c4b5` |
+| 6 | `315d34c8-f1e5-4e38-ad6e-ac8c377021d2` | `0e5d22e6-5b13-41a1-a9e7-832b0267d272` |
+| 7 | `2e6b7399-e9da-4f03-9b59-41160f638c58` | `5ca2ff31-0b0a-4ea3-ab9e-1dc4d5321274` |
+| 8 | `e52d0ec4-7921-4c48-af44-7bfab0180e8d` | `ca55c7d3-01a7-47d1-9c9c-02729ecbd6f2` |
+| 9 (10 s) | `83285611-e151-4182-9cbe-ac9c995261b7` | `037a13b0-88d6-4e0b-ac04-38a6a784824f` |
+
+New lessons: lit dramatic side profiles of older Black men drift toward a famous actor — use soft front light, 3/4 view, stubble visible, and pass the sheet as identity ref. Never fix a face by editing a group frame; regenerate. Seedance 1080p = 80 credits / 5 s.
