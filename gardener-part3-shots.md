@@ -32,3 +32,9 @@ Rejected: 303/3031/307/309 (Elijah drifted to a famous-actor face in warm kitche
 Used: 300, 301, 302, 304, 305 (hook frame), 306, 308, 3091 `e620914c-83f1-45af-93ad-6f924703a6b9`, 310, 311, 312, 314b over-shoulder `4cb6b63a-91af-4701-84aa-287acc348f9c`, 315, 316b `9b78ad59-bfe3-47b2-a149-cbd6b2e2a817`, 317, 318b `6bf97cdd-d84c-45d5-bc0c-baa0d5ea02f3`, 319b `b4124f7b-2d72-4ac5-95c9-f469138c851a`. 307 restaged as a wide (Elijah small in the doorway) `aa4cc9a6-8feb-4f51-a45d-14d52aae89ea`. Handshake insert dropped; the handshake plays in clip 21.
 Delia voice: **Marisol** `75e72cd5-011b-4130-a474-e8b1ab341f04`.
 Clip map: gardener-part3-clips.json.
+
+## Kling drift on Elijah → Seedance 720p for his speaking shots
+Kling (no identity lock) animated Elijah's face toward famous-actor lookalikes in the warm kitchen and on the night bench (clips 15, 17, 19, 21, 22, 27, 29). Those lines were reshot in Seedance 2.5 720p with his sheet as image_reference (ids in gardener-part3-clips.json → "seedance"). Lines 21+22, 31+32, 34+35 were merged into single Seedance takes. Retakes for 29 ("Delsa") and 34 (mumbled "a wedding to plan").
+Clip 1 reshot (Kling said "Two" three times). Clip 11 (Elijah stops at the door) uses a crop of a wide frame (media `ccf70733-1066-4c49-90b5-5755993b518f`) because Julian's face was wrong at the right edge.
+Hook shots H1–H9 are reused from hook v3 (sandbox /home/user/p3/d/hookseg.mp4, first 49.25 s of h2/final3.mp4, its own score kept).
+VC → RAW (failed twice): 7 ("Hema"), 10 (garbled "Mom."), 15 ("Tiding's"), 18 ("That's was"), 20 ("Joanna"), 31 ("Betta"), 33 (adds "Yeah").

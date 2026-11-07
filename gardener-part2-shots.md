@@ -35,3 +35,11 @@ Faces: **Elijah drifted** in the garden frames (230, 233, 235 and their clips 21
 | 11 | `3fcc2aac-4826-401d-9ed9-41c4b46e3507` | |
 | 12 | `736f9240-3145-46d3-816b-8e6916c92b33` | |
 | 13 | `563a7315-ebf1-4af7-8546-8ef52454ad1b` | |
+
+## Part 2 v1 built (Nov 7)
+- Final: media `45169624-9941-41c6-8812-4b59a5bcd6d9` — https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/45169624-9941-41c6-8812-4b59a5bcd6d9.mp4 (4:15, 1920x1080, -14.1 LUFS, no black frames).
+- First upload `ba362657…` had the corrupted dialogue track (mb.py float64 bug) — never confirmed, do not use.
+- Voices: 59 lines voice-changed; RAW (VC garbled/added words twice): 4 (Marcus, VC added "the"), 18 ("He is." → "Here's"), 25 (added "But"/"We").
+- Clip 51 (embrace) muted: Kling added a stray "Thank you".
+- Final file transcribed end to end: every line present and in order.
+- Build: Higgsfield sandbox /home/user/p2 (src.txt, rs.txt, v*.txt, order.json, cues.json, mk2.py, build.sh).

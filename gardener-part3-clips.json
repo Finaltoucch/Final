@@ -276,9 +276,9 @@
 "19": "8554ef8d-3faf-44fa-8054-81070793e2f4",
 "21": "665f80fc-16e9-44a2-8876-092b40810a39 (21+22 merged)",
 "27": "de91d59d-0065-45ce-b55d-11b02147ea8f",
-"29": "9f2b0359-4a32-4e0b-94ef-3ac786b4301e",
+"29": "be0ad627-ff07-49b2-82a6-f210c4be3186 (retake; first said 'Delsa')",
 "31": "7d1590ab-df96-4125-a189-6a44ce03fb15 (31+32 merged)",
-"34": "f3f63f68-c96c-4d61-be41-de50d486bd0d (34+35 merged)"
+"34": "07e484a5-45bb-4065-97a0-95ec0319c21f (retake; first mumbled 'wedding to plan')"
 },
 "vc": {
 "1": "0499d930-3310-4f75-b611-f48a6af1d7b9",
@@ -299,17 +299,25 @@
 "17": "baba4ccb-fc09-45a5-9f9c-e13e8f71e459",
 "18": "a8f9bb3c-0ad8-47ac-a300-cfe79589c7ed",
 "19": "504c9479-8937-4d7c-b32b-4d100d0228f6",
-"20": "46021b57-b755-4834-90b1-cc25442c8b89",
+"20": "32919d04-a400-471a-ba67-5ab31e78f576 (2nd)",
 "21": "4106317d-c3f6-4610-8999-037b14027f52",
 "23": "2dc96d0a-6a73-45eb-9b23-bee8cf386642",
 "26": "d69a0b86-9cc3-4154-b14e-97d168b3d0df",
 "27": "83f1d76d-93cc-47ba-942b-91c6f148fa3c",
 "28": "b514585b-d94f-4c94-b69b-2f445f1a90e6",
 "29": "84d25ab8-6731-4cf7-9fb8-e6f81dc90267",
-"30": "d054cca5-6714-4c67-93ac-a175c8f59de4"
+"30": "d054cca5-6714-4c67-93ac-a175c8f59de4",
+"31": "4c581a6b-55e8-44cf-a1c2-da02563af4f9 (2nd)",
+"33": "e2b104b8-05d4-4fad-af35-cbe662c18b0c (2nd)",
+"37": "8b094278-e4bc-4c8c-af30-4a1d4058d1ed"
 },
 "vc_first_try": {
 "7": "950c237f (said 'Hema')",
-"10": "c34d0b04 (garbled)"
+"10": "c34d0b04 (garbled)",
+"15": "16b2bf27 + 15cd8da9 both 'Tiding's' -> RAW",
+"18": "a8f9bb3c + d4abc908 both 'That's was' -> RAW",
+"31": "7c2b53e2 ('beta')",
+"33": "efe9011f (added 'Yeah')",
+"20": "46021b57 ('Joanna')"
 }
 }
