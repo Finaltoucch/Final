@@ -63,3 +63,11 @@ Hook v3 (1080p, shot 9 now Bob TTS "Gardener" laid over raw): media `76552fb8-a9
 | — | CARD: PRESENT DAY | | | |
 
 Note: scene order in the edit follows the screenplay (1,2,3,4,5,6,7,8,9); clip numbers are just job labels.
+
+## Progress (Nov 7, 09:20 UTC)
+- Minor voices chosen by measurement: Dr. Castell = **Andre** `f1e8226e-2248-4d5f-b43c-0a79e9949dbf`; Blair = **Skye** `1fb253b8-928b-4d29-a349-f242a71eaddf` (Luc too slow/flat, Chloe very high).
+- Extra clips: 43 grad wide (frame `d248bdf1…` fixed Blair) → `e0e13be7-77f4-475c-b811-6c915113a760`; 0 house exterior → `6e27cb92-db04-451b-97a2-3c272e6d8d28`.
+- QA clips 1–13: words match, no cuts, faces consistent. Clip 9 may drop "of" ("a couple years") — re-check after VC.
+- Voice change submitted: 1→`d8f491d8-7b88-4b68-8262-515ad2db449a` (Maya), 3→`6283ae1d-2b2a-45d5-b096-d9f5a3eab71c` (Maya), 7→`8fcba795-cb10-4072-a69d-c3f517a25b9e` (Maya), 8→`ef90f9b4-13b5-4507-bf1b-1aa3731cd6c6` (Bob).
+- Plan limit: max 8 concurrent jobs (Kling + VC share it) → submit VC in waves.
+- QA sandbox: /home/user/p1 (qa.py, l1.txt, qa.txt, c/rowN.jpg).
