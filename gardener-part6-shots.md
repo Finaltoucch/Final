@@ -21,3 +21,11 @@ Shed: Part 4 411 `b7abe8ba` (brown coat on hook) · Office: Part 2 243 OTS→Mar
 - 660 arch not white end to end → 660b `bcd917b3-ed24-4495-9292-6f8f081d02ab`
 - 663 WRONG PERSON (white man) → regenerating; 664 profile drift → regenerating in 3/4 front
 Approved: 600 fe60dcec · 601 eca00945 · 602 444b4593 · 603 feb3172d · 604 2f7c9357 · 610 23778926 · 611 = Part 2 946e1cd6 · 612 1aea9846 · 613 83a2abbb · 614 22c66ddf · 615 e6385c97 · 622 4b15d190 · 631 dfea2c77 · 633 e85cad72 · 635 55ebeabb · 642 ca5d3072 · 650 c755f1cf · 651 c6cb911f · 652 74180047 · 653 5a01ad9c · 654 d6d8b205 · 655 17ec0c61 · 656 a963dc0d · 657 f52a5061 · 658 4507a2d3 · 661 d91ed721 · 665 6f449788 · 666 b0eeb478
+
+## Clips (n = edit order)
+1 shed search `4900ccf7` · 2 pockets insert `ab3c8c6f` · 3 W "Can I help you, sir?" `59faf170` · 4 M "Looking for the gardener." `cab01d4d` · 5 W "In his coat, sir?" `48f38cbd` · 6 M "Tell him I'd like a word." `b4ce7952` · 7 Walter/coat `61b450fc` · 8 office entry `d6eef6fb`
+9 M "Sit. Good news first..." `c14372aa` · 10 H "Marcus. Are you serious?" `ed3029ae` · 11 M "Youngest partner..." `c8cb5cd6` · 12 phone slide `a11b3a75` · 13 M "How's Portugal?" `429ac44d` · 14 H still `38bffdc5` · 15 M "I'm not judging..." `87468172` · 16 H "What do you want?" `9bab99ae`
+17 M "Your father's been crouching..." `d112fccf` (extra "Shay," at 0.7 s → trim head) · 18 M "Then she asks..." `c2f3959e` REJECT (dropped "her") → reshoot `0db8a386-6c7a-41e8-aa85-7060130e49cf` · 19 H "He's not, he wouldn't—" `3c777b4e` · 20 M "I want him off the estate..." `d52e0227`
+Seedance (Elijah, cottage step, frame 631): 27 `c1006e74` · 31 `ce1e4b85` · 33 `93875146` · 35 `3a6d5459` · 37 `542dfca3` · 40 `2e9d53a0` · 45 `795da6b7` · 47 `a082ed4a`
+Frames: 663b `44625d47-ea68-4320-997d-0c705a46274f` approved (Elijah dawn MCU); 664 dropped (profile drift) — 665 wide carries sit/smile/fall.
+VC: v3 `38ce7730` ok · v4 `c67fd8b6` ok · v5 `0970728f` garbled ("in his culture") → rerun pending · v6 `981d212f` ok
