@@ -247,7 +247,8 @@
 "clip 2 Seedance spoke prompt words -> mute audio",
 "7 first try 133e3315 failed",
 "20 first try 546804cd false content flag",
-"1,3 first takes said 'gonna' (7d027cc7, d95611f8) -> reshot with 'going to'"
+"1,3 first takes said 'gonna' (7d027cc7, d95611f8) -> reshot with 'going to'",
+"1,3: Kling said 'gonna' twice -> audio replaced by Grady TTS (seed_audio efc34196 / d71e6fd3) reading the exact line; Marcus has his back to camera in both. Clip 1 slowed to 1.15x (11.25 s) so natural pauses fit. Built as sandbox p5/d/c1.mp4, d/c3.mp4. No VC on these."
 ],
 "mute": [
 "2"
