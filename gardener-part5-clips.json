@@ -284,14 +284,32 @@
 "16": "64f79ca5-b093-4118-bf17-d9763b874a23",
 "17": "6236c944-8a23-4a23-80ba-ae2d5b7cc1f3",
 "18": "29716cac-ae9d-4db3-930f-a6e48ba6e8eb",
-"19": "ff4158ab-4350-4f5d-a646-f0f912ff9409",
+"19": "RAW (VC said \"It's okay\" twice)",
 "20": "864a8cc1-f1f8-4486-8c97-be0342b5defb",
 "21": "5d3543db-c04b-4019-b9aa-db7a50728ee4",
 "22": "4436c4f0-aa97-43aa-9d1a-c6c96519f0d1",
 "23": "88782db5-5c9c-4e08-bee5-ca20edd95259",
-"24": "ddbcffa9-3f31-4850-a282-869581508419"
+"24": "ddbcffa9-3f31-4850-a282-869581508419",
+"25": "4ca148d5-e946-4b60-9a6f-1303fa9c62e6",
+"26": "b0f3bb2e-215e-4e25-b996-96c81a8405a3",
+"27": "0919b973-9506-4b73-86f9-f9c236be6d19",
+"28": "RAW (VC garbled twice)",
+"29": "ec050768-4f1c-4c77-9781-80eef26fcf94",
+"33": "99e4c012-bdbd-402c-93fb-f9bf94b5fc83",
+"34": "RAW (VC said \"times\" twice)",
+"35": "f227d187-faed-48a6-af2f-42af26f6f909",
+"37": "bda29feb-7ecc-459c-bb54-591bc587706f",
+"39": "5663a5a8-bf78-470b-8e44-ae5725482304",
+"40": "43d30c00-01cb-4b44-86c1-4f449f63c3b8",
+"41": "87c8019c-0d37-46b0-9241-83fa1933e9d3",
+"44": "6bd5a70b-5a13-4f4e-b1bc-85ef654d81ff",
+"45": "97422b90-c10b-4abe-85da-1bae260b3185",
+"46": "13060366-c7ac-4512-a01a-084a3db7e49a",
+"47": "e188beda-28a3-47f0-bc9b-c0425a2a4883",
+"50": "RAW (VC said \"Light, Dad\" twice)",
+"51": "69b4ccb5-f946-40f7-9413-a8c5f3e4177d"
 },
-"pending_seedance": "24,26,29,31(cottage),34,39,41,43,46,50(H),51(E)",
+"pending_seedance": "none (51 done 06ca9409)",
 "frames_final": {
 "534": "26ee5009-3f2c-4c1e-b083-e7c416ec0279 (face fixed)"
 },
@@ -305,5 +323,20 @@
 ],
 "mute": [
 "2"
-]
+],
+"edit": {
+"order": "1-35,36,38,37,39-53",
+"captions": {
+"1": "THE ROSE GARDEN / Whitmore Estate, dusk",
+"31": "THE GARDEN COTTAGE / Hannah's house, night",
+"48": "HANNAH'S HOUSE / The side gate, night"
+},
+"mute": [
+"2"
+],
+"fixed": {
+"42": -10
+},
+"cues": "tension 1-14, tension 15-30, sad 31-47, suspense 48-53"
+}
 }
