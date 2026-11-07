@@ -38,3 +38,10 @@ Fixes: new grand house — dining `cade3d42-1c41-4b23-8d76-bb0f1be1af75`, kitche
 | 9 (10 s) | `83285611-e151-4182-9cbe-ac9c995261b7` | `037a13b0-88d6-4e0b-ac04-38a6a784824f` |
 
 New lessons: lit dramatic side profiles of older Black men drift toward a famous actor — use soft front light, 3/4 view, stubble visible, and pass the sheet as identity ref. Never fix a face by editing a group frame; regenerate. Seedance 1080p = 80 credits / 5 s.
+
+### Hook v2 built (Nov 7)
+- Final 1080p: media `b5df341a-3755-4ee7-bf57-6b224b4ddc28` — https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/b5df341a-3755-4ee7-bf57-6b224b4ddc28.mp4 (55.4 s, 1920x1080, -14.9 LUFS)
+- Voice change used: 2 Vesper `40eec92e…`, 3 Maya `20a7fec1…`, 4 Vesper `742f8bdd…`, 6 Bob `cabfa8e7…` (all word-perfect).
+- Shot 9: Bob VC garbled twice (added words, lost "Gardener") → raw take kept (only word: "Gardener").
+- Whisper invents words over room tone ("Thank you very much", "I'm right for you") — always re-check with vad_filter=True before calling it an ad-lib.
+- Build files: Higgsfield sandbox /home/user/h2 (edit.json, cues.json, build.sh).
