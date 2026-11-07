@@ -85,3 +85,7 @@ Note: scene order in the edit follows the screenplay (1,2,3,4,5,6,7,8,9); clip n
 - VC 9 `9f39adbc` done. VC wave 4 done (20,22–27) + v1 rerun `0a97a8cf`.
 - VC wave 5 done: 28→`718f1098-4a9c-436d-910f-218678d2dd45` (Maya), 30→`6166d053-9a59-47b3-8ee4-a9cafcdbe638`, 32→`114e2a12-6804-4cbb-abc2-ebd5f4b8627d`, 34→`b355e970-7d24-4c9e-aeb3-4c1395322a8b` (Andre), 31→`a2306286-24c8-4975-bda8-23794d6d21df`, 33→`f6ee7898-0a36-4ef6-92d2-63250308f1eb`, 35→`fbdbdf32-79c2-48d9-8023-c592318aec05` (Bob).
 - VC wave 6: 45→`a8b2f3ea-0ae1-434b-bf41-efc806929d63` (Skye), 46→`486e85c3-a819-460b-a4a3-a197375a80ff` (Maya), 47→`00327f06-5319-4d52-9b17-4b9797d9d45d`, 48→`3a6f3480-9d40-426a-afb6-d2aa59e82a9e` (Bob).
+- VC QA: OK → 2–8, 11, 12, 14, 15, 17, 20, 22–24, 26–28, 30–34. 
+- Clip 1: VC garbled twice → **RAW** (`c6a1ffc3…`).
+- Reruns: 10 `30e05109-47c0-492f-b0d2-f17f446ba62a` ("Yo go"), 19 `f8bfec99-0fea-4989-8f55-889ca6bd213d` ("bulks"), 25 `8b16fa9f-7b72-4d49-97e6-2ac83b0e55e1` (dropped "And"), 35 `0a41fc2f-c8a3-4f0e-9e96-6cb6ab5232a6` ("She never met Hood").
+- Clip 9 raw dropped "of" → reshot `dfed9290-898a-43cb-9072-4f849db1d130` (then VC Maya).
