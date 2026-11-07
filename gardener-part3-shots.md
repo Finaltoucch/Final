@@ -38,3 +38,10 @@ Kling (no identity lock) animated Elijah's face toward famous-actor lookalikes i
 Clip 1 reshot (Kling said "Two" three times). Clip 11 (Elijah stops at the door) uses a crop of a wide frame (media `ccf70733-1066-4c49-90b5-5755993b518f`) because Julian's face was wrong at the right edge.
 Hook shots H1–H9 are reused from hook v3 (sandbox /home/user/p3/d/hookseg.mp4, first 49.25 s of h2/final3.mp4, its own score kept).
 VC → RAW (failed twice): 7 ("Hema"), 10 (garbled "Mom."), 15 ("Tiding's"), 18 ("That's was"), 20 ("Joanna"), 31 ("Betta"), 33 (adds "Yeah").
+
+## Part 3 v1 built (Nov 7)
+- Final: media `20e11d68-928d-4d10-9e0b-0ab28a0116c9` — https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/20e11d68-928d-4d10-9e0b-0ab28a0116c9.mp4 (3:24, -14.0 LUFS, dlg track length = video length).
+- Final file transcribed end to end: every line present, in order; hook "Gardener." present.
+- RAW lines: 7, 10, 15, 18, 20, 29 (Seedance retake; VC blurred "Delia"), 31, 33. All others voice-changed.
+- Build: Higgsfield sandbox /home/user/p3 (src.txt, rs.txt, v*.txt, order.json, cues.json).
+- Credits after Part 3: 943.
