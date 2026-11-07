@@ -35,3 +35,10 @@ Wardrobe: Elijah faded olive work shirt (no cap, to protect identity); Hannah gr
 
 ## Continuity rule (owner, Nov 7): reference images must carry continuity
 Every frame in a scene is now derived from that scene's master shot (and the shot it cuts against), not just from character sheets. Fixed in Part 4: 403 (Celeste kept at the arch), 416/417/418 (same luncheon table, same four friends and sun hats as wide 415). Clips from the old frames (Celeste 4, 6, 8, 10, 12; terrace 29, 31, 33, 35; Hannah 36, 38) are re-animated from the new frames.
+
+## Part 4 v1 built (Nov 7)
+- Final: media `7118d753-9ef1-49f1-b2f5-b3d47b5eab1d` — https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/7118d753-9ef1-49f1-b2f5-b3d47b5eab1d.mp4 (3:03, -14.0 LUFS, dialogue track = video length, no black frames).
+- Final file transcribed end to end: every line present and in order.
+- Elijah's 14 shots in Seedance 720p with his sheet; everyone else Kling. Continuity: every reverse angle derived from its scene's master frame (garden 400, terrace 415, corridor 421).
+- RAW lines: 6, 29, 30 (VC garbled twice). Muted chatter: 28, 39.
+- Credits after Part 4: 48.5 — not enough for Part 5 (about 500+). Build files: Higgsfield sandbox /home/user/p4.
