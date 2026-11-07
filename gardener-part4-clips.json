@@ -369,6 +369,12 @@
 "39"
 ],
 "vc_raw": [
-"6 (VC said 'Mind's' twice)"
-]
+"6 (VC said 'Mind's' twice)",
+"29 'Boots.' (VC garbled twice)",
+"30 'Ma'am?' (VC garbled twice)"
+],
+"vc_reruns": {
+"29": "ad4aeb74 (votes)",
+"30": "e122ca55 (live)"
+}
 }
