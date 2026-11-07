@@ -29,3 +29,7 @@ Approved: 600 fe60dcec · 601 eca00945 · 602 444b4593 · 603 feb3172d · 604 2f
 Seedance (Elijah, cottage step, frame 631): 27 `c1006e74` · 31 `ce1e4b85` · 33 `93875146` · 35 `3a6d5459` · 37 `542dfca3` · 40 `2e9d53a0` · 45 `795da6b7` · 47 `a082ed4a`
 Frames: 663b `44625d47-ea68-4320-997d-0c705a46274f` approved (Elijah dawn MCU); 664 dropped (profile drift) — 665 wide carries sit/smile/fall.
 VC: v3 `38ce7730` ok · v4 `c67fd8b6` ok · v5 `0970728f` garbled ("in his culture") → rerun pending · v6 `981d212f` ok
+
+## Likeness flag (important)
+Seedance returned `ip_detected` (real-person likeness) on 55, 59, 63, 65, all started from side-gate frame 641b `c9529854`. 641b is RETIRED and 57 (same frame) will be redone. New side-gate frame built from faces that already passed Seedance (631 `dfea2c77`, Part 5 `4fa75b9c`, Part 2 `7aa8ef0d`): `3461914f` / `9439e913`.
+Other fixes: 24 Hannah adds "push him" after "Dad, I need you to—" → audio faded at 4.6 s (after VC); 49 hand appears to lift the phone after 3 s → trimmed to 2.4 s (d/c49.mp4); 22 "arc" → reshot `129d028f` ("arch" OK); 47 heard as "I'd have carried him" / "I had to carry them" → judge after VC.
