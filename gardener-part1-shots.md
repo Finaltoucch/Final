@@ -95,3 +95,8 @@ Note: scene order in the edit follows the screenplay (1,2,3,4,5,6,7,8,9); clip n
 - Clip 9: reshoot `dfed9290…` still reads "a couple years" even on medium.en — natural reduction of "couple of"; using original 9 + Maya VC `9f39adbc…`. Flagged to owner.
 - VC used for all other speaking clips (Maya/Bob/Andre/Skye). Gains auto-levelled per clip in build (target speech ≈ -17 dBFS).
 - Build: Higgsfield sandbox /home/user/p1b (mk.py → edit.json, cues.json, build.sh). Upload media `26f590f5-2e32-4c8b-8323-915bf310efaf`.
+
+## Part 1 v1 BUILT (Nov 7)
+- media `26f590f5-2e32-4c8b-8323-915bf310efaf` — https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/26f590f5-2e32-4c8b-8323-915bf310efaf.mp4
+- 3:56, -13.9 LUFS, black only at the two cards, order checked on contact sheet. Full-mix Whisper pass did not complete (sandbox), but every clip was transcribed individually.
+- Credits after Part 1: 2,429.53.
