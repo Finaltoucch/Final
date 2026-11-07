@@ -72,3 +72,8 @@ Note: scene order in the edit follows the screenplay (1,2,3,4,5,6,7,8,9); clip n
 - Plan limit: max 8 concurrent jobs (Kling + VC share it) → submit VC in waves.
 - QA sandbox: /home/user/p1 (qa.py, l1.txt, qa.txt, c/rowN.jpg).
 - VC wave 2: 2→`9e8977c0-c0b5-4cf1-81f8-dfb21301cac2` (Bob), 4→`82bef776-2752-456b-a894-9d4717c9e9ad` (Bob), 5→`66be0ae2-1181-4cdf-8392-04f38b4e37a6` (Maya), 6→`9ad215b4-cd97-46e0-a181-2bb3de09f5f1` (Bob).
+- All Kling clips done (incl. 43 `e0e13be7-77f4-475c-b811-6c915113a760`, 0 `6e27cb92-db04-451b-97a2-3c272e6d8d28`).
+- VC wave 1+2 results done: 1 `d8f491d8`, 3 `6283ae1d`, 7 `8fcba795`, 8 `ef90f9b4`, 2 `9e8977c0`, 4 `82bef776`, 5 `66be0ae2`, 6 `9ad215b4` (to transcribe).
+- VC wave 3: 9→`9f39adbc-64b7-42ca-8025-10059ca22fa1` (Maya), 10→`405e3fc4-f5c7-4173-81ca-6a336c60b3a2` (Bob), 11→`c8a15702-eb9c-4e12-8633-7242c7b6530c` (Maya), 12→`17027cb4-94ca-4665-8fe3-360a7966ebb7` (Bob), 14→`38930653-b204-4a95-aba9-23e7a1e205b9` (Bob), 15→`53f6f144-0a3a-43a2-a050-183c32a938ad` (Bob), 17→`dc40fc6d-fe5c-42e2-8a7b-732eaee46d85` (Bob), 19→`7acd46e7-1116-43f6-9e94-bc5c9c22c42b` (Maya).
+- Still to VC: 20,22,23,24,25,26,27,28 · 30,32,34 (Andre) · 31,33,35 · 45 (Skye) · 46 · 47,48.
+- QA sandbox restarted at clip 15; rerunning 16+ and VC 1–8 in /home/user/p1 (qa_part_0*.txt).
