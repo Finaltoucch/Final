@@ -8,7 +8,7 @@
 "note": "S: = Seedance 720p",
 "clips": {
 "1": [
-"7d027cc7-e404-4ffc-afea-3990a825c7f4",
+"95cd0b47-a9af-403d-9519-8c2860cddf29",
 "M",
 "No, listen to me. Listen. It's three point two, not three. Nobody's going to look past her name, it's on every page. I made sure she signed in a hurry."
 ],
@@ -18,7 +18,7 @@
 ""
 ],
 "3": [
-"d95611f8-597e-4858-9007-259bd7d1171d",
+"7a6d7043-8063-4687-a595-833425f6ba1d",
 "M",
 "Because she's a nobody, Danny. No family. A dad who's always in Portugal. Who's going to fight for her?"
 ],
@@ -246,7 +246,8 @@
 "notes": [
 "clip 2 Seedance spoke prompt words -> mute audio",
 "7 first try 133e3315 failed",
-"20 first try 546804cd false content flag"
+"20 first try 546804cd false content flag",
+"1,3 first takes said 'gonna' (7d027cc7, d95611f8) -> reshot with 'going to'"
 ],
 "mute": [
 "2"
