@@ -1,0 +1,117 @@
+{
+"voices": {
+"E": "ca12fd00-218c-5198-b10c-7d36e768c12c",
+"H": "b0f766b7-8703-4bd1-b973-f857c36837b6",
+"C": "c3204739-4084-41a3-9dc5-c805b307ec18",
+"W": "30fc8796-ceb6-4a66-b3a7-4a145ef7f346"
+},
+"clips": {
+"1": [
+"a086f5bc-b20a-4be4-9e1f-81959812eb36",
+"C",
+"Who does these?"
+],
+"2": [
+"7376b5ea-3dea-409c-898f-5d24b406e782",
+"H",
+"Our gardener."
+],
+"3": [
+"2417d6f5-3060-4619-8de5-0f45ddb19279",
+"C",
+"Your wine man."
+],
+"4": [
+"36021622-623b-48c5-a586-f04fb1c44ea7",
+"C",
+"You. What do you charge?"
+],
+"5": [
+"43afc59b-68d9-4c9c-9965-955e305fe633",
+"E",
+"Depends on the garden, ma'am."
+],
+"6": [
+"cc5bba6c-ffb4-4151-a5e3-8b0beac518f2",
+"C",
+"Mine's a disgrace, and there's a wedding in it in nine weeks. Twenty an hour. Monday."
+],
+"7": [
+"f023b43e-dcd9-4328-b26b-8ceb9ca9a1ba",
+"E",
+"Twenty-two."
+],
+"8": [
+"24838195-34c5-462b-ad9f-32ad84d9e5c1",
+"-",
+""
+],
+"9": [
+"6ae48fcb-1fec-464a-b6cc-40e51dfa728d",
+"E",
+"I'm worth the two dollars, ma'am. Ask the roses."
+],
+"10": [
+"4966b218-ea42-4acd-bdda-5dcfd5bb695d",
+"C",
+"Twenty-two. And you'll use the side gate."
+],
+"11": [
+"f0cb7584-53f8-4fa3-a983-3819e032d1fd",
+"E",
+"One more thing. The wedding arch. I'd want to grow it from these."
+],
+"12": [
+"ef8112ef-5318-4699-b762-8fddd3522ec8",
+"C",
+"Fine. Make it pretty."
+],
+"13": [
+"f40224d7-5263-4814-9736-e23870b90944",
+"H",
+"Dad, what are you doing?"
+],
+"14": [
+"6dcf51bd-c7bc-4f09-a369-0054dbac21c4",
+"E",
+"Getting a raise."
+],
+"15": [
+"5e81d4c4-99b0-46e4-ab5d-7ca3e9b4ef46",
+"H",
+"I'm serious."
+],
+"16": [
+"b03527b5-de25-437e-af3e-d3a5c17ee0cb",
+"E",
+"So am I. You're getting married under something I grew. Don't you take that from me."
+],
+"17": [
+"10aad96a-b610-4a72-81a9-a0dbb1706942",
+"W",
+"Side gate. Always the side gate. Boots off before the terrace. You don't speak to the family unless they speak to you, and they won't."
+],
+"18": [
+"9c8c8b5b-edf7-4a46-b00b-6e93859f4093",
+"E",
+"Yes, sir."
+],
+"19": [
+"392faa72-71ea-487c-8643-dc974cc3b630",
+"W",
+"And the roses on the east wall are dead. She'll tell you it was the last gardener. It was her. She waters them at night."
+],
+"20": [
+"fc214085-0148-47bf-b413-c9eab4807f1f",
+"E",
+"Evenings. That'll do it."
+],
+"21": [
+"246bab1a-f0f9-414f-be01-c0c5876ce238",
+"W",
+"Walter. Not sir. I only dress like one."
+]
+},
+"vc": {},
+"seedance": {}
+}
