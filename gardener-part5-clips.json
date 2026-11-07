@@ -38,7 +38,7 @@
 "The wedding? Celeste will cancel it herself the minute anybody says fraud. I know my sister."
 ],
 "7": [
-"S:133e3315-a25b-4eca-963c-0ef2217b655f",
+"S:7cc606f5-2971-4d27-be77-5d620d7b6890",
 "-",
 ""
 ],
@@ -88,7 +88,7 @@
 "Marcus was on the phone in the garden today."
 ],
 "20": [
-"S:546804cd-015d-4bf4-a363-2cb3af4065a1",
+"S:50359f5f-7d0b-428d-aeb5-7092cf41f324",
 "E",
 "He said three point two million. He said your name's on every page. He said you're a nobody and nobody would fight for you."
 ],
@@ -242,5 +242,13 @@
 "pending_seedance": "24,26,29,31(cottage),34,39,41,43,46,50(H),51(E)",
 "frames_final": {
 "534": "26ee5009-3f2c-4c1e-b083-e7c416ec0279 (face fixed)"
-}
+},
+"notes": [
+"clip 2 Seedance spoke prompt words -> mute audio",
+"7 first try 133e3315 failed",
+"20 first try 546804cd false content flag"
+],
+"mute": [
+"2"
+]
 }
