@@ -22,7 +22,7 @@
 "Your wine man."
 ],
 "4": [
-"36021622-623b-48c5-a586-f04fb1c44ea7",
+"984d7973-f414-4db5-9af1-1825b97441eb",
 "C",
 "You. What do you charge?"
 ],
@@ -32,7 +32,7 @@
 "Depends on the garden, ma'am."
 ],
 "6": [
-"cc5bba6c-ffb4-4151-a5e3-8b0beac518f2",
+"d1ab2dfa-fa61-401c-be90-bc5caf43b63e",
 "C",
 "Mine's a disgrace, and there's a wedding in it in nine weeks. Twenty an hour. Monday."
 ],
@@ -42,7 +42,7 @@
 "Twenty-two."
 ],
 "8": [
-"24838195-34c5-462b-ad9f-32ad84d9e5c1",
+"a0257982-015e-4d9e-a503-8345b461a115",
 "-",
 ""
 ],
@@ -52,7 +52,7 @@
 "I'm worth the two dollars, ma'am. Ask the roses."
 ],
 "10": [
-"4966b218-ea42-4acd-bdda-5dcfd5bb695d",
+"3db73e1a-e299-4c3b-8d1c-842c08a263bd",
 "C",
 "Twenty-two. And you'll use the side gate."
 ],
@@ -62,7 +62,7 @@
 "One more thing. The wedding arch. I'd want to grow it from these."
 ],
 "12": [
-"ef8112ef-5318-4699-b762-8fddd3522ec8",
+"2a4070ae-22f8-45f4-ac0c-6692c10a5dd9",
 "C",
 "Fine. Make it pretty."
 ],
@@ -248,7 +248,7 @@
 "410": "0deb9b0c-edfd-46f3-8dd5-241770beaadd (smooth rails)",
 "420": "47bfc732-7bfc-40b7-a671-d879fbbdc15f (cream blouse)",
 "422": "47327bc1-86d7-4c13-ba4d-d6a78ae05729 (no black bar)",
-"403": "pending 697505d9 (Celeste at the arch, from master 400)",
+"403": "2e62eddc-1178-4348-8725-e18ddebfac51 (Celeste at the arch, Elijah's back; 403b had a white man in the foreground)",
 "416": "f2df6c33-90b9-4277-b9a4-bf2a34aee408 (same table/women as wide 415)",
 "417": "b6b795d6-dd76-4f42-b7a7-bfe4e26e7b26 (same terrace/table as 415)",
 "418": "596fccb3-ce79-4c61-b400-b9d999f5c366 (same luncheon behind Hannah)"
@@ -332,7 +332,6 @@
 }
 ],
 "mute": [
-"8",
 "28",
 "39"
 ]
