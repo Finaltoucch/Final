@@ -58,7 +58,7 @@
 "hook_reuse": "hook v2/v3 clips H1-H9 from sandbox /home/user/h2 (VC versions, H9 with Bob TTS overlay as in hook v3)",
 "clips": {
 "1": [
-"c27c5f45-f7b7-4456-998b-b11874e9eed0",
+"00b6c9dc-34a4-46c7-a842-e50d0b1c267b",
 "D",
 "Two servers. Two! On a Saturday. I have six courses and a lady in green who already sent back the bread."
 ],
@@ -108,7 +108,7 @@
 "Mom."
 ],
 "11": [
-"PENDING frame aa4cc9a6",
+"fae37480-3fef-4906-af8a-ea8258fb94f7",
 "-",
 ""
 ],
@@ -268,5 +268,48 @@
 "to": "n37",
 "gain": -4
 }
-]
+],
+"seedance": {
+"13": "0dd51e46-495b-486f-9ab8-e0c35c89cab5",
+"15": "12207ba0-9cb4-41e1-91cd-67d0ec62c055",
+"17": "3de6771c-faee-49a0-b52d-aeb252ba04e3",
+"19": "8554ef8d-3faf-44fa-8054-81070793e2f4",
+"21": "665f80fc-16e9-44a2-8876-092b40810a39 (21+22 merged)",
+"27": "de91d59d-0065-45ce-b55d-11b02147ea8f",
+"29": "9f2b0359-4a32-4e0b-94ef-3ac786b4301e",
+"31": "7d1590ab-df96-4125-a189-6a44ce03fb15 (31+32 merged)",
+"34": "f3f63f68-c96c-4d61-be41-de50d486bd0d (34+35 merged)"
+},
+"vc": {
+"1": "0499d930-3310-4f75-b611-f48a6af1d7b9",
+"2": "539e327c-9215-4693-ad80-7876bb1c8c90",
+"3": "02e57abe-fcb2-4f50-beee-a6bf62cda528",
+"4": "42b20838-7998-43e4-80d8-d85fda8dcac1",
+"5": "d3fa9a15-52f5-49bb-b73a-d5fff5f32757",
+"6": "d17d0b77-9f1c-4819-81e9-c0cb31623a18",
+"7": "2af5d002-a234-4cfc-8934-6f01e4b18f60",
+"8": "a7799715-34c7-43bb-a317-15eb450ad2cf",
+"9": "00fb6034-5352-4b04-a859-7ca2a562c6de",
+"10": "f0d583bb-464c-4205-bb82-1f90491404c1",
+"12": "1bfa63f7-c68e-452d-b895-acf39fdf0476",
+"13": "aaa3bcdd-b6c9-4d90-99f4-4e245da74802",
+"14": "58057113-5405-4741-9f56-6b3e602ee879",
+"15": "16b2bf27-6a19-427d-aacc-d03fd9733b5b",
+"16": "cd59ac0f-3b1c-49e1-96e8-08011e1b5c55",
+"17": "baba4ccb-fc09-45a5-9f9c-e13e8f71e459",
+"18": "a8f9bb3c-0ad8-47ac-a300-cfe79589c7ed",
+"19": "504c9479-8937-4d7c-b32b-4d100d0228f6",
+"20": "46021b57-b755-4834-90b1-cc25442c8b89",
+"21": "4106317d-c3f6-4610-8999-037b14027f52",
+"23": "2dc96d0a-6a73-45eb-9b23-bee8cf386642",
+"26": "d69a0b86-9cc3-4154-b14e-97d168b3d0df",
+"27": "83f1d76d-93cc-47ba-942b-91c6f148fa3c",
+"28": "b514585b-d94f-4c94-b69b-2f445f1a90e6",
+"29": "84d25ab8-6731-4cf7-9fb8-e6f81dc90267",
+"30": "d054cca5-6714-4c67-93ac-a175c8f59de4"
+},
+"vc_first_try": {
+"7": "950c237f (said 'Hema')",
+"10": "c34d0b04 (garbled)"
+}
 }

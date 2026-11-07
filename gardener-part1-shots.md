@@ -100,3 +100,7 @@ Note: scene order in the edit follows the screenplay (1,2,3,4,5,6,7,8,9); clip n
 - media `26f590f5-2e32-4c8b-8323-915bf310efaf` — https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/26f590f5-2e32-4c8b-8323-915bf310efaf.mp4
 - 3:56, -13.9 LUFS, black only at the two cards, order checked on contact sheet. Full-mix Whisper pass did not complete (sandbox), but every clip was transcribed individually.
 - Credits after Part 1: 2,429.53.
+
+## BUG FOUND (Nov 7, during Part 2): Part 1 v1 dialogue track is corrupted
+mb.py multiplied clip audio by a numpy float64 gain, so the dialogue array became float64, but it was piped to ffmpeg as f32le. Result: dlg.wav twice as long (471 s for a 236 s film) and the dialogue in Part 1 v1 (media 26f590f5…) is noise, not speech. The hook was not affected (its track length is correct).
+Fix: mb.py now writes `np.vstack(wavs).astype(np.float32)`. Part 1 must be rebuilt (same edit list, no new generations). New check added to every build: dlg.wav length must equal the video length, and the FINAL file is transcribed end to end.
