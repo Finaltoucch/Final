@@ -116,3 +116,11 @@ Interiors: clinic consult + recovery, bank, library, Elijah's 2018 bedroom, Hann
 | Dr. Nair | **Imogen** | `3811e986-0891-47cf-a1f5-78a1d62a547a` | LOCKED (chosen by measurement, owner delegated) |
 
 Never reuse Maid voices (Naomi, Benji, Celine, Reid, Helena, Opal, Elena, Desmond).
+
+## On-screen captions (owner, Nov 7: "add location names and character introductions like the last story")
+Lower thirds via mb.py `lt` (white NAME, gold role, 0.5 s to min(clip-0.25, 4 s)), on the first appearance of each character and the first shot of each new location:
+- Part 1: THE MOORE HOUSE (Eight years earlier), HANNAH MOORE (22, just got into law school), ELIJAH MOORE (Her father, a gardener), DR. RAMON CASTELL (Private clinic), PUBLIC LIBRARY (That night), HALBROOK LAW SCHOOL (Graduation day), BLAIR (Hannah's classmate)
+- Part 2: HANNAH'S HOUSE (Present day), ELIJAH MOORE (61, the gardener), HANNAH MOORE (Senior associate, Hale and Partners), HALE AND PARTNERS (Law firm, downtown), MARCUS HALE (Senior partner, Celeste's brother), KYLE (Junior associate), MRS. ALVAREZ (Night cleaner), WHITMORE ESTATE (Sunday lunch), CELESTE WHITMORE (Julian's mother), JULIAN WHITMORE (Hannah's boyfriend, an architect), RICHARD WHITMORE (Julian's father), WALTER GREENE (The Whitmores' butler)
+- Part 3: HANNAH'S HOUSE (The engagement dinner), DELIA (The caterer)
+- Part 4: WHITMORE ESTATE (The side gate)
+Rule from now on: every new part gets captions for new characters and new locations.
