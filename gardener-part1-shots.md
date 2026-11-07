@@ -81,3 +81,7 @@ Note: scene order in the edit follows the screenplay (1,2,3,4,5,6,7,8,9); clip n
 - VC wave 3 done: 10 `405e3fc4`, 11 `c8a15702`, 12 `17027cb4`, 14 `38930653`, 15 `53f6f144`, 17 `dc40fc6d`, 19 `7acd46e7`; 9 `9f39adbc` pending.
 - VC wave 4: 20→`f4c76226-c554-457f-aa89-8b827b6ab141`, 22→`5a04f69a-48fb-4e8e-ba97-fa2f870ed426`, 23→`74452d28-9f7f-4284-91f2-0eb980ecde48`, 24→`1810f7a7-4749-4c2b-8bb9-05c9ff4f5bcd`, 25→`5c8fd2c5-af3a-4a89-a5ce-8cf890925229`, 26→`e75c28b4-0835-4691-994c-ad4a3de459b3`, 27→`128f2e64-9000-43b1-845e-00d1c7968563`.
 - Remaining VC: 28 (Maya), 30/32/34 (Andre), 31/33/35/47/48 (Bob), 45 (Skye), 46 (Maya).
+- Raw QA complete: all Part 1 raw clips match screenplay, no cuts.
+- VC 9 `9f39adbc` done. VC wave 4 done (20,22–27) + v1 rerun `0a97a8cf`.
+- VC wave 5 done: 28→`718f1098-4a9c-436d-910f-218678d2dd45` (Maya), 30→`6166d053-9a59-47b3-8ee4-a9cafcdbe638`, 32→`114e2a12-6804-4cbb-abc2-ebd5f4b8627d`, 34→`b355e970-7d24-4c9e-aeb3-4c1395322a8b` (Andre), 31→`a2306286-24c8-4975-bda8-23794d6d21df`, 33→`f6ee7898-0a36-4ef6-92d2-63250308f1eb`, 35→`fbdbdf32-79c2-48d9-8023-c592318aec05` (Bob).
+- VC wave 6: 45→`a8b2f3ea-0ae1-434b-bf41-efc806929d63` (Skye), 46→`486e85c3-a819-460b-a4a3-a197375a80ff` (Maya), 47→`00327f06-5319-4d52-9b17-4b9797d9d45d`, 48→`3a6f3480-9d40-426a-afb6-d2aa59e82a9e` (Bob).
