@@ -216,8 +216,31 @@
 "0f3b1814-714b-4e1d-9a7c-985eee29dfaf",
 "-",
 ""
+],
+"24": [
+"S:7cef4e83-88a0-4cda-86c9-c701eed3335e",
+"E",
+"Did you read what you signed?"
+],
+"26": [
+"S:f16d2ddb-a14b-4cc2-acad-98fbad93e338",
+"E",
+"I heard what I heard."
+],
+"29": [
+"S:4dc1269c-333e-441e-bdfe-8f3a6d0e956c",
+"E",
+"Yes, you did. It's all right. It's late."
+],
+"31": [
+"S:882ecffb-55ff-45b6-8cd4-dc6d938c1768",
+"-",
+"(silent; overlay phone-filtered Marcus line '...she's a nobody, Danny...' from VC of clip 3)"
 ]
 },
 "vc": {},
-"pending_seedance": "24,26,29,31(cottage),34,39,41,43,46,50(H),51(E)"
+"pending_seedance": "24,26,29,31(cottage),34,39,41,43,46,50(H),51(E)",
+"frames_final": {
+"534": "26ee5009-3f2c-4c1e-b083-e7c416ec0279 (face fixed)"
+}
 }
