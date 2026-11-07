@@ -71,3 +71,4 @@ Note: scene order in the edit follows the screenplay (1,2,3,4,5,6,7,8,9); clip n
 - Voice change submitted: 1→`d8f491d8-7b88-4b68-8262-515ad2db449a` (Maya), 3→`6283ae1d-2b2a-45d5-b096-d9f5a3eab71c` (Maya), 7→`8fcba795-cb10-4072-a69d-c3f517a25b9e` (Maya), 8→`ef90f9b4-13b5-4507-bf1b-1aa3731cd6c6` (Bob).
 - Plan limit: max 8 concurrent jobs (Kling + VC share it) → submit VC in waves.
 - QA sandbox: /home/user/p1 (qa.py, l1.txt, qa.txt, c/rowN.jpg).
+- VC wave 2: 2→`9e8977c0-c0b5-4cf1-81f8-dfb21301cac2` (Bob), 4→`82bef776-2752-456b-a894-9d4717c9e9ad` (Bob), 5→`66be0ae2-1181-4cdf-8392-04f38b4e37a6` (Maya), 6→`9ad215b4-cd97-46e0-a181-2bb3de09f5f1` (Bob).
