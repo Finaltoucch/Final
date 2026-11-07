@@ -44,3 +44,7 @@ VC: v9 `8785bc4a` · v10 `ccb0ceca` · v11 `db4cb356` · v13 `50eea0d4` · v15 `
 Edit: 82 shots in screenplay order. Captions: THE POTTING SHED / Whitmore Estate (1), THE LAST WEEK / 4 a.m. (69), FRIDAY / Hale and Partners (75), SATURDAY / Dawn (78). Cues: suspense 1-7, dark 8-23, sad 24-54, sad (low) 55-68, sad (building) 69-77, tender 78-80, silence after; riser into impact as he hits the grass (clip 81, 4.3 s).
 - 80 first take (`145ddfba`) invented a round PINK rose arch behind Elijah (continuity error: the arch is white, on pale wood, and in front of him) → re-rendered `fb28f142-2d8b-4b5b-b2b0-473947990efe` (stone wall and lawn only behind him), VC `40a648d4` "There you go, Miriam. All done." OK.
 - Whole-film transcript checked; four unclear spots re-checked on the mix itself (17 "in hedges", 51 "Dad—", 52 "I said all right", 80) — all exact. "Thanks for watching!" heard on clip 81 is a transcription hallucination on the riser/impact (raw clip has no voice).
+
+## Delivered
+Part 6 final: media `db92e911-6a86-480a-8da0-a44f80f17153` — https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/db92e911-6a86-480a-8da0-a44f80f17153.mp4
+6:26, -14.1 LUFS, no black gaps, dialogue track = picture length (385.67 s). Credits after Part 6: ~1,570.
