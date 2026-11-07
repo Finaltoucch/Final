@@ -77,3 +77,7 @@ Note: scene order in the edit follows the screenplay (1,2,3,4,5,6,7,8,9); clip n
 - VC wave 3: 9→`9f39adbc-64b7-42ca-8025-10059ca22fa1` (Maya), 10→`405e3fc4-f5c7-4173-81ca-6a336c60b3a2` (Bob), 11→`c8a15702-eb9c-4e12-8633-7242c7b6530c` (Maya), 12→`17027cb4-94ca-4665-8fe3-360a7966ebb7` (Bob), 14→`38930653-b204-4a95-aba9-23e7a1e205b9` (Bob), 15→`53f6f144-0a3a-43a2-a050-183c32a938ad` (Bob), 17→`dc40fc6d-fe5c-42e2-8a7b-732eaee46d85` (Bob), 19→`7acd46e7-1116-43f6-9e94-bc5c9c22c42b` (Maya).
 - Still to VC: 20,22,23,24,25,26,27,28 · 30,32,34 (Andre) · 31,33,35 · 45 (Skye) · 46 · 47,48.
 - QA sandbox restarted at clip 15; rerunning 16+ and VC 1–8 in /home/user/p1 (qa_part_0*.txt).
+- QA results: raw 20,28,31,32,34,36–49 OK (words match, no cuts). VC 2–8 word-perfect. **VC 1 garbled** ("I've added to Halbrook") → rerun `0a97a8cf-46c2-404d-81f4-9323ee195e66`.
+- VC wave 3 done: 10 `405e3fc4`, 11 `c8a15702`, 12 `17027cb4`, 14 `38930653`, 15 `53f6f144`, 17 `dc40fc6d`, 19 `7acd46e7`; 9 `9f39adbc` pending.
+- VC wave 4: 20→`f4c76226-c554-457f-aa89-8b827b6ab141`, 22→`5a04f69a-48fb-4e8e-ba97-fa2f870ed426`, 23→`74452d28-9f7f-4284-91f2-0eb980ecde48`, 24→`1810f7a7-4749-4c2b-8bb9-05c9ff4f5bcd`, 25→`5c8fd2c5-af3a-4a89-a5ce-8cf890925229`, 26→`e75c28b4-0835-4691-994c-ad4a3de459b3`, 27→`128f2e64-9000-43b1-845e-00d1c7968563`.
+- Remaining VC: 28 (Maya), 30/32/34 (Andre), 31/33/35/47/48 (Bob), 45 (Skye), 46 (Maya).
