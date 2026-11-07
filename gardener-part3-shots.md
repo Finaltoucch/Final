@@ -26,3 +26,9 @@ Hook clips 1-9 (1080p, VC versions) are reused for "And who's this?" through "Ga
 | 317 | Bench OTS Elijah → Hannah | `d5154f3f-185d-47b0-8ee6-7d50bee49f91` |
 | 318 | Bench OTS Hannah → Elijah | `2b994dfa-1704-4a88-8624-8413939810ff` |
 | 319 | Elijah touches the rose, "Miriam" | `7bd365ed-deff-4276-b57b-df345cd5a5c3` |
+
+## Frame review (Nov 7)
+Rejected: 303/3031/307/309 (Elijah drifted to a famous-actor face in warm kitchen light), 313/3131 (both hands came out Black), 316/318 first pass (torch rendered as a flame).
+Used: 300, 301, 302, 304, 305 (hook frame), 306, 308, 3091 `e620914c-83f1-45af-93ad-6f924703a6b9`, 310, 311, 312, 314b over-shoulder `4cb6b63a-91af-4701-84aa-287acc348f9c`, 315, 316b `9b78ad59-bfe3-47b2-a149-cbd6b2e2a817`, 317, 318b `6bf97cdd-d84c-45d5-bc0c-baa0d5ea02f3`, 319b `b4124f7b-2d72-4ac5-95c9-f469138c851a`. 307 restaged as a wide (Elijah small in the doorway) `aa4cc9a6-8feb-4f51-a45d-14d52aae89ea`. Handshake insert dropped; the handshake plays in clip 21.
+Delia voice: **Marisol** `75e72cd5-011b-4130-a474-e8b1ab341f04`.
+Clip map: gardener-part3-clips.json.
