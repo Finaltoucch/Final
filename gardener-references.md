@@ -124,3 +124,9 @@ Lower thirds via mb.py `lt` (white NAME, gold role, 0.5 s to min(clip-0.25, 4 s)
 - Part 3: HANNAH'S HOUSE (The engagement dinner), DELIA (The caterer)
 - Part 4: WHITMORE ESTATE (The side gate)
 Rule from now on: every new part gets captions for new characters and new locations.
+Rebuilt with captions (Nov 7), all transcribed end to end and dialogue length checked:
+- Part 1 v2 `d170094a-9239-41fe-8707-0c7aee5d8636`
+- Part 2 v2 `e3e6c9c0-2aaa-4199-8831-2f941f9f5b0c`
+- Part 3 v2 `6e8529c8-7677-4ff1-aaf1-3309d7c582d8`
+- Part 4 v2 `d7a0953e-9c3e-4636-92ad-18f21f784ecc`
+(URLs: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/<id>.mp4)
