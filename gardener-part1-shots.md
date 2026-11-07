@@ -89,3 +89,9 @@ Note: scene order in the edit follows the screenplay (1,2,3,4,5,6,7,8,9); clip n
 - Clip 1: VC garbled twice → **RAW** (`c6a1ffc3…`).
 - Reruns: 10 `30e05109-47c0-492f-b0d2-f17f446ba62a` ("Yo go"), 19 `f8bfec99-0fea-4989-8f55-889ca6bd213d` ("bulks"), 25 `8b16fa9f-7b72-4d49-97e6-2ac83b0e55e1` (dropped "And"), 35 `0a41fc2f-c8a3-4f0e-9e96-6cb6ab5232a6` ("She never met Hood").
 - Clip 9 raw dropped "of" → reshot `dfed9290-898a-43cb-9072-4f849db1d130` (then VC Maya).
+
+## Final Part 1 voice decisions
+- RAW (VC garbled twice): 1 ("I got into"), 19 ("books"), 25 (dropped "And"), 35 ("Never met who?"), 46 ("He's"→"She's"), 48 ("Ma'am").
+- Clip 9: reshoot `dfed9290…` still reads "a couple years" even on medium.en — natural reduction of "couple of"; using original 9 + Maya VC `9f39adbc…`. Flagged to owner.
+- VC used for all other speaking clips (Maya/Bob/Andre/Skye). Gains auto-levelled per clip in build (target speech ≈ -17 dBFS).
+- Build: Higgsfield sandbox /home/user/p1b (mk.py → edit.json, cues.json, build.sh). Upload media `26f590f5-2e32-4c8b-8323-915bf310efaf`.
