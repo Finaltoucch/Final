@@ -6,3 +6,16 @@ Wardrobe: Elijah hospital gown; Hannah plain grey knit sweater (sc46-47), blue g
 
 ## Frames (batch A)
 900 room wide `f1c55627` · 901 OTS→Elijah (face) `c428fede` · 902 OTS→Hannah `7886ecec` · 903 Dr. Nair at foot of bed `b8f9b113` · 904 Hannah close `60e62a77` · 905 hands insert `b0d0e88c` · 906 foreheads `fb38c401` · 910 pre-op gurneys `84159080` · 911 OTS→Elijah gurney `71661451` · 912 Hannah gurney `d6b88b35` · 913 hands across gap `cec9767f` · 914 doors `a3fbb2c7`
+912b Hannah gurney (fixed: stray white man) `696f6f24` · 913b hands (fixed skin tone) `96a00c2c`
+
+## Frames (batch B, scenes 49-51)
+920 waiting wide `fa1e92c6` (door had glass, retired) → 9201 solid wooden doors `5134b5a8` · 921 Richard + Walter arrive `747e99e4` · 922 OTS→Richard `5735bd45` · 923 OTS→Julian `a272ee21` · 924 seated together `8a3d535e`
+930 recovery wide `e6ac8c5e` · 931 OTS→Dr. Nair `c3862463` · 932 Hannah close `7eeda345` · 933 OTS→Julian with coat bag `309a2e7c` · 934 phone from pocket `011327b9` · 935 phone open, waveform `9d612979`
+940 room wide, Walter at door `14f25f0e` · 941 OTS→Walter `ffda5b75` · 942 Elijah (face drifted, retired) `cd2721e6` → 9421 from 901 `7d8d74cd` · 943 OTS→Hannah with phone `273b6923` · 944 Walter close `b556a007`
+
+## Clips and fixes
+- 46-48: as before; 11 "I found the box" VC garbled twice ("waxed") → Maya TTS over the raw clip (d/c11). 6 rebuilt from VC take (TTS "No." + Hannah VC "Dad.").
+- 49: 41 arrive (muted), 42/45 Julian (Xavier), 43/44/46 Richard (Barrett), 47 seated (silent). Caption SAINT MARY'S HOSPITAL / Waiting area.
+- 50: 61 wide (caption SAINT MARY'S HOSPITAL / Recovery), 62 Nair (Imogen), 63 tears, 64 Julian (Xavier), 65 phone out, 66+67 merged (d/c66): phone plays Marcus's ORIGINAL Part 5 recording (p5 d/c3, phone-filtered), 68 Hannah raw (VC twice garbled "half a"), 69 Julian, 70 Hannah.
+- 51: 71 knock, 72 Walter: Kling said "ark" → Arthur TTS "arch" over the clip (d/c72), 731 Elijah "You remembered." Seedance flagged the frame twice (nsfw/likeness) and the Kling take grinned like a famous actor → line played off-camera in Bob TTS over Walter's reaction (d/c731), 74-79 Hannah/Walter (VC; 76 VC also removed a stray "for").
+- Muted silent shots where stray murmurs could be heard: 27, 28, 32, 41, 75.
