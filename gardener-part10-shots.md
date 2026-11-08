@@ -14,3 +14,10 @@ Dropped: 1008 (board members on wrong sides), 10115 (Hannah missing), clip 39 (n
 - Hannah "your son's arch": Kling said "arc" three times / "arch-arch" once → re-shot with a pause after "arch" (2425) → VC Maya, both models hear "arch".
 - "Walter?" VC had a stray sound before the word → muted (d/c17).
 - Folder in Hannah's hands in the Marcus-facing angle only → frames fixed, clips 8, 12, 16, 19, 26, 28 re-shot.
+- Marcus "I'll keep this short": VC turned "I'll" into "We'll" twice → re-shot (21) → VC clean.
+- Hannah "you made pick up your napkin": VC dropped the "d" twice ("may") → re-shot (2431) → VC clean.
+- "Walter?" breath blip before the word muted (d/c17 trimmed to the word).
+
+Edit: 45 shots, 3:32, -14.1 LUFS, no black frames. Caption WHITMORE HOLDINGS / Three weeks later (1). Cues: suspense 1-9, tension 10-22, sad 23-27, tension 28-32, hope 33-34, dark 35-38, sad (low) 51-56.
+Checks: per-character strips (Hannah, Marcus, Celeste), every spoken shot transcribed with medium.en from the dialogue track, segment re-checks on the final file.
+**Delivered Part 10: media `c355d84f-5a4e-4e43-8146-05971bc841be`.** Credits after: ~1,718.
