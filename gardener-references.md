@@ -130,3 +130,8 @@ Rebuilt with captions (Nov 7), all transcribed end to end and dialogue length ch
 - Part 3 v2 `6e8529c8-7677-4ff1-aaf1-3309d7c582d8`
 - Part 4 v2 `d7a0953e-9c3e-4636-92ad-18f21f784ecc`
 (URLs: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/<id>.mp4)
+
+## Hard rules added Nov 8 (owner: "never make this stupid mistake again")
+1. **Hair/wardrobe lock per scene.** Before any clip is shot, put EVERY frame of a scene side by side and compare each character's hair, clothes and props across all angles. Hannah's hair is ALWAYS a sleek low bun (centre part, nothing loose) unless the script says otherwise. No frame is approved on its own; frames are approved as a set.
+2. **One voice source per character, every scene.** Every line of a character goes through the same voice change (Hannah = Maya VC). Never mix in TTS takes or raw model voices for a character who speaks on camera. If a VC take garbles, re-shoot the clip and voice-change it again; do not patch with TTS/raw.
+3. Contact-sheet QA must include a per-character strip (all shots of one character in a scene) and a listen-through of each character's lines in sequence before delivery.
