@@ -23,3 +23,10 @@ Wardrobe: Elijah hospital gown; Hannah plain grey knit sweater (sc46-47), blue g
 
 Edit: 57 shots, 4:26, -14.1 LUFS, no black frames. Captions: SAINT MARY'S HOSPITAL / Pre-op (28), / Waiting area (41), / Recovery (61). Cues: sad 1-10, tender 11-33, suspense 41-47, hope 61-65, dark 66-70, tender (low) 71-74, suspense 75-79.
 **Delivered Part 9: media `15a84f68-8ba6-480f-a3be-4d3d26086ccd`** (full scenes 46-51). Credits after: ~2,575.
+
+## Owner fix (Nov 8): hair + voice continuity
+- Owner caught Hannah's hair loose in the wide OTS angle (902) vs sleek bun in the close angle (904) in the same scene. All 902 shots (5, 6, 11, 15, 17, 20, 22, 232) re-shot from new frame 9024 `289a96f1` (902 with her bun and the two small moles).
+- Owner caught her voice changing within the scene (TTS line 11, raw line 68). Every Hannah line is now Maya VC: re-shoots VC'd; 68 re-shot (681 `b1f6a23e`, VC clean "half a"); "Dad." re-shot (807 picture, 808 VC audio, timed to lips).
+- Same rule applied to all characters: Elijah's off-camera lines (3, 6 "No.", 8, 19, 731) and Walter's "arch" (72) passed through Bob/Arthur VC, so no character mixes TTS with VC.
+- Checks: per-character strip (all 14 Hannah shots in the bun), pitch check across Hannah's lines (~200-210 Hz), full transcript.
+**Re-delivered Part 9: media `f59d015e-785c-4396-9a71-b9a695a0e0ee`** (replaces `15a84f68`). Credits after: ~2,336.
