@@ -19,3 +19,7 @@ Wardrobe: Elijah hospital gown; Hannah plain grey knit sweater (sc46-47), blue g
 - 50: 61 wide (caption SAINT MARY'S HOSPITAL / Recovery), 62 Nair (Imogen), 63 tears, 64 Julian (Xavier), 65 phone out, 66+67 merged (d/c66): phone plays Marcus's ORIGINAL Part 5 recording (p5 d/c3, phone-filtered), 68 Hannah raw (VC twice garbled "half a"), 69 Julian, 70 Hannah.
 - 51: 71 knock, 72 Walter: Kling said "ark" → Arthur TTS "arch" over the clip (d/c72), 731 Elijah "You remembered." Seedance flagged the frame twice (nsfw/likeness) and the Kling take grinned like a famous actor → line played off-camera in Bob TTS over Walter's reaction (d/c731), 74-79 Hannah/Walter (VC; 76 VC also removed a stray "for").
 - Muted silent shots where stray murmurs could be heard: 27, 28, 32, 41, 75.
+- Fix: a later src.txt line overrode x_c72, so the first builds used the raw "ark" take; re-added x_c72 last and rebuilt ("From the arch." confirmed in the mix).
+
+Edit: 57 shots, 4:26, -14.1 LUFS, no black frames. Captions: SAINT MARY'S HOSPITAL / Pre-op (28), / Waiting area (41), / Recovery (61). Cues: sad 1-10, tender 11-33, suspense 41-47, hope 61-65, dark 66-70, tender (low) 71-74, suspense 75-79.
+**Delivered Part 9: media `15a84f68-8ba6-480f-a3be-4d3d26086ccd`** (full scenes 46-51). Credits after: ~2,575.
