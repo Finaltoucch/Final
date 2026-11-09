@@ -108,7 +108,7 @@ Interiors: clinic consult + recovery, bank, library, Elijah's 2018 bedroom, Hann
 |---|---|---|---|
 | Elijah | **Bob** | `ca12fd00-218c-5198-b10c-7d36e768c12c` | LOCKED (owner, Nov 6) |
 | Hannah | **Maya** | `b0f766b7-8703-4bd1-b973-f857c36837b6` | LOCKED (owner, Nov 6) |
-| Julian | **Xavier** | `43173c95-3ec8-446a-a162-6504332c578b` | LOCKED (chosen by measurement, owner delegated) |
+| Julian | **Julian natural (D)** (cloned element, from his own Part 8 n28 take) | `2385cbbf-bcf8-4083-8dd5-778860097423` (voice_type `element`) | LOCKED by owner Nov 9 (replaced Xavier, which sounded robotic) |
 | Celeste | **Vera** | `0c51919f-0756-5f8d-8169-026a339d8fd7` | LOCKED (owner, Nov 9: Vesper sounded robotic; owner picked Vera from a 5-voice audition). Vesper `c3204739…` is retired. |
 | Marcus | **Grady** | `e2a2d2e6-9ed2-59cd-82af-feaa27f8a678` | LOCKED (chosen by measurement, owner delegated) |
 | Walter | **Arthur** | `30fc8796-ceb6-4a66-b3a7-4a145ef7f346` | LOCKED (chosen by measurement, owner delegated) |

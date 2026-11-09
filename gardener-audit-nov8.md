@@ -165,6 +165,29 @@ Re-shot in Kling 3.0: 51 `23be6753…`, 52 `751dba58…`, 53 `ff7ac041…`, 54 `
 VC: 52 `5fd1715e…`, 54 `6c7ef377…` (Vera); 53 `af860df0…`, 55 `5c450422…` (Maya). The onset pop in 53's first 0.2 s was faded out. 51 uses room tone from 56 (the raw take had stray mumbling).
 All four lines are word for word in the final cut, and the chignon holds in every frame. Part 10 is now 215.3 s, −14 LUFS → **`ad32dd22-4a35-4eac-bfc7-43284bdaaab6`**.
 
-## Nov 9 — Julian re-voice (open)
+## Nov 9 — Julian re-voice (done)
 
-The owner said Xavier sounds robotic. A reel of Julian's raw Kling takes (A=flashback k4, B=k12, C=k10, D=p8 n28, E=p8 n39, F=p8 n24, G=p8 n37, H=p8 n18) went to the owner as media `3aa2559b…`. Awaiting their pick; then clone it, VC every J line (Parts 2, 3, 8, …), and rebuild.
+The owner said Xavier sounded robotic. Reel of Julian's raw Kling takes A–H (media `3aa2559b…`); the owner picked **D** (Part 8 n28, "I know. I should have seen it at the dinner…"). Cloned as **Julian natural (D)** `2385cbbf-bcf8-4083-8dd5-778860097423` (element) from 0.4–7.5 s of that take, ×2 (14.9 s, media `e1c2220d…`). A voice-slot limit (3) needed the owner to delete the unused "Harold natural" first.
+
+Every Julian line was found by transcribing every shot of every part as cut (Parts 1, 4, 5, 6 and 10 have none; the hook has only his non-laugh): 34 lines.
+- Part 2: 40, 41, 46, 47, 49, 52, flashback 73, 75, 77, 79, 81, 83
+- Part 3: 10, 14, 16, 18, 20, 23
+- Part 7: 8, 10
+- Part 8: 18, 20, 22, 24, 28, 35, 37, 39, 41
+- Part 9: 42, 45, 64, 69
+- Part 11: 9
+
+Each line's current source (the composite or fixed version where one existed) went through VC with the new voice; files are in sandbox `aud/jul/`. Each was checked with medium.en against the previous wording.
+- VC garbled two lines, which were redone from the raw Kling take: Part 9 n45 ("I even had tellers" → "Are you going to tell her?", from raw `d8b95a48…`) and Part 11 n9 ("Thank you, Star" → "Thank you, sir.", from raw `acdab416…`).
+- Part 2 n79 had a pre-line breath heard as "If": the original bed was kept for 0–0.42 s, with a 0.1 s fade-in at 0.40 → both models read "I'm Julian."
+- In the final cuts every Julian line reads word for word (medium.en for the short ones under music: P8 "Marcus says." / "Why?", P3 "That's it? That's the secret?").
+
+Delivered (all −14.0/−14.1 LUFS):
+- Part 2 → **`738dc44c-a63f-4fd4-9bc2-207e08cdd39b`** (325.4 s)
+- Part 3 → **`744a99c3-89fc-4d2c-804b-fcc7a73092cb`** (202.2 s)
+- Part 7 → **`3a946998-86eb-4229-bcd0-20a5e4f09ac0`** (188.1 s)
+- Part 8 → **`0caa83e6-b1f4-4dc1-b8e8-73005c47e953`** (196.1 s)
+- Part 9 → **`b31fa359-d281-4d86-bb29-3ac9425fb608`** (265.8 s)
+- Part 11 → **`caa6f5e7-ca10-44c9-8e3f-963ffb474862`** (189.5 s)
+
+Credits ran out on the last two VC retries (the extra copies of 45/9 were not needed).
