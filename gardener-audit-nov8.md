@@ -157,3 +157,14 @@ Known transcriber artefact: in Part 11 "Good. Keeps us even." the transcriber ad
 | Part 11 | `e054777d-55f4-40f4-9d43-6d39b78f9a08` |
 
 Audit in progress (contact sheet per part, one frame per shot): Parts 3, 6 and 8 pass. Part 10 has an open finding: Celeste wears a low chignon in the boardroom (n22) but a short bob in the corridor right after (n51–n56), on the same day.
+
+## Nov 9 — Part 10 corridor hair fix
+
+Celeste wore a bob in the corridor (n51–n56) but a low chignon in the boardroom the same day. The corridor frames were edited to the boardroom chignon (nano_banana_pro; ref = boardroom over-shoulder at 100.5 s): n51 `34ce4eba…`, n52/54/56 `b2ae5e9b…`, n53/55 `84112b71…`.
+Re-shot in Kling 3.0: 51 `23be6753…`, 52 `751dba58…`, 53 `ff7ac041…`, 54 `607b6150…`, 55 `97520a75…`, 56 `b44a0e5b…`.
+VC: 52 `5fd1715e…`, 54 `6c7ef377…` (Vera); 53 `af860df0…`, 55 `5c450422…` (Maya). The onset pop in 53's first 0.2 s was faded out. 51 uses room tone from 56 (the raw take had stray mumbling).
+All four lines are word for word in the final cut, and the chignon holds in every frame. Part 10 is now 215.3 s, −14 LUFS → **`ad32dd22-4a35-4eac-bfc7-43284bdaaab6`**.
+
+## Nov 9 — Julian re-voice (open)
+
+The owner said Xavier sounds robotic. A reel of Julian's raw Kling takes (A=flashback k4, B=k12, C=k10, D=p8 n28, E=p8 n39, F=p8 n24, G=p8 n37, H=p8 n18) went to the owner as media `3aa2559b…`. Awaiting their pick; then clone it, VC every J line (Parts 2, 3, 8, …), and rebuild.
