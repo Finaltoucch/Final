@@ -147,7 +147,7 @@ Known transcriber artefact: in Part 11 "Good. Keeps us even." the transcriber ad
 ### Re-delivered (Nov 9, round 2)
 | Part | Media ID |
 |---|---|
-| Part 2 | `c065a6a9-52a4-422d-942b-ef8e79c80760` (flashback; garden and signing fixes in the next upload) |
+| Part 2 | `bd6ae0ee-2e70-4058-a680-ff11c8532a33` (flashback + garden scene + signing insert) |
 | Part 4 | `ad042e86-abdc-4437-98e6-486430e592d4` |
 | Part 5 | `810b9fbb-8ecf-42ef-b44e-8cddb5a26f75` |
 | Part 7 | `ae6f362f-f1fa-49e9-8fca-ee7671a2af7c` |
