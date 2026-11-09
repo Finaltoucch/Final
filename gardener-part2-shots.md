@@ -43,3 +43,54 @@ Faces: **Elijah drifted** in the garden frames (230, 233, 235 and their clips 21
 - Clip 51 (embrace) muted: Kling added a stray "Thank you".
 - Final file transcribed end to end: every line present and in order.
 - Build: Higgsfield sandbox /home/user/p2 (src.txt, rs.txt, v*.txt, order.json, cues.json, mk2.py, build.sh).
+
+## Nov 9: flashback "How they met" (new scene, owner-approved)
+The owner noted that the story never showed how Hannah and Julian met. They approved the scene below and asked for love at first sight, slow eye contact and a romantic song. It sits between the office scene (n18) and the Sunday lunch: CARD "ONE YEAR EARLIER", then shots 70–84, then CARD "PRESENT DAY", then n30.
+
+**Screenplay addition (owner-approved Nov 9):**
+> JULIAN: Is that a peanut butter sandwich? You're a lawyer.
+> HANNAH: Lawyers eat.
+> JULIAN: Lawyers expense lunch. Who packed it?
+> HANNAH: My dad.
+> JULIAN: He cut the crusts off.
+> HANNAH: He thinks I'm nine.
+> JULIAN: I'm Julian. I design buildings. *(glances at the courthouse)* Not this one.
+> HANNAH: Hannah. I argue in this one.
+> JULIAN: Then let me buy you a lunch nobody packed. Dinner, technically.
+> HANNAH: You don't even know my last name.
+> JULIAN: That's what dinner's for.
+
+**Frames** (built from Hannah master `ab01076b…`, Hannah office `2951f5a4…`, Julian master `f9013294…`, lunch two-shot `fe7d3aff…`):
+
+| Frame | Description | ID |
+|---|---|---|
+| F0 | wide shot, courthouse bench, strangers at either end | `7532e14e-aaaa-4767-89f4-031973b9ec27` |
+| F1 | over Julian's shoulder → Hannah | media `6404fbc3-97fa-43c9-8871-6c59f4fa4afb` (from `28b7a572…`; first version `117cc591…` crossed the 180° line; extra moles retouched out to her locked two) |
+| F2 | over Hannah's shoulder → Julian | `1e6906f3-e2b9-413b-95cb-a4fb46d64051` |
+| F3 | profile two-shot, eye contact | media `cec9d130-fa70-41b1-9a25-ab525b038d7a` (from `a6106b8a…`; her two right-cheek moles painted in, since the model's edit added three) |
+
+**Clips** (Kling 3.0 std; Julian = Xavier VC, Hannah = Maya VC):
+
+| n | Content | Kling job | Final source |
+|---|---|---|---|
+| 70 | establishing shot (caption CITY COURTHOUSE / Downtown, lunch hour) | `2ae2b7e8…` | own ambience |
+| 71 | Julian looks up and stops, slow motion (caption JULIAN WHITMORE / An architect) | `9d9af7f2…` | ambience bed |
+| 72 | Hannah meets his eyes and holds, slow motion | `e3afc6af…` | ambience bed (raw had a stray "you") |
+| 73 | J: Is that a peanut butter sandwich? You're a lawyer. | `9ba1dbad…` | VC `9b96ec35…` |
+| 74 | H: Lawyers eat. | `e8fbf56b…` | VC `2bb76fa2…` |
+| 75 | J: Lawyers expense lunch. Who packed it? | `07554cc1…` | VC `6381acb4…` |
+| 76 | H: My dad. | `966be2eb…` | VC `755b7cee…` |
+| 77 | J: He cut the crusts off. | `89dc5da6…` | raw said "crust"; Xavier-preset TTS composite (media `b4ad42b3…`), then VC `15ddc620…` |
+| 78 | H: He thinks I'm nine. | `2ab39212…` | VC `b370326f…` |
+| 79 | J: I'm Julian. I design buildings. Not this one. | `07d1b7c1…` | VC `4a02b2cb…` |
+| 80 | H: Hannah. I argue in this one. | `9b434e6d…` | VC `2c13a19b…` |
+| 81 | J: Then let me buy you a lunch nobody packed. Dinner, technically. | `1ef03c6d…` | VC `cb51439a…` |
+| 82 | H: You don't even know my last name. | `74300392…` | VC `f674c748…` |
+| 83 | J: That's what dinner's for. | `08d1b2bb…` | VC `65012867…` |
+| 84 | slow eye contact, she nods yes | `47028727…` | ambience bed (raw had a stray "you") |
+
+The first Xavier VCs for 73, 75 and 79 (`eeaad84f…`, `a4b612ff…`, `3e93bd24…`) stalled and were resubmitted. All shots are trimmed in `meet/cut.py`, with the shot-70 ambience as a continuous bed, for 54.6 s in total. A transcript of the whole cut scene matches the lines above word for word.
+
+**Music:** ElevenLabs Music v2.5, 60 s, piano, strings and wordless humming, no lyrics (job `4e2d55c9-7eac-45f3-a350-a4e5574d6cac`). It plays from the ONE YEAR EARLIER card through the final eye contact, ducked under dialogue, and fades over PRESENT DAY. `score.py` gained a `file` cue type for this.
+
+Julian's lunch caption (n40) was removed, since he is now introduced in the flashback.

@@ -126,3 +126,31 @@ All are -14 LUFS. These supersede the Nov 8 IDs above for these parts; Parts 1, 
 | Part 8 | 196.2 s | `662caab9-3fb5-49c7-9850-dc350ad221d3` |
 | Part 10 | 212.2 s | `0b805f5b-2d6b-4695-afba-7eeb6c9df63b` |
 | Part 11 | 189.5 s | `3aaeb3f2-3e32-4a1e-ab52-556488dd4f78` |
+
+## Nov 9, round 2 (owner review notes)
+
+| Part | Where | Owner note | Fix |
+|---|---|---|---|
+| 2 | new scene | "We didn't show how the couple met" | New flashback ONE YEAR EARLIER → PRESENT DAY: courthouse steps meet-cute, love at first sight, original romantic score; see `gardener-part2-shots.md` |
+| 2 | opening garden 0:00–0:40 | slop and glitches | Hannah's reverse shots rebuilt so she stands at arm's length (she had been ten metres away); goodbye shot rebuilt at the same rose arch (kiss, lunch bag, rose into her tote); Elijah's pill shot rebuilt at the same arch, stray "Okay" removed |
+| 2 | signing insert ~1:09 | "they are sitting apart" | Insert rebuilt across the desk: her hands sign, his hand taps the flags from the far side |
+| 4 | luncheon 2:00–2:45 | Hannah appears from nowhere; cuts not smooth | Celeste's reverse angle had her standing at a small round table, alone. New reverse frame has her seated at the long table with her friends (no empty chairs). Napkin slide added; she never takes the napkin; Hannah now steps out through the terrace doors. Lines re-voiced (Vera/Bob/Maya); "Ma'am?" and "Since you're here." rebuilt as exact-line composites |
+| 5 | 3:54 | unfinished line; owner changed it to "Good night, Dad." | Maya VC kept turning "Dad" into "Gad", so I spliced "Good night," (new VC) with the verified Maya "Dad." from the earlier take; both transcribers read "Good night, Dad." |
+| 7 | 0:00 | the man on the ground is not Elijah | Frame rebuilt from Elijah's references (grey hair, brown wool coat); re-shot |
+| 8 | 1:25 | "Call whoever you like. I'm still marrying her." | "her" was clipped at the cut; exact-line Xavier composite placed earlier, then VC |
+| 9 | 0:21 | Hannah's hair loose | Frame fixed to her sleek low bun; picture re-shot; the verified audio was kept |
+| 10 | Richard | voice robotic, wants a natural elderly voice | 5 preset auditions rejected; offered his 8 original on-camera takes (A–H) to clone a natural voice. **Waiting for the owner to pick.** |
+| 11 | dance 2:08 | bride and father were not Hannah and Elijah; wants an emotional ending love song | Wide dance frame rebuilt and corrected to Hannah's master (skin tone, moles, figure); new ending song (original lyrics), restructured so its vocals start only after the dance dialogue; the stray "Thank you very much" is gone |
+
+Known transcriber artefact: in Part 11 "Good. Keeps us even." the transcriber adds a phantom "She" whenever any background sound is present (pink noise reproduces it). The dialogue track alone reads correctly, and the breath before "Keeps" is muted.
+
+### Re-delivered (Nov 9, round 2)
+| Part | Media ID |
+|---|---|
+| Part 2 | `c065a6a9-52a4-422d-942b-ef8e79c80760` (flashback; garden and signing fixes in the next upload) |
+| Part 4 | `ad042e86-abdc-4437-98e6-486430e592d4` |
+| Part 5 | `810b9fbb-8ecf-42ef-b44e-8cddb5a26f75` |
+| Part 7 | `ae6f362f-f1fa-49e9-8fca-ee7671a2af7c` |
+| Part 8 | `046b5aad-fcb4-458d-a499-d413d594b139` |
+| Part 9 | `f0053b4f-a6a6-4ff4-b615-11aaae4ce356` |
+| Part 11 | `e054777d-55f4-40f4-9d43-6d39b78f9a08` |
