@@ -191,3 +191,16 @@ Delivered (all −14.0/−14.1 LUFS):
 - Part 11 → **`caa6f5e7-ca10-44c9-8e3f-963ffb474862`** (189.5 s)
 
 Credits ran out on the last two VC retries (the extra copies of 45/9 were not needed).
+
+## Nov 9 — last two flags, and the full movie
+
+- Part 2 n51 (embrace after "Yes, yes, get up.", a silent shot): the raw take had a stray "Thank you." that sat at −30 dB under the score. Its audio is now true silence (`aud/jul/p2_51silent.mp4`), so only the score plays. Part 2 → **`72fd7808-92f6-41ba-9a88-5def34b642cc`** (325.4 s, −14.1 LUFS).
+- Part 3 n21: no change. "Elijah. Nice to meet you, sir." is screenplay clips 21+22, deliberately merged into one Seedance take (see part 3 notes); Julian's reply "Please don't call me sir" depends on it.
+
+Full movie = Hook + Parts 1–11 (latest cuts). Each part was re-encoded once at near-lossless quality (x264 CRF 17, 1080p24, AAC 192k) with a 0.4 s fade-in and a 0.45 s video / 0.8 s audio fade-out. The audio fade was shortened where dialogue runs to the last frame (P7 0.5 s, P9 0.08 s). Parts are joined with 0.5 s of black and stream-copied. Total 44:59 (2699.2 s), −14.1 LUFS; A/V offset is a constant 21 ms (AAC priming) with no drift.
+The upload server and the app both cap a single file at 500 MB (the 1.38 GB master was refused), so the master was delivered as three volumes cut at part boundaries, with no further re-encoding:
+- Vol 1 (Hook–Part 3, 13:42) **`e86a1a5b-b803-4042-a816-0234753411a1`**
+- Vol 2 (Parts 4–7, 16:48) **`ee96b35c-57a4-4f43-878e-27ec98b0f890`**
+- Vol 3 (Parts 8–11, 14:28) **`f4aacd8e-20e6-4e93-a44b-6c056704f9e4`**
+
+Sandbox: `/home/user/movie/movie.mp4` (sha256 e49dd481…).
