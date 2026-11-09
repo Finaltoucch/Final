@@ -106,7 +106,7 @@ Interiors: clinic consult + recovery, bank, library, Elijah's 2018 bedroom, Hann
 
 | Character | Voice | voice_id | Status |
 |---|---|---|---|
-| Elijah | **Bob** | `ca12fd00-218c-5198-b10c-7d36e768c12c` | LOCKED (owner, Nov 6) |
+| Elijah | **Elijah natural (H)** (cloned element, picked by owner from a reel of his original takes) | `de6e1933-bc85-44f2-a436-5011ec80b58e` (voice_type `element`) | LOCKED by owner Nov 9 (replaced Bob `ca12fd00-218c-5198-b10c-7d36e768c12c`, which sounded robotic) |
 | Hannah | **Maya** | `b0f766b7-8703-4bd1-b973-f857c36837b6` | LOCKED (owner, Nov 6) |
 | Julian | **Julian natural (D)** (cloned element, from his own Part 8 n28 take) | `2385cbbf-bcf8-4083-8dd5-778860097423` (voice_type `element`) | LOCKED by owner Nov 9 (replaced Xavier, which sounded robotic) |
 | Celeste | **Vera** | `0c51919f-0756-5f8d-8169-026a339d8fd7` | LOCKED (owner, Nov 9: Vesper sounded robotic; owner picked Vera from a 5-voice audition). Vesper `c3204739…` is retired. |

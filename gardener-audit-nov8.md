@@ -204,3 +204,49 @@ The upload server and the app both cap a single file at 500 MB (the 1.38 GB mast
 - Vol 3 (Parts 8–11, 14:28) **`f4aacd8e-20e6-4e93-a44b-6c056704f9e4`**
 
 Sandbox: `/home/user/movie/movie.mp4` (sha256 e49dd481…).
+
+## Nov 9 — Elijah re-voiced with "Elijah natural (H)", and the Part 1 graduation fix
+
+The owner found Elijah's voice (Bob) robotic and picked voice H from a reel of eight takes cut from his own original performances. It was cloned as a workspace element, `de6e1933-bc85-44f2-a436-5011ec80b58e`.
+
+All 102 Elijah lines were voice-changed with the new element: Hook 2, Part 1 18, Part 2 9, Part 3 13, Part 4 13, Part 5 14, Part 6 16, Part 9 10, Part 11 7. Each line's current source (the fixed or composite clip already in the cut) went through VC. Results are in sandbox `aud/eliraw/vc/`. Every result was transcribed with medium.en and compared with the screenplay.
+
+Lines VC garbled were rebuilt in `aud/eliraw/fix/`. The garbled word was muted and a clean line in the same element voice was laid in at the original mouth timing:
+
+| Line | VC heard | Fix |
+|---|---|---|
+| Hook 9 | "She's a gardener." | seed_audio "Gardener." |
+| P1 10 | "Yo, girl." | seed_audio "You'll go." |
+| P1 4 | "They are pleased." | seed_audio, second sentence only |
+| P1 35 | "Never met Hoop." | seed_audio "Never met who?" |
+| P1 48 | "mayhem" | seed_audio "Ma'am." |
+| P2 21 | "Did your eat?" | seed_audio "Did you eat?" |
+| P2 56 | "Warred 11 years." | ElevenLabs (element voice) "Wore it eleven years.", second sentence only |
+| P2 63 | "I watch the game." | ElevenLabs (element voice) "It's fine. I'll watch the game." |
+| P4 30 | "Man." plus a laugh-like artefact | seed_audio "Ma'am?"; artefact muted |
+| P5 16 | "Send out a minute." | seed_audio "Sit down a minute." |
+| P6 37 | "Lockers." | seed_audio "Marcus?" |
+| P9 6 | "No. Fjag." (VC also converted Hannah's "Dad.") | seed_audio "No." + Hannah's original "Dad." restored from 2.5 s |
+| P9 29 | "You were scared." | seed_audio "You scared?" |
+| P11 42 | "You got it." | seed_audio "Left." |
+| P3 29 | "Delia can…" ("cook" too quiet) | "cook" lifted +9 dB |
+
+Every fixed clip was re-checked with medium.en and reads word for word.
+
+Part 1 graduation (movie 4:42): "Congratulations, Miss…" ran straight into "Ma'am." because shot 47's line was cut off at the edit.
+- Shot 47 is now a Kling retake (`ba262492…`), voice-changed with H and trimmed from 1.5 s so it opens just before the full line "Congratulations, Miss Moore."
+- Shot 48 "Ma'am." is the fixed H line.
+- Shot 49 (silent) carries the graduation crowd ambience (`aud/p1fix/p1b_49amb.mp4`).
+
+Patch maps: each part's `patch.json` was backed up as `patch.json.preeli` before the Elijah entries were added. The hook's `edit.json` was backed up as `edit.preeli.json`. Part 3's `d/hookseg.mp4` was re-cut from the new hook (first 49.25 s).
+
+Final-mix checks: every Elijah shot was cut out of each rebuilt part and transcribed with medium.en against the screenplay; all lines match. Three needed further fixes after that check:
+- P3 29: "can cook" was masked by the score. The phrase was rebuilt from ElevenLabs (element voice) and the shot extended by holding the last frame for 0.25 s.
+- P3 34: the final "s" of "slugs" was clipped by the shot cut. Fixed with the same 0.25 s last-frame hold.
+- P11 451: a breath before "Keeps" read as "She". The breath was muted.
+
+New volume 2 came to 502.6 MB, over the 500 MB upload limit. To avoid re-encoding, the movie is now delivered in four volumes (same fades and 0.5 s black between parts, stream-copied):
+- Vol 1, Hook–Part 3 (13:41): **`bf1af0c6-43e2-46f0-a7da-d93a0951a2dd`**
+- Vol 2, Parts 4–6 (13:39): **`d9d37f48-ea1b-468d-86eb-12f110f04db8`**
+- Vol 3, Parts 7–9 (10:51): **`1815c059-94b1-403e-93c6-83579445352c`**
+- Vol 4, Parts 10–11 (6:45): **`f713cb16-962f-49ce-a1ea-d2742510e287`**
