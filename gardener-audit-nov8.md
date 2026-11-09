@@ -139,7 +139,7 @@ All are -14 LUFS. These supersede the Nov 8 IDs above for these parts; Parts 1, 
 | 7 | 0:00 | the man on the ground is not Elijah | Frame rebuilt from Elijah's references (grey hair, brown wool coat); re-shot |
 | 8 | 1:25 | "Call whoever you like. I'm still marrying her." | "her" was clipped at the cut; exact-line Xavier composite placed earlier, then VC |
 | 9 | 0:21 | Hannah's hair loose | Frame fixed to her sleek low bun; picture re-shot; the verified audio was kept |
-| 10 | Richard | voice robotic, wants a natural elderly voice | 5 preset auditions rejected; offered his 8 original on-camera takes (A–H) to clone a natural voice. **Waiting for the owner to pick.** |
+| 10 | Richard | voice robotic, wants a natural elderly voice | 5 preset auditions rejected; the owner picked take B of his 8 original on-camera takes. Cloned as element `f393b386…`; all 9 Richard lines (Part 2 n42; Part 9 n43, n44, n46; Part 10 n6, n20, n33, n35, n37) re-voiced from the raw takes and verified word for word in the built cuts |
 | 11 | dance 2:08 | bride and father were not Hannah and Elijah; wants an emotional ending love song | Wide dance frame rebuilt and corrected to Hannah's master (skin tone, moles, figure); new ending song (original lyrics), restructured so its vocals start only after the dance dialogue; the stray "Thank you very much" is gone |
 
 Known transcriber artefact: in Part 11 "Good. Keeps us even." the transcriber adds a phantom "She" whenever any background sound is present (pink noise reproduces it). The dialogue track alone reads correctly, and the breath before "Keeps" is muted.
@@ -147,10 +147,13 @@ Known transcriber artefact: in Part 11 "Good. Keeps us even." the transcriber ad
 ### Re-delivered (Nov 9, round 2)
 | Part | Media ID |
 |---|---|
-| Part 2 | `bd6ae0ee-2e70-4058-a680-ff11c8532a33` (flashback + garden scene + signing insert) |
+| Part 2 | `753483b9-e6af-46b8-b154-fa50acdf5114` (flashback, garden scene, signing insert, Richard's new voice) |
 | Part 4 | `ad042e86-abdc-4437-98e6-486430e592d4` |
 | Part 5 | `810b9fbb-8ecf-42ef-b44e-8cddb5a26f75` |
 | Part 7 | `ae6f362f-f1fa-49e9-8fca-ee7671a2af7c` |
 | Part 8 | `046b5aad-fcb4-458d-a499-d413d594b139` |
-| Part 9 | `f0053b4f-a6a6-4ff4-b615-11aaae4ce356` |
+| Part 9 | `b5e1f2a4-e561-4766-8f11-5c5232c9ba82` (bun fix + Richard's new voice) |
+| Part 10 | `ea3157ab-af8d-4a4c-a695-48ebd36a903e` (Richard's new voice) |
 | Part 11 | `e054777d-55f4-40f4-9d43-6d39b78f9a08` |
+
+Audit in progress (contact sheet per part, one frame per shot): Parts 3, 6 and 8 pass. Part 10 has an open finding: Celeste wears a low chignon in the boardroom (n22) but a short bob in the corridor right after (n51–n56), on the same day.
