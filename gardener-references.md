@@ -112,7 +112,7 @@ Interiors: clinic consult + recovery, bank, library, Elijah's 2018 bedroom, Hann
 | Celeste | **Vera** | `0c51919f-0756-5f8d-8169-026a339d8fd7` | LOCKED (owner, Nov 9: Vesper sounded robotic; owner picked Vera from a 5-voice audition). Vesper `c3204739…` is retired. |
 | Marcus | **Grady** | `e2a2d2e6-9ed2-59cd-82af-feaa27f8a678` | LOCKED (chosen by measurement, owner delegated) |
 | Walter | **Arthur** | `30fc8796-ceb6-4a66-b3a7-4a145ef7f346` | LOCKED (chosen by measurement, owner delegated) |
-| Richard | **Barrett** | `d603a8cd-3fe1-55e0-9245-617a2589131e` | LOCKED (chosen by measurement, owner delegated) |
+| Richard | **Richard natural (B)** (cloned element) | `f393b386-bf91-4293-81ed-185e67404577` | LOCKED (owner, Nov 9: Barrett sounded robotic; owner rejected 5 presets and chose take B, his own Part 10 on-camera voice, cloned). voice_type `element`. Barrett is retired. |
 | Dr. Nair | **Imogen** | `3811e986-0891-47cf-a1f5-78a1d62a547a` | LOCKED (chosen by measurement, owner delegated) |
 
 Never reuse Maid voices (Naomi, Benji, Celine, Reid, Helena, Opal, Elena, Desmond).
