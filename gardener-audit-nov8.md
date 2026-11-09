@@ -86,3 +86,43 @@ Parts 9–11 were built after the Nov 8 rules and were audited then (see their s
 
 ## Build note
 The sandbox kills background jobs after 15 minutes, so run each part build (`bash build.sh`, about 5–7 min) as its own job, never chained. `h2/build4.sh`'s loudnorm pass is broken; finish the hook with `h2/fin4.sh` (ebur128 measurement, then volume and limiter).
+
+## Nov 9 corrections
+
+### Celeste's voice: Vesper → Vera (owner's choice)
+The owner said Celeste sounded robotic. Vesper had been my pick, not theirs. After a five-voice audition they chose **Vera** (`0c51919f-0756-5f8d-8169-026a339d8fd7`). All 32 Celeste lines were redone through Vera VC:
+- Hook: 2
+- Part 2: 6
+- Part 3: 2
+- Part 4: 10
+- Part 8: 4
+- Part 10: 6
+- Part 11: 2
+
+Every line was transcribed in the built cut and matches the screenplay. Fixes found along the way:
+- **Part 3 n7 "Still no father tonight, Hannah?":** "Hannah" fell in the last 0.08 s of the shot and was clipped. Rebuilt as a TTS composite that starts 0.5 s earlier (Celeste is wide and mid-sip, so lip-sync holds), then Vera VC. Now complete.
+- **Part 2 n38 "What's his handicap?":** garbled in every Kling take ("hand a pack", "handle cap") and had a stray burst at the head. Rebuilt as a Vera-preset TTS composite, then Vera VC. Both transcribers read it exactly.
+
+### Hook v5: scar reveal
+- n9 re-shot as a slow tilt from Elijah's face down to the kidney-operation scar on his side.
+- Sound: low tension bed under the kitchen scene, a riser peaking as the scar appears (about 7.6 s), a soft stinger on the reveal, then the existing braam on the title card.
+
+### Part 2 terrace lunch: everyone seated
+The owner flagged shots with empty chairs. All 12 lunch shots (n31–n43) were rebuilt from three frames with everyone seated (Richard at the head, Celeste with Marcus beside her, Julian then Hannah opposite), with the camera over the shoulder onto whoever is speaking. The contact sheet shows no empty table. Celeste's silver low chignon matches front and back. Two fixes:
+- **n37:** VC turned "He's" into "She's"; fixed with a Maya-preset composite, then Maya VC.
+- **n40, n43:** trimmed stray words.
+
+The scene's transcript matches the screenplay word for word.
+
+### Re-delivered cuts (Nov 9)
+All are -14 LUFS. These supersede the Nov 8 IDs above for these parts; Parts 1, 5, 6, 7 and 9 are unchanged.
+
+| Part | Length | Media ID |
+|---|---|---|
+| Hook | 55.4 s | `f1610bb9-bf19-49f7-80b6-a1498f71a1aa` |
+| Part 2 | 265.6 s | `92ba1a6a-849a-48f0-b2fc-0c8ed7691752` |
+| Part 3 | 202.2 s | `42b5e7d3-b107-4a04-99ce-d2a4e26639b3` (embeds hook v5) |
+| Part 4 | 183.6 s | `aedb099e-c137-4511-afde-ddc6343d69b2` |
+| Part 8 | 196.2 s | `662caab9-3fb5-49c7-9850-dc350ad221d3` |
+| Part 10 | 212.2 s | `0b805f5b-2d6b-4695-afba-7eeb6c9df63b` |
+| Part 11 | 189.5 s | `3aaeb3f2-3e32-4a1e-ab52-556488dd4f78` |
