@@ -1,0 +1,438 @@
+<title>Penny Drop Brand Guide</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Figtree:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one reading column with full-bleed specimen bands; the copper coin is the only loud element. */
+:root {
+  --copper: #C2622D;
+  --copper-deep: #9A4A1F;
+  --teal: #0E4A57;
+  --mint: #8FE3C0;
+  --ink: #16222B;
+  --paper: #F4F6F6;
+  --surface: #FFFFFF;
+  --muted: #5B6A72;
+  --line: #D9E0E2;
+  --on-dark: #F4F6F6;
+
+  --f-display: "Bricolage Grotesque", "Arial Black", system-ui, sans-serif;
+  --f-body: "Figtree", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ink: #E8EEEF; --paper: #0F181D; --surface: #16232A; --muted: #93A4AB;
+    --line: #26363E; --teal: #12606F; --copper: #D9773F; --copper-deep: #F0A070;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --ink: #E8EEEF; --paper: #0F181D; --surface: #16232A; --muted: #93A4AB;
+  --line: #26363E; --teal: #12606F; --copper: #D9773F; --copper-deep: #F0A070;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.6; }
+.wrap { max-width: 1040px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+h1, h2, h3 { font-family: var(--f-display); line-height: 1.05; text-wrap: balance; margin: 0; }
+h2 { font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 800; letter-spacing: -0.02em; }
+h3 { font-size: 1.15rem; font-weight: 700; }
+p { margin: 0; max-width: 65ch; }
+.label { font-family: var(--f-mono); font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+section { padding-block: 64px; border-top: 1px solid var(--line); }
+.sec-head { display: grid; gap: 12px; margin-bottom: 32px; }
+.sec-head p { color: var(--muted); }
+:focus-visible { outline: 3px solid var(--copper); outline-offset: 2px; }
+
+/* Hero */
+.hero { padding-block: 56px 72px; display: grid; grid-template-columns: 1.3fr 1fr; gap: 40px; align-items: center; }
+.hero h1 { font-size: clamp(3rem, 9vw, 6.2rem); font-weight: 800; letter-spacing: -0.04em; }
+.hero h1 span { color: var(--copper); }
+.hero .tag { font-family: var(--f-display); font-size: clamp(1.2rem, 2.4vw, 1.6rem); font-weight: 500; margin-top: 16px; }
+.hero .intro { margin-top: 20px; color: var(--muted); }
+.drop-stage { position: relative; aspect-ratio: 1; max-width: 100%; background: var(--teal); border-radius: 50%; display: grid; place-items: center; overflow: hidden; }
+.drop-stage svg { width: 62%; height: auto; }
+.coin-fall { animation: fall 2.8s cubic-bezier(.5,0,.75,0) infinite; transform-origin: center; }
+@keyframes fall {
+  0%, 30% { transform: translateY(0); }
+  62% { transform: translateY(36px); }
+  66% { transform: translateY(30px); }
+  70%, 100% { transform: translateY(36px); }
+}
+@media (prefers-reduced-motion: reduce) { .coin-fall { animation: none; } }
+
+/* Names */
+.names { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+.name { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 20px; display: grid; gap: 8px; align-content: start; }
+.name strong { font-family: var(--f-display); font-size: 1.4rem; }
+.name.pick { border: 2px solid var(--copper); }
+.name .chip { justify-self: start; font-family: var(--f-mono); font-size: 0.7rem; padding: 2px 8px; border-radius: 99px; background: var(--copper); color: #fff; }
+.name p { font-size: 0.93rem; color: var(--muted); }
+
+/* Positioning */
+.pos { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 32px; }
+.pos > div { display: grid; gap: 8px; align-content: start; }
+.statement { font-family: var(--f-display); font-size: clamp(1.4rem, 3vw, 2rem); font-weight: 700; line-height: 1.2; max-width: 30ch; margin-bottom: 40px; }
+.statement em { font-style: normal; color: var(--copper); }
+.pillars { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin-top: 40px; }
+.pillar { padding: 20px; border-radius: 10px; background: var(--surface); border: 1px solid var(--line); display: grid; gap: 6px; align-content: start; }
+.pillar .fmt { font-family: var(--f-mono); font-size: 0.75rem; color: var(--copper-deep); }
+.pillar p { font-size: 0.93rem; color: var(--muted); }
+
+/* Logo */
+.logos { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+.tile { border-radius: 10px; aspect-ratio: 4/3; max-width: 100%; display: grid; place-items: center; padding: 24px; }
+.tile.light { background: #FFFFFF; border: 1px solid var(--line); }
+.tile.teal { background: #0E4A57; }
+.tile.copper { background: #C2622D; }
+.tile svg { width: 100%; max-height: 120px; }
+.cap { margin-top: 8px; font-size: 0.85rem; color: var(--muted); }
+.rules { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px; margin-top: 32px; }
+.rules ul { margin: 8px 0 0; padding-left: 18px; color: var(--muted); }
+.rules li { margin-bottom: 4px; }
+
+/* Color */
+.swatches { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; }
+.sw { border-radius: 10px; overflow: hidden; border: 1px solid var(--line); background: var(--surface); }
+.sw .chipc { height: 110px; }
+.sw .meta { padding: 12px 14px; display: grid; gap: 2px; }
+.sw .meta b { font-family: var(--f-display); }
+.sw button { all: unset; cursor: pointer; font-family: var(--f-mono); font-size: 0.82rem; color: var(--ink); justify-self: start; border-bottom: 1px dashed var(--muted); }
+.sw .role { font-size: 0.82rem; color: var(--muted); }
+.ratio { margin-top: 24px; display: flex; height: 28px; border-radius: 6px; overflow: hidden; border: 1px solid var(--line); }
+.ratio div { display: grid; place-items: center; font-family: var(--f-mono); font-size: 0.7rem; color: #fff; }
+
+/* Type */
+.type-row { display: grid; grid-template-columns: 180px 1fr; gap: 24px; padding-block: 24px; border-bottom: 1px solid var(--line); align-items: baseline; }
+.type-row:last-child { border-bottom: 0; }
+.type-row > div { min-width: 0; }
+.spec-d { font-family: var(--f-display); font-weight: 800; font-size: clamp(2rem, 6vw, 3.6rem); letter-spacing: -0.03em; line-height: 1; }
+.spec-b { font-family: var(--f-body); font-size: 1.1rem; }
+.spec-m { font-family: var(--f-mono); font-size: 1rem; }
+
+/* Voice */
+.voice { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; }
+.vcol { border-radius: 10px; padding: 20px; background: var(--surface); border: 1px solid var(--line); }
+.vcol h3 { margin-bottom: 12px; }
+.line { padding: 10px 0; border-top: 1px solid var(--line); font-size: 0.95rem; }
+.line:first-of-type { border-top: 0; }
+.say { color: var(--ink); }
+.nosay { color: var(--muted); text-decoration: line-through; text-decoration-color: var(--copper); }
+.traits { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+.traits span { font-family: var(--f-mono); font-size: 0.8rem; padding: 4px 10px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); }
+
+/* Video system */
+.screens { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+.screen { aspect-ratio: 16/9; max-width: 100%; border-radius: 8px; overflow: hidden; position: relative; }
+.bumper { background: #0E4A57; display: grid; place-items: center; }
+.bumper .num { font-family: var(--f-display); font-weight: 800; font-size: clamp(4rem, 12vw, 7rem); color: #F4F6F6; line-height: 1; position: relative; }
+.bumper .num::after { content: ""; position: absolute; right: -0.35em; top: 0.08em; width: 0.28em; height: 0.28em; border-radius: 50%; background: #C2622D; }
+.thumb { background: linear-gradient(160deg, #8FE3C0 0%, #8FE3C0 55%, #0E4A57 55%); }
+.thumb .big { position: absolute; left: 6%; bottom: 10%; font-family: var(--f-display); font-weight: 800; font-size: clamp(1.4rem, 4.2vw, 2.3rem); color: #FFFFFF; line-height: 0.95; text-transform: uppercase; max-width: 60%; text-shadow: 0 3px 0 #0A2E36; }
+.thumb .globe { position: absolute; right: 8%; top: 12%; width: 38%; aspect-ratio: 1; border-radius: 50%; background: radial-gradient(circle at 35% 35%, #7FB4E8, #2C5F9E 70%); box-shadow: 0 0 0 6px #FFFFFF; }
+.thumb .pause { position: absolute; right: 22%; top: 34%; width: 10%; aspect-ratio: 1; display: flex; gap: 18%; justify-content: center; }
+.thumb .pause i { width: 30%; background: #FFFFFF; border-radius: 2px; }
+.thumb .mark { position: absolute; left: 5%; top: 7%; width: 11%; }
+.lower { background: #F4F6F6; }
+.lower .bar { position: absolute; left: 5%; bottom: 12%; display: flex; align-items: center; gap: 10px; background: #FFFFFF; border-radius: 99px; padding: 6px 16px 6px 6px; box-shadow: 0 2px 0 #D9E0E2; max-width: 90%; }
+.lower .bar .dot { width: 28px; height: 28px; border-radius: 50%; background: #C2622D; flex: none; }
+.lower .bar span { font-family: var(--f-body); font-weight: 600; font-size: 0.9rem; color: #16222B; }
+.lower .scene { position: absolute; inset: 14% 20% 34% 20%; border-radius: 6px; background: repeating-linear-gradient(45deg, #E3EAEC 0 10px, #EDF1F2 10px 20px); display: grid; place-items: center; font-family: var(--f-mono); font-size: 0.72rem; color: #5B6A72; }
+.endcard { background: #16222B; }
+.endcard .slot { position: absolute; border-radius: 6px; border: 2px dashed #5B6A72; display: grid; place-items: center; font-family: var(--f-mono); font-size: 0.68rem; color: #93A4AB; }
+.endcard .s1 { left: 6%; top: 18%; width: 40%; height: 40%; }
+.endcard .s2 { left: 54%; top: 18%; width: 40%; height: 40%; }
+.endcard .sub { left: 42%; top: 66%; width: 16%; aspect-ratio: 1; height: auto; border-radius: 50%; border-color: #C2622D; color: #C2622D; }
+.screen-cap { display: grid; gap: 4px; margin-top: 10px; }
+.screen-cap p { font-size: 0.9rem; color: var(--muted); }
+
+.timeline { margin-top: 40px; overflow-x: auto; }
+.tl { display: grid; grid-template-columns: 15fr 13fr 492fr 15fr 20fr; min-width: 640px; border-radius: 8px; overflow: hidden; font-family: var(--f-mono); font-size: 0.72rem; }
+.tl div { padding: 10px 8px; color: #fff; }
+.tl-key { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px 24px; margin-top: 16px; font-size: 0.9rem; color: var(--muted); }
+.tl-key b { color: var(--ink); font-weight: 600; }
+
+/* Specs table */
+.tbl { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; min-width: 560px; font-size: 0.93rem; }
+th, td { text-align: left; padding: 12px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-family: var(--f-mono); font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); font-weight: 500; }
+td.num { font-family: var(--f-mono); font-variant-numeric: tabular-nums; white-space: nowrap; }
+
+footer { padding-block: 40px 64px; border-top: 1px solid var(--line); color: var(--muted); font-size: 0.88rem; }
+
+@media (max-width: 760px) {
+  .hero { grid-template-columns: 1fr; }
+  .drop-stage { max-width: 320px; }
+  .type-row { grid-template-columns: 1fr; gap: 8px; }
+}
+</style>
+
+<!-- Reusable logo symbol -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="coin" viewBox="0 0 100 100">
+      <circle cx="50" cy="50" r="46" fill="#C2622D"/>
+      <circle cx="50" cy="50" r="37" fill="none" stroke="#F0A070" stroke-width="3"/>
+      <path d="M40 72V30h14c9 0 15 5.5 15 13.5S63 57 54 57H40" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+  </defs>
+</svg>
+
+<div class="wrap">
+
+  <header class="hero">
+    <div>
+      <div class="label">Brand identity · v1 · faceless explainer channel</div>
+      <h1 style="margin-top:12px">Penny<span>.</span><br>Drop</h1>
+      <p class="tag">Ten minutes. One “ohhh.”</p>
+      <p class="intro">The identity for a voiceover-and-animation channel that makes countdown listicles about your body and cinematic “What if…” scenarios. Every video is built toward the moment the idea clicks, and the brand is built around that moment too.</p>
+    </div>
+    <div class="drop-stage" role="img" aria-label="The Penny Drop mark: a copper coin dropping into a slot">
+      <svg viewBox="0 0 120 140">
+        <g class="coin-fall">
+          <g stroke="#8FE3C0" stroke-width="4" stroke-linecap="round" opacity="0.8">
+            <line x1="38" y1="6" x2="38" y2="20"/><line x1="60" y1="0" x2="60" y2="16"/><line x1="82" y1="6" x2="82" y2="20"/>
+          </g>
+          <use href="#coin" x="22" y="22" width="76" height="76"/>
+        </g>
+        <rect x="14" y="124" width="92" height="10" rx="5" fill="#F4F6F6"/>
+      </svg>
+    </div>
+  </header>
+
+  <section>
+    <div class="sec-head">
+      <div class="label">01 · Name</div>
+      <h2>Why “Penny Drop”</h2>
+      <p>“The penny drops” is the English idiom for the instant someone finally understands. Your scripts already end every segment on an “aha” beat, so the name describes the product. It also gives you a sound (a coin clink), a shape (a circle) and a color (copper) for free.</p>
+    </div>
+    <div class="names">
+      <div class="name pick">
+        <span class="chip">Recommended</span>
+        <strong>Penny Drop</strong>
+        <p>Idiom everyone knows, ownable sound and mascot, works as a verb in copy (“wait for the drop”).</p>
+      </div>
+      <div class="name">
+        <strong>Huh Factory</strong>
+        <p>Playful and memorable. Slightly jokey for body-health topics where you need trust.</p>
+      </div>
+      <div class="name">
+        <strong>Wonderloop</strong>
+        <p>Suits “What if…” videos well. Says less about the payoff and is harder to turn into a sound or icon.</p>
+      </div>
+      <div class="name">
+        <strong>Second Look</strong>
+        <p>Fits the “signals you ignore” angle. Feels calm and adult; weaker for the cinematic scenarios.</p>
+      </div>
+    </div>
+    <p class="cap" style="margin-top:16px">Before committing, check the handle on YouTube, TikTok and Instagram and run a trademark search in your country.</p>
+  </section>
+
+  <section>
+    <div class="sec-head">
+      <div class="label">02 · Positioning</div>
+      <h2>What the channel stands for</h2>
+    </div>
+    <p class="statement">For people who scroll for something interesting, Penny Drop turns <em>everyday mysteries</em> into ten-minute stories that end with the answer clicking.</p>
+    <div class="pos">
+      <div><h3>Audience</h3><p>Curious 16–34 year olds watching on phones and TVs. They want something light but real: facts they can repeat at dinner.</p></div>
+      <div><h3>Promise</h3><p>Every video pays off its title. If the thumbnail asks a question, the video answers it clearly before the end screen.</p></div>
+      <div><h3>Difference</h3><p>Big listicle channels go wide and fast. Penny Drop slows down for one clear “why” per item, and says when science is unsure.</p></div>
+    </div>
+    <div class="pillars">
+      <div class="pillar"><span class="fmt">FORMAT · COUNTDOWN 10→1</span><h3>Body Signals</h3><p>Health listicles like “10 Body Signals You Should Never Ignore.” Friendly, never alarming; always points to a doctor for real symptoms.</p></div>
+      <div class="pillar"><span class="fmt">FORMAT · TIME-STAGE ESCALATION</span><h3>What If…</h3><p>Cinematic scenarios like “What If the Earth Stopped Spinning for 5 Seconds?” told second by second with a twist in the last act.</p></div>
+      <div class="pillar"><span class="fmt">FORMAT · COUNTDOWN OR STORY</span><h3>Everyday Science</h3><p>A third pillar to test: why ordinary things work the way they do (fridges, yawns, airplane windows).</p></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head">
+      <div class="label">03 · Logo</div>
+      <h2>The coin mark</h2>
+      <p>A copper coin with a single-stroke P. The motion version drops three speed lines and lands on a slot, timed to the clink in the sound logo. Use the coin alone at small sizes and the coin with wordmark everywhere else.</p>
+    </div>
+    <div class="logos">
+      <div>
+        <div class="tile light">
+          <svg viewBox="0 0 320 100" role="img" aria-label="Penny Drop horizontal lockup on white">
+            <use href="#coin" x="0" y="5" width="90" height="90"/>
+            <text x="104" y="48" font-family="Bricolage Grotesque, Arial Black, sans-serif" font-weight="800" font-size="40" fill="#16222B" letter-spacing="-1.5">Penny</text>
+            <text x="104" y="88" font-family="Bricolage Grotesque, Arial Black, sans-serif" font-weight="800" font-size="40" fill="#C2622D" letter-spacing="-1.5">Drop</text>
+          </svg>
+        </div>
+        <p class="cap">Primary lockup on white</p>
+      </div>
+      <div>
+        <div class="tile teal">
+          <svg viewBox="0 0 320 100" role="img" aria-label="Penny Drop horizontal lockup on teal">
+            <use href="#coin" x="0" y="5" width="90" height="90"/>
+            <text x="104" y="48" font-family="Bricolage Grotesque, Arial Black, sans-serif" font-weight="800" font-size="40" fill="#F4F6F6" letter-spacing="-1.5">Penny</text>
+            <text x="104" y="88" font-family="Bricolage Grotesque, Arial Black, sans-serif" font-weight="800" font-size="40" fill="#8FE3C0" letter-spacing="-1.5">Drop</text>
+          </svg>
+        </div>
+        <p class="cap">Reversed on Deep Teal</p>
+      </div>
+      <div>
+        <div class="tile copper">
+          <svg viewBox="0 0 100 100" role="img" aria-label="Profile picture: coin on copper" style="max-height:140px">
+            <circle cx="50" cy="50" r="48" fill="#0E4A57"/>
+            <use href="#coin" x="16" y="16" width="68" height="68"/>
+          </svg>
+        </div>
+        <p class="cap">Profile picture (800 × 800, circle-safe)</p>
+      </div>
+    </div>
+    <div class="rules">
+      <div><h3>Clear space</h3><ul><li>Keep empty space around the logo equal to half the coin’s diameter.</li><li>Minimum size: coin 24 px on screen, wordmark 120 px wide.</li></ul></div>
+      <div><h3>Don’t</h3><ul><li>Recolor the coin anything but copper.</li><li>Add a drop shadow, bevel or metallic gradient.</li><li>Stack the wordmark on Mint; contrast is too low.</li></ul></div>
+      <div><h3>Sound logo</h3><ul><li>A single bright coin clink, then a soft “whoomp” bass hit. 0.8 s total.</li><li>Plays exactly once per video, after the cold-open hook.</li></ul></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head">
+      <div class="label">04 · Color</div>
+      <h2>Copper on deep water</h2>
+      <p>Most listicle channels shout in yellow. Penny Drop uses deep teal as the stage and lets copper carry the attention. Mint is the “aha” highlight for the key word on screen. Tap a code to copy it.</p>
+    </div>
+    <div class="swatches">
+      <div class="sw"><div class="chipc" style="background:#C2622D"></div><div class="meta"><b>Copper</b><button type="button" data-hex="#C2622D">#C2622D</button><span class="role">Logo, number dots, subscribe button</span></div></div>
+      <div class="sw"><div class="chipc" style="background:#0E4A57"></div><div class="meta"><b>Deep Teal</b><button type="button" data-hex="#0E4A57">#0E4A57</button><span class="role">Backgrounds, bumpers, banner</span></div></div>
+      <div class="sw"><div class="chipc" style="background:#8FE3C0"></div><div class="meta"><b>Aha Mint</b><button type="button" data-hex="#8FE3C0">#8FE3C0</button><span class="role">Highlighted key words, thumbnail fields</span></div></div>
+      <div class="sw"><div class="chipc" style="background:#16222B"></div><div class="meta"><b>Ink</b><button type="button" data-hex="#16222B">#16222B</button><span class="role">Text, outlines, end screen</span></div></div>
+      <div class="sw"><div class="chipc" style="background:#F4F6F6"></div><div class="meta"><b>Cloud</b><button type="button" data-hex="#F4F6F6">#F4F6F6</button><span class="role">Light backgrounds, lower thirds</span></div></div>
+    </div>
+    <div class="ratio" aria-label="Recommended usage ratio">
+      <div style="flex:50;background:#0E4A57">TEAL 50%</div>
+      <div style="flex:25;background:#F4F6F6;color:#16222B">CLOUD 25%</div>
+      <div style="flex:12;background:#16222B">INK 12%</div>
+      <div style="flex:8;background:#8FE3C0;color:#16222B">8%</div>
+      <div style="flex:5;background:#C2622D">5%</div>
+    </div>
+    <p class="cap">Rough share of a typical frame. Copper stays small so it always reads as the point of focus.</p>
+  </section>
+
+  <section>
+    <div class="sec-head">
+      <div class="label">05 · Typography</div>
+      <h2>Three free Google Fonts</h2>
+      <p>All three are free for commercial use and available in Canva, Figma, After Effects and Premiere via Google Fonts.</p>
+    </div>
+    <div>
+      <div class="type-row"><div><div class="label">Display</div><p style="margin-top:4px">Bricolage Grotesque ExtraBold. Titles, thumbnails, number bumpers.</p></div><div class="spec-d">What if Earth stopped?</div></div>
+      <div class="type-row"><div><div class="label">Body</div><p style="margin-top:4px">Figtree Regular / SemiBold. Captions, on-screen facts, descriptions.</p></div><div class="spec-b">Cold hands and feet can mean your circulation is working hard to keep your core warm.</div></div>
+      <div class="type-row"><div><div class="label">Utility</div><p style="margin-top:4px">JetBrains Mono. Timestamps, sources, “Stage 2: after one minute.”</p></div><div class="spec-m">00:05 · STAGE 2 · SOURCE: NASA</div></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head">
+      <div class="label">06 · Voice</div>
+      <h2>How Penny Drop sounds</h2>
+      <p>One narrator, talking straight to “you.” The voice is a smart friend leaning in, not a presenter on a stage.</p>
+    </div>
+    <div class="traits"><span>Curious</span><span>Warm</span><span>Clear before clever</span><span>Second person</span><span>Honest about uncertainty</span></div>
+    <div class="voice">
+      <div class="vcol">
+        <h3>Say</h3>
+        <div class="line say">“Your body talks to you every single day.”</div>
+        <div class="line say">“Here’s the part nobody tells you.”</div>
+        <div class="line say">“Scientists aren’t sure yet, but the best guess is…”</div>
+        <div class="line say">“If this happens a lot, it’s worth a quick chat with your doctor.”</div>
+      </div>
+      <div class="vcol">
+        <h3>Don’t say</h3>
+        <div class="line nosay">“This one simple trick doctors hate!”</div>
+        <div class="line nosay">“You won’t BELIEVE number 3!!!”</div>
+        <div class="line nosay">“This is 100% proven.”</div>
+        <div class="line nosay">“If you have this, you’re in danger.”</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head">
+      <div class="label">07 · Video system</div>
+      <h2>On-screen kit</h2>
+      <p>Four templates cover almost every frame. Build them once as editable templates in your editing tool.</p>
+    </div>
+    <div class="screens">
+      <div>
+        <div class="screen bumper"><div class="num">3</div></div>
+        <div class="screen-cap"><h3>Number bumper</h3><p>Teal field, giant Cloud numeral, copper coin as the “dot.” 0.6 s with the clink sound at a lower volume.</p></div>
+      </div>
+      <div>
+        <div class="screen thumb" aria-label="Example thumbnail">
+          <svg class="mark" viewBox="0 0 100 100"><use href="#coin"/></svg>
+          <div class="globe"></div>
+          <div class="pause"><i></i><i></i></div>
+          <div class="big">Earth stops for 5 sec</div>
+        </div>
+        <div class="screen-cap"><h3>Thumbnail</h3><p>One subject, one bold claim of 4 words or fewer, Mint and Teal split field, coin in the top-left corner.</p></div>
+      </div>
+      <div>
+        <div class="screen lower"><div class="scene">ANIMATION</div><div class="bar"><span class="dot"></span><span>Vitamin B12 helps nails grow</span></div></div>
+        <div class="screen-cap"><h3>Fact pill</h3><p>White pill with a copper dot, lower-left. Repeats the narrator’s key phrase in 7 words or fewer.</p></div>
+      </div>
+      <div>
+        <div class="screen endcard"><div class="slot s1">NEXT VIDEO</div><div class="slot s2">PLAYLIST</div><div class="slot sub">SUB</div></div>
+        <div class="screen-cap"><h3>End screen</h3><p>Ink background for the last 20 s. Two video slots and a copper subscribe ring.</p></div>
+      </div>
+    </div>
+
+    <div class="timeline">
+      <div class="label" style="margin-bottom:10px">Where the brand appears in a 9-minute video</div>
+      <div class="tl" role="img" aria-label="Video timeline: hook 15 seconds, logo sting 13 seconds, content 492 seconds, recap 15 seconds, end screen 20 seconds">
+        <div style="background:#16222B">HOOK 0:00</div>
+        <div style="background:#C2622D">STING</div>
+        <div style="background:#0E4A57">COUNTDOWN 10 → 1 · bumper + fact pills each item · mid-video comment ask ~3:40</div>
+        <div style="background:#5B6A72">RECAP</div>
+        <div style="background:#16222B">END</div>
+      </div>
+      <div class="tl-key">
+        <div><b>0:00–0:15 Hook.</b> No logo yet. Curiosity first.</div>
+        <div><b>0:15–0:28 Sting.</b> Coin drop + clink, then premise.</div>
+        <div><b>8:40–9:00 End screen.</b> Ink background, two video slots.</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head">
+      <div class="label">08 · Channel assets</div>
+      <h2>Sizes to export</h2>
+      <p>Current YouTube requirements. Keep the logo and tagline inside the banner’s safe area so it shows on phones.</p>
+    </div>
+    <div class="tbl">
+      <table>
+        <thead><tr><th>Asset</th><th>Size (px)</th><th>Content</th></tr></thead>
+        <tbody>
+          <tr><td>Channel banner</td><td class="num">2560 × 1440</td><td>Deep Teal field, coin + wordmark + “Ten minutes. One ‘ohhh.’” inside the 1546 × 423 centre safe area.</td></tr>
+          <tr><td>Profile picture</td><td class="num">800 × 800</td><td>Coin on a teal circle. No wordmark.</td></tr>
+          <tr><td>Video watermark</td><td class="num">150 × 150</td><td>Coin only, transparent PNG.</td></tr>
+          <tr><td>Thumbnail</td><td class="num">1280 × 720</td><td>Template above. Keep text out of the bottom-right corner (timestamp).</td></tr>
+          <tr><td>Shorts cover</td><td class="num">1080 × 1920</td><td>Same rules as thumbnail, text in the middle third.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer>Penny Drop brand guide, version 1. The name is a proposal; check handle and trademark availability before launch.</footer>
+</div>
+
+<script>
+document.querySelectorAll('.sw button').forEach(function (b) {
+  b.addEventListener('click', function () {
+    var hex = b.dataset.hex;
+    var done = function () { b.textContent = 'Copied'; setTimeout(function () { b.textContent = hex; }, 1200); };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(hex).then(done, function () { var r = document.createRange(); r.selectNodeContents(b); var s = getSelection(); s.removeAllRanges(); s.addRange(r); });
+    }
+  });
+});
+</script>
