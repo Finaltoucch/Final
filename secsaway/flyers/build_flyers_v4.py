@@ -145,7 +145,8 @@ F3 = f'''
   {footer()}
 </section>'''
 
-open(os.path.join(HERE, "flyers_v4.html"), "w").write(
-    f'<!doctype html><html><head><meta charset="utf-8"><style>{fonts()}{CSS}</style></head><body>{F1}{F2}{F3}'
-    '<script>document.fonts.ready.then(()=>document.body.dataset.ready=1)</script></body></html>')
-print("ok")
+if __name__ == "__main__":
+    open(os.path.join(HERE, "flyers_v4.html"), "w").write(
+        f'<!doctype html><html><head><meta charset="utf-8"><style>{fonts()}{CSS}</style></head><body>{F1}{F2}{F3}'
+        '<script>document.fonts.ready.then(()=>document.body.dataset.ready=1)</script></body></html>')
+    print("ok")
