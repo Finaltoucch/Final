@@ -101,8 +101,13 @@ F3 = f'''
   </div>
 </section>'''
 
+def fonts_v5():
+    b = base64.b64encode(open(os.path.join(os.path.dirname(PH), "..", "src", "Archivo800.ttf"), "rb").read()).decode()
+    return fonts() + f"@font-face{{font-family:'Archivo';font-weight:800;src:url(data:font/ttf;base64,{b}) format('truetype');}}"
+
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 open(os.path.join(HERE, "flyers_v5.html"), "w").write(
-    f'<!doctype html><html><head><meta charset="utf-8"><style>{fonts()}{CSS}</style></head><body>{F1}{F2}{F3}'
+    f'<!doctype html><html><head><meta charset="utf-8"><style>{fonts_v5()}{CSS}</style></head><body>{F1}{F2}{F3}'
     '<script>document.fonts.ready.then(()=>document.body.dataset.ready=1)</script></body></html>')
 print("ok")
