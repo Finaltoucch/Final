@@ -250,3 +250,22 @@ New volume 2 came to 502.6 MB, over the 500 MB upload limit. To avoid re-encodin
 - Vol 2, Parts 4–6 (13:39): **`d9d37f48-ea1b-468d-86eb-12f110f04db8`**
 - Vol 3, Parts 7–9 (10:51): **`1815c059-94b1-403e-93c6-83579445352c`**
 - Vol 4, Parts 10–11 (6:45): **`f713cb16-962f-49ce-a1ea-d2742510e287`**
+
+## Nov 13: new emergency hook (Seedance 2.5, 1080p)
+
+The owner replaced the dinner hook with a suspense/emergency cold open:
+- **Shots:**
+  - Pre-dawn fog at the arch.
+  - Elijah's hand in the grass.
+  - Walter finds him and calls 911 ("A man's collapsed…"), then "Stay with me…".
+  - Hannah's phone, with Julian in his car asking "Hannah, is he your father?" and her "Yes."
+  - A black-and-white flashback of "Oh, he's just our old gardener." / "Enjoy your dinner, ma'am."
+  - The ER rush, Hannah running in, the doors closing.
+- **Sound:** no dialogue from the ER to the end (owner's call). An ElevenLabs Music suspense score runs under the hook, ducked under the dialogue.
+- **Hannah's frames** were rebuilt from her master sheet `ab01076b` (sleek low bun, moles). Her "Yes." is her Part 7 recording.
+- **Ending:** the original "JUST OUR OLD GARDENER" and "EIGHT YEARS EARLIER" cards from the old hook.
+- **Files:**
+  - Standalone hook: **`bc733b7c-127a-4e9c-8e5b-30af54d8422d`** (64.4 s; timestamps rebuilt CFR).
+  - Vol 1 rebuilt: **`ac598b0b-1518-4090-94be-e92fb18007b4`** (13:52, 477.6 MB). Parts 1–3 are stream-copied with sync verified: audio and picture both shifted by +11.725 s.
+  - Vols 2–4 are unchanged.
+- **Chapters and captions** shifted +11.724 s after the hook; the hook captions were replaced with the new lines.

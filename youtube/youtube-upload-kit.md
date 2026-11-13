@@ -18,18 +18,18 @@ But Elijah hears things in the garden that no one else hears. When a powerful ma
 A story about pride, shame, sacrifice, and the love of a father who asked for nothing back.
 
 ⏱ CHAPTERS
-0:00 The Dinner
-0:55 Eight Years Earlier
-4:52 Present Day
-10:18 The Saturday Dinner
-13:40 The New Gardener
-16:45 What He Overheard
-20:54 His Last Week
-27:19 Under the Arch
-30:28 The Tin Box
-33:44 The Match
-38:10 The Boardroom
-41:46 The Wedding
+0:00 The Collapse
+1:07 Eight Years Earlier
+5:04 Present Day
+10:29 The Saturday Dinner
+13:52 The New Gardener
+16:56 What He Overheard
+21:06 His Last Week
+27:31 Under the Arch
+30:39 The Tin Box
+33:56 The Match
+38:22 The Boardroom
+41:58 The Wedding
 
 💬 Would you have told the truth at that dinner table? Tell us in the comments.
 👍 If this story moved you, like, share it with someone who loves their dad, and subscribe for more stories.
