@@ -10,7 +10,7 @@ Higgsfield job IDs (nano_banana_pro, 2K, 16:9). Use these as image references fo
 |---|---|---|
 | Zara (uniform + crest, lighter skin, curvier) | ✅ pending owner OK | `5f867339-5961-49a5-945e-51d5f5479e69` |
 | Malik (uniform + crest, glasses) | ✅ | `f8c4a9cc-d364-4d52-ac0f-613d10e9d2ea` |
-| Trey (uniform + crest) | ⚠ needs redo: looks older, tall flat-top | `849d85ad-5f54-4b40-96f9-2afeb7b85b7a` |
+| Trey (uniform + crest, youthful, waves, plain maroon tie) | ✅ LOCKED (owner chose option 2) | `7eb2ffb8-d9cf-4850-bc11-9b81d7f7388e` |
 | Brianna (uniform + crest) | ✅ | `65b0d1d3-ef67-4987-b912-f63d1c4fe3e1` |
 | Grandma Pearl | ✅ | `f9205113-ee2f-40d6-bbc0-5ad9dab1f574` |
 | Ms. Angela | ✅ | `409baf90-36d6-467c-8e8b-6289f139d631` |
