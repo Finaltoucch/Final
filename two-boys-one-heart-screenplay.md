@@ -647,7 +647,7 @@ Trey's face crumbles. He walks into his father's arms. His dad holds him tightly
   - The blue-ink card: folded at the pep rally, slightly bent at prom.
   - The eviction notice: the same paper from Scene 10 to Scene 13.
   - Malik's bicycle: the same clean, new, glossy royal-blue bike (black saddle, silver bell and fenders, no basket) in every shot. Malik is always neat and clean.
-  - Trey's car: the same candy-red convertible with tan seats and no badge in every shot, top down on dry days, black soft-top closed in the rain. His keys are gone after Scene 13, so no car from Scene 16 on.
+  - Trey's car: the same candy-red convertible from the locked sheet `f295c3d4…` (sharp wedge body, slim LED light strips, gloss-black wheels, brown leather seats, no badge) in every shot, top down on dry days, black soft-top closed in the rain. His keys are gone after Scene 13, so no car from Scene 16 on.
 - **School uniform:** navy blazer with the Eastbrook High crest on the left chest pocket (maroon shield, gold border, gold oak tree, open book, laurel, no letters), white shirt, maroon tie, grey skirt or trousers. Students wear it at school; weekend and prom scenes are in their own clothes.
 - **No brands:** no car logos, no real school or college names, no sports logos.
 - **Kling-safe lines:** no "..." and no CAPS inside lines. Lines that trail off ("Trey, I,") need "cut off mid-sentence" written into the prompt.
