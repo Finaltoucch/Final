@@ -1,7 +1,7 @@
 # TWO BOYS, ONE HEART
 ### Full screenplay (about 15 minutes)
 
-**Setting:** Atlanta, Georgia. A public high school in senior year, spring.
+**Setting:** Atlanta, Georgia. Eastbrook High, a huge, prestigious suburban high school (big red-brick main building with a clock tower, its own stadium and gym), senior year, spring.
 **Hook:** Seedance 2.5. **Everything else:** Kling 3.0 pro, over-the-shoulder dialogue.
 **Music:** original score only (`tools/score.py`). No licensed songs at prom, or anywhere else.
 
@@ -13,7 +13,7 @@
 |---|---|
 | **ZARA** (18) | Beautiful, warm, a little stubborn. Sings in the choir and wants to be a doctor. Raised by her grandma. |
 | **MALIK** (18) | Poor, gentle, handsome, top of the class. Works weekends at his uncle's car wash. Says more in notes than out loud. |
-| **TREY** (18) | Rich, bold, handsome, a little arrogant. Basketball star with a black sports car. Lonely underneath. |
+| **TREY** (18) | Rich, bold, handsome, a little arrogant. Basketball star who drives to school every morning in a red convertible sports car, top down. Lonely underneath. |
 | **GRANDMA PEARL** (70s) | Zara's grandma. Funny, sharp, braids Zara's hair at the kitchen table. |
 | **BRIANNA** (18) | Zara's best friend. Loud and loyal. Secretly likes Trey. |
 | **MS. ANGELA** (40s) | Malik's mom. Works two jobs. Tired, proud, soft with her son. |
@@ -64,6 +64,12 @@ Zara looks at Trey. Then at the place where Malik was. Then back at Trey.
 ---
 
 ## SCENE 1: THE TEST (0:45–1:45)
+
+**EXT. EASTBROOK HIGH, PARKING LOT. MORNING.**
+
+A candy-red convertible sports car rolls into the front row, top down. Heads turn. TREY steps out in his uniform, blazer open, tie loose, sunglasses pushed up on his head. Two girls wave; he winks. Across the lot, ZARA walks past with her backpack and rolls her eyes, but she looks a second too long.
+
+Behind the red car, MALIK pedals in on an old faded-blue bicycle with a squeaky chain, his blazer a little big on him. He has to brake hard as the convertible swings into its spot. He doesn't complain. He just walks the bike to the rack and locks it.
 
 **INT. CALCULUS CLASSROOM. DAY.**
 
@@ -139,7 +145,7 @@ She throws a balled-up napkin at him. He catches it. They both laugh, quietly, s
 
 Zara walks home with her backpack over her head. She's soaked.
 
-A black sports car slows down beside her. The window rolls down. Trey.
+Trey's red convertible slows down beside her, the black soft-top closed against the rain. The window rolls down. Trey.
 
 > **TREY**
 > Get in. You're getting soaked.
@@ -320,7 +326,7 @@ MS. ANGELA comes in from her shift, still in her diner apron, and looks over his
 > Just ask her, baby.
 
 > **MALIK**
-> Ask her to what? Ride the bus to prom?
+> Ask her to what? Ride on my handlebars to prom?
 
 > **MS. ANGELA**
 > She's not looking at your shoes, Malik. She's looking at you.
@@ -379,7 +385,7 @@ His jaw tightens.
 
 **EXT. SCHOOL PARKING LOT. MORNING.**
 
-Trey leans on his car, laughing with friends. Malik walks straight up to him and pushes the notice into his chest.
+Trey leans on his red convertible, top down, laughing with friends. Malik drops his old blue bicycle on the grass and walks straight up to him and pushes the notice into his chest.
 
 > **MALIK**
 > Sixty days. That's what your family gave mine.
@@ -640,7 +646,9 @@ Trey's face crumbles. He walks into his father's arms. His dad holds him tightly
 - **Prop continuity:**
   - The blue-ink card: folded at the pep rally, slightly bent at prom.
   - The eviction notice: the same paper from Scene 10 to Scene 13.
-  - Trey's car keys: gone after Scene 13, so no car from Scene 16 on.
+  - Malik's bicycle: the same old faded-blue bike with a worn brown seat and a slightly rusty chain in every shot.
+  - Trey's car: the same candy-red convertible with tan seats and no badge in every shot, top down on dry days, black soft-top closed in the rain. His keys are gone after Scene 13, so no car from Scene 16 on.
+- **School uniform:** navy blazer with the Eastbrook High crest on the left chest pocket (maroon shield, gold border, gold oak tree, open book, laurel, no letters), white shirt, maroon tie, grey skirt or trousers. Students wear it at school; weekend and prom scenes are in their own clothes.
 - **No brands:** no car logos, no real school or college names, no sports logos.
 - **Kling-safe lines:** no "..." and no CAPS inside lines. Lines that trail off ("Trey, I,") need "cut off mid-sentence" written into the prompt.
 - **Score cues:** `hope` for the library, `tender` for the car wash, kitchen and prom dance, `sad` for the bleachers and choir room, `tension` for the notice and parking lot, `dark` for the father's office, and `tender` swelling into `hope` for the father's hug.
