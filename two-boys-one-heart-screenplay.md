@@ -643,6 +643,7 @@ Trey's face crumbles. He walks into his father's arms. His dad holds him tightly
   - **Trey:** taller and broader, high-top fade with sharp line-up, thin mustache, letterman jacket, deeper brown skin.
   - **Zara:** long, sleek, bone-straight jet-black hair with a middle part in every scene (locked sheet `2f59b687…`), gold dress at prom.
   - No gym extra may share a lead's face.
+- **Lighting (owner rule):** natural lighting in every picture: real daylight, soft window light, ordinary indoor lights at night, true-to-life colors and natural skin tones. No golden or orange movie glow, no heavy color grade, no dramatic sunbeams.
 - **Prop continuity:**
   - The blue-ink card: folded at the pep rally, slightly bent at prom.
   - The eviction notice: the same paper from Scene 10 to Scene 13.

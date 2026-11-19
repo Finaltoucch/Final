@@ -35,7 +35,7 @@ Rejected: `d2a610a9…` and `a40fc6db…` (Zara looks too revealing for a high-s
 | Campus aerial (big school) | `10806fb9-8cd6-481b-8442-feeb50074268` |
 | Gym (pep rally, after-game) | `1148e9a4-4bf3-43e7-a3c9-f06fbe481059` |
 | Calculus classroom | `21c75606-1fae-49f2-a1a5-de696115bdef` |
-| Library | `a9b8e0f4-a6cb-48f4-b317-1d28b6fe8bb1` |
+| Library (natural daylight) | `49d25f7e-58f1-4f66-8e1d-f4a28d01ca53` |
 | Rainy street | `249acd59-e45b-48e7-93ba-a2bc9d1d8cad` |
 | Grandma's kitchen | `040f5da9-4f53-4e88-baeb-5720c51faa6f` |
 | Car wash | `70c17e0a-aba3-4896-9c12-89c0de9e1903` |
@@ -62,3 +62,9 @@ Owner chose B. Attach this sheet to every car shot. Option A (`8a6ca84f…`) is 
 - **Malik's bike:** `ea475282…` came out as a girl's bike with flowers in the basket, so it's rejected; the redo is still to do.
 - **Parking lot:** `de225236…` is rejected (lettering on the building, a brand badge on the car).
 - The safety filter falsely blocked many harmless prompts (an empty gym, a bicycle, a parking lot). Rewording usually got them through.
+
+## Lighting rule (owner)
+Natural lighting in every picture: real daylight, soft window light, true-to-life colors. No golden or orange glow, no heavy color grade. Natural-light test frames: Zara `991354e6…`, Malik `93b16f9e…`, Trey `85b0dfb3…`.
+
+## Voice tests (Kling native voice; clone after approval)
+Files are in `voice-tests/`. Zara `a7174153…`, Malik `f4c31bad…`, Trey `647a1f39…`. All three lines were checked word-perfect with Whisper.
