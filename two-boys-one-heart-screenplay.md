@@ -14,7 +14,7 @@
 | **ZARA** (18) | Beautiful, warm, a little stubborn. Sings in the choir and wants to be a doctor. Raised by her grandma. |
 | **MALIK** (18) | Poor, gentle, handsome, top of the class. Works weekends at his uncle's car wash. Says more in notes than out loud. |
 | **TREY** (18) | Rich, bold, handsome, a little arrogant. Basketball star who drives to school every morning in a red convertible sports car, top down. Lonely underneath. |
-| **GRANDMA PEARL** (70s) | Zara's grandma. Funny, sharp, braids Zara's hair at the kitchen table. |
+| **GRANDMA PEARL** (70s) | Zara's grandma. Funny, sharp, brushes Zara's long hair at the kitchen table. |
 | **BRIANNA** (18) | Zara's best friend. Loud and loyal. Secretly likes Trey. |
 | **MS. ANGELA** (40s) | Malik's mom. Works two jobs. Tired, proud, soft with her son. |
 | **MR. WHITFIELD** (50s) | Trey's father. Property developer. Cold, busy, never there. |
@@ -194,7 +194,7 @@ She runs inside. Trey sits there a moment longer, watching her front door, befor
 
 **INT. GRANDMA PEARL'S KITCHEN. NIGHT.**
 
-Zara sits on a low stool. GRANDMA PEARL sits behind her in a chair, braiding her hair. A pot simmers on the stove.
+Zara sits on a low stool. GRANDMA PEARL sits behind her in a chair, slowly brushing her long straight hair. A pot simmers on the stove.
 
 > **GRANDMA PEARL**
 > So which one gave you that look on your face?
@@ -216,7 +216,7 @@ Zara laughs and covers her face.
 > **ZARA**
 > And then there's Trey. He's loud, and he's kind of full of himself. But when he looks at me, it's like nobody else is in the room.
 
-Grandma Pearl ties off a braid and rests her hands on Zara's shoulders.
+Grandma Pearl sets down the brush and rests her hands on Zara's shoulders.
 
 > **GRANDMA PEARL**
 > Baby, listen to me. Don't pick the boy who makes you feel lucky. Pick the one who makes you feel like yourself.
@@ -641,7 +641,7 @@ Trey's face crumbles. He walks into his father's arms. His dad holds him tightly
 - **Lookalikes:** Malik and Trey must look completely different side by side:
   - **Malik:** slimmer, close low fade, no facial hair, grey hoodie, warm brown skin.
   - **Trey:** taller and broader, high-top fade with sharp line-up, thin mustache, letterman jacket, deeper brown skin.
-  - **Zara:** long braids (Scene 4 onward) in a single locked look, gold dress at prom.
+  - **Zara:** long, sleek, bone-straight jet-black hair with a middle part in every scene (locked sheet `2f59b687…`), gold dress at prom.
   - No gym extra may share a lead's face.
 - **Prop continuity:**
   - The blue-ink card: folded at the pep rally, slightly bent at prom.
