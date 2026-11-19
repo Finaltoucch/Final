@@ -16,7 +16,18 @@ Higgsfield job IDs (nano_banana_pro, 2K, 16:9). Use these as image references fo
 | Ms. Angela | ✅ | `409baf90-36d6-467c-8e8b-6289f139d631` |
 | Mr. Whitfield | ✅ | `b69a5c18-69e4-4980-9f03-5014c44bd044` |
 
-Casual looks for Zara, Malik and Trey (car wash, prom, weekend) are still to do.
+### Extra looks (locked, same faces)
+| Look | Used in | Job ID |
+|---|---|---|
+| Zara weekend (lilac cardigan, white tee, jeans) | Sc 4 kitchen, Sc 5 car wash | `e4ec0236-c40f-48e1-b440-014e7bcc8bfe` |
+| Zara prom (champagne-gold A-line gown, square neckline) | Sc 15, 16 | `989cf988-eebc-472e-a50e-d8a59b5e8d8d` |
+| Malik car-wash work clothes (navy tee, yellow cloth) | Sc 5 | `4fce3f6d-0e98-4710-b4ca-66531c126b67` |
+| Malik at home (grey hoodie) | Sc 8, 10, 14 | `8228366b-3edb-427c-99b6-a7c61df22030` |
+| Malik prom (borrowed charcoal suit, a bit big) | Sc 16 | `79654c10-1894-42af-a4b5-bbc27226cd03` |
+| Trey basketball uniform (maroon/gold, no numbers) | Sc 6 | `8c89c721-08f2-4f32-8020-dfe92d8ebca8` |
+| Trey prom (black tux, bow tie) | Sc 16, 17 | `2ed59a6e-e3ee-4ca9-bc42-2c5a9a5078e1` |
+
+Rejected: `d2a610a9…` and `a40fc6db…` (Zara looks too revealing for a high-school character).
 
 ## Locations
 | Location | Job ID |
