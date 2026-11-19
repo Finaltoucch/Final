@@ -38,7 +38,16 @@ Casual looks for Zara, Malik and Trey (car wash, prom, weekend) are still to do.
 | Prom gym | `86bc8972-b1a1-45c8-860a-bc218d96f187` |
 | School entrance, night | `3bfbb266-3a77-4020-9ab8-79730f0f2c7c` |
 
-## Still open
+## Vehicles (locked)
+| Item | Job ID |
+|---|---|
+| Trey's red convertible, option A (soft rounded, silver wheels, cream seats) | `8a6ca84f-a26a-439c-85e9-2ff51c30a69a` |
+| Trey's red convertible, option B (sharp sporty, black wheels, brown seats) | `f295c3d4-365f-417b-999e-8d3d31e83dc5` |
+| Malik's bicycle (new, clean, glossy royal blue) | `95401230-d638-4cb0-aeaf-e9cf9df64867` |
+
+Owner picks A or B; that sheet is attached to every car shot.
+
+## Still open (older notes)
 - **Trey's red convertible:** every attempt either came out as a real brand (prancing-horse badge, a German maker's wheel logos, a classic British roadster shape) or was blocked by the safety filter. Rejected: `9bd55873…` (big campus is good, car has a badge), `af9a7abd…`, `ff568807…`, `73afd605…`.
 - **Malik's bike:** `ea475282…` came out as a girl's bike with flowers in the basket, so it's rejected; the redo is still to do.
 - **Parking lot:** `de225236…` is rejected (lettering on the building, a brand badge on the car).

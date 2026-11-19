@@ -69,7 +69,7 @@ Zara looks at Trey. Then at the place where Malik was. Then back at Trey.
 
 A candy-red convertible sports car rolls into the front row, top down. Heads turn. TREY steps out in his uniform, blazer open, tie loose, sunglasses pushed up on his head. Two girls wave; he winks. Across the lot, ZARA walks past with her backpack and rolls her eyes, but she looks a second too long.
 
-Behind the red car, MALIK pedals in on an old faded-blue bicycle with a squeaky chain, his blazer a little big on him. He has to brake hard as the convertible swings into its spot. He doesn't complain. He just walks the bike to the rack and locks it.
+Behind the red car, MALIK pedals in on a clean, shiny blue bicycle he obviously takes good care of, his uniform neat and pressed. He has to brake hard as the convertible swings into its spot. He doesn't complain. He just walks the bike to the rack and locks it.
 
 **INT. CALCULUS CLASSROOM. DAY.**
 
@@ -385,7 +385,7 @@ His jaw tightens.
 
 **EXT. SCHOOL PARKING LOT. MORNING.**
 
-Trey leans on his red convertible, top down, laughing with friends. Malik drops his old blue bicycle on the grass and walks straight up to him and pushes the notice into his chest.
+Trey leans on his red convertible, top down, laughing with friends. Malik leans his blue bicycle against a tree and walks straight up to him and pushes the notice into his chest.
 
 > **MALIK**
 > Sixty days. That's what your family gave mine.
@@ -646,7 +646,7 @@ Trey's face crumbles. He walks into his father's arms. His dad holds him tightly
 - **Prop continuity:**
   - The blue-ink card: folded at the pep rally, slightly bent at prom.
   - The eviction notice: the same paper from Scene 10 to Scene 13.
-  - Malik's bicycle: the same old faded-blue bike with a worn brown seat and a slightly rusty chain in every shot.
+  - Malik's bicycle: the same clean, new, glossy royal-blue bike (black saddle, silver bell and fenders, no basket) in every shot. Malik is always neat and clean.
   - Trey's car: the same candy-red convertible with tan seats and no badge in every shot, top down on dry days, black soft-top closed in the rain. His keys are gone after Scene 13, so no car from Scene 16 on.
 - **School uniform:** navy blazer with the Eastbrook High crest on the left chest pocket (maroon shield, gold border, gold oak tree, open book, laurel, no letters), white shirt, maroon tie, grey skirt or trousers. Students wear it at school; weekend and prom scenes are in their own clothes.
 - **No brands:** no car logos, no real school or college names, no sports logos.
