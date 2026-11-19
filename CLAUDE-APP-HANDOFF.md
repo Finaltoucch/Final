@@ -1,6 +1,6 @@
 # Kharune Studios: full memory for a new Claude chat
 
-This one file contains everything from my previous chat about how we make AI drama movies. Read all of it before answering. Then continue from the section "What's next" in SESSION MEMORY below.
+This one file contains everything from my previous chats about how we make AI drama movies. Read all of it before answering. Then continue from the section "What's next" in SESSION MEMORY below.
 
 
 ==================================================================
