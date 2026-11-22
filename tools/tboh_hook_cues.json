@@ -1,0 +1,4 @@
+[{"cue": "hope", "from": "n0", "to": "n2", "gain": -6},
+ {"cue": "tension", "from": "n7", "to": "n9", "gain": -2},
+ {"sfx": "riser", "at": "n9", "len": 3.5},
+ {"sfx": "braam", "at": "c:TWO BOYS, ONE HEART", "off": 0.1}]

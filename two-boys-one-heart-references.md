@@ -93,3 +93,7 @@ Draft cut v1 (48.8 s): media `53171884-7a66-465c-ac4d-8df1d8752f8b`, https://d2o
 | Grandma's house exterior | `ee6527a3-1e4f-415d-ad48-f0e9ab8e11e8` | Sc 4, 15 |
 | Malik's apartment building, dusk | `310016e5-08a3-4e2f-af82-003b4d0a6ecd` | Sc 8, 10, 14 |
 | Whitfield mansion aerial | `a73a2166-e980-4f92-9d77-65b090ff56f3` | Sc 13 |
+
+## Hook FINAL (1080p, original score, 48.2 s)
+media `4194219d-cdf2-4637-ac09-7ced55172f2a`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/4194219d-cdf2-4637-ac09-7ced55172f2a.mp4
+Built with `tools/mb.py tools/tboh_hook_edit_list.json` and `tools/score.py … tools/tboh_hook_cues.json`. Muted stray ad-libs: H8 0 to 2.4 s ("Thank you very much"), H9 0 to 1.0 s ("You").
