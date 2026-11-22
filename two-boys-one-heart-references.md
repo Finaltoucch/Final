@@ -107,3 +107,21 @@ media `9eeb48fd-054d-48f8-8d5d-382ec577afd7`: https://d2ol7oe51mr4n9.cloudfront.
 ## Part 1 (Sc 1–3) v1: 2:29, 1080p, new score
 media `41cfa889-1648-4e6f-ba30-6a242535d3d7`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/41cfa889-1648-4e6f-ba30-6a242535d3d7.mp4
 Edit list `tools/tboh_part1_edit_list.json`, cues `tools/tboh_part1_cues.json`. Line 1-13 "You'd" is word-spliced from the raw take (splice113.mp4 in the sandbox).
+
+## Part 2 (Sc 4–8) final: 2:25, 1080p, new score
+media `79e94253-b2a7-4a50-9b73-05d754cf5bed`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/79e94253-b2a7-4a50-9b73-05d754cf5bed.mp4
+Edit list `tools/tboh_part2_edit_list.json`, cues `tools/tboh_part2_cues.json`. Kitchen shots cooled with `colortemperature=7600`. Line 5-03 uses Zara's raw Kling take (the swap garbled "any of" twice). Line 5-022 was re-rolled for "at the diner".
+
+## Part 3 (Sc 9–12) final: 2:16
+media `0c5797e5-f4d3-43d4-bb77-c170cd0d8d3c`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/0c5797e5-f4d3-43d4-bb77-c170cd0d8d3c.mp4
+Edit list `tools/tboh_part3_edit_list.json`. Sc 9 reuses hook shots H5, H7 and H8. 901 "Can I" is word-spliced from the raw take. 11032 uses Trey's raw take. Shouts (1105) and the choir-room crying (1204) stay raw.
+
+## Part 4 (Sc 13–17 + closing cards) final: 3:14
+media `dfadc506-7333-455c-bfa7-9efecf764a0b`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/dfadc506-7333-455c-bfa7-9efecf764a0b.mp4
+Edit list `tools/tboh_part4_edit_list.json`. Prom shots cooled with `colortemperature=7300`. 13031 "my" is word-spliced from the raw take. 16023 "Trey, I," uses Zara's raw take.
+
+## Establishing clips (Kling, 5 s, audio muted in edit)
+Grandma house `1a808abe` · car wash `d4160389` · school front `5dc86019` · Malik's building `3a1be3f2` · campus drone `5dd8f445` · mansion `afab4eb4` · school entrance night `82eda23a` · bleachers `2522f5a3`
+
+## FULL MOVIE: hook + Parts 1–4 (about 11:32)
+media `b3c7e0c7-cbcc-458d-852f-e84c1bf3f40a`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/b3c7e0c7-cbcc-458d-852f-e84c1bf3f40a.mp4

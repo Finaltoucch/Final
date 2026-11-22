@@ -1,0 +1,375 @@
+[
+ {
+  "n": "e6",
+  "t": {
+   "X": "20261122_134049_afab4eb4-da13-4a17-b3fd-31118a62c68e"
+  },
+  "maxdur": 4.0,
+  "mute": [
+   [
+    0,
+    6
+   ]
+  ]
+ },
+ {
+  "n": 1301,
+  "t": {
+   "X": "20261122_135652_ca09df95-1724-4b1f-9f25-d76c6a3f9ec3"
+  },
+  "mute": [
+   [
+    3.3,
+    5.1
+   ]
+  ],
+  "gain": -8
+ },
+ {
+  "n": 13031,
+  "t": {
+   "X": "/home/user/p4b/s13031.mp4"
+  },
+  "note": "voice swap e539b68e with raw b886ad19 'my' at 5.28-5.50"
+ },
+ {
+  "n": 13021,
+  "t": {
+   "X": "20261122_135653_c3808c9c-b65f-433e-9271-3a4c85c1ff00"
+  },
+  "ss": 0.8
+ },
+ {
+  "n": 13032,
+  "t": {
+   "X": "20261122_175414_7e92b77f-7203-4820-b024-3895ef8ca698"
+  }
+ },
+ {
+  "n": 13022,
+  "t": {
+   "X": "20261122_135653_1c8b4b71-1c39-41a2-9006-d6b368400f6c"
+  },
+  "mute": [
+   [
+    2.4,
+    4.1
+   ]
+  ],
+  "gain": -10
+ },
+ {
+  "n": 13033,
+  "t": {
+   "X": "20261122_175419_1459d8b9-2b6e-4b27-bab1-69d0977b2380"
+  }
+ },
+ {
+  "n": 13023,
+  "t": {
+   "X": "20261122_135652_77e7d70b-b7c7-43a9-bbe8-f21397f69016"
+  },
+  "ss": 2.0
+ },
+ {
+  "n": 13034,
+  "t": {
+   "X": "20261122_175422_4e72de1a-4be3-4965-a105-298d7aaa127f"
+  },
+  "ss": 1.5
+ },
+ {
+  "n": 1304,
+  "t": {
+   "X": "20261122_140000_76c6c8cd-cac2-4d87-bd25-984bb46be25f"
+  },
+  "mute": [
+   [
+    0,
+    6
+   ]
+  ]
+ },
+ {
+  "card": "THE NEXT MORNING",
+  "sec": 1.6
+ },
+ {
+  "n": 1401,
+  "t": {
+   "A": "20261122_135959_5c43c766-5f99-41b2-9e32-e3d557ec98c2",
+   "M": "20261122_180454_b7a5661c-a48c-48b2-8d4a-038c4f806274"
+  },
+  "l": [
+   [
+    "A",
+    "They pulled out. The sale's off. We can stay."
+   ],
+   [
+    "M",
+    "What? Why?"
+   ],
+   [
+    "A",
+    "It doesn't say. It just says we can stay."
+   ]
+  ],
+  "ss": 0.8
+ },
+ {
+  "n": 1402,
+  "t": {
+   "X": "20261122_175456_3cc8fbd9-df93-4bb6-990b-987d341b3ccc"
+  },
+  "gain": -10
+ },
+ {
+  "card": "PROM NIGHT",
+  "sec": 1.6
+ },
+ {
+  "n": "e1",
+  "t": {
+   "X": "20261122_134049_1a808abe-5128-4831-93c9-6125ad5e824e"
+  },
+  "ss": 0.6,
+  "maxdur": 3.4,
+  "mute": [
+   [
+    0,
+    6
+   ]
+  ]
+ },
+ {
+  "n": 1501,
+  "t": {
+   "G": "20261122_175456_06393b3c-f5fe-4abc-89e8-dcc49ed0e28f",
+   "Z": "20261122_180457_3121b6ce-cc09-473b-96c9-f2531d43f306"
+  },
+  "l": [
+   [
+    "G",
+    "So. Which one?"
+   ],
+   [
+    "Z",
+    "I don't know, Grandma."
+   ],
+   [
+    "G",
+    "Yes, you do. You just don't want to hurt the other one."
+   ]
+  ],
+  "ss": 0.4
+ },
+ {
+  "n": "e7",
+  "t": {
+   "X": "20261122_134049_82eda23a-88b5-4e20-aea2-ac0ebf747b1c"
+  },
+  "maxdur": 4.0,
+  "mute": [
+   [
+    0,
+    6
+   ]
+  ]
+ },
+ {
+  "n": 16011,
+  "t": {
+   "X": "20261122_175456_c12f579d-461c-41a7-b2ac-311443be55d2"
+  },
+  "gain": -12,
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 16021,
+  "t": {
+   "X": "20261122_180459_6d8df14a-141d-4903-b4e4-073ddee75ccf"
+  },
+  "ss": 1.8,
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 16031,
+  "t": {
+   "X": "20261122_180501_0cb852f5-bde0-4ed9-b199-454d1f86108a"
+  },
+  "ss": 1.5,
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 16022,
+  "t": {
+   "X": "20261122_180505_7505aed2-8cba-4023-8a5e-e322e19f23a2"
+  },
+  "ss": 1.6,
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 16032,
+  "t": {
+   "X": "20261122_180507_19d1d7cf-fdc4-4e02-9c43-c46ecb52bbdd"
+  },
+  "ss": 2.0,
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 1604,
+  "t": {
+   "X": "20261122_175737_777b2440-ed5b-4fc5-80f6-c04431895aa5"
+  },
+  "gain": -12,
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 1605,
+  "t": {
+   "X": "20261122_180509_8216a5ba-588c-4fdd-a4af-b0f5e367f01b"
+  },
+  "ss": 2.2,
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 1606,
+  "t": {
+   "X": "20261122_175737_c8d0ce61-a1ae-453e-ab66-2ef7764349cd"
+  },
+  "gain": -14,
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 1607,
+  "t": {
+   "X": "20261122_180040_0163c564-a30c-46e0-b813-5ce990956b69"
+  },
+  "gain": -6,
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 16033,
+  "t": {
+   "X": "20261122_181256_271c7b24-a3fe-4100-8cc5-f75db4bf6839"
+  },
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 16023,
+  "t": {
+   "X": "20261122_180040_29613f03-1a1e-41be-b6a3-6f026d3690b3"
+  },
+  "pre": "colortemperature=temperature=7300",
+  "note": "raw Zara take; swap garbled 'Trey'"
+ },
+ {
+  "n": 16034,
+  "t": {
+   "X": "20261122_181259_c03e13af-5397-4aad-b91e-3858225f7477"
+  },
+  "ss": 1.2,
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 1608,
+  "t": {
+   "T": "20261122_181303_c89e04ef-4b04-49a5-9070-275f149afa2e",
+   "M": "20261122_181305_2a9e83f7-96b6-45c9-b6f3-1962b0c3f5e6"
+  },
+  "l": [
+   [
+    "T",
+    "She's worth it. Make sure she knows it."
+   ],
+   [
+    "M",
+    "Every day."
+   ]
+  ],
+  "ss": 1.4,
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 1609,
+  "t": {
+   "X": "20261122_180040_1c3af346-0fb7-4b34-9029-1830c7ae5bd8"
+  },
+  "mute": [
+   [
+    0,
+    6
+   ]
+  ],
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 16051,
+  "t": {
+   "X": "20261122_181307_d12ff6a9-e827-4e23-8124-1751c2a0bd47"
+  },
+  "ss": 1.8,
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 1611,
+  "t": {
+   "X": "20261122_181309_36036107-86b1-4e7d-afc5-635bf7b912bc"
+  },
+  "ss": 0.9,
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 1612,
+  "t": {
+   "X": "20261122_180711_3dbc4665-12cd-4294-90f4-62c9aa4d8c2e"
+  },
+  "mute": [
+   [
+    0,
+    1.0
+   ]
+  ],
+  "gain": -10,
+  "pre": "colortemperature=temperature=7300"
+ },
+ {
+  "n": 1701,
+  "t": {
+   "X": "20261122_180712_99ea74ff-fcc2-4774-a6bd-643d33098712"
+  },
+  "gain": -12
+ },
+ {
+  "n": 1702,
+  "t": {
+   "X": "20261122_180713_1fe7e9ab-b6d1-43d9-9413-bf2672cbac79"
+  }
+ },
+ {
+  "n": 1703,
+  "t": {
+   "X": "20261122_180712_b889881d-c0b8-4ef9-9583-ee229f1f7351"
+  },
+  "gain": -10
+ },
+ {
+  "n": 1704,
+  "t": {
+   "X": "20261122_180713_712d5402-7841-463c-a142-3d264ebdc9fa"
+  },
+  "gain": -10
+ },
+ {
+  "card": "Love isn't about who can give you the most.\nIt's about who makes you feel like yourself.",
+  "sec": 5.0
+ },
+ {
+  "card": "Who would you have chosen?",
+  "sec": 3.5
+ },
+ {
+  "card": "THE END",
+  "sec": 2.5
+ }
+]

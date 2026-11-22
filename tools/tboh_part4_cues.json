@@ -1,0 +1,52 @@
+[
+ {
+  "cue": "dark",
+  "from": "ne6",
+  "to": "n1304",
+  "gain": -6
+ },
+ {
+  "sfx": "sub_drop",
+  "at": "n1304"
+ },
+ {
+  "cue": "resolve",
+  "from": "n1401",
+  "to": "n1402",
+  "gain": -7
+ },
+ {
+  "cue": "longing",
+  "from": "ne1",
+  "to": "n1501",
+  "gain": -7
+ },
+ {
+  "cue": "romance",
+  "from": "ne7",
+  "to": "n1609",
+  "gain": -7
+ },
+ {
+  "sfx": "shimmer",
+  "at": "n1606"
+ },
+ {
+  "cue": "playful",
+  "from": "n16051",
+  "to": "n1612",
+  "gain": -5
+ },
+ {
+  "cue": "heartbreak",
+  "from": "n1701",
+  "to": "n1704",
+  "gain": -6
+ },
+ {
+  "cue": "resolve",
+  "from": "c:Love isn't about who can give you the most.\nIt's about who makes you feel like yourself.",
+  "to": "c:THE END",
+  "gain": -4
+ }
+]

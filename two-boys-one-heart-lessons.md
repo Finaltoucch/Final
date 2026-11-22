@@ -9,3 +9,10 @@
 | Rain frames | Wet straight hair turned into braid-like clumps from behind | Image edit: "sleek bone-straight, NOT braids/locs/twists" | Restate the hairstyle on every back view, especially when wet |
 | Frames | Generic red car or the wrong driver appeared | Edit with the car sheet and Trey sheet as references | Always attach the car sheet `f295c3d4…` to car shots |
 | Images | Safety filter falsely flags harmless prompts ("soaked", busy compositions) | Reword more simply, fewer references | Retry with plainer wording before changing the shot |
+
+## Parts 2–4 lessons
+- Voice swaps garble a short word roughly one time in eight ("any of" became "Emiya's", "Can I" became "You may", "Trey" became "Chui", "run" became "mind"). Re-running the same swap usually fails the same way. Fix it by splicing the word's time range from the raw Kling take (`~/splice.sh base raw a b out`), or, if the splice still reads wrong, use the raw take for that one line.
+- Kling drops small words now and then ("nights at diner"). Re-roll the clip with "clearly saying every word including ..." in the prompt.
+- Silent Kling clips keep inventing ad-libs ("Thank you for watching", "Hahaha", "You"). Mute every establishing or insert clip entirely and let the score carry it.
+- The sandbox holds about 8 concurrent jobs across images, video and voice. Batch 6–8 at a time and fill slots as jobs finish.
+- Whisper small/medium misreads some correct lines ("owing me" as "O.M.M.E."). Check the full-part dialogue track in context before re-rolling.
