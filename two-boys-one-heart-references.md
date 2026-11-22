@@ -123,5 +123,5 @@ Edit list `tools/tboh_part4_edit_list.json`. Prom shots cooled with `colortemper
 ## Establishing clips (Kling, 5 s, audio muted in edit)
 Grandma house `1a808abe` · car wash `d4160389` · school front `5dc86019` · Malik's building `3a1be3f2` · campus drone `5dd8f445` · mansion `afab4eb4` · school entrance night `82eda23a` · bleachers `2522f5a3`
 
-## FULL MOVIE: hook + Parts 1–4 (about 11:32)
+## FULL MOVIE: hook + Parts 1–4 (11:12, 1080p, -15.8 LUFS, no black gaps except time cards)
 media `b3c7e0c7-cbcc-458d-852f-e84c1bf3f40a`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/b3c7e0c7-cbcc-458d-852f-e84c1bf3f40a.mp4
