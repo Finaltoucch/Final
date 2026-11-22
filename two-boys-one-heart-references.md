@@ -125,3 +125,9 @@ Grandma house `1a808abe` · car wash `d4160389` · school front `5dc86019` · Ma
 
 ## FULL MOVIE: hook + Parts 1–4 (11:12, 1080p, -15.8 LUFS, no black gaps except time cards)
 media `b3c7e0c7-cbcc-458d-852f-e84c1bf3f40a`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/b3c7e0c7-cbcc-458d-852f-e84c1bf3f40a.mp4
+
+## FULL MOVIE v2 (replaces v1): 11:14
+media `dfbad5c9-bdbd-4067-8b26-affce3eadf68`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/dfbad5c9-bdbd-4067-8b26-affce3eadf68.mp4
+Part 4 v2 media `a8163181-f0ae-4de2-9531-08fb0f29441c`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/a8163181-f0ae-4de2-9531-08fb0f29441c.mp4
+- Sc 15 opener: Grandma's house at evening (frame `3b51b4a8`, clip `d112dfb9`) instead of the daytime shot.
+- Multi-line cards now center each line (`card_vf` in `tools/mb.py`).

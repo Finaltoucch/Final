@@ -32,10 +32,13 @@ def lower_third(name,role,t0,t1):
           f",drawtext=fontfile='{FONT}':textfile='{tf(name)}':fontsize=60:fontcolor=white:x=100:y=h-250:alpha='{a}':shadowcolor=black@0.7:shadowx=2:shadowy=2"
           f",drawtext=fontfile='{FONTL}':textfile='{tf(role)}':fontsize=36:fontcolor=0xE8B04A:x=102:y=h-170:alpha='{a}':shadowcolor=black@0.7:shadowx=2:shadowy=2")
 CS=2.625
+def card_vf(text,a):
+  ls=text.split('\n');fs=64 if len(ls)==1 else 56;lh=int(fs*1.45);y0=540-lh*len(ls)//2
+  return ','.join(f"drawtext=fontfile='{FONT}':textfile='{tf(l)}':fontsize={fs}:fontcolor=white:x=(w-tw)/2:y={y0+k*lh}:alpha='{a}'" for k,l in enumerate(ls))+',format=yuv420p'
 def card(text,i,sec=CS):
   o=f'k{i:02d}.mp4';a=f"if(lt(t,0.4),t/0.4,if(lt(t,{sec-0.4}),1,({sec}-t)/0.4))"
   run(['ffmpeg','-v','error','-y','-f','lavfi','-i',f'color=c=black:s=1920x1080:r=24:d={sec}','-t',str(sec),
-       '-vf',f"drawtext=fontfile='{FONT}':textfile='{tf(text)}':fontsize=64:fontcolor=white:x=(w-tw)/2:y=(h-th)/2:alpha='{a}',format=yuv420p",
+       '-vf',card_vf(text,a),
        '-c:v','libx264','-preset','veryfast','-crf','19','-an',o]);return o
 rep=[];outs=[];wavs=[];TL=[];TPOS=0.0
 for i,c in enumerate(M,1):

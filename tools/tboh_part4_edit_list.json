@@ -130,16 +130,16 @@
  {
   "n": "e1",
   "t": {
-   "X": "20261122_134049_1a808abe-5128-4831-93c9-6125ad5e824e"
+   "X": "20261122_183253_d112dfb9-da8a-457d-9d3b-cdb71c3cedf9"
   },
-  "ss": 0.6,
-  "maxdur": 3.4,
+  "maxdur": 4.0,
   "mute": [
    [
     0,
     6
    ]
-  ]
+  ],
+  "note": "evening Grandma house (frame 3b51b4a8)"
  },
  {
   "n": 1501,
