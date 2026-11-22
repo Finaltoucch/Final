@@ -68,3 +68,12 @@ Natural lighting in every picture: real daylight, soft window light, true-to-lif
 
 ## Voice tests (Kling native voice; clone after approval)
 Files are in `voice-tests/`. Zara `a7174153…`, Malik `f4c31bad…`, Trey `647a1f39…`. All three lines were checked word-perfect with Whisper.
+
+## Locked voices (cloned from each character's own Kling take)
+| Character | Voice | voice_id (voice_type: element) |
+|---|---|---|
+| Zara | Zara natural (TBOH) | `5a6f1fb7-6090-4944-9186-560dc05741cc` |
+| Malik | Malik natural (TBOH) | `a921e128-06e4-476e-b4fb-8448c761b53a` |
+| Trey | Trey natural (TBOH) | `14837150-3558-495d-ab58-a4ab7ed95002` |
+
+Supporting characters (Grandma Pearl, Ms. Angela, Mr. Whitfield, Brianna) keep Kling's own raw voice take; the account's custom-voice slots are full. Shouts and crying always stay raw.
