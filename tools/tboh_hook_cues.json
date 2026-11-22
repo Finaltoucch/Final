@@ -1,7 +1,35 @@
-[{"cue": "hype", "from": "n0", "to": "n4", "gain": -4},
- {"cue": "romance", "from": "n2", "to": "n2", "gain": -8},
- {"cue": "tension", "from": "n7", "to": "n9", "gain": -1},
- {"sfx": "reverse_swell", "at": "n7", "len": 2.5},
- {"sfx": "riser", "at": "n9", "len": 3.0},
- {"sfx": "shimmer", "at": "c:TWO BOYS, ONE HEART", "off": 0.05},
- {"sfx": "hit", "at": "c:SIX WEEKS EARLIER", "off": 0.0, "db": -30}]
+[
+ {
+  "cue": "hype",
+  "from": "n0",
+  "to": "n4",
+  "gain": -4
+ },
+ {
+  "cue": "tension",
+  "from": "n7",
+  "to": "n9",
+  "gain": -1
+ },
+ {
+  "sfx": "reverse_swell",
+  "at": "n7",
+  "len": 2.5
+ },
+ {
+  "sfx": "riser",
+  "at": "n9",
+  "len": 3.0
+ },
+ {
+  "sfx": "shimmer",
+  "at": "c:TWO BOYS, ONE HEART",
+  "off": 0.05
+ },
+ {
+  "sfx": "hit",
+  "at": "c:SIX WEEKS EARLIER",
+  "off": 0.0,
+  "db": -30
+ }
+]
