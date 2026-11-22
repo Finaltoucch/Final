@@ -77,3 +77,19 @@ Files are in `voice-tests/`. Zara `a7174153…`, Malik `f4c31bad…`, Trey `647a
 | Trey | Trey natural (TBOH) | `14837150-3558-495d-ab58-a4ab7ed95002` |
 
 Supporting characters (Grandma Pearl, Ms. Angela, Mr. Whitfield, Brianna) keep Kling's own raw voice take; the account's custom-voice slots are full. Shouts and crying always stay raw.
+
+## Hook drafts (Seedance 480p, approved frames)
+H0 drone `f1241e5c…` · H1 `18c6014b…` · H2 `24a2db57…` · H3 `77fe8459…` · H4 `90eb9ce3…` · H5 `4a117ca8…` (Trey voice ref) · H6 `2acb3f37…` · H7 `b5fcd269…` · H8 `96258950…` (mute stray "Thank you") · H9 `e5a1a95b…`
+Draft cut v1 (48.8 s): media `53171884-7a66-465c-ac4d-8df1d8752f8b`, https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/53171884-7a66-465c-ac4d-8df1d8752f8b.mp4
+
+## Establishing shots (natural light, used between scenes; animate as slow drone or camera moves)
+| Shot | Job ID | Use |
+|---|---|---|
+| Campus aerial (wide) | `10806fb9…` | Hook opener, Sc 1 |
+| Campus drone, closer, morning arrivals | `8185340a-6584-4fa4-a7d6-7128e663a0f3` | Before school scenes |
+| Atlanta skyline aerial | `851b203f-76bd-44a6-81f1-984137c2562a` | After the title / time jumps |
+| School front, ground level | `0b6e5d23-058a-4ecd-85f3-a65dada6a59c` | Sc 1, 7, 11 |
+| Neighborhood aerial | `ba313f21-d51b-4eaa-93b6-11b193e63fe4` | Before Grandma scenes / rain ride |
+| Grandma's house exterior | `ee6527a3-1e4f-415d-ad48-f0e9ab8e11e8` | Sc 4, 15 |
+| Malik's apartment building, dusk | `310016e5-08a3-4e2f-af82-003b4d0a6ecd` | Sc 8, 10, 14 |
+| Whitfield mansion aerial | `a73a2166-e980-4f92-9d77-65b090ff56f3` | Sc 13 |
