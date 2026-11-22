@@ -1,0 +1,31 @@
+[
+ {
+  "cue": "playful",
+  "from": "n101",
+  "to": "n114",
+  "gain": -5
+ },
+ {
+  "cue": "playful",
+  "from": "n201",
+  "to": "n205",
+  "gain": -4
+ },
+ {
+  "cue": "romance",
+  "from": "n206",
+  "to": "n210",
+  "gain": -5
+ },
+ {
+  "cue": "romance",
+  "from": "n307",
+  "to": "n315",
+  "gain": -7
+ },
+ {
+  "sfx": "reverse_swell",
+  "at": "n315",
+  "len": 2.5
+ }
+]

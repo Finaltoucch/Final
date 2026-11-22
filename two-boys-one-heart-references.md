@@ -103,3 +103,7 @@ media `9eeb48fd-054d-48f8-8d5d-382ec577afd7`: https://d2ol7oe51mr4n9.cloudfront.
 - H4 redone: Trey's head was too long at the back in the side view. New frame `453f69f1…` and final `9dfe4c56…`.
 - New original score engine `tools/score_tboh.py`, with new cues and effects. Nothing is reused from the previous film's score.
 - Rule: Trey must always have a normal round head shape in side and back views. Check profile shots for this.
+
+## Part 1 (Sc 1–3) v1: 2:29, 1080p, new score
+media `41cfa889-1648-4e6f-ba30-6a242535d3d7`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/41cfa889-1648-4e6f-ba30-6a242535d3d7.mp4
+Edit list `tools/tboh_part1_edit_list.json`, cues `tools/tboh_part1_cues.json`. Line 1-13 "You'd" is word-spliced from the raw take (splice113.mp4 in the sandbox).
