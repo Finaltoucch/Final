@@ -16,3 +16,15 @@
 - Silent Kling clips keep inventing ad-libs ("Thank you for watching", "Hahaha", "You"). Mute every establishing or insert clip entirely and let the score carry it.
 - The sandbox holds about 8 concurrent jobs across images, video and voice. Batch 6–8 at a time and fill slots as jobs finish.
 - Whisper small/medium misreads some correct lines ("owing me" as "O.M.M.E."). Check the full-part dialogue track in context before re-rolling.
+
+## Full voice audit (15-minute cut)
+Method: transcribe every part's dialogue track with Whisper large-v3 (medium/small miss errors) and compare to the screenplay; then check speaker identity with Resemblyzer embeddings against reference clips of each clone (Zara clearly separable; Malik and Trey sit close together, so a small margin needs the swap's voice_id checked).
+Errors found and fixed:
+- 1-07 "Question four got me too": the Malik clone always says "about". Fixed by splicing "four got" (2.82–3.14 s) from the raw take.
+- 1-13 "You'd just be listening": "you'd just" slurs to "you just". Re-rolled with a beat after "You'd", then swapped cleanly.
+- 3-03 "Get in": the Trey clone always says "Janine". Fixed by splicing "Get in," (2.38–2.98 s) from the raw take.
+- 3-08 "You noticed that?": Kling kept dropping the -d. A re-roll with a stressed past tense came out right, then swapped.
+- 8-02 "handlebars": the raw take said "handle-barbers". Re-rolled and swapped.
+- 16-23 "Trey, I,": the clone can't say the name alone. Built from Zara-clone words used elsewhere ("Trey" from 3-10, "I" from 1-10), placed on the lip timing.
+Rule: re-running the same voice swap repeats the same garble (it's deterministic); fix it with a raw-word splice or a re-roll.
+Visual fixes in the same pass: car scale (Trey too big for the car in X04 and 1-02) and 3-06 (Zara was getting into a back seat that a two-seater doesn't have).

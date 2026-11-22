@@ -146,3 +146,10 @@ media `2ee65cb0-58b1-4906-9265-3e703c500996`: https://d2ol7oe51mr4n9.cloudfront.
 - Trimmed to avoid eyelines into the lens: X10 (3.5 s), X20 (5.5 s), X32 (3.5 s).
 - Closing studio card added: "A KHARUNE STUDIOS FILM".
 - Redone frames: X07/X08 (Malik's look, curly hair on the hands insert), X32 (the gown had a slit; redone as full-length with no slit).
+
+## FULL MOVIE, 15-minute cut v2 (replaces the first 15-minute cut): 14:53
+media `ecf0aef4-69fd-4172-ad66-f0955f619cb6`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/ecf0aef4-69fd-4172-ad66-f0955f619cb6.mp4
+Owner feedback fixed:
+- Car scale: X04 → frame `e77a42ca`/clip `2967c31a`; 1-02 → frame `077b9532`/clip `43177578` (Trey now sits low in a full-size car).
+- 3-06 car entry: Zara now drops into the passenger seat of the two-seater (frame `626e027d`/clip `4a674461`), not a back seat.
+- Voice audit: 1-07 (spliced "got"), 1-13 (re-roll `2d5d3654` + Malik clone `de46c083`), 3-03 (spliced "Get in"), 3-08 (re-roll `bd3cc32b` + Zara clone `ce325ae8` + spliced "-d"), 8-02 (re-roll `7d7714d8` + Malik clone `d2e2c69f`), 16-23 (Zara-clone words). See the lessons file.
