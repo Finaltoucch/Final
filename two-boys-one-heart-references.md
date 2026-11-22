@@ -138,3 +138,11 @@ media `84ed3412-a1a0-4ef7-8710-99143f41e739`: https://d2ol7oe51mr4n9.cloudfront.
 - 11032 "Man, I didn't know about this..." is a re-roll (`c1640ba3`) with Trey's clone (`b1dbea1d`).
 - 16023 "Trey, I," stays Zara's raw take: the clone mangles the name "Trey" when it's spoken alone (3 takes tried).
 - Prom shots are now cooled with `colortemperature=8600, eq=saturation=0.9`; the gold glow is gone.
+
+## FULL MOVIE, 15-minute cut (replaces v3): 14:51, 1080p, -16.3 LUFS
+media `2ee65cb0-58b1-4906-9265-3e703c500996`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/2ee65cb0-58b1-4906-9265-3e703c500996.mp4
+- 37 silent montage/beat shots (X01–X38) inserted across Parts 1–4; see `tools/tboh_extension_inserts.py` for every clip ID and where it goes. All inserted Kling audio is muted; the score carries them.
+- Part lengths: hook 0:48 · Part 1 3:27 · Part 2 3:05 · Part 3 2:50 · Part 4 4:42.
+- Trimmed to avoid eyelines into the lens: X10 (3.5 s), X20 (5.5 s), X32 (3.5 s).
+- Closing studio card added: "A KHARUNE STUDIOS FILM".
+- Redone frames: X07/X08 (Malik's look, curly hair on the hands insert), X32 (the gown had a slit; redone as full-length with no slit).
