@@ -97,3 +97,9 @@ Draft cut v1 (48.8 s): media `53171884-7a66-465c-ac4d-8df1d8752f8b`, https://d2o
 ## Hook FINAL (1080p, original score, 48.2 s)
 media `4194219d-cdf2-4637-ac09-7ced55172f2a`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/4194219d-cdf2-4637-ac09-7ced55172f2a.mp4
 Built with `tools/mb.py tools/tboh_hook_edit_list.json` and `tools/score.py … tools/tboh_hook_cues.json`. Muted stray ad-libs: H8 0 to 2.4 s ("Thank you very much"), H9 0 to 1.0 s ("You").
+
+## Hook FINAL v3 (replaces v2)
+media `9eeb48fd-054d-48f8-8d5d-382ec577afd7`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/9eeb48fd-054d-48f8-8d5d-382ec577afd7.mp4
+- H4 redone: Trey's head was too long at the back in the side view. New frame `453f69f1…` and final `9dfe4c56…`.
+- New original score engine `tools/score_tboh.py`, with new cues and effects. Nothing is reused from the previous film's score.
+- Rule: Trey must always have a normal round head shape in side and back views. Check profile shots for this.
