@@ -131,3 +131,10 @@ media `dfbad5c9-bdbd-4067-8b26-affce3eadf68`: https://d2ol7oe51mr4n9.cloudfront.
 Part 4 v2 media `a8163181-f0ae-4de2-9531-08fb0f29441c`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/a8163181-f0ae-4de2-9531-08fb0f29441c.mp4
 - Sc 15 opener: Grandma's house at evening (frame `3b51b4a8`, clip `d112dfb9`) instead of the daytime shot.
 - Multi-line cards now center each line (`card_vf` in `tools/mb.py`).
+
+## FULL MOVIE v3 (replaces v2): 11:14
+media `84ed3412-a1a0-4ef7-8710-99143f41e739`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/84ed3412-a1a0-4ef7-8710-99143f41e739.mp4
+- 5-03 "You never told me any of that." is a re-roll (`8bedc0c7`) with Zara's clone (`a8574af3`).
+- 11032 "Man, I didn't know about this..." is a re-roll (`c1640ba3`) with Trey's clone (`b1dbea1d`).
+- 16023 "Trey, I," stays Zara's raw take: the clone mangles the name "Trey" when it's spoken alone (3 takes tried).
+- Prom shots are now cooled with `colortemperature=8600, eq=saturation=0.9`; the gold glow is gone.

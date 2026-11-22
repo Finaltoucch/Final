@@ -182,7 +182,7 @@
    "X": "20261122_175456_c12f579d-461c-41a7-b2ac-311443be55d2"
   },
   "gain": -12,
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 16021,
@@ -190,7 +190,7 @@
    "X": "20261122_180459_6d8df14a-141d-4903-b4e4-073ddee75ccf"
   },
   "ss": 1.8,
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 16031,
@@ -198,7 +198,7 @@
    "X": "20261122_180501_0cb852f5-bde0-4ed9-b199-454d1f86108a"
   },
   "ss": 1.5,
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 16022,
@@ -206,7 +206,7 @@
    "X": "20261122_180505_7505aed2-8cba-4023-8a5e-e322e19f23a2"
   },
   "ss": 1.6,
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 16032,
@@ -214,7 +214,7 @@
    "X": "20261122_180507_19d1d7cf-fdc4-4e02-9c43-c46ecb52bbdd"
   },
   "ss": 2.0,
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 1604,
@@ -222,7 +222,7 @@
    "X": "20261122_175737_777b2440-ed5b-4fc5-80f6-c04431895aa5"
   },
   "gain": -12,
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 1605,
@@ -230,7 +230,7 @@
    "X": "20261122_180509_8216a5ba-588c-4fdd-a4af-b0f5e367f01b"
   },
   "ss": 2.2,
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 1606,
@@ -238,7 +238,7 @@
    "X": "20261122_175737_c8d0ce61-a1ae-453e-ab66-2ef7764349cd"
   },
   "gain": -14,
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 1607,
@@ -246,21 +246,21 @@
    "X": "20261122_180040_0163c564-a30c-46e0-b813-5ce990956b69"
   },
   "gain": -6,
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 16033,
   "t": {
    "X": "20261122_181256_271c7b24-a3fe-4100-8cc5-f75db4bf6839"
   },
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 16023,
   "t": {
    "X": "20261122_180040_29613f03-1a1e-41be-b6a3-6f026d3690b3"
   },
-  "pre": "colortemperature=temperature=7300",
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9",
   "note": "raw Zara take; swap garbled 'Trey'"
  },
  {
@@ -269,7 +269,7 @@
    "X": "20261122_181259_c03e13af-5397-4aad-b91e-3858225f7477"
   },
   "ss": 1.2,
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 1608,
@@ -288,7 +288,7 @@
    ]
   ],
   "ss": 1.4,
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 1609,
@@ -301,7 +301,7 @@
     6
    ]
   ],
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 16051,
@@ -309,7 +309,7 @@
    "X": "20261122_181307_d12ff6a9-e827-4e23-8124-1751c2a0bd47"
   },
   "ss": 1.8,
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 1611,
@@ -317,7 +317,7 @@
    "X": "20261122_181309_36036107-86b1-4e7d-afc5-635bf7b912bc"
   },
   "ss": 0.9,
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 1612,
@@ -331,7 +331,7 @@
    ]
   ],
   "gain": -10,
-  "pre": "colortemperature=temperature=7300"
+  "pre": "colortemperature=temperature=8600,eq=saturation=0.9"
  },
  {
   "n": 1701,
