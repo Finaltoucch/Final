@@ -1,0 +1,37 @@
+[
+ {
+  "cue": "romance",
+  "from": "ne1",
+  "to": "n405",
+  "gain": -7
+ },
+ {
+  "cue": "romance",
+  "from": "ne2",
+  "to": "n504",
+  "gain": -6
+ },
+ {
+  "cue": "longing",
+  "from": "n601",
+  "to": "n605",
+  "gain": -6
+ },
+ {
+  "cue": "playful",
+  "from": "ne3",
+  "to": "n702",
+  "gain": -5
+ },
+ {
+  "cue": "romance",
+  "from": "ne4",
+  "to": "n802",
+  "gain": -6
+ },
+ {
+  "sfx": "reverse_swell",
+  "at": "n802",
+  "len": 2.5
+ }
+]

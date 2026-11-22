@@ -1,0 +1,309 @@
+[
+ {
+  "n": "e1",
+  "t": {
+   "X": "20261122_134049_1a808abe-5128-4831-93c9-6125ad5e824e"
+  },
+  "maxdur": 4.0,
+  "mute": [
+   [
+    0,
+    6
+   ]
+  ]
+ },
+ {
+  "n": 401,
+  "t": {
+   "G": "20261122_132243_8127f8e0-ac2b-4eca-a7e0-92d7836e7944",
+   "Z": "20261122_133112_2806a9b1-a56a-4d74-b6ea-6d66b3e3acac"
+  },
+  "l": [
+   [
+    "G",
+    "So which one gave you that look on your face?"
+   ],
+   [
+    "Z",
+    "What look?"
+   ],
+   [
+    "G",
+    "That one. The one I had in nineteen seventy-four."
+   ]
+  ],
+  "ss": 0.8,
+  "pre": "colortemperature=temperature=7600"
+ },
+ {
+  "n": 402,
+  "t": {
+   "Z": "20261122_132849_cb5d4b1a-8bca-4c4c-8c30-80e16cbb6e25",
+   "G": "20261122_132243_256fbe96-65e9-4b56-b45c-665f6e504d0e"
+  },
+  "l": [
+   [
+    "Z",
+    "There's this boy, Malik. He helps me with calculus. He's sweet, Grandma. Like, quiet sweet. He notices everything."
+   ],
+   [
+    "G",
+    "Mm-hm."
+   ]
+  ],
+  "pre": "colortemperature=temperature=7600"
+ },
+ {
+  "n": 403,
+  "t": {
+   "Z": "20261122_132845_3027aaf9-5738-4360-aa05-84641a0c2680"
+  },
+  "ss": 0.4,
+  "pre": "colortemperature=temperature=7600"
+ },
+ {
+  "n": 404,
+  "t": {
+   "G": "20261122_132243_fe009c70-0450-4ce3-84ba-e83d69e6fcec"
+  },
+  "pre": "colortemperature=temperature=7600"
+ },
+ {
+  "n": 405,
+  "t": {
+   "X": "20261122_132243_a4f786a3-1289-4f57-a2c5-d27868dd6fcb"
+  },
+  "mute": [
+   [
+    2.6,
+    4.1
+   ]
+  ],
+  "gain": -10,
+  "pre": "colortemperature=temperature=7600"
+ },
+ {
+  "card": "SATURDAY",
+  "sec": 1.5
+ },
+ {
+  "n": "e2",
+  "t": {
+   "X": "20261122_134049_d4160389-ccf7-4c62-816d-fdaf43187d64"
+  },
+  "maxdur": 4.0,
+  "mute": [
+   [
+    0,
+    6
+   ]
+  ]
+ },
+ {
+  "n": 501,
+  "t": {
+   "M": "20261122_133115_29d05493-0457-4517-a5ea-f8c46e89bd56",
+   "Z": "20261122_133116_d667d2c2-3a3e-40af-b107-42bc2d42934e"
+  },
+  "l": [
+   [
+    "M",
+    "You were not supposed to see me like this."
+   ],
+   [
+    "Z",
+    "Like what? Working?"
+   ]
+  ],
+  "ss": 1.6
+ },
+ {
+  "n": 5021,
+  "t": {
+   "X": "20261122_133122_7aa5c2f3-a78e-4d80-bc53-882de0283d46"
+  },
+  "ss": 0.8
+ },
+ {
+  "n": 5022,
+  "t": {
+   "X": "20261122_135955_c2d3a91f-51e6-47ce-bf4f-5415f2af9e9d"
+  },
+  "note": "re-roll 254ec864 (\"at the diner\") + Malik voice"
+ },
+ {
+  "n": 503,
+  "t": {
+   "X": "/home/user/p2b/raw503.mp4"
+  },
+  "ss": 1.6,
+  "note": "raw Zara take a18ce145 (voice swap garbled \"any of\" twice)"
+ },
+ {
+  "n": 504,
+  "t": {
+   "X": "20261122_132905_cad5ed10-1131-4111-a6f6-97e6ce7f68af"
+  }
+ },
+ {
+  "n": 601,
+  "t": {
+   "X": "20261122_132525_a6043cf0-2266-4ca9-a980-db47653b6b7a"
+  },
+  "mute": [
+   [
+    0,
+    1.0
+   ]
+  ],
+  "gain": -10
+ },
+ {
+  "n": 602,
+  "t": {
+   "Z": "20261122_133118_6bde19a2-8ff6-4721-80c5-485b5ad6b1a5",
+   "T": "20261122_133120_590040c1-d6aa-4bd5-8937-e4c9a76e6f8b"
+  },
+  "l": [
+   [
+    "Z",
+    "Thirty-one points. Everybody's talking about you."
+   ],
+   [
+    "T",
+    "Not everybody."
+   ]
+  ],
+  "ss": 0.5
+ },
+ {
+  "n": 603,
+  "t": {
+   "X": "20261122_132908_4e6ee7d1-51a0-4872-99de-7d93d713c3ed"
+  },
+  "ss": 0.4
+ },
+ {
+  "n": 604,
+  "t": {
+   "X": "20261122_132607_a42de7ae-4cbe-4184-8603-b657fce595f0"
+  },
+  "gain": -12
+ },
+ {
+  "n": 605,
+  "t": {
+   "Z": "20261122_133504_88891dda-1345-4b7f-a57a-d1ab75b66056",
+   "T": "20261122_133506_269988a4-0598-4d4e-8795-69a2aa44b578"
+  },
+  "l": [
+   [
+    "Z",
+    "Trey."
+   ],
+   [
+    "T",
+    "He sends money. That's his way of saying he was there."
+   ],
+   [
+    "Z",
+    "That's not the same thing."
+   ],
+   [
+    "T",
+    "Yeah. I know."
+   ]
+  ],
+  "ss": 0.4
+ },
+ {
+  "n": "e3",
+  "t": {
+   "X": "20261122_134049_5dc86019-0b36-490d-a49b-d6d6881cb622"
+  },
+  "ss": 1.0,
+  "maxdur": 4.0,
+  "mute": [
+   [
+    0,
+    6
+   ]
+  ]
+ },
+ {
+  "n": 701,
+  "t": {
+   "B": "20261122_132607_70f1b632-f648-4e08-be79-e4e725c61026",
+   "Z": "20261122_133508_4c8059c8-0759-43f2-bef9-978446c24696"
+  },
+  "l": [
+   [
+    "B",
+    "Trey Whitfield sat with you after the game? Girl, are you serious right now?"
+   ],
+   [
+    "Z",
+    "It's not like that. And Malik is,"
+   ],
+   [
+    "B",
+    "Malik is nice. Malik is real nice. But nice doesn't pick you up in the rain."
+   ]
+  ]
+ },
+ {
+  "n": 702,
+  "t": {
+   "X": "20261122_132844_7511229d-5431-40e5-9208-5b875aa85ab8"
+  },
+  "mute": [
+   [
+    0,
+    1.0
+   ]
+  ],
+  "gain": -10
+ },
+ {
+  "n": "e4",
+  "t": {
+   "X": "20261122_134049_3a1be3f2-4bfd-48e0-8725-014a1fa9731c"
+  },
+  "maxdur": 4.0,
+  "mute": [
+   [
+    0,
+    6
+   ]
+  ]
+ },
+ {
+  "n": 801,
+  "t": {
+   "X": "20261122_132844_12346d3c-d0b9-4230-835e-9f5d797209e8"
+  },
+  "gain": -12
+ },
+ {
+  "n": 802,
+  "t": {
+   "A": "20261122_132843_2b72d065-8ca5-45b5-8c73-1aac2fb4eff9",
+   "M": "20261122_133512_e364380b-0191-402a-9f1d-a7c4835af417"
+  },
+  "l": [
+   [
+    "A",
+    "Just ask her, baby."
+   ],
+   [
+    "M",
+    "Ask her to what? Ride on my handlebars to prom?"
+   ],
+   [
+    "A",
+    "She's not looking at your shoes, Malik. She's looking at you."
+   ]
+  ],
+  "ss": 0.4
+ }
+]

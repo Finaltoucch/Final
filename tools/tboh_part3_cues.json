@@ -1,0 +1,41 @@
+[
+ {
+  "cue": "tension",
+  "from": "ne5a",
+  "to": "n903",
+  "gain": -7
+ },
+ {
+  "cue": "dark",
+  "from": "ne4",
+  "to": "n1003",
+  "gain": -6
+ },
+ {
+  "cue": "tension",
+  "from": "ne3",
+  "to": "n1106",
+  "gain": -6
+ },
+ {
+  "sfx": "hit",
+  "at": "n1102"
+ },
+ {
+  "cue": "heartbreak",
+  "from": "ne8",
+  "to": "n1203",
+  "gain": -6
+ },
+ {
+  "cue": "longing",
+  "from": "n1204",
+  "to": "n1204",
+  "gain": -8
+ },
+ {
+  "sfx": "reverse_swell",
+  "at": "n1204",
+  "len": 2.5
+ }
+]
