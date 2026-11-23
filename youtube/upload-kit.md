@@ -149,3 +149,27 @@ Post 1–2 Shorts before the premiere and the rest in the week after. Link the f
 - Best time: Friday or Saturday at 6–8 pm in your main audience's time zone (check YouTube Studio → Analytics → Audience → "When your viewers are on YouTube").
 - Add it to a playlist: "Kharune Studios: Love Stories".
 - In the first hour, reply to comments ("Team Malik or Team Trey?") to boost engagement.
+
+---
+
+## 11. Story summary
+
+### Short (no spoilers): use it for the description's first lines, a Community post or a Shorts caption
+Zara is 18, a choir girl in Atlanta who dreams of becoming a doctor. Two very different boys fall for her. Malik is quiet and poor and notices everything. Trey is rich, loud and the school's basketball star. When Trey's father's company buys Malik's building and gives his family sixty days to leave, Zara is caught in the middle, and she has to decide what love really means.
+
+### Full summary (with the ending): for your own records, a blog post or a pinned "spoiler" reply
+At Eastbrook High in Atlanta, Zara struggles with calculus and needs a B to keep her place in a hospital summer program. Malik, the top of the class, quietly offers to help, and their library sessions turn into something more: half a sandwich with the crust already cut off, and a note in her calculator case that says "You're smarter than this test."
+
+On a rainy afternoon, Trey Whitfield, the rich basketball star with the red convertible, gives Zara a ride home. He's charming and attentive, and he notices that she sings front row, left side. At Grandma Pearl's kitchen table, Zara admits she likes both boys. Grandma's advice: "Don't pick the boy who makes you feel lucky. Pick the one who makes you feel like yourself."
+
+Zara learns Malik works every weekend at his uncle's car wash to keep his family's lights on. She learns Trey's father has never once come to one of his games. At the pep rally, Trey asks Zara to prom in front of the whole school with roses, while Malik slips away with the hand-drawn card he never gave her. Zara says, "Can I think about it?"
+
+Then an eviction notice goes up on Malik's door: the building has been sold, and the family has sixty days. The buyer is Whitfield Development, Trey's father's company. Malik confronts Trey in the parking lot, and Zara pulls them apart. Afterwards, Malik pushes her away: "You belong in his world, Zara. Not mine."
+
+Trey goes home and confronts his father. He offers to give up the car and everything else if his father will stop the deal. The next morning, Malik's mother gets a new letter: the sale is off. Nobody tells them why.
+
+On prom night, Trey arrives without his car. Zara realizes it was him who saved Malik's building, and he asks her not to tell Malik. Then Malik walks in, in a borrowed suit, and finally gives Zara the card: "I'd rather fail calculus with you than pass it with anyone else." Zara chooses Malik. Trey already knows. He shakes Malik's hand: "She's worth it. Make sure she knows it."
+
+Outside, Trey finds his father waiting. Mr. Whitfield has cancelled the deal and watched the tape of Trey's game, all thirty-one points. "I should have been in that seat, son." For the first time in years, Trey's father holds him.
+
+*Love isn't about who can give you the most. It's about who makes you feel like yourself.*
