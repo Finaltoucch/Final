@@ -33,3 +33,12 @@ Visual fixes in the same pass: car scale (Trey too big for the car in X04 and 1-
 - The account caps custom voice clones at 3, so supporting characters use built-in preset voices. To pick each one, embed every preset preview with Resemblyzer, take the 2–3 closest to the character's original Kling voice, trial-swap one real line with each, and keep the one that (a) stays closest to the character, (b) transcribes cleanly, and (c) is distinct from the leads (reject a father voice that sounds like his son).
 - Kling's own voice for one character drifts between clips (Angela 0.54 and Whitfield 0.60 self-similarity), so a fixed voice is needed for continuity even for small roles.
 - Shout and exclamation lines can garble in the swap ("Girl. Girl!" became "Girl, don't look"). Build them from the same voice saying the word in another clip.
+
+## v4 review fixes (owner notes on v3)
+- Audible voice switches: wherever a line mixed raw Kling words with clone words, the owner heard the voice change mid-line. Prom (16-08) is now two single-speaker clips (Trey's line and Malik's "Every day.") instead of one stitched clip. "Trey, I," (16-23) is a clean Zara-clone take (1 of 3 tries came out right; the others said "Trey, eyes" and "Trey Ives"). Rule: one speaker per clip, one voice per clip. Only splice a word taken from the SAME clone voice.
+- 13-03 "People live there, Dad": the old version used a raw-take word and sounded like the father. Now a fresh Trey take, swapped to Trey's clone. The clone said "our school", so "my" was taken from another Trey-clone line (11-03 "my dad's company").
+- 9-01 "Can I think about it?": a clean Zara-clone re-roll, replacing the raw-word splice.
+- Rain ride (Sc 3): all in-car dialogue is now one side-by-side windshield two-shot. Left-hand drive puts Trey on the left seat, which is the image's right when shot from the front, and Zara on the image's left. Every shot in the car uses this same layout. OTS shots inside a two-seater kept flipping who sat where, so they are not used.
+- Gym 6-03: Trey sits right next to Zara (new frame `1c9983da`).
+- Whisper can't tell "I notice a lot" from "I know this a lot" (it transcribes the same audio either way, depending on context). Don't chase it with splices.
+- 16-05 "I can't really dance" was garbled in every earlier cut ("I tell all the dads") and was missed because the earlier audit read Whisper output from the mixed track. Check each dialogue clip on its own, not only the mix.

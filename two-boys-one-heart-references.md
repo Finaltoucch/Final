@@ -166,3 +166,13 @@ Owner feedback fixed:
 ## FULL MOVIE, 15-minute cut v3 (replaces v2): 14:53
 media `e6d8adcc-7c15-4c9f-b197-1195eb34ba81`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/e6d8adcc-7c15-4c9f-b197-1195eb34ba81.mp4
 Every character now has one fixed voice for the whole film: the three leads use cloned voices, and the four supporting characters use the preset voices in the table above. The hook was rebuilt as `hook_v4` (sandbox `~/hb2`) with Brianna in her Cora voice.
+
+## FULL MOVIE, 15-minute cut v4 (replaces v3): 14:51
+media `6c509490-6358-447f-87ff-91da91ade1ea`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/6c509490-6358-447f-87ff-91da91ade1ea.mp4
+Edit-list changes: `tools/tboh_v4_patch.py`.
+- Rain ride (Sc 3): consistent side-by-side seating in a two-seat interior. Zara keeps straight hair and a modest uniform.
+- Gym 6-03: side by side.
+- 9-01 (7:41): clean Zara take.
+- 13-03 (10:22): Trey's voice throughout.
+- Prom: every line is one speaker in one voice. 16-08 is split into two clips; 16-23 is a clean Zara take. 16-05 "I can't really dance" was garbled ("I tell all the dads") and has been re-rolled.
+- Full-movie Whisper check against the screenplay: all lines match.
