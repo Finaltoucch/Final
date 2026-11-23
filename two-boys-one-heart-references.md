@@ -76,7 +76,16 @@ Files are in `voice-tests/`. Zara `a7174153…`, Malik `f4c31bad…`, Trey `647a
 | Malik | Malik natural (TBOH) | `a921e128-06e4-476e-b4fb-8448c761b53a` |
 | Trey | Trey natural (TBOH) | `14837150-3558-495d-ab58-a4ab7ed95002` |
 
-Supporting characters (Grandma Pearl, Ms. Angela, Mr. Whitfield, Brianna) keep Kling's own raw voice take; the account's custom-voice slots are full. Shouts and crying always stay raw.
+Supporting characters now each have ONE fixed preset voice (the account allows only 3 custom clones). Chosen by speaker-embedding match to each character's original Kling voice, then trial-swapped and checked:
+
+| Character | Preset voice | voice_id (voice_type: preset) |
+|---|---|---|
+| Grandma Pearl | Onyx | `8911390e-4b59-459b-ba84-19010917e1df` |
+| Ms. Angela | Remy | `b9c5c5db-4eb7-468a-a0b7-d06423af0335` |
+| Brianna | Cora | `8c4760aa-b4d2-5313-90a9-01f2d3eecd20` |
+| Mr. Whitfield | Kevin | `f1373f24-3b96-433f-9a68-e595810ef608` (Harrison matched slightly better but sounded too close to Trey) |
+
+Zara's crying in the choir room (12-04 "Of course you did.") stays raw. Brianna's hook line "Girl. Girl!" is built from her Cora-voice "Girl" in 7-01, because the swap garbled it into "Girl, don't look".
 
 ## Hook drafts (Seedance 480p, approved frames)
 H0 drone `f1241e5c…` · H1 `18c6014b…` · H2 `24a2db57…` · H3 `77fe8459…` · H4 `90eb9ce3…` · H5 `4a117ca8…` (Trey voice ref) · H6 `2acb3f37…` · H7 `b5fcd269…` · H8 `96258950…` (mute stray "Thank you") · H9 `e5a1a95b…`
@@ -153,3 +162,7 @@ Owner feedback fixed:
 - Car scale: X04 → frame `e77a42ca`/clip `2967c31a`; 1-02 → frame `077b9532`/clip `43177578` (Trey now sits low in a full-size car).
 - 3-06 car entry: Zara now drops into the passenger seat of the two-seater (frame `626e027d`/clip `4a674461`), not a back seat.
 - Voice audit: 1-07 (spliced "got"), 1-13 (re-roll `2d5d3654` + Malik clone `de46c083`), 3-03 (spliced "Get in"), 3-08 (re-roll `bd3cc32b` + Zara clone `ce325ae8` + spliced "-d"), 8-02 (re-roll `7d7714d8` + Malik clone `d2e2c69f`), 16-23 (Zara-clone words). See the lessons file.
+
+## FULL MOVIE, 15-minute cut v3 (replaces v2): 14:53
+media `e6d8adcc-7c15-4c9f-b197-1195eb34ba81`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/e6d8adcc-7c15-4c9f-b197-1195eb34ba81.mp4
+Every character now has one fixed voice for the whole film: the three leads use cloned voices, and the four supporting characters use the preset voices in the table above. The hook was rebuilt as `hook_v4` (sandbox `~/hb2`) with Brianna in her Cora voice.

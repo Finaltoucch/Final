@@ -28,3 +28,8 @@ Errors found and fixed:
 - 16-23 "Trey, I,": the clone can't say the name alone. Built from Zara-clone words used elsewhere ("Trey" from 3-10, "I" from 1-10), placed on the lip timing.
 Rule: re-running the same voice swap repeats the same garble (it's deterministic); fix it with a raw-word splice or a re-roll.
 Visual fixes in the same pass: car scale (Trey too big for the car in X04 and 1-02) and 3-06 (Zara was getting into a back seat that a two-seater doesn't have).
+
+## Supporting voices
+- The account caps custom voice clones at 3, so supporting characters use built-in preset voices. To pick each one, embed every preset preview with Resemblyzer, take the 2–3 closest to the character's original Kling voice, trial-swap one real line with each, and keep the one that (a) stays closest to the character, (b) transcribes cleanly, and (c) is distinct from the leads (reject a father voice that sounds like his son).
+- Kling's own voice for one character drifts between clips (Angela 0.54 and Whitfield 0.60 self-similarity), so a fixed voice is needed for continuity even for small roles.
+- Shout and exclamation lines can garble in the swap ("Girl. Girl!" became "Girl, don't look"). Build them from the same voice saying the word in another clip.
