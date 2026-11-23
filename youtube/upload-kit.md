@@ -164,7 +164,7 @@ On a rainy afternoon, Trey Whitfield, the rich basketball star with the red conv
 
 Zara learns Malik works every weekend at his uncle's car wash to keep his family's lights on. She learns Trey's father has never once come to one of his games. At the pep rally, Trey asks Zara to prom in front of the whole school with roses, while Malik slips away with the hand-drawn card he never gave her. Zara says, "Can I think about it?"
 
-Then an eviction notice goes up on Malik's door: the building has been sold, and the family has sixty days. The name at the bottom of the letter is Whitfield: Trey's father's company. Malik confronts Trey in the parking lot, and Zara pulls them apart. Afterwards, Malik pushes her away: "You belong in his world, Zara. Not mine."
+Then an eviction notice goes up on Malik's door: the building has been sold, and the family has sixty days. The name at the bottom of the letter is Whitfield Properties, Trey's father's company. Malik confronts Trey in the parking lot, and Zara pulls them apart. Afterwards, Malik pushes her away: "You belong in his world, Zara. Not mine."
 
 Trey goes home and confronts his father. He offers to give up the car and everything else if his father will stop the deal. The next morning, Malik's mother gets a new letter: the sale is off. Nobody tells them why.
 
