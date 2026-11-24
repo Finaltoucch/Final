@@ -176,3 +176,10 @@ Edit-list changes: `tools/tboh_v4_patch.py`.
 - 13-03 (10:22): Trey's voice throughout.
 - Prom: every line is one speaker in one voice. 16-08 is split into two clips; 16-23 is a clean Zara take. 16-05 "I can't really dance" was garbled ("I tell all the dads") and has been re-rolled.
 - Full-movie Whisper check against the screenplay: all lines match.
+
+## Trailer (1:10)
+media `3772fd12-4a0c-41c0-96a3-593193272581`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/3772fd12-4a0c-41c0-96a3-593193272581.mp4
+Built with `tools/trailer/build.py` (the edit) and `tools/trailer/mix.py` (the sound mix).
+- Score: an original instrumental made with ElevenLabs Music for this trailer (job `03cf815f`); no licensed song.
+- Sound effects: Epidemic Sound (whoosh, low boom, braam, riser).
+- Look: 2.39:1 letterbox, light grade, film grain, Cinzel title cards.
