@@ -35,7 +35,7 @@ EDL=[('card','KHARUNE STUDIOS\nPRESENTS',2.5),
  ('black',721.8,2.0,True),   # "I don't know, Grandma." over black
  ('title','TWO BOYS, ONE HEART',3.8),
  ('shot',801.1,5.0,True),
- ('end','THE FULL MOVIE\nWATCH NOW',3.0)]
+ ('poster','/home/user/tr/poster.png',3.5)  # hallway thumbnail 83426b89]
 F='/home/user/tr/fonts/Cinzel.ttf'
 def card(text,path,size=92,sub=None):
   im=Image.new('RGB',(1920,1080),'black'); d=ImageDraw.Draw(im)
@@ -64,6 +64,11 @@ for i,e in enumerate(EDL):
     v,a,t=src(e[1]); ln=e[2]
     sp.run(['ffmpeg','-v','error','-y','-f','lavfi','-i','color=black:s=1920x1080:r=24:d=%.3f'%ln,'-pix_fmt','yuv420p','-c:v','libx264','-crf','17',o],check=True)
     dlg.append((T,a,t,ln))
+  elif typ=='poster':
+    ln=e[2]; png='%s/poster1080.png'%W
+    Image.open(e[1]).convert('RGB').resize((1920,1080),Image.LANCZOS).save(png)
+    zoom="zoompan=z='1+0.0009*on':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=%d:s=1920x1080:fps=24"%int(ln*24)
+    sp.run(['ffmpeg','-v','error','-y','-loop','1','-i',png,'-t','%.3f'%ln,'-vf',zoom+',fade=in:st=0:d=0.5,fade=out:st=%.2f:d=0.6,format=yuv420p'%(ln-0.6),'-r','24','-c:v','libx264','-crf','17',o],check=True)
   else:
     text=e[1]; ln=e[2]; png='%s/c%02d.png'%(W,i)
     card(text,png,size=120 if typ=='title' else 84)

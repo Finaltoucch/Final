@@ -14,11 +14,11 @@ def put(buf,x,T,g=1.0,fi=0.0,fo=0.0):
 db=lambda d:10**(d/20)
 M=load('/home/user/tr/music.mp3')
 mk={m[0]+':'+str(m[3]):m for m in P['marks']}
-cards=[m for m in P['marks'] if m[0] in('card','title','end')]
+cards=[m for m in P['marks'] if m[0] in('card','title','poster')]
 T2=[m for m in cards if m[3]=='TWO BOYS.'][0][1]
 T1c=[m for m in cards if m[3]=='ONE CHOICE.'][0]
 Tt=[m for m in cards if m[0]=='title'][0][1]
-Tend=[m for m in cards if m[0]=='end'][0][1]
+Tend=[m for m in cards if m[0]=='poster'][0][1]
 Tbut=Tt+[m for m in cards if m[0]=='title'][0][2]
 mus=np.zeros((N,2),np.float32)
 seg=lambda a,b:M[int(a*SR):int(b*SR)].copy()
@@ -48,7 +48,7 @@ fx=np.zeros((N,2),np.float32); S='/home/user/tr/sfx/'
 wh=load(S+'whoosh.mp3'); bo=load(S+'boom.mp3'); br=load(S+'braam.mp3'); ri=load(S+'riser.mp3')
 wpk=np.argmax(np.abs(wh).sum(1))/SR
 for m in cards:
-  if m[0]!='end' and m[1]>1: put(fx,wh,m[1]-wpk,db(-8))
+  if m[0]!='poster' and m[1]>1: put(fx,wh,m[1]-wpk,db(-8))
 put(fx,bo,T2-0.02,db(-3)); put(fx,bo,T1c[1]-0.02,db(-5))
 put(fx,br,Tt-0.03,db(-2))
 stop=[d for d in P['dlg'] if abs(d[2]-(533.4-439.483))<0.01]

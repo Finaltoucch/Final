@@ -177,8 +177,9 @@ Edit-list changes: `tools/tboh_v4_patch.py`.
 - Prom: every line is one speaker in one voice. 16-08 is split into two clips; 16-23 is a clean Zara take. 16-05 "I can't really dance" was garbled ("I tell all the dads") and has been re-rolled.
 - Full-movie Whisper check against the screenplay: all lines match.
 
-## Trailer (1:10)
-media `3772fd12-4a0c-41c0-96a3-593193272581`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/3772fd12-4a0c-41c0-96a3-593193272581.mp4
+## Trailer v2 (1:11): ends on the hallway thumbnail instead of the WATCH NOW card
+media `91b33d3c-fa44-48a6-b558-135c5f090af9`: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/91b33d3c-fa44-48a6-b558-135c5f090af9.mp4
+(v1 `3772fd12…`)
 Built with `tools/trailer/build.py` (the edit) and `tools/trailer/mix.py` (the sound mix).
 - Score: an original instrumental made with ElevenLabs Music for this trailer (job `03cf815f`); no licensed song.
 - Sound effects: Epidemic Sound (whoosh, low boom, braam, riser).
