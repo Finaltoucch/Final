@@ -31,7 +31,7 @@ for i,s in enumerate(E):
   elif s['type']=='poster':
     d=s['sec'];n=int(d*24)
     run(['ffmpeg','-v','error','-y','-loop','1','-i',POSTER,'-t',str(d),'-vf',
-         f"scale=3840:-2,zoompan=z='1+0.07*on/{n}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={n}:s=1920x1080:fps=24,fade=t=in:st=0:d=0.25,fade=t=out:st={d-0.8}:d=0.8,format=yuv420p",
+         f"scale=3840:-2,zoompan=z='1+0.05*on/{n}':x='iw/2-(iw/zoom/2)':y='ih-ih/zoom':d={n}:s=1920x1080:fps=24,fade=t=in:st=0:d=0.25,fade=t=out:st={d-0.8}:d=0.8,format=yuv420p",
          '-frames:v',str(n),'-c:v','libx264','-preset','veryfast','-crf','16',o])
     run(['ffmpeg','-v','error','-y','-f','lavfi','-i','anullsrc=r=48000:cl=stereo','-t',str(d),a])
     d=n/24
