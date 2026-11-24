@@ -89,3 +89,18 @@ Both versions use a gold serif title with a crown, a red ribbon and a lightning 
 - **A: Grace, Bradley and Vanessa.** 1280×720: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/b9f7ef60-13e0-44b6-95e4-554315cf40d6.jpg (4K source job `06683ca3-a43c-433a-9bf4-de8cb2ff7655`)
 - **B: Grace, Ethan and Vanessa.** 1280×720: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/a0be7d2c-76c2-4d7b-84ea-302d675e677f.jpg (4K source job `a50992d7-380d-4fc5-b6f6-10a2f1ad5772`)
 - **B without text:** 1280×720: https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/7e4f97d8-8d34-4fa2-a039-d7d43bfa77d6.jpg (4K source job `330b287e-0a4c-42a9-9339-3423f7ab3f28`)
+
+## Official trailer (2026-11-24)
+- **Trailer (1:04, 1080p, letterboxed 2.39:1):** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/ae811def-441c-4467-9162-8b2fbcf3d6ff.mp4 (media `ae811def-441c-4467-9162-8b2fbcf3d6ff`)
+- **Built with** `tools/trailer_build.py` (cuts, grading, letterbox, Cinzel title cards, poster push-in) and `tools/trailer_mix.py` (original trailer score and sound effects), using `tools/trailer_edl.json`. The dialogue was separated from the film's own music with `separate_stems`, so the trailer score sits cleanly underneath.
+- **Structure:**
+  1. A warm piano opening.
+  2. "SHE CAME FOR A JOB."
+  3. The rival's cruelty, then the toast, then a riser into the slow-motion fall and an impact on the shattering glass.
+  4. The ambulance call, the gurney and "I didn't sign up to push a wheelchair."
+  5. "EVERYONE LEFT HIM."
+  6. A driving montage: "You fight!", the poison, the frame-up and the rain, then "I am not going anywhere."
+  7. A riser into a braam on "ONLY ONE STAYED."
+  8. The arrest, then the proposal on tender piano.
+  9. A beat of silence, then a boom on the "Billionaire Maid" style poster (thumbnail B with the title).
+- **Loudness:** −14 LUFS. Every line was checked with Whisper.
