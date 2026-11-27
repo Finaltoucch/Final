@@ -3,7 +3,7 @@
 import json,sys
 TL=json.load(open(sys.argv[1]));TOTAL=round(TL[-1]['start']+TL[-1]['dur'],4)
 f=lambda x:f"{x:.4f}"
-els=[];js=[]
+els=[];js=[];nflash=[0]
 for s in TL:
   i,st,d=s['i'],s['start'],s['dur']
   if s['type']=='clip':
@@ -12,9 +12,8 @@ for s in TL:
   elif s['type']=='card':
     cls='card studio' if s.get('style')=='studio' else 'card'
     els.append(f'<div id="k{i:02d}" class="clip {cls}" data-start="{f(st)}" data-duration="{f(d)}" data-track-index="2"><h1>{s["text"]}</h1></div>')
-    sp0,sp1=('0.9em','0.55em') if s.get('style')=='studio' else ('0.6em','0.24em')
-    js.append(f'tl.fromTo("#k{i:02d} h1",{{opacity:0,letterSpacing:"{sp0}",filter:"blur(10px)"}},{{opacity:1,letterSpacing:"{sp1}",filter:"blur(0px)",duration:0.6,ease:"power3.out"}},{f(st)});')
-    js.append(f'tl.to("#k{i:02d} h1",{{letterSpacing:"{sp1}",duration:{f(max(0.01,d-0.95))},ease:"none"}},{f(st+0.6)});')
+    js.append(f'tl.fromTo("#k{i:02d} h1",{{opacity:0,scale:1.14,filter:"blur(12px)"}},{{opacity:1,scale:1.0,filter:"blur(0px)",duration:0.65,ease:"power3.out"}},{f(st)});')
+    js.append(f'tl.to("#k{i:02d} h1",{{scale:0.97,duration:{f(max(0.01,d-0.65))},ease:"none"}},{f(st+0.65)});')
     js.append(f'tl.to("#k{i:02d} h1",{{opacity:0,filter:"blur(6px)",duration:0.35,ease:"power2.in"}},{f(st+d-0.35)});')
   elif s['type']=='poster':
     els.append(f'<div id="poster" class="clip" data-start="{f(st)}" data-duration="{f(d)}" data-track-index="3"><img id="pimg" src="assets/poster.jpg"/><div id="sweep"></div></div>')
@@ -24,7 +23,8 @@ for s in TL:
     js.append(f'tl.fromTo("#fadeout",{{opacity:0}},{{opacity:1,duration:0.7,ease:"power1.in"}},{f(st+d-0.7)});')
   if s.get('flash') is not None:
     t=st+s['flash']
-    js.append(f'tl.fromTo("#flash",{{opacity:0}},{{opacity:0.85,duration:0.04,ease:"none"}},{f(t)});')
+    ir='' if nflash[0]==0 else ',immediateRender:false';nflash[0]+=1
+    js.append(f'tl.fromTo("#flash",{{opacity:0}},{{opacity:0.85,duration:0.04,ease:"none"{ir}}},{f(t)});')
     js.append(f'tl.to("#flash",{{opacity:0,duration:0.32,ease:"power2.out"}},{f(t+0.04)});')
 html=f'''<!doctype html>
 <html lang="en" data-resolution="landscape">
