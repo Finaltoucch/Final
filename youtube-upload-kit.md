@@ -104,3 +104,12 @@ Both versions use a gold serif title with a crown, a red ribbon and a lightning 
   8. The arrest, then the proposal on tender piano.
   9. A beat of silence, then a boom on the "Billionaire Maid" style poster (thumbnail B with the title).
 - **Loudness:** −14 LUFS. Every line was checked with Whisper.
+
+## Official trailer, HyperFrames edition (2026-11-27)
+- **60.0 s, 1920×1080, 30 fps, −13 LUFS:** https://d2ol7oe51mr4n9.cloudfront.net/user_38yEef9WJwcxPX1OrTnJynSTZhY/22cfc0ba-3bef-46a0-8862-fad649119096.mp4 (media `22cfc0ba-3bef-46a0-8862-fad649119096`)
+- **Built with HyperFrames** (`hyperframes@0.9.102`, HeyGen's HTML-to-video renderer):
+  - `tools/hf_trailer_prep.py` cuts and grades the clips frame-exact and assembles the dialogue track.
+  - `tools/trailer_mix.py` adds the original score and sound effects under the separated dialogue stem.
+  - `tools/hf_trailer_html.py` writes the composition: video clips on the timeline, animated letterbox bars, gold Cinzel title cards with a scale-and-blur reveal, white impact flashes on the fall, the glass and "ONLY ONE STAYED", and a poster push-in with a light sweep and a fade-out.
+  - EDL: `tools/hf_trailer_edl.json`.
+- **To re-render:** run prep, then the stems and mix, then the HTML generator, then `npx hyperframes render` in the project folder. Lint passes with 0 errors.
