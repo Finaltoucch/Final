@@ -50,5 +50,5 @@ for j in range(0,N,hop):
 mix=dlg+mus*g[:,None]+sfx*(0.5+0.5*g[:,None])
 mix=np.tanh(mix*0.95)/0.95
 sp.run(['ffmpeg','-v','error','-y','-f','f32le','-ar','48000','-ac','2','-i','-','tmix.wav'],input=mix.astype(np.float32).tobytes(),check=True)
-sp.run(['ffmpeg','-v','error','-y','-i',sys.argv[4],'-i','tmix.wav','-map','0:v','-map','1:a','-c:v','copy','-af','loudnorm=I=-14:TP=-1.0:LRA=11','-c:a','aac','-b:a','256k','-ar','48000','-movflags','+faststart','-shortest',sys.argv[5]],check=True)
+if sys.argv[4]!='-':sp.run(['ffmpeg','-v','error','-y','-i',sys.argv[4],'-i','tmix.wav','-map','0:v','-map','1:a','-c:v','copy','-af','loudnorm=I=-14:TP=-1.0:LRA=11','-c:a','aac','-b:a','256k','-ar','48000','-movflags','+faststart','-shortest',sys.argv[5]],check=True)
 print('MIXED',round(total,2))
