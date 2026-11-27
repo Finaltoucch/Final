@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>No Walls — Creative Brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,500;1,400;1,500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --sand:#F4EEE3; --paper:#FBF8F2; --umber:#2B2118; --ink:#3A3028;
+    --olive:#8A7A43; --ochre:#B5652B; --muted:#7A6E62; --line:#DED4C3; --sea:#26404A;
+  }
+  @page{ size:A4; margin:0; }
+  *{ box-sizing:border-box; }
+  html,body{ margin:0; background:var(--paper); color:var(--ink);
+    font-family:"Montserrat",system-ui,sans-serif; font-size:9.1pt; line-height:1.45; }
+  .page{ width:210mm; height:297mm; padding:15mm 17mm 14mm; position:relative;
+    page-break-after:always; overflow:hidden; }
+  .page:last-child{ page-break-after:auto; }
+  .brand{ display:flex; justify-content:space-between; align-items:center;
+    font-size:7.5pt; letter-spacing:.18em; text-transform:uppercase; color:var(--muted);
+    border-bottom:1px solid var(--line); padding-bottom:4mm; margin-bottom:7mm; }
+  .brand b{ color:var(--olive); font-weight:700; letter-spacing:.24em; }
+  h1{ font-size:30pt; line-height:1.02; margin:0 0 3mm; font-weight:800;
+    text-transform:uppercase; color:var(--umber); letter-spacing:-.01em; }
+  .kicker{ font-size:8pt; letter-spacing:.2em; text-transform:uppercase; color:var(--olive);
+    font-weight:700; margin-bottom:2mm; }
+  .lede{ font-family:"Cormorant Garamond",serif; font-style:italic; font-size:15pt;
+    line-height:1.3; color:var(--umber); margin:0 0 6mm; max-width:160mm; }
+  h2{ font-size:9pt; letter-spacing:.2em; text-transform:uppercase; color:var(--olive);
+    margin:5mm 0 2.2mm; font-weight:700; display:flex; align-items:center; gap:3mm; }
+  h2 span.n{ color:var(--umber); }
+  h2::after{ content:""; flex:1; height:1px; background:var(--line); }
+  p{ margin:0 0 2.6mm; }
+  .grid2{ display:grid; grid-template-columns:1fr 1fr; gap:6mm; }
+  .card{ background:var(--sand); padding:4mm 5mm; border-left:2px solid var(--olive); }
+  .card h3{ margin:0 0 1.5mm; font-size:8.4pt; letter-spacing:.12em; text-transform:uppercase; color:var(--umber); }
+  .card p{ margin:0; font-size:8.8pt; }
+  .quote{ background:var(--umber); color:var(--sand); padding:6mm 7mm; margin:3mm 0 3mm; }
+  .quote q{ font-family:"Cormorant Garamond",serif; font-style:italic; font-size:14pt; line-height:1.3; quotes:none; display:block; }
+  .quote .who{ font-size:7.5pt; letter-spacing:.18em; text-transform:uppercase; color:#CDBB86; margin-top:3mm; }
+  table{ width:100%; border-collapse:collapse; font-size:8.1pt; line-height:1.4; }
+  th{ text-align:left; font-size:7pt; letter-spacing:.16em; text-transform:uppercase; color:var(--muted);
+    border-bottom:1px solid var(--umber); padding:1.5mm 2mm; font-weight:700; }
+  td{ border-bottom:1px solid var(--line); padding:1.4mm 2mm; vertical-align:top; }
+  td.t{ white-space:nowrap; font-weight:700; color:var(--olive); width:15mm; }
+  td.vo{ width:52%; }
+  .bold{ font-weight:800; color:var(--umber); background:linear-gradient(transparent 60%, #E6D7A8 60%); }
+  .elder{ font-style:italic; color:var(--ochre); }
+  .sm{ font-size:8pt; color:var(--muted); }
+  ul{ margin:0 0 2mm; padding-left:4.5mm; } li{ margin-bottom:1.2mm; }
+  .swatches{ display:flex; gap:2.5mm; margin-top:2mm; }
+  .sw{ flex:1; height:11mm; display:flex; align-items:flex-end; padding:1mm 1.5mm; font-size:6.5pt; color:#fff; letter-spacing:.06em; }
+  .mood{ display:grid; grid-template-columns:repeat(3,1fr); gap:3mm; }
+  .frame{ border:1px solid var(--line); background:var(--sand); }
+  .frame .img{ aspect-ratio:16/9; background:linear-gradient(135deg,#d9c9a8,#8a7a43); display:flex; align-items:center; justify-content:center;
+    color:rgba(255,255,255,.85); font-size:7pt; letter-spacing:.16em; text-transform:uppercase; background-size:cover; background-position:center; }
+  .frame .cap{ padding:2mm 2.5mm; font-size:7.6pt; line-height:1.35; }
+  .frame .cap b{ display:block; font-size:7pt; letter-spacing:.14em; text-transform:uppercase; color:var(--olive); margin-bottom:.5mm; }
+  .refs{ columns:2; column-gap:6mm; font-size:8.4pt; }
+  .refs p{ break-inside:avoid; }
+  .foot{ position:absolute; bottom:8mm; left:17mm; right:17mm; display:flex; justify-content:space-between;
+    font-size:7pt; letter-spacing:.14em; text-transform:uppercase; color:var(--muted); }
+  @media screen{ body{ background:#e9e3d8; } .page{ margin:10mm auto; background:var(--paper); box-shadow:0 2px 20px rgba(0,0,0,.08);} }
+  @media screen and (max-width:820px){ .page{ width:auto; min-height:0; margin:0; padding:16px; } .grid2,.mood{ grid-template-columns:1fr; } .refs{ columns:1; } .foot{ position:static; margin-top:16px; } td.t{ white-space:normal; } }
+</style>
+</head>
+<body>
+
+<!-- PAGE 1 -->
+<section class="page">
+  <div class="brand"><b>Storied Global</b><span>Mini-Doc · Creative Brief · Milestone 1</span></div>
+  <div class="kicker">Working title</div>
+  <h1>No Walls</h1>
+  <p class="lede">A 90-second film about what survived, and why it still matters: wellbeing is something we make together.</p>
+
+  <h2><span class="n">01</span> Story &amp; direction</h2>
+  <p>The film follows one idea, taken from the script's bold lines: <span class="bold">optimal wellbeing is created through relationship</span>, and <span class="bold">illness is a disruption in the wider relationships that sustain life</span>. We keep only the lines that carry this idea and leave the rest for future pieces.</p>
+  <p>The visual thread is a <b>wall dissolving</b>. It comes straight from the Ghanaian elder's interview: <em>"In my village… there are no walls."</em> Over the film, closed and isolated frames (concrete, glass, one person alone) open onto horizon, community, land and fire. Closeness returns. Nothing is explained in full. The film draws people in through beauty first and lets the words land second.</p>
+
+  <div class="grid2">
+    <div class="card"><h3>Tone</h3><p>Slow, warm, editorial. Long held frames, soft natural light, close crops on hands, feet, skin, smoke and water. Regal and abundant, never sorrowful.</p></div>
+    <div class="card"><h3>Old + New</h3><p>A fine <b>gold thread</b> line-art motif links people, plants and rhythm. It works as a quiet visual "science" layer: a heartbeat line syncing to a drum, a relationship web drawn between hands.</p></div>
+  </div>
+
+  <h2><span class="n">02</span> The real voice: Elder, Ghana</h2>
+  <p>From <em>"Connection + Relationships + Living a Peaceful Life."</em> His <b>own voice</b> plays straight after the first bold line, as living proof of it. This is about 12 seconds, so it doesn't take over the film.</p>
+  <div class="quote">
+    <q>"In my village, nobody builds a house with a wall surrounding it. There are no walls. From here I can see the next five, six, ten houses… we are each his brother's keeper."</q>
+    <div class="who">Elder, Ghana · Storied interview series</div>
+  </div>
+  <p><b>Treatment:</b> we open on AI-rendered details of his world: warm louvre-window light, carvings, framed photographs, his hands. Then the camera pushes into a <b>picture frame on his wall</b>, which becomes a window onto his real footage, graded warm and cropped close. This "living archive" frame becomes a repeatable device, so any future Storied interview can drop into the film the same way.</p>
+  <p class="sm">We will never generate an AI voice or an AI likeness of a real person. Real people are only seen and heard as themselves.</p>
+
+  <div class="foot"><span>Storied Global · No Walls</span><span>1 / 3</span></div>
+</section>
+
+<!-- PAGE 2 -->
+<section class="page">
+  <div class="brand"><b>Storied Global</b><span>Mini-Doc · Creative Brief · Milestone 1</span></div>
+
+  <h2><span class="n">03</span> 90-second structure</h2>
+  <table>
+    <tr><th>Time</th><th>Voice</th><th>Picture</th></tr>
+    <tr><td class="t">0:00</td><td class="vo">It's fascinating to see what survives when everything is designed to destroy it. Packed into ships. Written off as superstition. Called primitive. And still, it survived.</td><td>Night ocean, ship timber, light on water. Seeds held in palms and braided into hair. History told through symbol, never through suffering.</td></tr>
+    <tr><td class="t">0:14</td><td class="vo">Today we have every tool to be well, and we're still unravelling.</td><td>The "wall": glass towers, a lone figure lit by a screen. Cool, muted. The only cold moment in the film.</td></tr>
+    <tr><td class="t">0:20</td><td class="vo">Pan-African wellbeing runs on a different engine, refined across millennia. At its core: <span class="bold">optimal wellbeing is created through relationship.</span> With your body. Your community. The land. Your ancestors. Spirit, and meaning.</td><td>The wall dissolves into horizon. One gold-thread line per relationship: a hand on skin, a shared table, red earth, an elder's portrait, fire.</td></tr>
+    <tr><td class="t">0:36</td><td class="vo elder">ELDER (real voice): "There are no walls… we are each his brother's keeper."</td><td>Living-archive frame: AI details of his world, then his real footage.</td></tr>
+    <tr><td class="t">0:48</td><td class="vo">Because <span class="bold">illness isn't merely a biological glitch. It's a disruption in the wider relationships that sustain life.</span></td><td>Gold threads fray, then re-knot. Subtle typography lands the line on screen.</td></tr>
+    <tr><td class="t">0:56</td><td class="vo">So the medicine lives in everyday life. In kanna and bitter melon. In the kora and the mbira. In a whole room locking in to swag surf. In marula oil and red ochre. At the cookout, where elders, music and recipes gather the village.</td><td>The sensory peak. Rhythmic cuts on the beat: botanicals, strings, dancing shoulders, ochre on skin, smoke and laughter around a grill.</td></tr>
+    <tr><td class="t">1:14</td><td class="vo">Wellness was never meant to be carried alone.</td><td>Wide: a circle of people, golden hour.</td></tr>
+    <tr><td class="t">1:18</td><td class="vo">Maybe the real mystery isn't how these traditions survived. Maybe it's how a modern world so obsessed with living longer forgot how to actually be alive.</td><td>The elder's view from his door: open land, neighbours' houses. Fade to the Storied mark.</td></tr>
+  </table>
+  <p class="sm" style="margin-top:2mm">About 190 words in total, paced for 85–90 seconds. All wording is drawn from the approved script, and both bold lines are kept word for word.</p>
+
+  <h2><span class="n">04</span> AI approach</h2>
+  <div class="grid2">
+    <div>
+      <ul>
+        <li><b>Cinematic stills → motion:</b> AI image generation for hero frames, animated with image-to-video for slow camera moves (push-ins, drifting light, smoke, water).</li>
+        <li><b>Symbolic history:</b> AI is how we show the past (ships, seeds, ocean) with dignity, without staging suffering.</li>
+        <li><b>Gold-thread motif:</b> AI and motion graphics hand-off, so line art "grows" across real and generated shots.</li>
+      </ul>
+    </div>
+    <div>
+      <ul>
+        <li><b>Bridging real footage:</b> AI upscaling, relighting and grading bring the interview footage into the same palette.</li>
+        <li><b>9:16 version:</b> composed centre-safe from the start, then AI-assisted reframing so the Instagram cut is a true adaptation.</li>
+        <li><b>Cultural care:</b> sacred ceremonies (e.g. Ubulawu, Mwazindika) are suggested through elements like herbs, smoke and drum skins, never fabricated as AI "re-enactments."</li>
+      </ul>
+    </div>
+  </div>
+
+  <h2><span class="n">05</span> Music, sound &amp; mood</h2>
+  <p>The film is structured like breath: <b>sparse → swell → stillness → full</b>. It opens on low ocean texture and a single kora phrase. Mbira and soft percussion enter at "relationship." The score drops almost to silence under the elder so his voice sits on room tone and birdsong. Rhythm builds under the sensory montage, with a nod to the swag-surf groove, then resolves into warm strings, distant laughter and fire crackle. Every cue will be licensed or originally composed. Narration is warm, unhurried and intimate, never "announcer."</p>
+
+  <div class="foot"><span>Storied Global · No Walls</span><span>2 / 3</span></div>
+</section>
+
+<!-- PAGE 3 -->
+<section class="page">
+  <div class="brand"><b>Storied Global</b><span>Mini-Doc · Creative Brief · Milestone 1</span></div>
+
+  <h2><span class="n">06</span> Moodboard</h2>
+  <div class="mood">
+    <div class="frame"><div class="img" id="m1">Frame 01</div><div class="cap"><b>What survived</b>Seeds braided into hair, ocean light at night. Memory carried on the body.</div></div>
+    <div class="frame"><div class="img" id="m2">Frame 02</div><div class="cap"><b>The wall</b>Cool glass and concrete, a lone figure. The one cold moment.</div></div>
+    <div class="frame"><div class="img" id="m3">Frame 03</div><div class="cap"><b>No walls</b>Open compound at golden hour, neighbours' doorways in view.</div></div>
+    <div class="frame"><div class="img" id="m4">Frame 04</div><div class="cap"><b>Living archive</b>An elder's study: louvre light, carvings, framed photographs.</div></div>
+    <div class="frame"><div class="img" id="m5">Frame 05</div><div class="cap"><b>Rhythm</b>Hands on kora strings and mbira keys, dust in warm light.</div></div>
+    <div class="frame"><div class="img" id="m6">Frame 06</div><div class="cap"><b>Gathering</b>Smoke, laughter, a shared table. The cookout as ritual.</div></div>
+  </div>
+
+  <h2><span class="n">07</span> Palette &amp; type</h2>
+  <div class="swatches">
+    <div class="sw" style="background:#2B2118">UMBER</div>
+    <div class="sw" style="background:#B5652B">RED OCHRE</div>
+    <div class="sw" style="background:#8A7A43">STORIED OLIVE-GOLD</div>
+    <div class="sw" style="background:#D9C9A8;color:#2B2118">SAND</div>
+    <div class="sw" style="background:#26404A">ATLANTIC (opening only)</div>
+  </div>
+  <p class="sm" style="margin-top:2mm">On-screen type follows the Storied documents: bold uppercase sans-serif for statements and a light weight for supporting lines. Text appears sparingly, only for the bold lines and place names.</p>
+
+  <h2><span class="n">08</span> Visual references</h2>
+  <div class="refs">
+    <p><b>Daughters of the Dust</b> (Julie Dash): Gullah Lowcountry memory and ritual, painterly light, unhurried pace.</p>
+    <p><b>Kwame Brathwaite</b>, "Black Is Beautiful": regal, abundant, adorned portraiture.</p>
+    <p><b>Bradford Young</b>'s cinematography: low warm light, skin rendered with richness and depth.</p>
+    <p><b>Arthur Jafa</b>, <i>Love Is the Message</i>: rhythmic collage and the power of the cut on beat (reference for the montage only).</p>
+    <p><b>Kahlil Joseph</b>'s short films: dreamlike blending of archive, music and the present.</p>
+    <p><b>Storied's own documents:</b> stone, linen, warm shadow and quiet luxury.</p>
+  </div>
+
+  <h2><span class="n">09</span> Deliverables &amp; next steps</h2>
+  <ul>
+    <li>One edit, up to 90 seconds: <b>16:9 YouTube</b> master plus <b>9:16 Instagram</b> adaptation, with burned-in captions on the vertical version.</li>
+    <li>On approval: final narration lock → AI frame generation → edit and sound → review cut for your feedback → final delivery.</li>
+    <li><b>Questions for Storied:</b> (1) Can we name the elder on screen, and how should he be credited? (2) Do you have a preferred narrator voice (gender, accent), or should we propose options? (3) Could you share the original interview file for best audio quality?</li>
+  </ul>
+
+  <div class="foot"><span>Storied Global · No Walls</span><span>3 / 3</span></div>
+</section>
+
+</body>
+</html>
