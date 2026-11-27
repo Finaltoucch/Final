@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>No Walls — Creative Brief</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,500;1,400;1,500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,500;1,400;1,500&family=Caveat:wght@500;700&display=swap" rel="stylesheet">
 <style>
   :root{
     --sand:#F4EEE3; --paper:#FBF8F2; --umber:#2B2118; --ink:#3A3028;
@@ -62,6 +62,40 @@
   .refs p{ break-inside:avoid; }
   .foot{ position:absolute; bottom:8mm; left:17mm; right:17mm; display:flex; justify-content:space-between;
     font-size:7pt; letter-spacing:.14em; text-transform:uppercase; color:var(--muted); }
+
+  /* ---------- MOODBOARD ---------- */
+  .board{ background:
+      radial-gradient(circle at 20% 15%, rgba(255,255,255,.55), transparent 40%),
+      radial-gradient(circle at 80% 85%, rgba(138,122,67,.10), transparent 45%),
+      repeating-linear-gradient(0deg, rgba(43,33,24,.025) 0 1px, transparent 1px 3px),
+      repeating-linear-gradient(90deg, rgba(43,33,24,.02) 0 1px, transparent 1px 4px),
+      #EDE3D1; }
+  .board .brand{ position:relative; z-index:5; }
+  .board h2{ position:relative; z-index:5; margin-top:0; }
+  .hand{ font-family:"Caveat",cursive; color:var(--umber); }
+  .board .sub{ position:absolute; left:17mm; top:35.5mm; font-size:15pt; z-index:5; color:var(--ochre); }
+  .print{ position:absolute; background:#FFFDF8; padding:2.6mm 2.6mm 9mm; box-shadow:0 1.2mm 2.5mm rgba(43,33,24,.28), 0 0 0 .2mm rgba(43,33,24,.06); z-index:2; }
+  .print img{ display:block; width:100%; aspect-ratio:16/9; object-fit:cover; }
+  .print .cap{ position:absolute; left:3mm; right:3mm; bottom:1.2mm; font-family:"Caveat",cursive; font-size:12.5pt; line-height:1; color:var(--umber); white-space:nowrap; overflow:hidden; }
+  .print .cap b{ color:var(--ochre); font-weight:700; }
+  .tape{ position:absolute; width:22mm; height:6.5mm; background:rgba(232,220,190,.78); box-shadow:0 .3mm .6mm rgba(0,0,0,.08); z-index:3;
+     background-image:repeating-linear-gradient(90deg, rgba(255,255,255,.25) 0 1mm, transparent 1mm 2mm); }
+  .pin{ position:absolute; width:3.2mm; height:3.2mm; border-radius:50%; background:radial-gradient(circle at 35% 35%, #F1D98A, #A8852F 60%, #6B5216); box-shadow:0 .6mm .8mm rgba(0,0,0,.35); z-index:6; }
+  .thread{ position:absolute; inset:0; width:210mm; height:297mm; z-index:4; pointer-events:none; }
+  .phone{ position:absolute; background:#1C1713; border-radius:6mm; padding:2.2mm; box-shadow:0 1.5mm 3mm rgba(43,33,24,.35); z-index:2; }
+  .phone img{ display:block; width:100%; aspect-ratio:9/16; object-fit:cover; border-radius:4mm; }
+  .phone .notch{ position:absolute; top:3.4mm; left:50%; transform:translateX(-50%); width:11mm; height:2.2mm; border-radius:2mm; background:#1C1713; }
+  .phone .ui{ position:absolute; left:5mm; right:5mm; bottom:7mm; color:#fff; font-size:6pt; letter-spacing:.12em; text-transform:uppercase; font-weight:700; text-shadow:0 0 2mm rgba(0,0,0,.6); }
+  .phone .ui span{ display:block; font-family:"Cormorant Garamond",serif; font-style:italic; text-transform:none; letter-spacing:0; font-size:9pt; font-weight:500; margin-top:1mm; }
+  .label{ position:absolute; font-family:"Caveat",cursive; font-size:14pt; color:var(--ochre); z-index:5; line-height:1; }
+  .sticky{ position:absolute; background:#F3E2A9; padding:5mm 5mm 4mm; box-shadow:0 1.4mm 2.4mm rgba(43,33,24,.25); z-index:3; font-family:"Caveat",cursive; font-size:15pt; line-height:1.12; color:var(--umber); }
+  .sticky small{ display:block; margin-top:2.5mm; font-family:"Montserrat",sans-serif; font-size:6.2pt; letter-spacing:.16em; text-transform:uppercase; color:var(--olive); font-weight:700; }
+  .chip{ position:absolute; width:58mm; height:13mm; padding:1.6mm 2.4mm; display:flex; justify-content:space-between; align-items:flex-end; font-size:6.4pt; letter-spacing:.12em; font-weight:700; color:#fff; text-transform:uppercase; box-shadow:0 .8mm 1.6mm rgba(43,33,24,.25); z-index:2; }
+  .chip i{ font-style:normal; font-weight:500; opacity:.85; }
+  .scribble{ position:absolute; font-family:"Caveat",cursive; font-size:12.5pt; line-height:1.15; color:var(--umber); z-index:5; }
+  .board .foot{ z-index:5; }
+  .print .tag{ position:absolute; left:4.4mm; top:4.4mm; background:rgba(43,33,24,.82); background:var(--umber); color:#F4EEE3; font-family:"Montserrat",sans-serif; font-size:5.6pt; letter-spacing:.14em; text-transform:uppercase; font-weight:700; padding:.9mm 1.8mm; z-index:4; }
+
   @media screen{ body{ background:#e9e3d8; } .page{ margin:10mm auto; background:var(--paper); box-shadow:0 2px 20px rgba(0,0,0,.08);} }
   @media screen and (max-width:820px){ .page{ width:auto; min-height:0; margin:0; padding:16px; } .grid2,.mood{ grid-template-columns:1fr; } .refs{ columns:1; } .foot{ position:static; margin-top:16px; } td.t{ white-space:normal; } }
 </style>
@@ -93,7 +127,7 @@
   <p><b>Treatment:</b> we open on AI-rendered details of his world: warm louvre-window light, carvings, framed photographs, his hands. Then the camera pushes into a <b>picture frame on his wall</b>, which becomes a window onto his real footage, graded warm and cropped close. This "living archive" frame becomes a repeatable device, so any future Storied interview can drop into the film the same way.</p>
   <p class="sm">We will never generate an AI voice or an AI likeness of a real person. Real people are only seen and heard as themselves.</p>
 
-  <div class="foot"><span>Storied Global · No Walls</span><span>1 / 3</span></div>
+  <div class="foot"><span>Storied Global · No Walls</span><span>1 / 5</span></div>
 </section>
 
 <!-- PAGE 2 -->
@@ -135,24 +169,54 @@
   <h2><span class="n">05</span> Music, sound &amp; mood</h2>
   <p>The film is structured like breath: <b>sparse → swell → stillness → full</b>. It opens on low ocean texture and a single kora phrase. Mbira and soft percussion enter at "relationship." The score drops almost to silence under the elder so his voice sits on room tone and birdsong. Rhythm builds under the sensory montage, with a nod to the swag-surf groove, then resolves into warm strings, distant laughter and fire crackle. Every cue will be licensed or originally composed. Narration is warm, unhurried and intimate, never "announcer."</p>
 
-  <div class="foot"><span>Storied Global · No Walls</span><span>2 / 3</span></div>
+  <div class="foot"><span>Storied Global · No Walls</span><span>2 / 5</span></div>
 </section>
 
 <!-- PAGE 3 -->
+<section class="page board">
+  <div class="brand"><b>Storied Global</b><span>Mini-Doc · Creative Brief · Milestone 1</span></div>
+  <h2><span class="n">06</span> Moodboard I: the journey</h2>
+  <div class="sub hand">from walls… to open doors →</div>
+  <div class="print" style="left:14mm;top:46mm;width:96mm;transform:rotate(-2.5deg)"><img src="moodboard/f10.jpg" alt=""><div class="tag">heritage · close crop</div><div class="cap"><b>01</b> what survived: seeds braided into hair</div></div><div class="tape" style="left:50mm;top:43mm;transform:rotate(-6deg)"></div>
+  <div class="print" style="left:108mm;top:60mm;width:88mm;transform:rotate(3deg)"><img src="moodboard/f2.jpg" alt=""><div class="tag">the modern problem</div><div class="cap"><b>02</b> the wall: the only cold moment</div></div><div class="tape" style="left:140mm;top:57mm;transform:rotate(4deg)"></div>
+  <div class="print" style="left:14mm;top:124mm;width:120mm;transform:rotate(1.2deg)"><img src="moodboard/f21.jpg" alt=""><div class="tag">abundance · community</div><div class="cap"><b>03</b> no walls: open courtyards, open doors</div></div><div class="tape" style="left:62mm;top:121mm;transform:rotate(-3deg)"></div>
+  <div class="phone" style="left:143mm;top:126mm;width:48mm;transform:rotate(4deg)"><img src="moodboard/f24.jpg" alt=""><div class="notch"></div><div class="ui">Instagram · 9:16<span>"…forgot how to actually be alive."</span></div></div>
+  <div class="label" style="left:146mm;top:221mm;transform:rotate(3deg)">↑ same film, reframed 9:16<br>closing shot: the open door</div>
+  <div class="print" style="left:22mm;top:210mm;width:98mm;transform:rotate(-2deg)"><img src="moodboard/f22.jpg" alt=""><div class="tag">nostalgia · memory</div><div class="cap"><b>04</b> living archive: his real footage lives in these frames</div></div><div class="tape" style="left:60mm;top:207mm;transform:rotate(5deg)"></div>
+  <div class="sticky" style="left:132mm;top:238mm;width:62mm;transform:rotate(2.5deg)">"There are no walls… we are each his brother's keeper."<small>Elder, Ghana · real voice</small></div>
+  <svg class="thread" viewBox="0 0 210 297" preserveAspectRatio="none">
+    <path d="M60 74 C 95 82, 120 72, 152 86 S 120 140, 74 160 S 150 150, 168 170 S 110 230, 70 238 S 120 236, 137 240" fill="none" stroke="#B8923A" stroke-width=".55" stroke-linecap="round" opacity=".9"/>
+  </svg>
+  <div class="pin" style="left:58.4mm;top:72.4mm"></div><div class="pin" style="left:150.4mm;top:84.4mm"></div><div class="pin" style="left:72.4mm;top:158.4mm"></div><div class="pin" style="left:166.4mm;top:168.4mm"></div><div class="pin" style="left:68.4mm;top:236.4mm"></div><div class="pin" style="left:135.4mm;top:238.4mm"></div>
+  <div class="foot"><span>Storied Global · No Walls</span><span>3 / 5</span></div>
+</section>
+
+<!-- PAGE 4 -->
+<section class="page board">
+  <div class="brand"><b>Storied Global</b><span>Mini-Doc · Creative Brief · Milestone 1</span></div>
+  <h2><span class="n">07</span> Moodboard II: the practices</h2>
+  <div class="sub hand">ritual · healing · nourishment · body · rhythm</div>
+  <div class="print" style="left:14mm;top:44mm;width:86mm;transform:rotate(-2deg)"><img src="moodboard/f25.jpg" alt=""><div class="tag">rituals · nature</div><div class="cap">ritual: the river at dawn</div></div><div class="tape" style="left:42mm;top:41mm;transform:rotate(-4deg)"></div>
+  <div class="print" style="left:108mm;top:48mm;width:86mm;transform:rotate(2.2deg)"><img src="moodboard/f26.jpg" alt=""><div class="tag">heritage · fire · hands</div><div class="cap">traditional healing: the healer's craft</div></div><div class="tape" style="left:139mm;top:45mm;transform:rotate(5deg)"></div>
+  <div class="print" style="left:16mm;top:104mm;width:86mm;transform:rotate(1.6deg)"><img src="moodboard/f27.jpg" alt=""><div class="tag">plant medicine · foodways</div><div class="cap">nourishment: kanna, bitter melon, baobab</div></div><div class="tape" style="left:45mm;top:101mm;transform:rotate(-5deg)"></div>
+  <div class="print" style="left:108mm;top:108mm;width:86mm;transform:rotate(-2.5deg)"><img src="moodboard/f28.jpg" alt=""><div class="tag">luxury wellness</div><div class="cap">the body: marula oil &amp; shea, care given</div></div><div class="tape" style="left:139mm;top:105mm;transform:rotate(3deg)"></div>
+  <div class="print" style="left:14mm;top:164mm;width:86mm;transform:rotate(-1.5deg)"><img src="moodboard/f5.jpg" alt=""><div class="tag">sound · music</div><div class="cap">rhythm: the kora as medicine</div></div><div class="tape" style="left:43mm;top:161mm;transform:rotate(4deg)"></div>
+  <div class="print" style="left:108mm;top:168mm;width:86mm;transform:rotate(2deg)"><img src="moodboard/f8.jpg" alt=""><div class="tag">science, quietly</div><div class="cap">old meets new: notebook + diagram</div></div><div class="tape" style="left:139mm;top:165mm;transform:rotate(-4deg)"></div>
+  <div class="print" style="left:16mm;top:222mm;width:90mm;transform:rotate(1deg)"><img src="moodboard/f23.jpg" alt=""><div class="tag">connection · abundance</div><div class="cap">the gathering: generations at one table</div></div><div class="tape" style="left:50mm;top:219mm;transform:rotate(-3deg)"></div>
+  <div class="scribble" style="left:116mm;top:236mm;width:80mm;transform:rotate(-2deg);font-size:13pt">every frame = beauty, dignity,<br>abundance. never lack. ✓<br><span style="color:var(--muted);font-size:11pt">* AI concept stills (Higgsfield) setting light,<br>colour &amp; feeling, not final footage.</span></div>
+  <svg class="thread" viewBox="0 0 210 297" preserveAspectRatio="none">
+    <path d="M58 70 C 90 64, 120 88, 150 76 S 96 126, 60 130 S 130 126, 150 136 S 96 184, 58 190 S 130 190, 150 196 S 100 244, 62 248" fill="none" stroke="#B8923A" stroke-width=".55" stroke-linecap="round" opacity=".9"/>
+  </svg>
+  <div class="pin" style="left:56.4mm;top:68.4mm"></div><div class="pin" style="left:148.4mm;top:74.4mm"></div><div class="pin" style="left:58.4mm;top:128.4mm"></div><div class="pin" style="left:148.4mm;top:134.4mm"></div><div class="pin" style="left:56.4mm;top:188.4mm"></div><div class="pin" style="left:148.4mm;top:194.4mm"></div><div class="pin" style="left:60.4mm;top:246.4mm"></div>
+  
+  <div class="foot"><span>Storied Global · No Walls</span><span>4 / 5</span></div>
+</section>
+
+<!-- PAGE 5 -->
 <section class="page">
   <div class="brand"><b>Storied Global</b><span>Mini-Doc · Creative Brief · Milestone 1</span></div>
 
-  <h2><span class="n">06</span> Moodboard</h2>
-  <div class="mood">
-    <div class="frame"><div class="img" id="m1">Frame 01</div><div class="cap"><b>What survived</b>Seeds braided into hair, ocean light at night. Memory carried on the body.</div></div>
-    <div class="frame"><div class="img" id="m2">Frame 02</div><div class="cap"><b>The wall</b>Cool glass and concrete, a lone figure. The one cold moment.</div></div>
-    <div class="frame"><div class="img" id="m3">Frame 03</div><div class="cap"><b>No walls</b>Open compound at golden hour, neighbours' doorways in view.</div></div>
-    <div class="frame"><div class="img" id="m4">Frame 04</div><div class="cap"><b>Living archive</b>An elder's study: louvre light, carvings, framed photographs.</div></div>
-    <div class="frame"><div class="img" id="m5">Frame 05</div><div class="cap"><b>Rhythm</b>Hands on kora strings and mbira keys, dust in warm light.</div></div>
-    <div class="frame"><div class="img" id="m6">Frame 06</div><div class="cap"><b>Gathering</b>Smoke, laughter, a shared table. The cookout as ritual.</div></div>
-  </div>
-
-  <h2><span class="n">07</span> Palette &amp; type</h2>
+  <h2><span class="n">08</span> Palette &amp; type</h2>
   <div class="swatches">
     <div class="sw" style="background:#2B2118">UMBER</div>
     <div class="sw" style="background:#B5652B">RED OCHRE</div>
@@ -160,9 +224,9 @@
     <div class="sw" style="background:#D9C9A8;color:#2B2118">SAND</div>
     <div class="sw" style="background:#26404A">ATLANTIC (opening only)</div>
   </div>
-  <p class="sm" style="margin-top:2mm">On-screen type follows the Storied documents: bold uppercase sans-serif for statements and a light weight for supporting lines. Text appears sparingly, only for the bold lines and place names.</p>
+  <p class="sm" style="margin-top:2mm">On-screen type follows the Storied documents: bold uppercase sans-serif for statements, light weight for supporting lines. Text appears sparingly, only for the bold lines and place names.</p>
 
-  <h2><span class="n">08</span> Visual references</h2>
+  <h2><span class="n">09</span> Visual references</h2>
   <div class="refs">
     <p><b>Daughters of the Dust</b> (Julie Dash): Gullah Lowcountry memory and ritual, painterly light, unhurried pace.</p>
     <p><b>Kwame Brathwaite</b>, "Black Is Beautiful": regal, abundant, adorned portraiture.</p>
@@ -172,14 +236,25 @@
     <p><b>Storied's own documents:</b> stone, linen, warm shadow and quiet luxury.</p>
   </div>
 
-  <h2><span class="n">09</span> Deliverables &amp; next steps</h2>
+  <h2><span class="n">10</span> Deliverables &amp; next steps</h2>
   <ul>
     <li>One edit, up to 90 seconds: <b>16:9 YouTube</b> master plus <b>9:16 Instagram</b> adaptation, with burned-in captions on the vertical version.</li>
-    <li>On approval: final narration lock → AI frame generation → edit and sound → review cut for your feedback → final delivery.</li>
-    <li><b>Questions for Storied:</b> (1) Can we name the elder on screen, and how should he be credited? (2) Do you have a preferred narrator voice (gender, accent), or should we propose options? (3) Could you share the original interview file for best audio quality?</li>
+    <li>On approval: final narration lock → AI frame and motion generation → edit and sound design → review cut for your feedback → final delivery.</li>
   </ul>
 
-  <div class="foot"><span>Storied Global · No Walls</span><span>3 / 3</span></div>
+  <h2><span class="n">11</span> Questions for Storied</h2>
+  <ul>
+    <li>Can we name the elder on screen, and how should he be credited?</li>
+    <li>Do you have a preferred narrator voice (gender, accent), or should we propose options?</li>
+    <li>Could you share the original interview file so we can work from the best-quality audio?</li>
+  </ul>
+
+  <div class="quote" style="margin-top:6mm">
+    <q>"Maybe the real mystery isn't how traditions across the African diaspora survived. Maybe it's how a modern world so obsessed with living longer forgot how to actually be alive."</q>
+    <div class="who">The final line of the film</div>
+  </div>
+
+  <div class="foot"><span>Storied Global · No Walls</span><span>5 / 5</span></div>
 </section>
 
 </body>
