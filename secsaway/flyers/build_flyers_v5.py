@@ -47,7 +47,7 @@ F1 = f'''
   <img class="a" src="{img('61_rail.jpg')}" style="left:0;top:{oy}px;width:{W}px;height:{H}px">
   <div class="a" style="left:0;top:0;width:{lw}px;height:{lh:.1f}px;transform-origin:0 0;transform:{m1};opacity:.95">{lockup(lw, ORANGE, WHITE)}</div>
   <div class="a" style="left:0;top:1040px;width:{W}px;height:310px;background:linear-gradient(to bottom,rgba(255,255,255,0),#fff 42%)"></div>
-  <div class="a" style="left:0;top:52px;width:{W}px;display:flex;justify-content:center">{lockup(260, ORANGE, INKT)}</div>
+  <div class="a" style="left:0;top:52px;width:{W}px;display:flex;flex-direction:column;align-items:center">{lockup(260, ORANGE, INKT)}<div style="margin-top:12px;font-size:16px;font-weight:600;letter-spacing:.02em;color:#4A525B">We are seconds away from delivering your package</div></div>
   <div class="a" style="left:62px;top:150px">
     <div class="hl" style="font-size:136px;color:{INKT}">Never<br>go off<br>route.</div>
     <div style="width:96px;height:6px;background:{ORANGE};margin-top:34px"></div>
@@ -76,7 +76,7 @@ F2 = f'''
     <div style="width:64px;height:5px;background:{ORANGE};margin-top:40px"></div>
     <p style="font-size:26px;line-height:1.45;color:#2A2F35;margin-top:30px;width:520px">Warehousing you can see in real time, from receiving to dispatch.</p>
   </div>
-  <div class="a" style="left:66px;top:1226px">{lockup(270, ORANGE, NAVY)}</div>
+  <div class="a" style="left:66px;top:1206px">{lockup(270, ORANGE, NAVY)}<div style="margin-top:14px;font-size:19px;font-weight:600;color:#2A2F35">We are seconds away from delivering your package</div></div>
 </section>'''
 
 # ---------- 3. New month (Accentric layout) ----------
@@ -85,7 +85,7 @@ SWOOSH = (f'<svg width="330" height="34" viewBox="0 0 330 34"><path d="M6 14C90 
 F3 = f'''
 <section class="fl">
   <img class="a" src="{img('63_flatbed.jpg')}" style="left:0;top:0;width:{W}px;height:{H}px">
-  <div class="a" style="left:76px;top:78px;background:#fff;border:1.5px solid #DCE6F0;border-radius:12px;padding:18px 24px;box-shadow:0 6px 18px rgba(15,43,70,.10)">{lockup(200, ORANGE, NAVY)}</div>
+  <div class="a" style="left:76px;top:78px;background:#fff;border:1.5px solid #DCE6F0;border-radius:12px;padding:18px 24px;box-shadow:0 6px 18px rgba(15,43,70,.10)">{lockup(200, ORANGE, NAVY)}<div style="margin-top:9px;font-size:13px;font-weight:600;color:{NAVY};white-space:nowrap">We are seconds away from delivering your package</div></div>
   <div class="a" style="right:76px;top:94px;background:{NAVY};color:#fff;border-radius:30px;padding:11px 20px;font-size:16px;font-weight:600;display:flex;align-items:center;gap:10px">
     <span style="width:10px;height:10px;border-radius:5px;background:{ORANGE}"></span>Road · Sea · Air</div>
   <div class="a big" style="left:72px;top:230px;font-size:138px;color:{NAVY}">December<br>in Motion</div>
